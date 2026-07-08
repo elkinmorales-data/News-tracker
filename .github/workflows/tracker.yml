@@ -1,0 +1,41 @@
+name: Oil Tracker
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # cada 15 minutos (UTC)
+  workflow_dispatch: {}      # permite correrlo manualmente desde GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  run-tracker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tracker
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+        run: python tracker.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "oil-tracker-bot"
+          git config user.email "actions@github.com"
+          git add seen_articles.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: actualizar estado del tracker [skip ci]"
+          git push
+        continue-on-error: true
