@@ -1,9 +1,14 @@
-# Oil / Geopolitics News Tracker
+# Oil / Geopolitics & Fed Interest Rate News Tracker
 
-Monitorea noticias sobre el Estrecho de Ormuz, conflicto EEUU-Irán, tratados
-internacionales y eventos que afecten el precio del petróleo. Corre cada 15
-minutos vía GitHub Actions (gratis) y solo te envía un correo cuando detecta
-un evento **nuevo y relevante** (   razonado por DeepSeek, no solo por keywords).
+Monitorea dos temas críticos para tu inversión:
+
+1. **Petróleo/Geopolítica**: Noticias sobre Ormuz, conflicto EEUU-Irán, tratados
+   y eventos que afecten el precio del petróleo. Corre **cada 15 minutos**.
+2. **FED/Tasas de Interés**: Decisiones de la FED, actas FOMC, declaraciones
+   de Powell, datos macro (CPI, PCE, NFP). Corre **una vez al día a las 8am Colombia**.
+
+Ambos usan DeepSeek para razonar y solo te envían correo cuando detectan algo
+**nuevo y relevante** (no solo por keywords).
 
 ## Cómo funciona
 
@@ -22,8 +27,8 @@ un evento **nuevo y relevante** (   razonado por DeepSeek, no solo por keywords)
 ## Setup (una sola vez, ~10 min)
 
 ### 1. Crea un repo en GitHub
-Puede ser privado. Sube estos archivos (`tracker.py`, `requirements.txt`,
-`.github/workflows/tracker.yml`, este README).
+Puede ser privado. Sube estos archivos (`tracker.py`, `fed_tracker.py`, `requirements.txt`,
+`.github/workflows/tracker.yml`, `.github/workflows/fed_tracker.yml`, este README).
 
 ### 2. Consigue una API key de DeepSeek
 En https://platform.deepseek.com → API Keys → crea una.
@@ -91,3 +96,48 @@ Edita el diccionario `RSS_FEEDS`. Algunas notas:
 - No es "tiempo real" en el sentido de milisegundos — es cada 15 min, que
   para un evento macro (cierre de Ormuz, guerra, tregua) es más que
   suficiente ya que el mercado también tarda en reaccionar.
+
+---
+
+# Fed / Interest Rate Tracker
+
+Monitorea noticias sobre la Reserva Federal y tasas de interés de EE.UU.
+Corre una vez al día a las **8am Colombia** (13:00 UTC) y envía un **resumen
+diario consolidado** si hay algo relevante.
+
+## Cómo funciona (Fed Tracker)
+
+1. A las 8am Colombia, GitHub Actions ejecuta `fed_tracker.py`.
+2. El script lee RSS de fuentes confiables (Fed.gov, CNBC, MarketWatch,
+   Reuters, BLS, BEA).
+3. Filtra por keywords (federal reserve, FOMC, interest rate, Powell, CPI, etc.).
+4. Los candidatos nuevos se envían a DeepSeek junto con el historial.
+5. DeepSeek consolida TODO en un resumen diario: sentimiento (hawkish/dovish),
+   puntos clave y fuentes.
+6. Si hay algo relevante → te manda UN correo con el resumen del día.
+7. Si no hay nada → silencioso (no correo).
+
+## Fuentes RSS (Fed Tracker)
+
+| Fuente | Cobertura |
+|---|---|
+| Fed.gov - Monetary Policy | Actas FOMC, declaraciones oficiales |
+| Fed.gov - Speeches | Discursos de Powell y gobernadores |
+| CNBC Economy | Cobertura macro y Fed |
+| MarketWatch | Análisis de mercados y tasas |
+| Reuters Economy | Noticias económicas globales |
+| BLS (CPI/Empleo) | Datos de inflación y empleo |
+| BEA (GDP/PCE) | PIB e inflación PCE (la favorita de la FED) |
+
+## Ajustar el criterio (Fed Tracker)
+
+Edita el bloque `CRITERIA_MODERADO` en `fed_tracker.py`.
+
+## Cron (Fed Tracker)
+
+```yaml
+cron: "0 13 * * *"  # 13:00 UTC = 8:00am Colombia
+```
+
+Para probarlo manualmente: pestaña **Actions** → **Fed Tracker** →
+**Run workflow**.
