@@ -1,13 +1,16 @@
-# Oil / Geopolitics & Fed Interest Rate News Tracker
+# Oil / Geopolitics & Fed Interest Rate & Data Trends Tracker
 
-Monitorea dos temas críticos para tu inversión:
+Monitorea tres temas críticos:
 
 1. **Petróleo/Geopolítica**: Noticias sobre Ormuz, conflicto EEUU-Irán, tratados
    y eventos que afecten el precio del petróleo. Corre **cada 15 minutos**.
 2. **FED/Tasas de Interés**: Decisiones de la FED, actas FOMC, declaraciones
    de Powell, datos macro (CPI, PCE, NFP). Corre **una vez al día a las 8am Colombia**.
+3. **Data Science & Engineering**: Tendencias en data science, ML, data engineering,
+   analítica y nuevas herramientas. Corre **una vez al día a las 8am Colombia**.
+   Máximo 5 tendencias por correo, sin repetir ideas ya enviadas.
 
-Ambos usan DeepSeek para razonar y solo te envían correo cuando detectan algo
+Todos usan DeepSeek para razonar y solo te envían correo cuando detectan algo
 **nuevo y relevante** (no solo por keywords).
 
 ## Cómo funciona
@@ -140,4 +143,53 @@ cron: "0 13 * * *"  # 13:00 UTC = 8:00am Colombia
 ```
 
 Para probarlo manualmente: pestaña **Actions** → **Fed Tracker** →
+**Run workflow**.
+
+---
+
+# Data Science / Engineering Trends Tracker
+
+Monitorea tendencias en data science, machine learning, data engineering y
+analítica. Corre una vez al día a las **8am Colombia** (13:00 UTC) y envía un
+correo con **máximo 5 tendencias** si hay algo nuevo. No repite tendencias ya
+enviadas anteriormente.
+
+## Cómo funciona (Data Tracker)
+
+1. A las 8am Colombia, GitHub Actions ejecuta `data_tracker.py`.
+2. El script lee RSS de fuentes confiables (KDnuggets, Towards Data Science,
+   Data Engineering Weekly, Analytics Vidhya, Databricks, Google AI, etc.).
+3. Filtra por keywords (data science, ML, data engineering, LLM, Spark, etc.).
+4. Los candidatos nuevos se envían a DeepSeek junto con el historial de
+   tendencias ya reportadas.
+5. DeepSeek selecciona MÁXIMO 5 tendencias genuinamente NUEVAS (no repetidas
+   del historial) y las clasifica por categoría.
+6. Si hay al menos 1 tendencia nueva → te manda un correo con las tendencias
+   del día.
+7. Si no hay nada nuevo → silencioso (no correo).
+
+## Fuentes RSS (Data Tracker)
+
+| Fuente | Cobertura |
+|---|---|
+| KDnuggets | Data science, ML, herramientas |
+| Towards Data Science (Medium) | Artículos de practitioners |
+| Data Engineering Weekly | Data engineering, pipelines, infra |
+| Analytics Vidhya | ML, deep learning, data science |
+| Databricks Blog | Lakehouse, Spark, MLflow |
+| Google AI Blog | Investigación ML/DL |
+| Machine Learning Mastery | Tutoriales y técnicas avanzadas |
+| PyTorch Blog | Deep learning, investigación |
+
+## Ajustar el criterio (Data Tracker)
+
+Edita el bloque `CRITERIA_MODERADO` en `data_tracker.py`.
+
+## Cron (Data Tracker)
+
+```yaml
+cron: "0 13 * * *"  # 13:00 UTC = 8:00am Colombia
+```
+
+Para probarlo manualmente: pestaña **Actions** → **Data Trends Tracker** →
 **Run workflow**.

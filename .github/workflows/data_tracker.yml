@@ -1,0 +1,41 @@
+name: Data Trends Tracker
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # 13:00 UTC = 8:00am Colombia
+  workflow_dispatch: {}     # permite correrlo manualmente desde GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  run-data-tracker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run data tracker
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+        run: python data_tracker.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "data-tracker-bot"
+          git config user.email "actions@github.com"
+          git add seen_data_articles.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: actualizar estado del data tracker [skip ci]"
+          git push
+        continue-on-error: true
