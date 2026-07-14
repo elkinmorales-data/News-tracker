@@ -66,9 +66,12 @@
     "c8649d575d2ccc2efe71818904f5faf049f6f9765415a23f83c94f7952ebd882",
     "84bdabbc1b283375a7cfe796d50d5ffba7960466f992df0e4d6a99b22afae76e",
     "9793c822d516bdd1cfb4195b65eeaa4df2a1642a23683b0c6e916e49223c6524",
-    "8d29c3d7ad51ac271d250c61d9a318ee7053b0fbb5fdf8e6e6216b6b6c21ce6c"
+    "8d29c3d7ad51ac271d250c61d9a318ee7053b0fbb5fdf8e6e6216b6b6c21ce6c",
+    "da3ca011cbb463ff959c0c5837e2f1f81309f7160bbb2995cbfe1c6450342b30",
+    "a7ccf99cbf190a176c67b7d507877e9e180b2378e1f4542b92917d17cbed633c"
   ],
   "seen_summaries": [
-    "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG"
+    "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
+    "Comparativa RAGAS vs DeepEval vs Promptfoo para evaluación LLM | 12 estrategias de reducción de latencia y costos de inferencia LLM en producción"
   ]
 }
