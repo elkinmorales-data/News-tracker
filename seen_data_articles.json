@@ -68,10 +68,17 @@
     "9793c822d516bdd1cfb4195b65eeaa4df2a1642a23683b0c6e916e49223c6524",
     "8d29c3d7ad51ac271d250c61d9a318ee7053b0fbb5fdf8e6e6216b6b6c21ce6c",
     "da3ca011cbb463ff959c0c5837e2f1f81309f7160bbb2995cbfe1c6450342b30",
-    "a7ccf99cbf190a176c67b7d507877e9e180b2378e1f4542b92917d17cbed633c"
+    "a7ccf99cbf190a176c67b7d507877e9e180b2378e1f4542b92917d17cbed633c",
+    "eb6fa8f8e9eaba1d6b1e1bc662e756afb94ed56ef730f198a624c40137a894de",
+    "f0393b7b92e7f7d189150627538dfa9ef98ef8f30f78802346b161286db5e87c",
+    "8b354623950d55e0a5ad0bd9600c860dac207c649946b3679a825e50390228b1",
+    "b7e0b4af823a942634a66395785a75f752c6ecceda3826d13ec15f6ad6c47fff",
+    "a067ea0a57fed447a88105e02849568285f423fc94d89ec00142c6676f7852a7",
+    "875cd99505ffdca070a0aee340c6dae1928c4f8cdbf3890d2dcc36affd6b808b"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
-    "Comparativa RAGAS vs DeepEval vs Promptfoo para evaluación LLM | 12 estrategias de reducción de latencia y costos de inferencia LLM en producción"
+    "Comparativa RAGAS vs DeepEval vs Promptfoo para evaluación LLM | 12 estrategias de reducción de latencia y costos de inferencia LLM en producción",
+    "Triton Plugin Extensions para compiladores GPU custom | Frameworks Python para orquestar agentes AI locales | Scikit-Ollama para clasificación zero-shot local con scikit-learn | Ingeniería inversa del system prompt de Claude Fable 5"
   ]
 }
