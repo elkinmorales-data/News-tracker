@@ -77,11 +77,17 @@
     "875cd99505ffdca070a0aee340c6dae1928c4f8cdbf3890d2dcc36affd6b808b",
     "5c190c09a0beacc677d19707906aef9c7933c72098ec1bf185a2c009bd98b693",
     "90b314e7927964efcd495b6a29708f22d4f2a9e201fc8945576568a451561674",
-    "3a209636e6b091b0333936a0186cf8d59be0f1c8f2c6da1add632bef81acaa38"
+    "3a209636e6b091b0333936a0186cf8d59be0f1c8f2c6da1add632bef81acaa38",
+    "4e67e03d9888ceba672d552e5fa20eb7aff66539121faac8e366e3b10cd63674",
+    "04b5ec19d1bede78fb669426a3969f9ee20fa29b4fab73ce65d85257e445b3ad",
+    "ec60e36b544cc18e90cf2ff438a8913b87988f81f2c049b775e4e61bad49f43d",
+    "486d7c827ed60d369ee38667846360acf93d2fd55016929af27ed025e7afb37a",
+    "307ff1eb1c72f8916336532c82345759d6a6bf48e02fe7b9152bd921b421a6a9"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
     "Comparativa RAGAS vs DeepEval vs Promptfoo para evaluación LLM | 12 estrategias de reducción de latencia y costos de inferencia LLM en producción",
-    "Triton Plugin Extensions para compiladores GPU custom | Frameworks Python para orquestar agentes AI locales | Scikit-Ollama para clasificación zero-shot local con scikit-learn | Ingeniería inversa del system prompt de Claude Fable 5"
+    "Triton Plugin Extensions para compiladores GPU custom | Frameworks Python para orquestar agentes AI locales | Scikit-Ollama para clasificación zero-shot local con scikit-learn | Ingeniería inversa del system prompt de Claude Fable 5",
+    "Git Worktrees para desarrollo de IA | Seguridad en sistemas agentic AI contra inyección de prompts y mal uso de herramientas"
   ]
 }
