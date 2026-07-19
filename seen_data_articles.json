@@ -83,12 +83,15 @@
     "ec60e36b544cc18e90cf2ff438a8913b87988f81f2c049b775e4e61bad49f43d",
     "486d7c827ed60d369ee38667846360acf93d2fd55016929af27ed025e7afb37a",
     "307ff1eb1c72f8916336532c82345759d6a6bf48e02fe7b9152bd921b421a6a9",
-    "079ea361855ae9fa7e69622736a753e138405d49717431ffac83c8dda5832631"
+    "079ea361855ae9fa7e69622736a753e138405d49717431ffac83c8dda5832631",
+    "472b0f8b802d80d077812ffdd6837f2c3e5f68576c2ced4e6127376e74d45e58",
+    "86873bef4ecca379df59adda4c3b8b0fcc977653b46f72b91bf456d18e4db470"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
     "Comparativa RAGAS vs DeepEval vs Promptfoo para evaluación LLM | 12 estrategias de reducción de latencia y costos de inferencia LLM en producción",
     "Triton Plugin Extensions para compiladores GPU custom | Frameworks Python para orquestar agentes AI locales | Scikit-Ollama para clasificación zero-shot local con scikit-learn | Ingeniería inversa del system prompt de Claude Fable 5",
-    "Git Worktrees para desarrollo de IA | Seguridad en sistemas agentic AI contra inyección de prompts y mal uso de herramientas"
+    "Git Worktrees para desarrollo de IA | Seguridad en sistemas agentic AI contra inyección de prompts y mal uso de herramientas",
+    "Agentes como tendencia dominante en repositorios de IA julio 2026 | Agentes de código, pentesting y trading reemplazan papers como top repos"
   ]
 }
