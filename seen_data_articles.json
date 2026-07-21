@@ -90,7 +90,10 @@
     "48f43a6f6620d5da8f913a77a3d3868a3692fdc1a388d3e3a838e6ed893d0599",
     "c0ef20614b951c9ae393bfbdd2281bb9dbc1f7456b114b6e6bbac04d6a1f05c4",
     "26c76b82e4f2f2fce3f7f3dbfbc2244f7f25bfe3994cea9742e7cd604082a852",
-    "965310598fa5f8b8cd5fb565d750a7f386ce121980f0685e3632fae9bf38fadc"
+    "965310598fa5f8b8cd5fb565d750a7f386ce121980f0685e3632fae9bf38fadc",
+    "f4f5d288432a60721b8e6a1eeea7f4adb6c2d84e1875a77854b3950c3dc0282f",
+    "b525619358c0d6106adca15699c86d75917a3523eb957170e186a438e3b49929",
+    "dec28e0097e8527fadc6da3bbe24410645a5ccacaccc92d948a156686531e8ae"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -98,6 +101,7 @@
     "Triton Plugin Extensions para compiladores GPU custom | Frameworks Python para orquestar agentes AI locales | Scikit-Ollama para clasificación zero-shot local con scikit-learn | Ingeniería inversa del system prompt de Claude Fable 5",
     "Git Worktrees para desarrollo de IA | Seguridad en sistemas agentic AI contra inyección de prompts y mal uso de herramientas",
     "Agentes como tendencia dominante en repositorios de IA julio 2026 | Agentes de código, pentesting y trading reemplazan papers como top repos",
-    "Inkling modelo fundacional abierto 975B MoE 1M contexto | Claude Code configuración avanzada agentica alto rendimiento | Top 5 servidores MCP para desarrollo agentico"
+    "Inkling modelo fundacional abierto 975B MoE 1M contexto | Claude Code configuración avanzada agentica alto rendimiento | Top 5 servidores MCP para desarrollo agentico",
+    "Estado y evolución de arquitectura Agentic AI en 2026 | Ejecución local del modelo Qwythos-9B-Claude-Mythos-5-1M con llama.cpp y MTP speculative decoding para coding agent Pi"
   ]
 }
