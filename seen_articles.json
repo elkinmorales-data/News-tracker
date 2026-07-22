@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "1b83a90908258f7f937cea66feecbdfca571487146db4ae32d1931e4700d7628",
     "055e94128270a1c8675062a180c6b48529bfd6a4e14b0961545f0e0c6d8ea495",
     "c46a582764229e7f2b0de4eb97db1067ec62ca8ff367dc1142c9024c018bdd3d",
     "5bab5a75e8e1b6a6b04420211de2516e38210fb56e61018fdbbfca7348ea9a58",
@@ -496,7 +495,11 @@
     "ef56794453e678dbc7401c84141b0275e9c380861fdbb6fd7acdc099764f4f0b",
     "3ba3135a370605f59ce77f81d06851a5aeb5521f53f6d595cf0c5dfcb25459d6",
     "41d338cd9ca523c584f448d6b492b4430f7cb712ab04475481d21a7a7139aa88",
-    "8f9077ec4357c9fb7772645f095e5e18b10fd3a9fbaa5451aaa506974ff4d63b"
+    "8f9077ec4357c9fb7772645f095e5e18b10fd3a9fbaa5451aaa506974ff4d63b",
+    "ee22676632fdb009456b1c579767c9dabc3cd3b811faecb7dbb9e4e259976c6f",
+    "9843036801a9d968614f8d239f808ea69572e71ecd7baf3008c8e8c11976f995",
+    "1c78aebc2ecfeb5525c109bcc36a53e4a8ab6ff239ddda8574eb4656f2e04fe6",
+    "9e5920262a37611b09e5d59d7cf31f34866bb683d46b609179fab9e1658e1396"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -563,6 +566,7 @@
     "Undécima noche consecutiva de ataques de EE.UU. contra Irán; bombardeos se expanden a nuevas provincias iraníes no atacadas previamente, intensificando el conflicto y el bloqueo de Ormuz.",
     "Rubio descarta seriedad de Irán en negociaciones; petróleo sube 4% por fin de expectativas de tregua y continuidad del bloqueo en Ormuz.",
     "Hutíes amenazan con cerrar Bab el-Mandeb, bloqueando puerto saudí de Yanbu; petróleo sube 4% por riesgo de interrupción en dos estrechos simultáneamente.",
-    "Hutíes lanzan ataques con misiles y drones contra buques en el sur del Mar Rojo, cerrando Bab el-Mandeb y cortando flujo de crudo saudí a Asia, en escalada que duplica el riesgo sobre dos estrechos petroleros."
+    "Hutíes lanzan ataques con misiles y drones contra buques en el sur del Mar Rojo, cerrando Bab el-Mandeb y cortando flujo de crudo saudí a Asia, en escalada que duplica el riesgo sobre dos estrechos petroleros.",
+    "Trump amenaza con bombardear puentes y plantas de poder iraníes; Irán amenaza con atacar instalaciones energéticas con intereses de EE.UU., escalando riesgo sobre infraestructura petrolera."
   ]
 }
