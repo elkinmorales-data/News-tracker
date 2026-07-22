@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "4f7777394991f0f6bc33bbe5a38886b67d92300ecb7764ec9696b5e9ea8346c2",
-    "550bd4857932ace4a821bc7c213da0271f7fb2afa309e4e78d4142bd338b187a",
-    "aa6465e9c13936dbe8e2fb64ae1fae8bc6d5152c30bf8ebe179057014e8a7fe9",
     "49d8005d3eda1e6be941cddf10ced7200ea27ee0c0b028470df1b14c6f1387af",
     "fcaf3338b7aa48b997b5b0fb6732a951c9c48f1f507bf350abc71a652d8a1075",
     "a59bda9b1600e322b0de13a83e6768d95f340d1d8db5dc78d025ce7c2a6735a1",
@@ -499,7 +496,10 @@
     "81d7fc43e187c98b5efc1f1341890e7f50a682583a843e46e0a7351cf5ed41de",
     "f7a76f45c23c9576beb75dd076e2ddfadbe834b181c62ec92ee46744ae4e3238",
     "125d71890da6993c810de026d1aeb3f63743170529ed949136988a29bb3bed64",
-    "5508bf234a1d3d545e3d064a593d470c565ddfbb4e07cba5e0f80357331659dc"
+    "5508bf234a1d3d545e3d064a593d470c565ddfbb4e07cba5e0f80357331659dc",
+    "32bb37b2b3259d5c39169423702c916c2ba4a678579647f5b9ae5a67f8740f21",
+    "b5f5fed0cd132c5f0556cd92f7572a8f4cef5461ed309396b0bb667a4f8bb6f3",
+    "e2665b76d8129444fd830f7d4f8945bcf91d9a940b4c0eca9c1443997744c13e"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -567,6 +567,7 @@
     "Rubio descarta seriedad de Irán en negociaciones; petróleo sube 4% por fin de expectativas de tregua y continuidad del bloqueo en Ormuz.",
     "Hutíes amenazan con cerrar Bab el-Mandeb, bloqueando puerto saudí de Yanbu; petróleo sube 4% por riesgo de interrupción en dos estrechos simultáneamente.",
     "Hutíes lanzan ataques con misiles y drones contra buques en el sur del Mar Rojo, cerrando Bab el-Mandeb y cortando flujo de crudo saudí a Asia, en escalada que duplica el riesgo sobre dos estrechos petroleros.",
-    "Trump amenaza con bombardear puentes y plantas de poder iraníes; Irán amenaza con atacar instalaciones energéticas con intereses de EE.UU., escalando riesgo sobre infraestructura petrolera."
+    "Trump amenaza con bombardear puentes y plantas de poder iraníes; Irán amenaza con atacar instalaciones energéticas con intereses de EE.UU., escalando riesgo sobre infraestructura petrolera.",
+    "Hutíes declaran bloqueo total de puertos saudíes en el Mar Rojo, amenazando hasta 4 millones de bpd de crudo redirigido, sumando una nueva interrupción masiva al ya bloqueado estrecho de Ormuz."
   ]
 }
