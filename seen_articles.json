@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "a59bda9b1600e322b0de13a83e6768d95f340d1d8db5dc78d025ce7c2a6735a1",
-    "538c3060dec069c15cd51ec3333009f3e502eca33ee6989675408b3dcbc048df",
-    "ab7431f4c1a452b9c54f24ee18290f7c9334d2b211a6af72543d53fcafa9d7c5",
-    "80e0f380054468902b309548fab511e9a11f09eff9bcb9314e349b6f4d65b9b5",
     "a76ee5952ca09b63e895144873ba6eb797f51cf6a497517817a42069e613e1bf",
     "f1347c871ce128d902e256eeee2ee06b437af30b14eda3925afe45b713de0f39",
     "978f4524565da246f9065d324af494cf50cbba1761a81fbeb252912a41f7ceac",
@@ -499,7 +495,11 @@
     "b5f5fed0cd132c5f0556cd92f7572a8f4cef5461ed309396b0bb667a4f8bb6f3",
     "e2665b76d8129444fd830f7d4f8945bcf91d9a940b4c0eca9c1443997744c13e",
     "a78f8c8d14af47dafddc06a32a06803a86b6a0b75e3f096991402611963c753e",
-    "7b7c9d44b9691d2106a01303c37676b2225e6ded5ce761ee82eff9cd853a0a51"
+    "7b7c9d44b9691d2106a01303c37676b2225e6ded5ce761ee82eff9cd853a0a51",
+    "23566bf49e8e0fc8e5e5c035590e6789b8e15cc41c8399690697759f98609f23",
+    "edb0a0591bb40852aaf4274b93e3807b1c2cf3200def9f8536e319345851a452",
+    "ad348ce63babe23df9e5af321d4dbc20ba77c856f1a25fc222200b21bc62195a",
+    "a40e5c0287136e24a611a591de254867b2f893759ddbfa7077a6d78dbb7187e2"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -569,6 +569,7 @@
     "Hutíes lanzan ataques con misiles y drones contra buques en el sur del Mar Rojo, cerrando Bab el-Mandeb y cortando flujo de crudo saudí a Asia, en escalada que duplica el riesgo sobre dos estrechos petroleros.",
     "Trump amenaza con bombardear puentes y plantas de poder iraníes; Irán amenaza con atacar instalaciones energéticas con intereses de EE.UU., escalando riesgo sobre infraestructura petrolera.",
     "Hutíes declaran bloqueo total de puertos saudíes en el Mar Rojo, amenazando hasta 4 millones de bpd de crudo redirigido, sumando una nueva interrupción masiva al ya bloqueado estrecho de Ormuz.",
-    "Hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando la ejecución del bloqueo naval contra Arabia Saudí anunciado previamente."
+    "Hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando la ejecución del bloqueo naval contra Arabia Saudí anunciado previamente.",
+    "Duodécima noche de ataques de EE.UU. contra Irán con bombardeos en nuevas ciudades; hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando bloqueo naval contra Arabia Saudí."
   ]
 }
