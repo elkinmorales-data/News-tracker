@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "e48aa4c0c1ee1cb87a07356794ebfc688d14a753a0de8944227dc13fcf9b9cef",
-    "103e5b582e040127c9b01bdf09af0c2510e00753da92e3b41197f58f6273aa61",
-    "574d9769f2a8462481dfe2ad08c15e3f860c928a2d5f0e43d2c413a02441cdda",
     "2c1daa7c242ef08647b89770952f57479c217c03abca7217f4df4d992d2ce7aa",
     "8c0e24725da1761b42d2d14df8eefa4b537135374c07971941f10df60f1daba3",
     "22b920f4cecb7f31216b78e0c0ac2a916841060044984db767be5dcecc0f7631",
@@ -499,7 +496,10 @@
     "aca1b2b571d28496a53032b9497d6f2eda4637be86664bf7a18706acfec43996",
     "d65514a54e7231305169ab03025ec5ccac00ed03f62fa2a60891ea69941b7ca2",
     "f7ce3f9750f61ea237777957e0ef22cbbade111820cec4c944c24ef2e317662b",
-    "47a070b7d03dd7e1e833b98cd1ab11a1cf972412d61cab60122fcad0b65f99f2"
+    "47a070b7d03dd7e1e833b98cd1ab11a1cf972412d61cab60122fcad0b65f99f2",
+    "cb9748aa8d2cea83792e70494a1fbd1b71afe607a7426bbf05f91b97294eb964",
+    "1ce8464f0ec6caa07711c5ad1d0e0a2766e8607fca8c9a365c3d6a57ac96e548",
+    "8f98678010309e214bb1dc507811b1a71c16c083175c4c72e097dc47b3a74607"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -576,6 +576,7 @@
     "Los hutíes atacan petroleros en el Mar Rojo y el Brent supera los $98 por quinto día consecutivo, acercándose a $100, en medio de la continuación de los bombardeos de EE.UU. contra Irán y el bloqueo de Ormuz.",
     "Buques chinos cruzan Bab el-Mandeb desafiando bloqueo hutí; Rubio descarta negociación seria con Irán, perpetuando el conflicto y bloqueo de Ormuz.",
     "Brent supera $100 por ataques hutíes en Mar Rojo, ampliando crisis de Ormuz; primas de seguro se cuadruplican.",
-    "Brent supera $100 por ataques hutíes a petroleros saudíes en el Mar Rojo, confirmando bloqueo hutí en Bab el-Mandeb y sumando crisis en dos estrechos."
+    "Brent supera $100 por ataques hutíes a petroleros saudíes en el Mar Rojo, confirmando bloqueo hutí en Bab el-Mandeb y sumando crisis en dos estrechos.",
+    "Trump amenaza con los mayores ataques contra Irán mientras Irán ataca Bahréin, Kuwait y Jordania, perpetuando la escalada del conflicto y el bloqueo de Ormuz."
   ]
 }
