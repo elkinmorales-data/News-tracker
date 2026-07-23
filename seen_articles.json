@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "a76ee5952ca09b63e895144873ba6eb797f51cf6a497517817a42069e613e1bf",
     "f1347c871ce128d902e256eeee2ee06b437af30b14eda3925afe45b713de0f39",
     "978f4524565da246f9065d324af494cf50cbba1761a81fbeb252912a41f7ceac",
     "a096788e9e6097585730cbf3f56b2aede1aee01fb2041046e22dd851c5d8d212",
@@ -499,7 +498,8 @@
     "23566bf49e8e0fc8e5e5c035590e6789b8e15cc41c8399690697759f98609f23",
     "edb0a0591bb40852aaf4274b93e3807b1c2cf3200def9f8536e319345851a452",
     "ad348ce63babe23df9e5af321d4dbc20ba77c856f1a25fc222200b21bc62195a",
-    "a40e5c0287136e24a611a591de254867b2f893759ddbfa7077a6d78dbb7187e2"
+    "a40e5c0287136e24a611a591de254867b2f893759ddbfa7077a6d78dbb7187e2",
+    "8ce9260fd2d3c47ee1ce30d07504bc6fb9dbe48f7e979bbb00ab085195630444"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -570,6 +570,7 @@
     "Trump amenaza con bombardear puentes y plantas de poder iraníes; Irán amenaza con atacar instalaciones energéticas con intereses de EE.UU., escalando riesgo sobre infraestructura petrolera.",
     "Hutíes declaran bloqueo total de puertos saudíes en el Mar Rojo, amenazando hasta 4 millones de bpd de crudo redirigido, sumando una nueva interrupción masiva al ya bloqueado estrecho de Ormuz.",
     "Hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando la ejecución del bloqueo naval contra Arabia Saudí anunciado previamente.",
-    "Duodécima noche de ataques de EE.UU. contra Irán con bombardeos en nuevas ciudades; hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando bloqueo naval contra Arabia Saudí."
+    "Duodécima noche de ataques de EE.UU. contra Irán con bombardeos en nuevas ciudades; hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando bloqueo naval contra Arabia Saudí.",
+    "Brent supera $96 por duodécima noche de ataques EE.UU.-Irán y amenazas hutíes en Mar Rojo."
   ]
 }
