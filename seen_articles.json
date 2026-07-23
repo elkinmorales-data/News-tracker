@@ -1,17 +1,5 @@
 {
   "seen_hashes": [
-    "dbffa8ceba33fb971df70318cda17a41d0f5223ce86ed623b61b9399dd25f02f",
-    "3d79c99479e5ca8c140a29246863115561922de17805b42916b1b662f942af28",
-    "0a707e049c992d9b4c2bf3ffbac87fdf9b3743cdc3131dbd2ace01e126b69a0c",
-    "182b9cb1d77f3fc8d2d77814d8ece4a7e2e9f7bdffc4cb1684c1f9162d35c071",
-    "05fae2aa810dbf89b00229414b775ef64c4a650e0b2b3d4ce8aeee99451f2eaf",
-    "a54b1006be61864ec08b186a6abd969061e2dd48f3fc1cd89cf38b94f17e5781",
-    "0dd316661ae6f08aaac500abc1d92f1293bb25e00b420778258eb9985b95c3ab",
-    "2c1f49d3781e0f54db0704290bcfbe37b7f13743a30135dc1d73dd2792700f05",
-    "4f85c5c3836e375812a2eff4d02b9b73d0a68deff7135010102fbf5ce9210085",
-    "d2eee2dd0b7cde8ef95a18e69a6fa0775764aa9df47757028252557b72ea56b4",
-    "d27e2192c0295d97ebbe1d935c99cfe992ac1bd0fca291928bf6dd05e1ee4529",
-    "dfe51cf5fe092e015416340cc0c50f905da8fb762a10683bd68b845582db1dba",
     "725fb22659319ef066c25994544a18117c8d96cb5d484989823c7eb0b90f6e13",
     "4ef836b55253e7dd28603fa15c5a374812d3209e0a0c2a67cefedb87f1a8219a",
     "c310c4b6852bfcbc3e9e150b899adc9edb9e115df7edce1fe8eefb6f7d6718c7",
@@ -499,7 +487,19 @@
     "61975a4ad88d0fa1f373cb6715aef6e938830a60c786a23d21445d2c0c35914e",
     "e448e8d4b7cca3cc46d49f51e1126cba816a84fdce6915de063a848a18872d8d",
     "a8e38e85aeca6678de40261afe42146d306def5a10bbf508c624cab90596fc33",
-    "d36f1745d4dec95270ad6301a32f6862aadbfbb5cf62118f75c52f6b44f871f1"
+    "d36f1745d4dec95270ad6301a32f6862aadbfbb5cf62118f75c52f6b44f871f1",
+    "b56f99c9a35d5ade28683d8661e509c7d6eeee51436ea670d72b529d9fc4d02b",
+    "26fc98ec2d6ddabf2a37839abf1c7cf60dea2c88976391659b12f12707f1b2bb",
+    "2074c39c1bb17fcd7a1b4f03c205f38699ab987dd7d70dc0b749b209bfd0adcc",
+    "20ac8070f6d0b1b678a95d242c2e49751afe09b0fc798742e69e508d579112c9",
+    "33c1ac1f99481bd357a054f1e313ab6af2a94bfa02b269fadd4f9a079288a6cc",
+    "d0a44347be3208bd7e3a8c36c7dc82605612109691f44a91c719c8086a896245",
+    "5f3f280ee9d336ab78f5ae40ab567e140c7f1026fed67cce26668eb7a021edbc",
+    "b7f1bd3ce6111a86edc672f1272a5fb06da4b7336771508efd5733b4048f9e72",
+    "7d87a57283f928fc8e1465bc61a66e919e4e16b9d1a1319e586692e83c454932",
+    "e7610251207705a12084de381679454c63b3a4cbc6af4b472ed10427c0e369ef",
+    "351be7b7ac903d92bb64be1fecc83f6a04feaecf0e5954b0bd0d0b873b32325c",
+    "aac1c96c7b3dcf4cb52547f0b599671d5cabb387b7bbe595b6fb1cdcdaa05b6a"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -574,6 +574,7 @@
     "Brent supera $96 por duodécima noche de ataques EE.UU.-Irán y amenazas hutíes en Mar Rojo.",
     "Duodécima noche de ataques EE.UU.-Irán; hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando bloqueo naval saudí; crudo sube por riesgo en dos estrechos.",
     "Los hutíes atacan petroleros en el Mar Rojo y el Brent supera los $98 por quinto día consecutivo, acercándose a $100, en medio de la continuación de los bombardeos de EE.UU. contra Irán y el bloqueo de Ormuz.",
-    "Buques chinos cruzan Bab el-Mandeb desafiando bloqueo hutí; Rubio descarta negociación seria con Irán, perpetuando el conflicto y bloqueo de Ormuz."
+    "Buques chinos cruzan Bab el-Mandeb desafiando bloqueo hutí; Rubio descarta negociación seria con Irán, perpetuando el conflicto y bloqueo de Ormuz.",
+    "Brent supera $100 por ataques hutíes en Mar Rojo, ampliando crisis de Ormuz; primas de seguro se cuadruplican."
   ]
 }
