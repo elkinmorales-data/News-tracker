@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "fd5e4e97e9ba2b115bd5a4906bf93f72142178f502b87334673609fad1fe2495",
-    "d3cda385ebf2ede809c11d6adad3d6eaa54311d95e1b648cd677b6380be47fc6",
-    "841945f75d3d931ead8a570829206d6830e00e99990c42371696e2cfa0c50c9b",
-    "fa55136629fed6af72c5276a0c87ffc0688c271fbbfc8e079c8f0055e79be8be",
-    "1b67b21346e379fa14a7f1940696ce61f406792417344d2d8711be9726f650ff",
     "1163b9b267e5a19e3eda8b9375407ee83f37d54a2159d57a61e3589b1085c924",
     "3cc21a61081780b06d87eda31868e2d3d77bec3f9ff23f55e90b300ab35807ca",
     "fcd3545df0f7985d82da72ab2ec6ff7042c62e3236ca661c03981942e0d7c32d",
@@ -499,7 +494,12 @@
     "1d1f27d44e99fddf499bb51e4d5883eea2e5fb69cf00b70977131337cb77ae61",
     "92d411ec5df43bf962671ea7ca819f9787653cc84b8bfc7dc31f8048a4c0e795",
     "1f34f963d64986e582389c504d4b52ab5e830e808f12bc032a2b395f12c18ec3",
-    "b8db37803a373b26a8caba7cfeb099d4e9fcb6dffddf77cac86b597c083d0c69"
+    "b8db37803a373b26a8caba7cfeb099d4e9fcb6dffddf77cac86b597c083d0c69",
+    "e60f9eef380da56010684ad3f28d9f7bea0a7d2ac2d5f6208364b6fd683a64b6",
+    "dc3885b32497acca4bf0fcdba5c0a8ec8fc7426a7fe08f7cf52468c86b04bbe9",
+    "4023c4d73ba29bc8aa1eed6149306ef4fba09112b74796ae0c2f47d401d877a6",
+    "1af0c058747d6e3dd30fb6d9cddf8d673a5cc72a7ee10f5a629daa2cc69ed4b6",
+    "9898ecae9738965ba61dd4b3cebf5914d8adba1ff9a362aee799396a7c718566"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -572,6 +572,7 @@
     "Hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando la ejecución del bloqueo naval contra Arabia Saudí anunciado previamente.",
     "Duodécima noche de ataques de EE.UU. contra Irán con bombardeos en nuevas ciudades; hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando bloqueo naval contra Arabia Saudí.",
     "Brent supera $96 por duodécima noche de ataques EE.UU.-Irán y amenazas hutíes en Mar Rojo.",
-    "Duodécima noche de ataques EE.UU.-Irán; hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando bloqueo naval saudí; crudo sube por riesgo en dos estrechos."
+    "Duodécima noche de ataques EE.UU.-Irán; hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando bloqueo naval saudí; crudo sube por riesgo en dos estrechos.",
+    "Los hutíes atacan petroleros en el Mar Rojo y el Brent supera los $98 por quinto día consecutivo, acercándose a $100, en medio de la continuación de los bombardeos de EE.UU. contra Irán y el bloqueo de Ormuz."
   ]
 }
