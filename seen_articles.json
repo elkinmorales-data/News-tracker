@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "4a88815feaa05d3530d706f933197ec1c0b81c87be8155bab0b7acb3721fbc9f",
-    "46d15e8e33f6b3ae07589675cc5085d5679a094ce3a0f1714f66c8859da1e3bd",
-    "6ab8cf6fb5744f96eb3195997db28062addec3fb3ad8d0eeaee0206dc4681a89",
-    "ba044f914539bec79052bbac442ae6eeabc58c672fb6cfa13093be9b06747ba5",
-    "864dcddff4beaf299eb2acbaaef554c60e354c51794ef32bbec7b7fae4408383",
     "df106a008c352420fd0211295ab17efd8b7801c5427ac9185daebbc79db1e70f",
     "8dc5a70d3a7d603c53e7b0fba65655fd19d02d745fd754cb07ca3d63378280cf",
     "4f577abb348ce063b329eba068f2b9769d690ec21a4be74d73cdd6718b42ec73",
@@ -499,7 +494,12 @@
     "aac1c96c7b3dcf4cb52547f0b599671d5cabb387b7bbe595b6fb1cdcdaa05b6a",
     "94b9ccc11fe3edfd6bca8380dc7c0787772f988f4d53e0a09d07fee3b329ddbd",
     "c8a3f8b9a6ba8adbaf0235ac2978be8a795f475a4661865d52421db5ae44a4ff",
-    "b4664ed9465a575fe3aa2811657dd92daa5522c67082157dd2cff9d087a71a32"
+    "b4664ed9465a575fe3aa2811657dd92daa5522c67082157dd2cff9d087a71a32",
+    "435e9f7403042e7ec30e1d346b66c68928cb84eecc06ea01e83f4b7c800114ae",
+    "ea451924158863c4ad843c3d2c48172ca58cb98f802995840d1c259a3fcdab0b",
+    "5ccef56a4473d54114219a2007ed9a3544b2ea1b8dcc34d80d1b355bd32f8656",
+    "b214a802c326598db9ae3f297c051f5ef5c1766e50cf3f97050bd1d9a91a7600",
+    "709fba904d8637a383491bb493e8a9ba3c4224bb8cc5d9fbdff01bfef30d9480"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -575,6 +575,7 @@
     "Duodécima noche de ataques EE.UU.-Irán; hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando bloqueo naval saudí; crudo sube por riesgo en dos estrechos.",
     "Los hutíes atacan petroleros en el Mar Rojo y el Brent supera los $98 por quinto día consecutivo, acercándose a $100, en medio de la continuación de los bombardeos de EE.UU. contra Irán y el bloqueo de Ormuz.",
     "Buques chinos cruzan Bab el-Mandeb desafiando bloqueo hutí; Rubio descarta negociación seria con Irán, perpetuando el conflicto y bloqueo de Ormuz.",
-    "Brent supera $100 por ataques hutíes en Mar Rojo, ampliando crisis de Ormuz; primas de seguro se cuadruplican."
+    "Brent supera $100 por ataques hutíes en Mar Rojo, ampliando crisis de Ormuz; primas de seguro se cuadruplican.",
+    "Brent supera $100 por ataques hutíes a petroleros saudíes en el Mar Rojo, confirmando bloqueo hutí en Bab el-Mandeb y sumando crisis en dos estrechos."
   ]
 }
