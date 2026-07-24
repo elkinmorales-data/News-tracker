@@ -200,7 +200,7 @@ Tu tarea:
 Responde SOLO con el JSON, sin texto adicional."""
 
     resp = requests.post(
-        "https://api.deepseek.com/v1/chat/completions",
+        "https://api.deepseek.com/chat/completions",
         headers={
             "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
             "Content-Type": "application/json",
@@ -212,7 +212,9 @@ Responde SOLO con el JSON, sin texto adicional."""
         },
         timeout=60,
     )
-    resp.raise_for_status()
+    if not resp.ok:
+        print(f"[ERROR] DeepSeek respondió {resp.status_code}: {resp.text[:500]}")
+        return {"relevant": False}
     data = resp.json()
     text = data["choices"][0]["message"]["content"]
     text = text.strip().strip("`")
@@ -292,7 +294,10 @@ def main():
 
     if decision.get("relevant"):
         if GMAIL_USER and GMAIL_APP_PASSWORD:
-            send_email(decision)
+            try:
+                send_email(decision)
+            except Exception as e:
+                print(f"[ERROR] No se pudo enviar email: {e}")
         else:
             print("[WARN] Decisión relevante pero faltan credenciales de email.")
         summary = decision.get("new_summary_for_memory")
