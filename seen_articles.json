@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "2c1daa7c242ef08647b89770952f57479c217c03abca7217f4df4d992d2ce7aa",
-    "8c0e24725da1761b42d2d14df8eefa4b537135374c07971941f10df60f1daba3",
-    "22b920f4cecb7f31216b78e0c0ac2a916841060044984db767be5dcecc0f7631",
-    "39725dd28ab01e5cfe2768125ecf1f769991bbc8bd533b246d43f6a52c5a4541",
     "aee2e1654dc9e37124f21ff78b1acda7c364b43fdb8ce2e43fb2bbff866abbb7",
     "784a5989a767408ee171df2dd07175fa3ea71d3c44535dc53e4f2772399e3dc9",
     "15be8af870f67c0d45d1896086c2fd31eaea678cc2bbd97c3d0cd597c647f5c3",
@@ -499,7 +495,11 @@
     "47a070b7d03dd7e1e833b98cd1ab11a1cf972412d61cab60122fcad0b65f99f2",
     "cb9748aa8d2cea83792e70494a1fbd1b71afe607a7426bbf05f91b97294eb964",
     "1ce8464f0ec6caa07711c5ad1d0e0a2766e8607fca8c9a365c3d6a57ac96e548",
-    "8f98678010309e214bb1dc507811b1a71c16c083175c4c72e097dc47b3a74607"
+    "8f98678010309e214bb1dc507811b1a71c16c083175c4c72e097dc47b3a74607",
+    "c105c893da972426561492e9f2a84a6b9a002bb71587118d1d0971234f6d9e63",
+    "70a98bb5e9289cba71119c4c444b7a1deb08bc4d9bec8ff089c9d8ce2b56ffb3",
+    "41855997c3c4b72f0132639ae30b63f1c6a5da78177fd01d2e25519f7d9da248",
+    "34930a3b4afbeb6e85d1102f59fed025e5e1309271fc2f0bfc68fd7ed72529e5"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -577,6 +577,7 @@
     "Buques chinos cruzan Bab el-Mandeb desafiando bloqueo hutí; Rubio descarta negociación seria con Irán, perpetuando el conflicto y bloqueo de Ormuz.",
     "Brent supera $100 por ataques hutíes en Mar Rojo, ampliando crisis de Ormuz; primas de seguro se cuadruplican.",
     "Brent supera $100 por ataques hutíes a petroleros saudíes en el Mar Rojo, confirmando bloqueo hutí en Bab el-Mandeb y sumando crisis en dos estrechos.",
-    "Trump amenaza con los mayores ataques contra Irán mientras Irán ataca Bahréin, Kuwait y Jordania, perpetuando la escalada del conflicto y el bloqueo de Ormuz."
+    "Trump amenaza con los mayores ataques contra Irán mientras Irán ataca Bahréin, Kuwait y Jordania, perpetuando la escalada del conflicto y el bloqueo de Ormuz.",
+    "Trump dice que considera un ataque masivo contra Irán, escalando la retórica bélica al más alto nivel; conflicto y bloqueo de Ormuz continúan."
   ]
 }
