@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "8447b899f8f4afe6d94e76f80e0a241005d92463406188f3da1c8bf5629e9560",
-    "798fa4ca4394ce006201ac93d09d62e5cb0905da2621aa9a93724ef39d707690",
-    "427f7c78b7392c652053aba2a7440b00cefce7397095009794dedfc872582427",
     "aa5ceba2db31a3090508e0c3ae0a6a14976aeffaa8d79b8a5bf6bf468a076915",
     "323bfa3d6846cbaddaa5d1d8cb810cdea486e082e858a206e09703a4157eb028",
     "16361c74e20bef9efa850db2d5cd8c2a715651db67859d3c9b3ce29f9a4b6225",
@@ -499,7 +496,10 @@
     "a8b008973d27a8a1ef97c782202d8725f214ab09d77891d1bc93aa5bb9561715",
     "784a5989a767408ee171df2dd07175fa3ea71d3c44535dc53e4f2772399e3dc9",
     "044d4da5ba9c91d21d1865b1b3eb913fb17a5cb8deb41f4727334e462a000325",
-    "14930072a6ea487d6d170faf016b564488cadc3b273aee6c00358f4e40e0685e"
+    "14930072a6ea487d6d170faf016b564488cadc3b273aee6c00358f4e40e0685e",
+    "cf5b4197a05db5c63454a5bf811e9cd2fe84e923bb09f18702278169a86455bc",
+    "bd2fc7c3ccc30a0d7e631efd8d28496911155d2c0d4482af0fb88aecc201d3c7",
+    "0ad9549be5bdc4803b30846038423e8f605bdebe289ee61f5f27b4d491697a33"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -580,6 +580,7 @@
     "Trump amenaza con los mayores ataques contra Irán mientras Irán ataca Bahréin, Kuwait y Jordania, perpetuando la escalada del conflicto y el bloqueo de Ormuz.",
     "Trump dice que considera un ataque masivo contra Irán, escalando la retórica bélica al más alto nivel; conflicto y bloqueo de Ormuz continúan.",
     "EE.UU. lanza 13ª noche consecutiva de ataques contra Irán; Irán advierte escalada en el Golfo, perpetuando el bloqueo de Ormuz y la presión alcista sobre el petróleo.",
-    "Trump amenaza con castigo militar a Irán si hutíes atacan petroleros en Bab el-Mandeb, elevando riesgo geopolítico mientras Brent supera $100."
+    "Trump amenaza con castigo militar a Irán si hutíes atacan petroleros en Bab el-Mandeb, elevando riesgo geopolítico mientras Brent supera $100.",
+    "Decimotercera noche de ataques de EE.UU. contra Irán y caída del tráfico de petroleros en Ormuz a mínimo de dos meses, intensificando la crisis de suministro."
   ]
 }
