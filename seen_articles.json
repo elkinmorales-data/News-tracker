@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "58bc167e654767fa33533e01dcc776e6393cbc195085d6b6a6c8a47f63a4e693",
-    "6e53beafe687112b0feef3a07dc261e2b77a26b529fbcd9f2cf93551440d3c05",
     "a688b4fb110512dd95540cfaf3d35952b60ab6d1fd0e540f38180e7b0c82f68e",
     "4829352eabcd818c7d650cd888eaf35011d3fdb5dfd06e0e3d1928e03047e3be",
     "de9610e4a7a306e0f2f88c4e6faa9c3921b70063a61fd685d1d38cde5eac3858",
@@ -499,7 +497,9 @@
     "5a6779dc72fed9bbdc63a2197071ede7827573ff02c43a9f9027c098e0cc2463",
     "f1b42a8fe9e4f655d49320d216ee2f7a17086686f95ecc1b5c6b4642470eead5",
     "8c50391c13835302c470596024de6044f80ec7445922121887b0aa786246d685",
-    "701f8543219a76e38d5979f205cda752f1996de55963b888d28bd22ab6c7dc95"
+    "701f8543219a76e38d5979f205cda752f1996de55963b888d28bd22ab6c7dc95",
+    "4dc4c81744b8c7e16b3dfd88470f6f98c366c1c8510c2a3c785d34f8242ea7ea",
+    "bb8fadaf08275cded87c2277f58f42221e9e2eb8be787d19d5e6d35093846956"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -582,6 +582,7 @@
     "EE.UU. lanza 13ª noche consecutiva de ataques contra Irán; Irán advierte escalada en el Golfo, perpetuando el bloqueo de Ormuz y la presión alcista sobre el petróleo.",
     "Trump amenaza con castigo militar a Irán si hutíes atacan petroleros en Bab el-Mandeb, elevando riesgo geopolítico mientras Brent supera $100.",
     "Decimotercera noche de ataques de EE.UU. contra Irán y caída del tráfico de petroleros en Ormuz a mínimo de dos meses, intensificando la crisis de suministro.",
-    "Irán ataca bases militares de EE.UU. en Bahréin, Kuwait y Jordania, matando personal estadounidense, lo que lleva la guerra a una peligrosa nueva fase y empuja el petróleo sobre los 100 USD."
+    "Irán ataca bases militares de EE.UU. en Bahréin, Kuwait y Jordania, matando personal estadounidense, lo que lleva la guerra a una peligrosa nueva fase y empuja el petróleo sobre los 100 USD.",
+    "Cruces de petroleros por Ormuz caen a mínimo desde mayo (1 buque el jueves); petrolero saudí cruza Bab el-Mandeb en modo oscuro para evadir ataques hutíes."
   ]
 }
