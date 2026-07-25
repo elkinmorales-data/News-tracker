@@ -197,7 +197,7 @@ Tu tarea:
 Responde SOLO con el JSON, sin texto adicional."""
 
     resp = requests.post(
-        "https://api.deepseek.com/v1/chat/completions",
+        "https://api.deepseek.com/chat/completions",
         headers={
             "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
             "Content-Type": "application/json",
@@ -209,7 +209,9 @@ Responde SOLO con el JSON, sin texto adicional."""
         },
         timeout=60,
     )
-    resp.raise_for_status()
+    if not resp.ok:
+        print(f"[ERROR] DeepSeek respondió {resp.status_code}: {resp.text[:500]}")
+        return {"relevant": False}
     data = resp.json()
     text = data["choices"][0]["message"]["content"]
     text = text.strip().strip("`")
