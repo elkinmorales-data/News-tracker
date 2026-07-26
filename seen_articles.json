@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "4c6481f995824dcb9f1080b93030bbcda2b9f7ffb81573a16c13dfbc9f8bc44b",
-    "4e69df629c852ea673b0bfa1668d9e83df8225c99a41f8071c2f101abd75d1e8",
     "b10885c363a60bbb0344833653f9e5db59963fb9573398b31fd74099c1550a32",
     "fef3e5e9bba109182ce1f8a07f0931f2c6633a1530b2aa01b6119f209d72ad30",
     "fe9139ad74753c6f9b796b82945b4b0b46544c254202b841a2a87cbfd8a4a50d",
@@ -499,7 +497,9 @@
     "144c141dba5278602cb7465202510a047298998d502dd5469dea38ee12189e84",
     "3baf4193d030d317045fd23e7836c174d4f6625c4919b011e235952cf6d9b52c",
     "8caf5762ef632d9307cfab0f354d3b0382d25717f66a7884a37a2ec50c30d5e0",
-    "a4ad7181c9262223d4213493399239cc6c9c2acc27304767ec4c58fa697940f3"
+    "a4ad7181c9262223d4213493399239cc6c9c2acc27304767ec4c58fa697940f3",
+    "405a7474360fa2c49a14a834885087a5bcd0f459ffed9825103c7c90aa3c5337",
+    "6af9f2641e6f40b57f9b4b97c01e0a925a27e06e5955c86554cd1381de22be82"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -586,6 +586,7 @@
     "Cruces de petroleros por Ormuz caen a mínimo desde mayo (1 buque el jueves); petrolero saudí cruza Bab el-Mandeb en modo oscuro para evadir ataques hutíes.",
     "Ucrania ataca buques iraníes en el mar Caspio, expandiendo el conflicto y elevando el riesgo geopolítico sobre el petróleo.",
     "Ucrania ataca buque iraní en el mar Caspio, expandiendo el conflicto a una nueva región marítima clave para energía.",
-    "EE.UU. e Irán pausan ataques por segundo día consecutivo, marcando una tregua de facto que reduce el riesgo de bloqueo en el estrecho de Ormuz y presiona el crudo a la baja."
+    "EE.UU. e Irán pausan ataques por segundo día consecutivo, marcando una tregua de facto que reduce el riesgo de bloqueo en el estrecho de Ormuz y presiona el crudo a la baja.",
+    "Tregua EE.UU.-Irán colapsa; hutíes reanudan ataques a petroleros saudíes en Bab el-Mandeb, duplicando bloqueo en dos estrechos y elevando Brent sobre $100."
   ]
 }
