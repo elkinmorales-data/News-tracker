@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "e454f26a830f6e2c6e246dee65bb5ca3c7a799f1aabc1282d2722fd0261b2a70",
-    "eb506beacb68c1965c364b4821bdc3090e6629c85587f6f159295d010c7d7f80",
     "fc15d67d1dfae66088e210e5ed07339c5a41c041d02f8c68629e0fbb19c42905",
     "675a9e600384f84fae4c7804e59b728c388ff45891f29cbe355afec7d59dfbd0",
     "2a383ef817bdb1061649eb9b4d71c65ab5e3fb69bd525d832ec8134ca78c07f3",
@@ -499,7 +497,9 @@
     "7950032eb8a957747d75865e4b69176b7f24b5f34e85b6858c12a4a5c7a632d2",
     "48e59f6e8d8c0296700cb3abfff055e0817b769482cc4d99b587a5384947b2d4",
     "1681ec18ebac9647c3cdaebe945b3e27497648cf40ded249ad35f26175139a62",
-    "268bb3a3d65f84b12e50d5918d1181199971b8e56c587623632ccca5f0070bf6"
+    "268bb3a3d65f84b12e50d5918d1181199971b8e56c587623632ccca5f0070bf6",
+    "0991e186a928f91139b3202c20049c4595e3d6d10021469b5348d2ddbda5d3e3",
+    "a4915d2e54cde9cced04b9f557d9aace572aa5603d8f12f750bc6342e53f287d"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -587,6 +587,7 @@
     "Ucrania ataca buques iraníes en el mar Caspio, expandiendo el conflicto y elevando el riesgo geopolítico sobre el petróleo.",
     "Ucrania ataca buque iraní en el mar Caspio, expandiendo el conflicto a una nueva región marítima clave para energía.",
     "EE.UU. e Irán pausan ataques por segundo día consecutivo, marcando una tregua de facto que reduce el riesgo de bloqueo en el estrecho de Ormuz y presiona el crudo a la baja.",
-    "Tregua EE.UU.-Irán colapsa; hutíes reanudan ataques a petroleros saudíes en Bab el-Mandeb, duplicando bloqueo en dos estrechos y elevando Brent sobre $100."
+    "Tregua EE.UU.-Irán colapsa; hutíes reanudan ataques a petroleros saudíes en Bab el-Mandeb, duplicando bloqueo en dos estrechos y elevando Brent sobre $100.",
+    "Pakistan intenta mediar negociación nuclear EE.UU.-Irán con apoyo de China; Brent cae 4.4% a $96.36, pero Standard Chartered advierte que el mercado debe descontar dos estrechos bloqueados."
   ]
 }
