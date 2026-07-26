@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "c1d08119e38c2b05c6fed2f5391f32729ee3ed55ac960fde3988f07a00f785ab",
-    "ee53039d0fcc025c81426b480f8eca074dd25ee9e44c910d8139fdf411a9565c",
-    "eec03438bea883409aef68bf42c68b068226f7b6060ef626e0a4c065880df51d",
     "2718a8492619ed08a8f898cfb0b3ab85b6ab7341a30aabda454388ae88260cc2",
     "c67f9aa3df4df4969b707ca4957e8728f3a1370636d8d5179eb0d51d1e89da9f",
     "0f9b82244dc5327945e4b10eaa80e9908913df92fbc27329ebbf7fff00c3a2ce",
@@ -499,7 +496,10 @@
     "d82cabbde89e4764432ef3e342f6c6b6594261900f73eb2ba58f7c746731734c",
     "e5d885dec672d637a8f166daf573090ebb890eda6a17e6b9532059528d40fd7e",
     "96a1554fbde01876c1c702a2bb0edb6fc898f21268380ddcddbaa6806d66f630",
-    "bf3dc4d06e0cb356cb51397c1ad6b3d075eefc9077b334f3ac28ad52ecea381c"
+    "bf3dc4d06e0cb356cb51397c1ad6b3d075eefc9077b334f3ac28ad52ecea381c",
+    "cb35186447be176280e92ee99e424f7a4deac1f89f75a3c453d12ecf8786c440",
+    "678daa787073b71371bdedd873389945b55c1e57b4c06ede5321b80c6970df79",
+    "3dc086e84c0dc7ab8fdfe980a35dfe90c40886acf97e118f7a4fe7216e063efe"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -583,6 +583,7 @@
     "Trump amenaza con castigo militar a Irán si hutíes atacan petroleros en Bab el-Mandeb, elevando riesgo geopolítico mientras Brent supera $100.",
     "Decimotercera noche de ataques de EE.UU. contra Irán y caída del tráfico de petroleros en Ormuz a mínimo de dos meses, intensificando la crisis de suministro.",
     "Irán ataca bases militares de EE.UU. en Bahréin, Kuwait y Jordania, matando personal estadounidense, lo que lleva la guerra a una peligrosa nueva fase y empuja el petróleo sobre los 100 USD.",
-    "Cruces de petroleros por Ormuz caen a mínimo desde mayo (1 buque el jueves); petrolero saudí cruza Bab el-Mandeb en modo oscuro para evadir ataques hutíes."
+    "Cruces de petroleros por Ormuz caen a mínimo desde mayo (1 buque el jueves); petrolero saudí cruza Bab el-Mandeb en modo oscuro para evadir ataques hutíes.",
+    "Ucrania ataca buques iraníes en el mar Caspio, expandiendo el conflicto y elevando el riesgo geopolítico sobre el petróleo."
   ]
 }
