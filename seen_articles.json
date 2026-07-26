@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "b626527671bf615b8a7b08dab88561bb2a6934193790b7fac4cc15ff7e4ac867",
-    "70c6511865961fe5cd9a4c50d012f69c0b9d167d9336293c9389d175b96630d3",
     "4c6481f995824dcb9f1080b93030bbcda2b9f7ffb81573a16c13dfbc9f8bc44b",
     "4e69df629c852ea673b0bfa1668d9e83df8225c99a41f8071c2f101abd75d1e8",
     "b10885c363a60bbb0344833653f9e5db59963fb9573398b31fd74099c1550a32",
@@ -499,7 +497,9 @@
     "d1534b096a11376e15a1ff2bbaa1a705f20554cbb42e5b8113190bfd8113d852",
     "dd8f543d93c09c0f7916627a62db5a4e47da4cc94f02816c26ea1fa7168615cb",
     "144c141dba5278602cb7465202510a047298998d502dd5469dea38ee12189e84",
-    "3baf4193d030d317045fd23e7836c174d4f6625c4919b011e235952cf6d9b52c"
+    "3baf4193d030d317045fd23e7836c174d4f6625c4919b011e235952cf6d9b52c",
+    "8caf5762ef632d9307cfab0f354d3b0382d25717f66a7884a37a2ec50c30d5e0",
+    "a4ad7181c9262223d4213493399239cc6c9c2acc27304767ec4c58fa697940f3"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -585,6 +585,7 @@
     "Irán ataca bases militares de EE.UU. en Bahréin, Kuwait y Jordania, matando personal estadounidense, lo que lleva la guerra a una peligrosa nueva fase y empuja el petróleo sobre los 100 USD.",
     "Cruces de petroleros por Ormuz caen a mínimo desde mayo (1 buque el jueves); petrolero saudí cruza Bab el-Mandeb en modo oscuro para evadir ataques hutíes.",
     "Ucrania ataca buques iraníes en el mar Caspio, expandiendo el conflicto y elevando el riesgo geopolítico sobre el petróleo.",
-    "Ucrania ataca buque iraní en el mar Caspio, expandiendo el conflicto a una nueva región marítima clave para energía."
+    "Ucrania ataca buque iraní en el mar Caspio, expandiendo el conflicto a una nueva región marítima clave para energía.",
+    "EE.UU. e Irán pausan ataques por segundo día consecutivo, marcando una tregua de facto que reduce el riesgo de bloqueo en el estrecho de Ormuz y presiona el crudo a la baja."
   ]
 }
