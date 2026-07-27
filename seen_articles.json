@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "55b7a42cfecfbbb8a831d4ff95a1bd3ed6bd04f8df7eda4e19f69c7f490d0e48",
-    "1d76ab029b11726556b8de09a88ee67afed8bcc21eb4cbe82de0a03f6852265b",
-    "5d0015acac0bcc77d1d9376dbe7233fca82fa9661601aa90e66b6de7c416e19d",
-    "3d26d1a376866c00ee5bb31695bb03a55634cc349b0e99c2befb56c3d98ecd7d",
     "8443ca9a7450b6820d00fe819fa536ebbb3b62cd63b917eaa69f4d21d0f73234",
     "6af193a27df31747f0f48b17424410e6084487a0e411aa513e279785f9fa3dc4",
     "f599368106c529ae600110a2b66ce234eded7be8068aa621846cb199919b306a",
@@ -499,7 +495,11 @@
     "0d6f2ab1a6ff8110cef3bc8fcc36334da134f63c3aa0a45674dcff27a484cce8",
     "03d5c0bacb1d8f1b0eed3fda94f2618a30701101909f7f749a40ecbd254587bd",
     "44672e54823a8dddbd62cf7eea6cb36bf2f78777e34513285c3b3c0df4102f34",
-    "7f9e627e245d13a73158a8fe090ae75b8f5e125ca46e76ea556b2fe4e2d27327"
+    "7f9e627e245d13a73158a8fe090ae75b8f5e125ca46e76ea556b2fe4e2d27327",
+    "cb76b83c6000f40cac3b5ce08198aa63452648da029711cd9e028435537d86b5",
+    "d42413040590d94c7d7c49928837c4b08e6cdeb88c8fd3860cbf80a9adc22f29",
+    "81fe8784c548de06042a425f3ae818ae7b6dfce3b5eb51316e4b53983bbe684a",
+    "2c18bd0c853452c8a07c9619b641de018dde2863db42c31f3369c1a2dd147a36"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -591,6 +591,7 @@
     "Pakistan intenta mediar negociación nuclear EE.UU.-Irán con apoyo de China; Brent cae 4.4% a $96.36, pero Standard Chartered advierte que el mercado debe descontar dos estrechos bloqueados.",
     "EE.UU. e Irán acuerdan pausa de ataques; petróleo cae 5% por menor riesgo geopolítico.",
     "Mediadores reportan avances en negociaciones para alto el fuego EE.UU.-Irán; petróleo cae ~7% y gas europeo 8% por expectativas de fin de conflicto y reapertura de Ormuz.",
-    "Petrolero saudí desviado a ruta Suez por amenazas hutíes en Bab el-Mandeb, confirmando bloqueo activo sobre tráfico de crudo."
+    "Petrolero saudí desviado a ruta Suez por amenazas hutíes en Bab el-Mandeb, confirmando bloqueo activo sobre tráfico de crudo.",
+    "India MRPL prohíbe rutas de Ormuz y Mar Rojo en tender de crudo, evidenciando riesgo extremo de suministro."
   ]
 }
