@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "dd1cf40d538a8722dcdc05cded73ee8a3ed09cca09c9663d7233aa149d9efab4",
-    "8f438e139f1a6dd66acc5566a1d067014c653c2cdac4590ab3b4760088d459c7",
-    "0ec3832214017b58bce56d9f6d2613344e2647f0effc7bb65c1d84856d87b3d4",
-    "7454f2a2675385ddebba3f8b6788c7a5657eea9348b9284a59dd405f5fede711",
-    "634f8e3f0d658d85f9683b2e890b301aef31567e51f155d52f492cb9328d7de6",
     "464729d2c5db7948a9fd4c2903e16a0fc7dfa396c55859279cdf3f26c8f955d4",
     "47e5aa65f70f94c841e116643984491bdea50f0057a7d6b548a767d4e5bb4589",
     "7faa1242008b52ecf3ca2bdb7bfffb87d05fada8e640de57151b7b34623e7124",
@@ -499,7 +494,12 @@
     "4dd797b90671b4190979fd432951148f964b4d1b13b0787452569aaefa4be728",
     "0f5da5e1833ba04700a4cb18078e44de0d6462f895baec8f9f8e460aeb6a6b3d",
     "d70570b8ce14adaac050525d019da73fae5ab30f634273afc9587371ae1b73bd",
-    "de9a4aede741f5a7d5a9fa1dc443a363feb2c687d7a9d1f8191d97523852932c"
+    "de9a4aede741f5a7d5a9fa1dc443a363feb2c687d7a9d1f8191d97523852932c",
+    "eae0712e54dfe2858d401229f4e6330526517f438a350f517a631cc4b3290f4a",
+    "6d595e94eccab99ca4bf80f8076040552e7f844a0b3b7b87def64d54330cbbb6",
+    "0c8febdfd13ddd364daffb1a79cb3b6b2897323fc9d76afb5ade7c7c0f919e47",
+    "68755669b34bb9f481c87cd1b502ee6b03ba015f6f836b92fb8198beec6645d5",
+    "5dc0ecb403c82f8472467334ecc940f8387c7c5617c3a0c90b43e2bdda1c211f"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -592,6 +592,7 @@
     "EE.UU. e Irán acuerdan pausa de ataques; petróleo cae 5% por menor riesgo geopolítico.",
     "Mediadores reportan avances en negociaciones para alto el fuego EE.UU.-Irán; petróleo cae ~7% y gas europeo 8% por expectativas de fin de conflicto y reapertura de Ormuz.",
     "Petrolero saudí desviado a ruta Suez por amenazas hutíes en Bab el-Mandeb, confirmando bloqueo activo sobre tráfico de crudo.",
-    "India MRPL prohíbe rutas de Ormuz y Mar Rojo en tender de crudo, evidenciando riesgo extremo de suministro."
+    "India MRPL prohíbe rutas de Ormuz y Mar Rojo en tender de crudo, evidenciando riesgo extremo de suministro.",
+    "Arabia Saudí repele ataques con drones de grupos respaldados por Irán, expandiendo el conflicto directo a su territorio y elevando el riesgo sobre infraestructura petrolera."
   ]
 }
