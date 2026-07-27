@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "af50b29a72a844846fa7cae6349467a93f959812573b80b52bbdefcfe6f33284",
-    "dd701737187a547610e84dce812172cd89bc7d923c1f6d31196752f96efd5f2f",
-    "9f46c025b4c80e090cd802a393a0a785fa3e91ac1110c937b8ab3b5e52cc9477",
     "55b7a42cfecfbbb8a831d4ff95a1bd3ed6bd04f8df7eda4e19f69c7f490d0e48",
     "1d76ab029b11726556b8de09a88ee67afed8bcc21eb4cbe82de0a03f6852265b",
     "5d0015acac0bcc77d1d9376dbe7233fca82fa9661601aa90e66b6de7c416e19d",
@@ -499,7 +496,10 @@
     "3cd6bfb26f881dd0f3e51010ec73d81f90529ff41b918152586eeac1ffb0b7b6",
     "5c314fd5184f9c1519587567b02992ce2629d7af93d948406334ff27722eb7e6",
     "d3dd7260e85c33d9c459e54a355400fcee7fb64281431a439deca0e108e414ee",
-    "0d6f2ab1a6ff8110cef3bc8fcc36334da134f63c3aa0a45674dcff27a484cce8"
+    "0d6f2ab1a6ff8110cef3bc8fcc36334da134f63c3aa0a45674dcff27a484cce8",
+    "03d5c0bacb1d8f1b0eed3fda94f2618a30701101909f7f749a40ecbd254587bd",
+    "44672e54823a8dddbd62cf7eea6cb36bf2f78777e34513285c3b3c0df4102f34",
+    "7f9e627e245d13a73158a8fe090ae75b8f5e125ca46e76ea556b2fe4e2d27327"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -590,6 +590,7 @@
     "Tregua EE.UU.-Irán colapsa; hutíes reanudan ataques a petroleros saudíes en Bab el-Mandeb, duplicando bloqueo en dos estrechos y elevando Brent sobre $100.",
     "Pakistan intenta mediar negociación nuclear EE.UU.-Irán con apoyo de China; Brent cae 4.4% a $96.36, pero Standard Chartered advierte que el mercado debe descontar dos estrechos bloqueados.",
     "EE.UU. e Irán acuerdan pausa de ataques; petróleo cae 5% por menor riesgo geopolítico.",
-    "Mediadores reportan avances en negociaciones para alto el fuego EE.UU.-Irán; petróleo cae ~7% y gas europeo 8% por expectativas de fin de conflicto y reapertura de Ormuz."
+    "Mediadores reportan avances en negociaciones para alto el fuego EE.UU.-Irán; petróleo cae ~7% y gas europeo 8% por expectativas de fin de conflicto y reapertura de Ormuz.",
+    "Petrolero saudí desviado a ruta Suez por amenazas hutíes en Bab el-Mandeb, confirmando bloqueo activo sobre tráfico de crudo."
   ]
 }
