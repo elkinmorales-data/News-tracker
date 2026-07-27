@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "7c1f98ddd9d0b4dcf067ae6808e816d791e36549446a4d8b1bb4a32f38f56869",
-    "417695bc5de9e3c0e13ac8cfe68aa91f293aec1e606337fe14e04fc43f8ad5b7",
-    "93efb245ebcc719f213a0424271dfce3b1d57877a79cac6c2e202936dffde8d8",
-    "7c260b97844bfcde996c05fb9263065b67cb0217db148330334776c3bc27fdc3",
-    "3e3a1dff3529acb073dc6dbb720a64832c4f85acc9ea22af7600ab09dcf02e5e",
-    "63a3e9a79e9d86c37f1d52cb9bb0a3a4df1903ee0b443437ab27c44232a4c9ff",
-    "ee70d5c11f32f41f3402098622433f758f61c0804048f230da07f456bac2f109",
     "af50b29a72a844846fa7cae6349467a93f959812573b80b52bbdefcfe6f33284",
     "dd701737187a547610e84dce812172cd89bc7d923c1f6d31196752f96efd5f2f",
     "9f46c025b4c80e090cd802a393a0a785fa3e91ac1110c937b8ab3b5e52cc9477",
@@ -499,7 +492,14 @@
     "fefbadf06287a651ba140bdc3c752b1b5c34fe864bc354e11e977300b73c9d14",
     "2b54410c4204ea47c74529547cbb39f5da941b5987aa007a20088e1a4c4d02f6",
     "ec8b3bcd49331fc888c9b1d65575637e331d5f24731ad220d92e1328365ad43c",
-    "399962d62556b07ae91a9290ff13bbf4d2753b86bcaaf961941e00adeecb7fbc"
+    "399962d62556b07ae91a9290ff13bbf4d2753b86bcaaf961941e00adeecb7fbc",
+    "e0fb6ec9a2a5d81c93bd78026d281be068eb0012296be908271fb494f5db8d14",
+    "20c765d024cd24c29632dbd5b9cdd61a8028a4ce1d78f5dad82e39e78e4d6d6a",
+    "d452c0e8875a8c89dbc7b4371fd003936f0b895b72c607b725ad6b30c862d719",
+    "3cd6bfb26f881dd0f3e51010ec73d81f90529ff41b918152586eeac1ffb0b7b6",
+    "5c314fd5184f9c1519587567b02992ce2629d7af93d948406334ff27722eb7e6",
+    "d3dd7260e85c33d9c459e54a355400fcee7fb64281431a439deca0e108e414ee",
+    "0d6f2ab1a6ff8110cef3bc8fcc36334da134f63c3aa0a45674dcff27a484cce8"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -589,6 +589,7 @@
     "EE.UU. e Irán pausan ataques por segundo día consecutivo, marcando una tregua de facto que reduce el riesgo de bloqueo en el estrecho de Ormuz y presiona el crudo a la baja.",
     "Tregua EE.UU.-Irán colapsa; hutíes reanudan ataques a petroleros saudíes en Bab el-Mandeb, duplicando bloqueo en dos estrechos y elevando Brent sobre $100.",
     "Pakistan intenta mediar negociación nuclear EE.UU.-Irán con apoyo de China; Brent cae 4.4% a $96.36, pero Standard Chartered advierte que el mercado debe descontar dos estrechos bloqueados.",
-    "EE.UU. e Irán acuerdan pausa de ataques; petróleo cae 5% por menor riesgo geopolítico."
+    "EE.UU. e Irán acuerdan pausa de ataques; petróleo cae 5% por menor riesgo geopolítico.",
+    "Mediadores reportan avances en negociaciones para alto el fuego EE.UU.-Irán; petróleo cae ~7% y gas europeo 8% por expectativas de fin de conflicto y reapertura de Ormuz."
   ]
 }
