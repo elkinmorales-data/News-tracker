@@ -110,7 +110,12 @@
     "3ddb5837ba2e2457951f4b3c08c92a63d1c4c88e2a4af7ab0b8dd58286d19dfc",
     "35c7bcd3cdd0ff952ee60ae6098f1581d53beac13bc268be13210ebfaa5da34f",
     "a45cf33789249fa668aba8e987dbb7bc97a62423c8de82d97d4f4e5e9e32299b",
-    "af157df6bd7acd39ada73e0618a64014c34f5a5431a58693d86241bf7ecae0fd"
+    "af157df6bd7acd39ada73e0618a64014c34f5a5431a58693d86241bf7ecae0fd",
+    "871b78b29b901e8b8bfd9d31a2ea74da8b9654f39b6a282ee8dd0ca63183f97f",
+    "6c4b93c593bb5d881ff723ab6a3a0c86f05558e5f6cd9ceba7ecc2cdda24f879",
+    "9c11353fbd6975877661a23b0ea139346db608c831c8225ec9931efea1f0d80d",
+    "fc6f8685bb293fbfe8e0a003fb3fccff67f8df4cb9a1e91809ccad701e94d1c1",
+    "a076653b98d5ff1124b6f4844d285cf3b91242180690891c3315600eda18e0c4"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -122,6 +127,7 @@
     "Estado y evolución de arquitectura Agentic AI en 2026 | Ejecución local del modelo Qwythos-9B-Claude-Mythos-5-1M con llama.cpp y MTP speculative decoding para coding agent Pi",
     "OmniVoice-Studio suite local de clonación de voz y doblaje sin API | Técnicas de compresión de prompts para reducir costos de inferencia LLM",
     "GraphEval evaluación alucinaciones LLM con grafos | Helion on TPU kernel authoring heterogéneo PyTorch Pallas | Grok Build CLI vs Claude Code comparativa agentes de codificación | Stateful vs Stateless diseño de agentes para escalabilidad agentic AI",
-    "AI Red-Teaming con Garak para auditorías de seguridad en agentes autónomos"
+    "AI Red-Teaming con Garak para auditorías de seguridad en agentes autónomos",
+    "Patrones arquitectónicos para memoria persistente en agentes AI | Claude Opus 5 con inteligencia ajustable cerca del frontier | Comparativa KimiClaw vs OpenClaw agentes cloud vs self-hosted"
   ]
 }
