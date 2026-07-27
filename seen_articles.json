@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "fc15d67d1dfae66088e210e5ed07339c5a41c041d02f8c68629e0fbb19c42905",
-    "675a9e600384f84fae4c7804e59b728c388ff45891f29cbe355afec7d59dfbd0",
-    "2a383ef817bdb1061649eb9b4d71c65ab5e3fb69bd525d832ec8134ca78c07f3",
-    "1385dfc7f4f4056abc9a9710bc879180cfdffa026b6f1727dd3bc6afcec5257c",
     "1eb9d05b787ff6d17b7dbc40d8560987d0bd4362d5f0fb9a38e7086d350fb93b",
     "11b0639a14b5ef0a2984fdc7d9519b40b028f1704fb6333ef7e7b43b4d04f7d6",
     "7c1f98ddd9d0b4dcf067ae6808e816d791e36549446a4d8b1bb4a32f38f56869",
@@ -499,7 +495,11 @@
     "1681ec18ebac9647c3cdaebe945b3e27497648cf40ded249ad35f26175139a62",
     "268bb3a3d65f84b12e50d5918d1181199971b8e56c587623632ccca5f0070bf6",
     "0991e186a928f91139b3202c20049c4595e3d6d10021469b5348d2ddbda5d3e3",
-    "a4915d2e54cde9cced04b9f557d9aace572aa5603d8f12f750bc6342e53f287d"
+    "a4915d2e54cde9cced04b9f557d9aace572aa5603d8f12f750bc6342e53f287d",
+    "a300bd191c49d3a40145083f19891488c238824f92dd42b801b64c738ea74249",
+    "fa42a6ee0214b3275534cb807de50b06f6970d7ba7198218aa9eb12aecf0b06a",
+    "fefbadf06287a651ba140bdc3c752b1b5c34fe864bc354e11e977300b73c9d14",
+    "2b54410c4204ea47c74529547cbb39f5da941b5987aa007a20088e1a4c4d02f6"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -588,6 +588,7 @@
     "Ucrania ataca buque iraní en el mar Caspio, expandiendo el conflicto a una nueva región marítima clave para energía.",
     "EE.UU. e Irán pausan ataques por segundo día consecutivo, marcando una tregua de facto que reduce el riesgo de bloqueo en el estrecho de Ormuz y presiona el crudo a la baja.",
     "Tregua EE.UU.-Irán colapsa; hutíes reanudan ataques a petroleros saudíes en Bab el-Mandeb, duplicando bloqueo en dos estrechos y elevando Brent sobre $100.",
-    "Pakistan intenta mediar negociación nuclear EE.UU.-Irán con apoyo de China; Brent cae 4.4% a $96.36, pero Standard Chartered advierte que el mercado debe descontar dos estrechos bloqueados."
+    "Pakistan intenta mediar negociación nuclear EE.UU.-Irán con apoyo de China; Brent cae 4.4% a $96.36, pero Standard Chartered advierte que el mercado debe descontar dos estrechos bloqueados.",
+    "EE.UU. e Irán acuerdan pausa de ataques; petróleo cae 5% por menor riesgo geopolítico."
   ]
 }
