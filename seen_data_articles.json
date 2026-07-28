@@ -115,7 +115,9 @@
     "6c4b93c593bb5d881ff723ab6a3a0c86f05558e5f6cd9ceba7ecc2cdda24f879",
     "9c11353fbd6975877661a23b0ea139346db608c831c8225ec9931efea1f0d80d",
     "fc6f8685bb293fbfe8e0a003fb3fccff67f8df4cb9a1e91809ccad701e94d1c1",
-    "a076653b98d5ff1124b6f4844d285cf3b91242180690891c3315600eda18e0c4"
+    "a076653b98d5ff1124b6f4844d285cf3b91242180690891c3315600eda18e0c4",
+    "5ed1bb585556adf7d8a6a1cf339643c4aa23973b248359e51cd4b825a60e8521",
+    "ceb7c9e87cc8615278be183c5156646f511588eb31fccdd1b6606340f58aa27e"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -128,6 +130,7 @@
     "OmniVoice-Studio suite local de clonación de voz y doblaje sin API | Técnicas de compresión de prompts para reducir costos de inferencia LLM",
     "GraphEval evaluación alucinaciones LLM con grafos | Helion on TPU kernel authoring heterogéneo PyTorch Pallas | Grok Build CLI vs Claude Code comparativa agentes de codificación | Stateful vs Stateless diseño de agentes para escalabilidad agentic AI",
     "AI Red-Teaming con Garak para auditorías de seguridad en agentes autónomos",
-    "Patrones arquitectónicos para memoria persistente en agentes AI | Claude Opus 5 con inteligencia ajustable cerca del frontier | Comparativa KimiClaw vs OpenClaw agentes cloud vs self-hosted"
+    "Patrones arquitectónicos para memoria persistente en agentes AI | Claude Opus 5 con inteligencia ajustable cerca del frontier | Comparativa KimiClaw vs OpenClaw agentes cloud vs self-hosted",
+    "Constraint decoding práctico para salidas estructuradas de LLMs | Panorama 2026 de herramientas AI para análisis de datos"
   ]
 }
