@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "a45fc1bec772b7d241b7c0d603401fe5e8fdfc9d785b0f08410913c46aeb0ece",
-    "be2c37a7188c81950575bd299c1f6b798949670a4c5abe4943afc6358c433c84",
     "1c4dfa30276828367598bc3e0c92fb7593295a1d99252836ba245729e508e030",
     "d7f0f7af34101bf40fc353d99af18fa20ae844b91f584d944a9d214f4de57bff",
     "d4a32f4d6fe8268186f1c5a7ee1975893255cdc44b63063db15641a195d22b74",
@@ -499,7 +497,9 @@
     "a6764fa44c8d430436b97a1f4cdfea7ef84fdf25d9ceaefaa6c4b6220479bda7",
     "7636f4bff6306f43a4a5273bb3a9bcff01fd0e1d094fe86053807923cba894ea",
     "8338238d0187432ca168835b1999ff8815f265fd68f0f71c86ffa957d2a38908",
-    "c4ddd400addd1c15b9a69583943333ca7e881ad7d4549a704eea726305d7d4fc"
+    "c4ddd400addd1c15b9a69583943333ca7e881ad7d4549a704eea726305d7d4fc",
+    "e813d46e3cf13934da9543473b8d5c8ce0d8bb2192b2b3b0e223c3575e44df25",
+    "21253cb021383a098d6feed94dbfe21dc0af7f313103d61a45e672ad3a43b061"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -597,6 +597,7 @@
     "EE.UU. e Irán mantienen pausa de ataques por tercer día consecutivo; mediadores de Catar y Pakistán buscan reanudar negociaciones de alto el fuego, reduciendo el riesgo geopolítico sobre el petróleo.",
     "Irán rechaza plan de compensación de Trump y amenaza con prohibir tránsito de buques por el estrecho de Ormuz, escalando el riesgo de bloqueo directo.",
     "Hutíes atacan y fuerzan cierre de refinería de Aramco de 400,000 bpd en Jazán por daños; reparaciones hasta el 15 de agosto.",
-    "OPEP+ planea detener aumentos de producción tras septiembre de 2026, pausando incrementos mensuales y manteniendo restricción de oferta."
+    "OPEP+ planea detener aumentos de producción tras septiembre de 2026, pausando incrementos mensuales y manteniendo restricción de oferta.",
+    "Irán y Omán proponen gestionar Ormuz con modelo de Malaca (tarifas voluntarias), mientras hutíes continúan obstruyendo tráfico en Bab el-Mandeb y Arabia Saudí derriba drones."
   ]
 }
