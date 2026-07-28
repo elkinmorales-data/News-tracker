@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "1c4dfa30276828367598bc3e0c92fb7593295a1d99252836ba245729e508e030",
-    "d7f0f7af34101bf40fc353d99af18fa20ae844b91f584d944a9d214f4de57bff",
-    "d4a32f4d6fe8268186f1c5a7ee1975893255cdc44b63063db15641a195d22b74",
     "d29ec34f7dd32ea7c4412dffc2020f47516dd14a478a9f38ca1644727407691c",
     "a46c7c8d84e91dbd5b6debc2860d21dd6e60bf3999548752f9720133a3e3a196",
     "12aa8f4eb62853e4c36b3deaf83d56bbe437ec0723f74e8b2df4684eca093079",
@@ -499,7 +496,10 @@
     "8338238d0187432ca168835b1999ff8815f265fd68f0f71c86ffa957d2a38908",
     "c4ddd400addd1c15b9a69583943333ca7e881ad7d4549a704eea726305d7d4fc",
     "e813d46e3cf13934da9543473b8d5c8ce0d8bb2192b2b3b0e223c3575e44df25",
-    "21253cb021383a098d6feed94dbfe21dc0af7f313103d61a45e672ad3a43b061"
+    "21253cb021383a098d6feed94dbfe21dc0af7f313103d61a45e672ad3a43b061",
+    "7ce8fd58749fa9c78eb70dbecee8a876ad4b71aab1630c637e20e285b3f403d5",
+    "2da407d8180781471c6f3bab598c9290a8f66a37bb46773b5c7afa28c6c4bab8",
+    "eb932e585629727880dfbe79fc34497763b1b2f9e81963eb1ba3d59cdc342dc7"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -598,6 +598,7 @@
     "Irán rechaza plan de compensación de Trump y amenaza con prohibir tránsito de buques por el estrecho de Ormuz, escalando el riesgo de bloqueo directo.",
     "Hutíes atacan y fuerzan cierre de refinería de Aramco de 400,000 bpd en Jazán por daños; reparaciones hasta el 15 de agosto.",
     "OPEP+ planea detener aumentos de producción tras septiembre de 2026, pausando incrementos mensuales y manteniendo restricción de oferta.",
-    "Irán y Omán proponen gestionar Ormuz con modelo de Malaca (tarifas voluntarias), mientras hutíes continúan obstruyendo tráfico en Bab el-Mandeb y Arabia Saudí derriba drones."
+    "Irán y Omán proponen gestionar Ormuz con modelo de Malaca (tarifas voluntarias), mientras hutíes continúan obstruyendo tráfico en Bab el-Mandeb y Arabia Saudí derriba drones.",
+    "Hutíes atacan petrolero saudí en Mar Rojo con misil, continuando bloqueo contra Arabia Saudí y afectando tráfico de crudo."
   ]
 }
