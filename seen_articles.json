@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "7f60b3b868b973874fae746fd2b567c2f09b1b2b73b62a790e31cea748ff9877",
-    "f49f7ec89729516d397e4c3c8a97b699e08eb20c0559ccb5225794d15fdf92cd",
-    "e32f150d15bd634706b69e836f568bf0b1c8065e7d9deec8a77e84947b0e9b3a",
-    "2594e01cb9d5f84e34d9186c181aae2f4b33403c29cfa419505588add7f6cf65",
     "4618e00ef41e3fe426f57b231c0184359234c503768fffd973637c3c9dd6dbdb",
     "bfd5a590ce093eb8a2b11ebe19ef4de15f3e1cd6b6f29b8c37493a24358a3803",
     "e46c2ce6263784016e7d9b1a067c961b0b02704d10f52c08f2982b5b8198e873",
@@ -499,7 +495,11 @@
     "5989497afd45bf25ed97dc84e0a1a587ca5c2772af477919dcbc5beb803bcda2",
     "8525e02c1592f2da3184a10b81e95a691d8cdd8bcaf6cd3fee29068b2b4ae321",
     "2fe45b83e8a5afea9bb7075eef05b53e9aa50b91410da2b33afc0570a72171a2",
-    "d2adb13244b3262e5c344c4e0905cc840a24771435dacfcf48cb685375e9b12e"
+    "d2adb13244b3262e5c344c4e0905cc840a24771435dacfcf48cb685375e9b12e",
+    "b8f33d77337026a1fd8755b5cb3a439a1d5de7c7bdb9fce68c7b6096536df89f",
+    "404cf1704c1477f56799e9deca902ee6de78ef137d657827d573ff7592738fdd",
+    "a7fe344dce699496ab01e7dbca1c3ce87fef2bf07f52cdba3aeb0b1ee38be179",
+    "913cabd5db184b2438319d9182a9fa719ed047759ec48a52cc957af702182298"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -594,6 +594,7 @@
     "Petrolero saudí desviado a ruta Suez por amenazas hutíes en Bab el-Mandeb, confirmando bloqueo activo sobre tráfico de crudo.",
     "India MRPL prohíbe rutas de Ormuz y Mar Rojo en tender de crudo, evidenciando riesgo extremo de suministro.",
     "Arabia Saudí repele ataques con drones de grupos respaldados por Irán, expandiendo el conflicto directo a su territorio y elevando el riesgo sobre infraestructura petrolera.",
-    "EE.UU. e Irán mantienen pausa de ataques por tercer día consecutivo; mediadores de Catar y Pakistán buscan reanudar negociaciones de alto el fuego, reduciendo el riesgo geopolítico sobre el petróleo."
+    "EE.UU. e Irán mantienen pausa de ataques por tercer día consecutivo; mediadores de Catar y Pakistán buscan reanudar negociaciones de alto el fuego, reduciendo el riesgo geopolítico sobre el petróleo.",
+    "Irán rechaza plan de compensación de Trump y amenaza con prohibir tránsito de buques por el estrecho de Ormuz, escalando el riesgo de bloqueo directo."
   ]
 }
