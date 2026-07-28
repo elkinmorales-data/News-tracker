@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "0c71fd7802428683f8fd8989483200ccd44739fdea2a8385e48c0b5202cd8214",
-    "b15471c284dfd7d32a94f31e857d5597254728ca06a014dba610bf1e8dc0250e",
     "ff3e0ac70ba6233aba483845b36b97006fe9447bb4104930f4b6592f83c5424e",
     "de5b7481a019d1857cb67619067657b8e7d6746b697dff1dbffb8e68bb710942",
     "6b4b43981297ba84f1df64d7aebbb500663721c5188e4650eff6d49e89cd84fa",
@@ -499,7 +497,9 @@
     "1e6c5fe2a687f4b455a5931cead1c89d5e923d475afbdcce6082dff7576eec74",
     "7317a52463d9934a2c3d3effd4b3c2893246901753e29311747b5b06f09bd903",
     "240d368eace000710b4435d0e75377205331e570644b0169c12222126a305836",
-    "d23ee16635cd0cf7c7a66d5150e7b7da74d8789a48b79bc6ea7d660d5d2ada98"
+    "d23ee16635cd0cf7c7a66d5150e7b7da74d8789a48b79bc6ea7d660d5d2ada98",
+    "a9f7083e042aad60b7edc24f792a399896f4423ca0dc225a6544b6d7a2c3787e",
+    "8488a6a1df2809ebd106cfdb8855321cb1fb060f6c35d92782293e9d9d8d5f12"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -596,6 +596,7 @@
     "Arabia Saudí repele ataques con drones de grupos respaldados por Irán, expandiendo el conflicto directo a su territorio y elevando el riesgo sobre infraestructura petrolera.",
     "EE.UU. e Irán mantienen pausa de ataques por tercer día consecutivo; mediadores de Catar y Pakistán buscan reanudar negociaciones de alto el fuego, reduciendo el riesgo geopolítico sobre el petróleo.",
     "Irán rechaza plan de compensación de Trump y amenaza con prohibir tránsito de buques por el estrecho de Ormuz, escalando el riesgo de bloqueo directo.",
-    "Hutíes atacan y fuerzan cierre de refinería de Aramco de 400,000 bpd en Jazán por daños; reparaciones hasta el 15 de agosto."
+    "Hutíes atacan y fuerzan cierre de refinería de Aramco de 400,000 bpd en Jazán por daños; reparaciones hasta el 15 de agosto.",
+    "OPEP+ planea detener aumentos de producción tras septiembre de 2026, pausando incrementos mensuales y manteniendo restricción de oferta."
   ]
 }
