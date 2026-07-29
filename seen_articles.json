@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "3f484c18e864bf6060c80c24d4d666790be792c40608a8eeb47a441b51cf85b3",
-    "42e5994a701fa34449f962456c03ad9302388cae2a627c424e42a35f35199334",
-    "883744e479a439e89240d4c1d6235d25b2495d7dfa1b1833b3b318ec36bb2d3b",
-    "91e21442c70d3a0a98bdbd70884d1890b9e1c0aacae710b1866096f8e2d02283",
-    "f235872e8290fca6c2372887097683831315c35dd3d96c0ca39712f45036b4ca",
     "043f0c1f8861b0b95257825a3aea88a7f84d3d7d37ce42731ec49e40dbae3e66",
     "f5046fc45dc7a225345cf53351118859f8e588a9d86d461bb7ad7227e3bce9b7",
     "0541073fa6825460a2878b2e4032afcb23acaae228f2852fc87307e69909541a",
@@ -499,7 +494,12 @@
     "53f6e4e4d6a8640707959462b7f3fa29880300cacc175b27480b262c47188132",
     "b86be0b27be80f5fb29d46761a57014957d24ec0e156a429aeead639855faebb",
     "06afec89b165d1441cff1f9bfd6c755b9cbda427cede250e7d588655865bd53c",
-    "b21942e441d0e3266b183c2a60c1d08a1e9915ac65314595617547e658678926"
+    "b21942e441d0e3266b183c2a60c1d08a1e9915ac65314595617547e658678926",
+    "f74e3fd6117446a1b3c83f40cf245f6c432e256f821dcdc61a65d0cf7c8824e1",
+    "caf40bf2ca4ea5c20f7959544516164a406f7608a7c0434415240a9debd43523",
+    "380d42d67dcb595f0fb6ecb11636fed13f3e469f1796febb1811e86b47e261d5",
+    "aa357af112bc10078c27e04926e5821f6f84eec142fa5a3ba1947c0030b0d0f0",
+    "0329441c4201b94bdb6310d2a55d6b47999d3d647a02cec8750538acb27d8538"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -600,6 +600,7 @@
     "OPEP+ planea detener aumentos de producción tras septiembre de 2026, pausando incrementos mensuales y manteniendo restricción de oferta.",
     "Irán y Omán proponen gestionar Ormuz con modelo de Malaca (tarifas voluntarias), mientras hutíes continúan obstruyendo tráfico en Bab el-Mandeb y Arabia Saudí derriba drones.",
     "Hutíes atacan petrolero saudí en Mar Rojo con misil, continuando bloqueo contra Arabia Saudí y afectando tráfico de crudo.",
-    "Irán ataca con misiles balísticos a EE.UU.; se reanudan los combates directos y el petróleo sube por mayor riesgo de bloqueo en Ormuz."
+    "Irán ataca con misiles balísticos a EE.UU.; se reanudan los combates directos y el petróleo sube por mayor riesgo de bloqueo en Ormuz.",
+    "Irán ataca con misiles fuerzas de EE.UU. en Jordania y Arabia Saudí/EE.UU. bombardean grupos pro-Irán en Irak, rompiendo la pausa de cinco días y escalando el conflicto."
   ]
 }
