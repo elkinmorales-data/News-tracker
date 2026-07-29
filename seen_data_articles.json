@@ -117,7 +117,13 @@
     "fc6f8685bb293fbfe8e0a003fb3fccff67f8df4cb9a1e91809ccad701e94d1c1",
     "a076653b98d5ff1124b6f4844d285cf3b91242180690891c3315600eda18e0c4",
     "5ed1bb585556adf7d8a6a1cf339643c4aa23973b248359e51cd4b825a60e8521",
-    "ceb7c9e87cc8615278be183c5156646f511588eb31fccdd1b6606340f58aa27e"
+    "ceb7c9e87cc8615278be183c5156646f511588eb31fccdd1b6606340f58aa27e",
+    "3e3cd1109aedc9f16ff0481ba53e89773216efa507aae207463ba3f5909bb892",
+    "0780ffe8f3f53efbb57a082d945eec8dbecacdbcd04f0657094772b27bfeaa06",
+    "a4adc47a5e4913d4337a86d228b578ebe53a19754115fddef9d94a0257309117",
+    "828588dde39036a92656db4c1fa0db38249e8a1778f4c22ed51f4d97082ed160",
+    "4f240a42bec742b0e6d928fd0c67d1bec9bc829b7b37ae8d957aa5b59ad75278",
+    "9d421c40a26f4910c4f5526339e803c39eef55bf13b33bfb86654affe7d922b4"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -131,6 +137,7 @@
     "GraphEval evaluación alucinaciones LLM con grafos | Helion on TPU kernel authoring heterogéneo PyTorch Pallas | Grok Build CLI vs Claude Code comparativa agentes de codificación | Stateful vs Stateless diseño de agentes para escalabilidad agentic AI",
     "AI Red-Teaming con Garak para auditorías de seguridad en agentes autónomos",
     "Patrones arquitectónicos para memoria persistente en agentes AI | Claude Opus 5 con inteligencia ajustable cerca del frontier | Comparativa KimiClaw vs OpenClaw agentes cloud vs self-hosted",
-    "Constraint decoding práctico para salidas estructuradas de LLMs | Panorama 2026 de herramientas AI para análisis de datos"
+    "Constraint decoding práctico para salidas estructuradas de LLMs | Panorama 2026 de herramientas AI para análisis de datos",
+    "Graph Engineering como evolución de loops de agente único | Comparativa Ollama vs LM Studio vs llama.cpp para runtimes locales en 2026 | Recursos para dominar Small Language Models (SLMs) en 2026"
   ]
 }
