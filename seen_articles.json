@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "dd0088d6d9e3b7a2224b609a8991458fbd8ec6507d9d1b006ce0df8231961917",
-    "51d6051075f24dc3f4575c7c445c2cc1d9553c24b3c699287d145942d89be948",
-    "e2bd3ea06cfb74af9527e1233a23921cb3623313318ba2950d57d4780aacd5a2",
-    "4642acaabec6d133af8cafe2bc5511d54e8ed0217817e641dc8788816eb8527a",
     "180cd5779b13b57eb4233196d1fe23282f3f2e6fb46bea9127e5a7776ed3a2c0",
     "0b787bc441437785fc28b68cdd3c29e0e86d91364777516c4e1b26fb01aa4221",
     "e3f31987e148a149225b678fe7f70491c163a3d769fee9a09976425a545e542c",
@@ -499,7 +495,11 @@
     "7b84018dead5bf9808dc85d2c56a74e48bd8535a54200b169dae4e79bc9a7f54",
     "5cde1f073ba9fe4e053db1410fc04006b6795da900002afd0f434ee033e1e523",
     "5abba42ee9b6ca3468fa77b63854c4b1ce27b3c7f0c1504f826feacb7df6e1f6",
-    "449acc73495a4e5701c910082c3fb656f1c6e0c5f2f47d7a2987fca4ee0138f8"
+    "449acc73495a4e5701c910082c3fb656f1c6e0c5f2f47d7a2987fca4ee0138f8",
+    "9aa0bdfbec594f3c569f64b813e674343621de78b0c46df011ad7562f1c1ff47",
+    "a34d4902cab679a54b324a34860ab113450f7dff2b57e4083be7c153370d7b10",
+    "ed8e1c1928860b4b0034fb452f7f66fb5c3f33fb568a65f9011a6c7bff97e88a",
+    "18ae4c5bcb7c50da56a2af5d254e243b86a322452d276aa084c28eb173b29694"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -602,6 +602,7 @@
     "Hutíes atacan petrolero saudí en Mar Rojo con misil, continuando bloqueo contra Arabia Saudí y afectando tráfico de crudo.",
     "Irán ataca con misiles balísticos a EE.UU.; se reanudan los combates directos y el petróleo sube por mayor riesgo de bloqueo en Ormuz.",
     "Irán ataca con misiles fuerzas de EE.UU. en Jordania y Arabia Saudí/EE.UU. bombardean grupos pro-Irán en Irak, rompiendo la pausa de cinco días y escalando el conflicto.",
-    "Irán ataca bases de EE.UU. y tres buques en Ormuz, y rechaza propuesta de Omán, escalando conflicto y riesgo de bloqueo."
+    "Irán ataca bases de EE.UU. y tres buques en Ormuz, y rechaza propuesta de Omán, escalando conflicto y riesgo de bloqueo.",
+    "EE.UU. y Arabia Saudí atacan grupos pro-Irán en Irak; Irán propone mayor control sobre Ormuz en negociaciones con Omán."
   ]
 }
