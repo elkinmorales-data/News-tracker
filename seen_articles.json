@@ -1,13 +1,5 @@
 {
   "seen_hashes": [
-    "d65038fc03f16e60436d9643547e22a03b5f67974623f2dd656b5dec71e68e61",
-    "125911a6c05411bb19476e2d9d26ea63c10c59d5fdda4b6300e29ecd2a5f0a7f",
-    "e52cd277b87893583e471ac111af21be6d12496e811331520cb02c2f29a530e1",
-    "2804751cc5638fe3d5bccf44d7d2444d0dee35ec0b2efcc3d7f4510c1afff055",
-    "1990b0ffbdee44e5d483809e9551f0bf7fc550b5eb9c84782b7775d292e08bbd",
-    "c23e8505a684624a8e7dbbc5b79f0dcc2c4fb468ae7fe3cf96cc290f01e4328e",
-    "e98260b65acf11c2d051de8751e302a9d9edb3461d1e90f9612d0cf0ae3271ec",
-    "8e776387e03606e24ac7303389aa27205e21af8d935980018391c224af2a155a",
     "40121bf98135cd44bfb4f6cdc022ec1cee387985b702234c5b2edab50c401a8f",
     "19d88a3c702f933956aebac41a696ad65e3770ee7b72e1b1f6ae8aa61dea823c",
     "ab20a67b732f85a2a6aea9f587386aec065855283e2cf36ae4d80a9dd534d2cb",
@@ -499,7 +491,15 @@
     "1d6b9d8273e372c19e964d4125f920bae21bcfce3c80d80c628b3b46d77bd5dc",
     "7eeeae7478ce5db222cd1777787df47a666e9bb4c86471420beb3a817d66e8fe",
     "3ccb70ae6d5cf31e6f8f193ae9945fb8a3ef6023b6b6261f28da710fc3b65852",
-    "32abc62a39499fe7c5ec8fe869d23c913da8f796976867ab568174fa199ccecc"
+    "32abc62a39499fe7c5ec8fe869d23c913da8f796976867ab568174fa199ccecc",
+    "710abcb3b8c0f595a2b4adaaf23f5c8c058acf5611c7a33745a1da3b5c48e2eb",
+    "4ef8c32ca84f8d090138c0f85a5f3ffb12559e0bb97ac329f3f843ee025892ce",
+    "324084297c80d93c6a01586fa6f551438294b34412424ed577248bee6f66366c",
+    "2a47880632facb6aaf78a6449f6df22efda820a44068b613f278d7ffae9fd171",
+    "43ec458bf554501d40f5eedc05c738d304a5552b8a9228bb7246fdd44b13631a",
+    "5aa5188d65956696a49c13ba1dfdebb502e4b896a39202654e44e2040f880208",
+    "57e0616f47a562a6dbe19828a2e73980d5b1edb339581400946ce9e83cecb01b",
+    "71d9b347f97f6e70e618da8828d2c1eb5c22de9071be185280adae77f802d172"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -604,6 +604,7 @@
     "Irán ataca con misiles fuerzas de EE.UU. en Jordania y Arabia Saudí/EE.UU. bombardean grupos pro-Irán en Irak, rompiendo la pausa de cinco días y escalando el conflicto.",
     "Irán ataca bases de EE.UU. y tres buques en Ormuz, y rechaza propuesta de Omán, escalando conflicto y riesgo de bloqueo.",
     "EE.UU. y Arabia Saudí atacan grupos pro-Irán en Irak; Irán propone mayor control sobre Ormuz en negociaciones con Omán.",
-    "Irán rechaza propuesta de Omán para control compartido de Ormuz, exigiendo control mayoritario; hutíes atacan petrolero saudí en Mar Rojo, manteniendo bloqueo en Bab el-Mandeb."
+    "Irán rechaza propuesta de Omán para control compartido de Ormuz, exigiendo control mayoritario; hutíes atacan petrolero saudí en Mar Rojo, manteniendo bloqueo en Bab el-Mandeb.",
+    "Senado de EE.UU. avanza sanciones masivas contra Rusia e Irán; Trump amenaza con ataque a Irán y petróleo sube 7% por renovadas hostilidades y amenazas hutíes en Bab el-Mandeb."
   ]
 }
