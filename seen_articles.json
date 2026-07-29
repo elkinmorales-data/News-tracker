@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "ce0f9da9d7dabd05115cd046a2f6da0fbab21f0eda136bf4665a1cc41ae6d602",
-    "fe1223254c0e4d0af35b5bf63afcb16de08fd793a86153e436b2e28043925ccb",
-    "8d3047c94e60a60e5318eab9631e5e78310502f8760ee651de0ccba72158e78e",
     "5f804f36dd36cef67f3866ce097d62f045c122da52bf98d360871fa5968e66e4",
     "4b9520e002fede94efab53b335bc08bfb46529b365b1a3371d460d52c809273a",
     "04922be6650f09c8118b6148e6cb9ecf483097f07bc2615bc98a9bf50cbec55d",
@@ -499,7 +496,10 @@
     "92cc75c7ca98ec6cb5c88b07522bc984839cc0ccb8dbdb5f22b1c4e228d27c26",
     "47b9c9ef9ec1d268ad479c1860eb357f141cb58f531e5d4765f9b1930eb8ee28",
     "f7eae5304abf443995aab4f70bbf502f2aafc5148acafcf637a3ae4a3d848415",
-    "8aac0571a81dc595789465b4b50cbf13281ebe87f6bcdead1aa220fff6099a57"
+    "8aac0571a81dc595789465b4b50cbf13281ebe87f6bcdead1aa220fff6099a57",
+    "988e3e9846546be264ed344674e360f756c2e74c4e7c15f490a689689f0b3efc",
+    "ac5fda7f138f1c5371a94f9a3f2c9286d491b7735589a18459ebe20ddf7c7d97",
+    "5d5bfebb6673dcb58c784fa75708ca0652b7c89e8d9ac295f3b48c32a227ec08"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -607,6 +607,7 @@
     "Irán rechaza propuesta de Omán para control compartido de Ormuz, exigiendo control mayoritario; hutíes atacan petrolero saudí en Mar Rojo, manteniendo bloqueo en Bab el-Mandeb.",
     "Senado de EE.UU. avanza sanciones masivas contra Rusia e Irán; Trump amenaza con ataque a Irán y petróleo sube 7% por renovadas hostilidades y amenazas hutíes en Bab el-Mandeb.",
     "Trump promete una 'golpiza' a Irán tras nuevos ataques a bases, escalando el conflicto bélico directo y aumentando el riesgo geopolítico sobre el petróleo.",
-    "Irán rechaza control conjunto de Ormuz con Omán y Ucrania ataca buque iraní en el Caspio, escalando conflicto y riesgo de bloqueo en el estrecho."
+    "Irán rechaza control conjunto de Ormuz con Omán y Ucrania ataca buque iraní en el Caspio, escalando conflicto y riesgo de bloqueo en el estrecho.",
+    "Trump amenaza con atacar Irán tras ataque en Jordania; conflicto se intensifica con participación de Arabia Saudí contra proxies iraníes, elevando riesgo geopolítico."
   ]
 }
