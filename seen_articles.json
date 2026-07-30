@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "cfd9712c93a6ec48dc0f6cc5b2095c46a266cea6da3de91b9fa13b78f5aee3b3",
-    "7d3cf4aa5b549bbbf5bd2b48ac6a764a328c11a339584b921ee22c998fb4dc67",
-    "49c391486019093a0d2bb65f9d8b03214df439c244241fe78abf60c8a7794681",
-    "129a144f666206c76a22df1edf7d0562c807b34f13c41dc26fc037de0d74d46d",
     "d3e6a46daa042f164374b07a6f708640fcdd25ba060dea04e80dd7bb3516d43c",
     "99956f13476240e2fd64e1ed3130da10f522793c12918cc44d2c1cfd52d1e092",
     "31c81d9e9ce9c82a5fed4dc190cfae4bb769dc5ffa2931771411257ccc2b08e8",
@@ -499,7 +495,11 @@
     "6d177d3f887463e8ffb8a721caa462beceeac377824b91952a56d26f3a99a584",
     "c0e00ae25ba0babd31f67ccad6ecfeee3eb4619fe9466dd732c9a5543983bb0b",
     "87a8bdc6f8f71b139c7e22acf637e89014a1a5de2ab558b9ea310a6867dee5c9",
-    "119b5f785e73aba1ed741292fb983bf7c5e997fc1c9ac10febba7e27177b647e"
+    "119b5f785e73aba1ed741292fb983bf7c5e997fc1c9ac10febba7e27177b647e",
+    "8530709373861fffe5010a15ead305c6be971756295c384765f48c2e3e961739",
+    "a613ebd31a44e504fc65bdd1aa2767a4c1396e98f79fde19adc05d31677dd7c9",
+    "d8cb9101605ca4866744b8f85ef7452080d8c4f6973e92f708227a4686ed626b",
+    "97d9919da1386de0658bc228025541cbd44c019d27a1d810ddc0fd4f46a9924a"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -611,6 +611,7 @@
     "Trump amenaza con atacar Irán tras ataque en Jordania; conflicto se intensifica con participación de Arabia Saudí contra proxies iraníes, elevando riesgo geopolítico.",
     "Trump amenaza con represalias por ataque en Jordania; Arabia Saudí busca coalición internacional contra hutíes en Mar Rojo, confirmando bloqueo activo en Bab el-Mandeb y escalada del conflicto con Irán.",
     "EE.UU. lanza bombardeos masivos sobre el sur de Irán y la isla de Qeshm, escalando el conflicto directo y elevando el riesgo de bloqueo en Ormuz.",
-    "EE.UU. causa daños extensos en la isla iraní de Qeshm, escalando ataques directos; Qatar envía primer cargamento de GNL por Ormuz desde ataque a buque tanque, pero el riesgo de bloqueo persiste."
+    "EE.UU. causa daños extensos en la isla iraní de Qeshm, escalando ataques directos; Qatar envía primer cargamento de GNL por Ormuz desde ataque a buque tanque, pero el riesgo de bloqueo persiste.",
+    "EE.UU. bombardea Qeshm y Bushehr en Irán; IRGC promete represalias, escalando conflicto directo y riesgo de bloqueo en Ormuz; Brent sube 1.5% a $92.10."
   ]
 }
