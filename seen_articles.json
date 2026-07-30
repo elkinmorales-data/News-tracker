@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "d3e6a46daa042f164374b07a6f708640fcdd25ba060dea04e80dd7bb3516d43c",
-    "99956f13476240e2fd64e1ed3130da10f522793c12918cc44d2c1cfd52d1e092",
-    "31c81d9e9ce9c82a5fed4dc190cfae4bb769dc5ffa2931771411257ccc2b08e8",
     "fc7fac7ab38c2e700789c93d4b808776cdeb2e22575ac0b0f429cbcea84f89b5",
     "510fbf2cedc61e3487b72bd794a7150f8a844f4e18abf92412d27d5f7e0ae887",
     "8fd14703296396e26bc76cc508fbec1441c4ab34731493befa8ef79f445ef2fe",
@@ -499,7 +496,10 @@
     "8530709373861fffe5010a15ead305c6be971756295c384765f48c2e3e961739",
     "a613ebd31a44e504fc65bdd1aa2767a4c1396e98f79fde19adc05d31677dd7c9",
     "d8cb9101605ca4866744b8f85ef7452080d8c4f6973e92f708227a4686ed626b",
-    "97d9919da1386de0658bc228025541cbd44c019d27a1d810ddc0fd4f46a9924a"
+    "97d9919da1386de0658bc228025541cbd44c019d27a1d810ddc0fd4f46a9924a",
+    "e6355fa613c53c2fde45e6a3da67a4dc0ba59de164e12f9c20137ce4636cc8b4",
+    "485bb968e8c2d1207aa97613f84415a29997a533848ea790db37afb22ab640ef",
+    "583ad5c3146dc17665ba822890c854beaf8f3db46c7a671744af0c2fdf914100"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -612,6 +612,7 @@
     "Trump amenaza con represalias por ataque en Jordania; Arabia Saudí busca coalición internacional contra hutíes en Mar Rojo, confirmando bloqueo activo en Bab el-Mandeb y escalada del conflicto con Irán.",
     "EE.UU. lanza bombardeos masivos sobre el sur de Irán y la isla de Qeshm, escalando el conflicto directo y elevando el riesgo de bloqueo en Ormuz.",
     "EE.UU. causa daños extensos en la isla iraní de Qeshm, escalando ataques directos; Qatar envía primer cargamento de GNL por Ormuz desde ataque a buque tanque, pero el riesgo de bloqueo persiste.",
-    "EE.UU. bombardea Qeshm y Bushehr en Irán; IRGC promete represalias, escalando conflicto directo y riesgo de bloqueo en Ormuz; Brent sube 1.5% a $92.10."
+    "EE.UU. bombardea Qeshm y Bushehr en Irán; IRGC promete represalias, escalando conflicto directo y riesgo de bloqueo en Ormuz; Brent sube 1.5% a $92.10.",
+    "Ataque con drones a dos buques en puerto de Damieta, Egipto, amplía ataques a infraestructura energética regional más allá del Golfo y Mar Rojo."
   ]
 }
