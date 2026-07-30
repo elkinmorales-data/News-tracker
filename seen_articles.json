@@ -1,14 +1,5 @@
 {
   "seen_hashes": [
-    "f6e3d37e7270dd52b6f13e4301598ca4d7c9bc626a98621cd82bf83fc0424079",
-    "96869d46bed54b3fe2d0f7d2441b62403d6f713050f151a42462a636f1a46f2d",
-    "24aea65ad44f5d0285d8ee1fdd1af073a506d129d921eaeac860839c4fdc845b",
-    "248259cb97f426bad5c5a1cff6524941f3ec0d8a9783eefa40603ade7db0bbff",
-    "c2a632e623d43201aee877ada8d7ca3d2e8d92f1d63f0ba43e0b5ed61213c76b",
-    "5876fd072bcccf8633baed2a92e5369736a56d15f272972c7140a3dadb3ecb5a",
-    "834ee8ec9f21c8d0cb939958d0c20eacb52342aa54f4cd46bdb10ef35a4fdcb2",
-    "1a5c3319ce73736f49b713184ea70a385d47cf72164ad02152ed3cfbb7931da6",
-    "cf2b6b830d48558e58226a36aa241d75a087c111c66b15bc228d10e3dfc4c500",
     "b2c40ea4e698aa43c40192eb5e64f61ab94839c1db7dc4f4b512c529abd4e7cf",
     "58cccba971473278e9b8a9614d5e0e04e4da2067228123e9b24f43dfd2e9897c",
     "ac30f50d9b81d671a533ba06f0023779d3220476733e42e6daf3c31f30c09014",
@@ -499,7 +490,16 @@
     "bf0d96b4af0e532995530e380468f10d5f507bcfb792b3cf23fb4cd55637fe06",
     "e9e61e1526ce370869545c4007102e071e1e00905a706ba5405919d45843ee36",
     "64c6773491f386204e8e9f738e4cd21b9ea23bee3628a2d66325cbeca6e11251",
-    "0592f41889ae16a5a043a1660e67e9779e510e5fb87fd246382d321d36a28407"
+    "0592f41889ae16a5a043a1660e67e9779e510e5fb87fd246382d321d36a28407",
+    "e9ee4d29ac28d0739af53c08b49c2a4b9544e83fb0433265c97adbae31959cd2",
+    "8195b14bd86a697e50d8e492a6f8bdbd50544bd2bdb0319657fe74e9a95becc0",
+    "a62ec57ac9b0109760fc9e99bd5826556b21240ad761ae6a6a2cf7c64f8c5c56",
+    "6bf3e8dae02bf90e798fe94e28b896912ac1e474ab2279c4a0e38142944ea8cd",
+    "3ab91f01c7b9f7e1f27e850b38cb6e98285d635a5ce9d8ca4aeefa627c9b0603",
+    "4470faae3705fc49292167ec36f4458b811260ce7cd2b1844d8344d3b682a80f",
+    "c657c255837282db47e7b1e6af199113c529d5e7477ab892bfa85c142cbf1fa7",
+    "9fa1c362a5f7982f9efa0b3a36509ddf566a2c3ae9977355f29e2aae45afdcd1",
+    "dd006976d8b4f3ea45b55d4bead88cab336f2bb3f2685c9a63a987f4d5e7c8e3"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -613,6 +613,7 @@
     "EE.UU. lanza bombardeos masivos sobre el sur de Irán y la isla de Qeshm, escalando el conflicto directo y elevando el riesgo de bloqueo en Ormuz.",
     "EE.UU. causa daños extensos en la isla iraní de Qeshm, escalando ataques directos; Qatar envía primer cargamento de GNL por Ormuz desde ataque a buque tanque, pero el riesgo de bloqueo persiste.",
     "EE.UU. bombardea Qeshm y Bushehr en Irán; IRGC promete represalias, escalando conflicto directo y riesgo de bloqueo en Ormuz; Brent sube 1.5% a $92.10.",
-    "Ataque con drones a dos buques en puerto de Damieta, Egipto, amplía ataques a infraestructura energética regional más allá del Golfo y Mar Rojo."
+    "Ataque con drones a dos buques en puerto de Damieta, Egipto, amplía ataques a infraestructura energética regional más allá del Golfo y Mar Rojo.",
+    "EE.UU. reanuda bombardeos en el sur de Irán (Ahvaz, Qeshm) e IRGC lanza misiles contra fuerzas estadounidenses en Jordania, escalando el conflicto directo y elevando el riesgo de bloqueo en Ormuz."
   ]
 }
