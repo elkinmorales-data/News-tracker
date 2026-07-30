@@ -1,14 +1,5 @@
 {
   "seen_hashes": [
-    "37782ea399b85b346bc58a880d040d056a612d03a3770867f2561668f1f99512",
-    "d8af76a165a6e093b0a582af6035df4952b9d9e6b286522aea5af7aeb4c07634",
-    "ed1a6702aa28a1235183244b80ff9de62263f205262f033e150ae593246e040a",
-    "b94f4cc7a4d43a2daf2192a46f93774aa52be88e36d071ff61b9669567b88cd2",
-    "119b5f785e73aba1ed741292fb983bf7c5e997fc1c9ac10febba7e27177b647e",
-    "562739ae8793f9c4daf0bc326748aedf526916ef7341c5bcaea1cfa5ab4e803f",
-    "4c869dd11fc6156a87335abeb4ac840b297e39d383260f9a754b86a67823febe",
-    "65e30018425e87213448b4b26c7de7edaa60f421ab09edf2eef9c639cc686f4b",
-    "c8abd2e479e68873d6310f5fb77da2c1566d066d30e97b50ae2bc6bcd4f9aefd",
     "2d9577bbe1b7d47a20e7d7142dea8765da961c85558a3952113538e067f014e0",
     "bcce3d07af05427f0a3b696878d3d62d9762007e42fbcd6147a5d39867926942",
     "f59150332e43704d86bccde63a6094b0d9fd8023e21535ce3dd1210948a04630",
@@ -499,7 +490,16 @@
     "7132201de717cb7bf1e40f4e7fad1ff7dbb564286825ee3904fb0f6d55cc0e75",
     "a34192b8f0a9875608b1baeb862edb370cabfe2b2397c802b8dfe8cc38b654f2",
     "86a862f29220152251b783d9b2d1cc754ecaaa7375843a20e76f4d1cded97479",
-    "94fb497d05b877054fcc701506a35f0a7f6af1702d597b1cb23aa9d1f8c4a8a8"
+    "94fb497d05b877054fcc701506a35f0a7f6af1702d597b1cb23aa9d1f8c4a8a8",
+    "b3dbd4a7cc0fed8483ab56176824af24936fee37ffa1e642f7126a4e24f40b72",
+    "8eafc29ac0db4ae542201593fd704ea23e3c1ebf6117138c0fad3ecc38e250ec",
+    "9c21a74c66487ad65b303a279cedafd03748f9ec4fccdd33cdeb2bc6bcf5e75d",
+    "4e7ecbc905f51c5c502e54ee3d67bc9972be73fdb6f18a919e6eccc6a61eeb33",
+    "45ee3c92dbd9e692e44c34162a9fc0c7e3981110f6a7855be6b316e268f7f5d6",
+    "9c1bcc5b4df7e6600210961d2b180d67b80321cc57e2b81fb98d210ba1b24868",
+    "968f46d6e2b2265c9aa74659fd13bf3274740983418b45d40cb7a2c59bbc3e88",
+    "f0155aa475e337e85e87f0beea8777ef109a02a1a3acae13713c58340962332e",
+    "8759d4d0b48c16a991888395de9176b60bc8de469be8580c7844e089059bc1ad"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -609,6 +609,7 @@
     "Trump promete una 'golpiza' a Irán tras nuevos ataques a bases, escalando el conflicto bélico directo y aumentando el riesgo geopolítico sobre el petróleo.",
     "Irán rechaza control conjunto de Ormuz con Omán y Ucrania ataca buque iraní en el Caspio, escalando conflicto y riesgo de bloqueo en el estrecho.",
     "Trump amenaza con atacar Irán tras ataque en Jordania; conflicto se intensifica con participación de Arabia Saudí contra proxies iraníes, elevando riesgo geopolítico.",
-    "Trump amenaza con represalias por ataque en Jordania; Arabia Saudí busca coalición internacional contra hutíes en Mar Rojo, confirmando bloqueo activo en Bab el-Mandeb y escalada del conflicto con Irán."
+    "Trump amenaza con represalias por ataque en Jordania; Arabia Saudí busca coalición internacional contra hutíes en Mar Rojo, confirmando bloqueo activo en Bab el-Mandeb y escalada del conflicto con Irán.",
+    "EE.UU. lanza bombardeos masivos sobre el sur de Irán y la isla de Qeshm, escalando el conflicto directo y elevando el riesgo de bloqueo en Ormuz."
   ]
 }
