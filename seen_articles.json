@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "4b9520e002fede94efab53b335bc08bfb46529b365b1a3371d460d52c809273a",
-    "04922be6650f09c8118b6148e6cb9ecf483097f07bc2615bc98a9bf50cbec55d",
-    "791c970b0a8c543d8fa5704d0e3ec35dd7fd57be094f93d87e25fc864e03adb2",
     "eea36aff3f7e9700ef8307f91c62de1dda00803976ea7798cf256d5c0b6744c6",
     "942b479e50275f383ee27c19405e377f984e53af45cb60ab69b8b3583a6f9b4d",
     "872b4f4a15a1a67a7ca481d3a3c23d3578cff483e289c26aa5f77dc4e93d2adc",
@@ -499,7 +496,10 @@
     "988e3e9846546be264ed344674e360f756c2e74c4e7c15f490a689689f0b3efc",
     "ac5fda7f138f1c5371a94f9a3f2c9286d491b7735589a18459ebe20ddf7c7d97",
     "5d5bfebb6673dcb58c784fa75708ca0652b7c89e8d9ac295f3b48c32a227ec08",
-    "a77c1e7707ebf450085ba698bfb9b1ca50958f4b34314488412ef5e7682e18fc"
+    "a77c1e7707ebf450085ba698bfb9b1ca50958f4b34314488412ef5e7682e18fc",
+    "0c0adfbccbfcafe3366d7aae03797cf064bb85def4a8d668358ef4e3d0721b1b",
+    "0a7dee322a2728af6fbff01022a48416ebd5966220e7924fdc7e5fb3982d8ce7",
+    "89d8459b67e22d3b1a747e3937e72593d290d963c3c48cd01957cf6f9fb96a6c"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -608,6 +608,7 @@
     "Senado de EE.UU. avanza sanciones masivas contra Rusia e Irán; Trump amenaza con ataque a Irán y petróleo sube 7% por renovadas hostilidades y amenazas hutíes en Bab el-Mandeb.",
     "Trump promete una 'golpiza' a Irán tras nuevos ataques a bases, escalando el conflicto bélico directo y aumentando el riesgo geopolítico sobre el petróleo.",
     "Irán rechaza control conjunto de Ormuz con Omán y Ucrania ataca buque iraní en el Caspio, escalando conflicto y riesgo de bloqueo en el estrecho.",
-    "Trump amenaza con atacar Irán tras ataque en Jordania; conflicto se intensifica con participación de Arabia Saudí contra proxies iraníes, elevando riesgo geopolítico."
+    "Trump amenaza con atacar Irán tras ataque en Jordania; conflicto se intensifica con participación de Arabia Saudí contra proxies iraníes, elevando riesgo geopolítico.",
+    "Trump amenaza con represalias por ataque en Jordania; Arabia Saudí busca coalición internacional contra hutíes en Mar Rojo, confirmando bloqueo activo en Bab el-Mandeb y escalada del conflicto con Irán."
   ]
 }
