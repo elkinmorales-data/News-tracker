@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "7f1837a1c523d50f8a0073fc786c5679ac224c7b325f5546fb40619b0a1aca01",
-    "0b12a884aea9a74df4813685ef7b43a51b768213b6a5e79681d9d338de2827d1",
     "2e37cdba2482fbedc0668e0af61ed382ef8708965e5862f39096c11fd32e7bcb",
     "021434877e37b78bf0aeaed3405554b7cb662223a905f213e21fa92a9aef9ea7",
     "77144de182c97353a3567dc2e123216f16f2e1a657e9ef97bd37c165fb57e453",
@@ -499,7 +497,9 @@
     "4a874749df6e5ff6a033167bc5e3f0a5bb298915bd0cb5fcf6835048e4d16638",
     "97b06e5f12a5a86c66233b1ace1e0c959709c87e8e9ac214946be592f50bf831",
     "e44425982eeef687e0cb7c3b8a21a286f789e1c0c312c5a229a66ee8fb3d2145",
-    "2aae81c162f8ee9a7ab4c053a5ee064020a859ff5969b063ee3ea95d49d28f4d"
+    "2aae81c162f8ee9a7ab4c053a5ee064020a859ff5969b063ee3ea95d49d28f4d",
+    "fa3bff2240834669191571f164825f24913be64fa6f3016a297e6dbe2990eac1",
+    "e32afc7c6f0fa1cbcfac1f5dcf65a97d79e71254276eabd62e4b638c3d2d5cc9"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -614,6 +614,7 @@
     "EE.UU. causa daños extensos en la isla iraní de Qeshm, escalando ataques directos; Qatar envía primer cargamento de GNL por Ormuz desde ataque a buque tanque, pero el riesgo de bloqueo persiste.",
     "EE.UU. bombardea Qeshm y Bushehr en Irán; IRGC promete represalias, escalando conflicto directo y riesgo de bloqueo en Ormuz; Brent sube 1.5% a $92.10.",
     "Ataque con drones a dos buques en puerto de Damieta, Egipto, amplía ataques a infraestructura energética regional más allá del Golfo y Mar Rojo.",
-    "EE.UU. reanuda bombardeos en el sur de Irán (Ahvaz, Qeshm) e IRGC lanza misiles contra fuerzas estadounidenses en Jordania, escalando el conflicto directo y elevando el riesgo de bloqueo en Ormuz."
+    "EE.UU. reanuda bombardeos en el sur de Irán (Ahvaz, Qeshm) e IRGC lanza misiles contra fuerzas estadounidenses en Jordania, escalando el conflicto directo y elevando el riesgo de bloqueo en Ormuz.",
+    "EE.UU. lanza nueva ola de ataques contra Irán y un buque LNG estadounidense es impactado, escalando conflicto y riesgo de bloqueo en Ormuz."
   ]
 }
