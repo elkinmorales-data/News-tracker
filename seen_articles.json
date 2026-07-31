@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "8b9378caa67bf6fa74cd743d9ab6daf121d1ad1c2101e4e56cb5214d6a56ac5e",
-    "30e4734ec3cc40eb12ff09d594ad53982bef9da89a0657cdc4280a838cddca58",
     "2c97884cb242777bf7412b9902e01e87097478162795974f5e9cb4fce7eb0dcc",
     "4a8789ba027e5d868ac613795a8cb5cbbf514e02bf98c83893bbb0c3b0d2cce9",
     "3ee407f9d823e8ef91b355a9aed0eafd96fc048ab6521b7d094f337e11ec458b",
@@ -499,7 +497,9 @@
     "ee661585bf412264defb48701726845b658a05976d8afa5483e824f7f34a0c79",
     "26a2076ec4e4cb9de3359ad2458264f5852dbdce9e5c3d4b933c1c03195bc3a6",
     "40147564cb8810b18c431ea9f5c4809f0ff26f0e9cec7707707d8267c853790c",
-    "fb3ebbae38d2b0fcabfd6d646d41571074acc6db9048ed1adaab3a172c7578f1"
+    "fb3ebbae38d2b0fcabfd6d646d41571074acc6db9048ed1adaab3a172c7578f1",
+    "1c418ec35e112b9da0b609ab07e71053a2cb53e5711483ac762089739b8b6b24",
+    "3c7816317a71f34d5a1bb93fa605c62f7e8af31fec0953b4ace6bdb65774f2d6"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -621,6 +621,7 @@
     "Seis petroleros saudíes vacíos desviados alrededor de África para evitar Bab el-Mandeb por amenaza hutí, confirmando bloqueo activo y elevando riesgo de suministro.",
     "Irán ataca bases de EE.UU. en Kuwait y Baréin; ADNOC cambia fórmula de precios de crudo, escalando conflicto directo en el Golfo y elevando riesgo sobre Ormuz.",
     "Ucrania ataca refinería de Lukoil en Volgogrado (300,000 bpd) reanudando ataques a infraestructura petrolera rusa, añadiendo riesgo de oferta en Rusia.",
-    "EE.UU. despliega primeros aviones cisterna en Bulgaria para apoyar operaciones en Medio Oriente, señal de escalada militar que aumenta riesgo de suministro."
+    "EE.UU. despliega primeros aviones cisterna en Bulgaria para apoyar operaciones en Medio Oriente, señal de escalada militar que aumenta riesgo de suministro.",
+    "Ataque a Abqaiq en julio 2026 expone vulnerabilidad crítica de infraestructura saudí, mercado infravalora riesgo; no hay impacto inmediato en oferta pero incrementa prima de riesgo."
   ]
 }
