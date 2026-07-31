@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "ac3f16574316fd373fb285e1caafb0f6fa857f483175b63cb4d63625db87f528",
-    "9a6b01face8d12a0237fffef0a1d11ea98933c256f69b33151a499ea0dfd97d1",
-    "e7a6b28b0fb0ba1dfa5230d75ebb6ac42f2083ed60b9ee2e76cf808397732a1a",
-    "2abe7d9acff75c59ce39b5e3c8bc83073615ed0c009b6160234a869a88a0827b",
     "b966a033c88e6c218de8b6de867f718f089bc137361d27a5614176797fe9c7ba",
     "cf846af738410ce5150e6fbbc2d4608782c5d61275760fddc78a8b08dab4616f",
     "7c77e0c19268b8afa34d5ff5b0f1828758897751167df1881a0096376c7a7932",
@@ -499,7 +495,11 @@
     "f8a98622c236e2be1db726be3c0b2b45095f4ce652e970ae52e91f268c2f58c0",
     "540be217fc2006d602bcf69b7dcc54e7d023b4d207fd79d5de75c050e101dc82",
     "c0b511be33c760a3c37c900a7ebc770c26c0f2bc89d0e5b0af3b7bd6ef858e3f",
-    "0c0bbd02bc3c1e5e6d022181803d1efcbba6fab8772c532584990af12f9aecac"
+    "0c0bbd02bc3c1e5e6d022181803d1efcbba6fab8772c532584990af12f9aecac",
+    "d9fa84755f3e451ea1ba7897dee5102d2dfb00a11f8586ad0e02e55f77791ef4",
+    "4d481ac49874a69e7bb53f2e145552e201b972af4b649f278ad8a65f725a84fe",
+    "c2d8df4b53463e1f55143afec2edc73ffeca37ba0b4e02b2b3c949dfc75cae7f",
+    "17054b160febee4d75dbdd7a7a62c67fbf529225c5e76f672ada9da30fe04e0a"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -617,6 +617,7 @@
     "EE.UU. reanuda bombardeos en el sur de Irán (Ahvaz, Qeshm) e IRGC lanza misiles contra fuerzas estadounidenses en Jordania, escalando el conflicto directo y elevando el riesgo de bloqueo en Ormuz.",
     "EE.UU. lanza nueva ola de ataques contra Irán y un buque LNG estadounidense es impactado, escalando conflicto y riesgo de bloqueo en Ormuz.",
     "El tráfico por Ormuz se recupera tras los ataques de EE.UU.-Irán; los flujos de crudo se normalizan y el petróleo cae por reducción de la prima de riesgo.",
-    "IRGC ataca objetivos de EE.UU. en Kuwait en represalia por bombardeos en Irán (Qeshm), escalando conflicto directo y expandiendo el riesgo a aliados del Golfo; petróleo sube. ADNOC compra cinco supertanqueros ante crisis de Ormuz."
+    "IRGC ataca objetivos de EE.UU. en Kuwait en represalia por bombardeos en Irán (Qeshm), escalando conflicto directo y expandiendo el riesgo a aliados del Golfo; petróleo sube. ADNOC compra cinco supertanqueros ante crisis de Ormuz.",
+    "Seis petroleros saudíes vacíos desviados alrededor de África para evitar Bab el-Mandeb por amenaza hutí, confirmando bloqueo activo y elevando riesgo de suministro."
   ]
 }
