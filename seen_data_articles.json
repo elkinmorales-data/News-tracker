@@ -125,7 +125,13 @@
     "4f240a42bec742b0e6d928fd0c67d1bec9bc829b7b37ae8d957aa5b59ad75278",
     "9d421c40a26f4910c4f5526339e803c39eef55bf13b33bfb86654affe7d922b4",
     "10f281b6c0ad7a61d74d9f6f92c2ed28d75ca9643e7c6734cc556c38472e1874",
-    "e4aa1691a63e1b165edeababd916d3a8ce4a282165a6445bb78f6c0ae3c5a92e"
+    "e4aa1691a63e1b165edeababd916d3a8ce4a282165a6445bb78f6c0ae3c5a92e",
+    "85ded3ca89a340b4b83604b9fe4871088a24df0186b2642c289a7b6c9e716adb",
+    "25d6c35585fb30dddc3c4164a060f4974a5735f7c8c4c1925e7c5b7a8eb9260b",
+    "01a00810d962856e81a09113e78ddbbd6338b04c1fd8fb997ac6c610ecf43236",
+    "ab06c970a47fbfb6cc09a36649db0f6652f775783089189ee7c06e566300cc59",
+    "df987f1159910d7ecb28962b5896234e5fc9f494f9505166677f02aa04d79228",
+    "f5a39066724b45ad93b0e3af39425780403142fbcfcac10469c1788f701b8ebd"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -140,6 +146,7 @@
     "AI Red-Teaming con Garak para auditorías de seguridad en agentes autónomos",
     "Patrones arquitectónicos para memoria persistente en agentes AI | Claude Opus 5 con inteligencia ajustable cerca del frontier | Comparativa KimiClaw vs OpenClaw agentes cloud vs self-hosted",
     "Constraint decoding práctico para salidas estructuradas de LLMs | Panorama 2026 de herramientas AI para análisis de datos",
-    "Graph Engineering como evolución de loops de agente único | Comparativa Ollama vs LM Studio vs llama.cpp para runtimes locales en 2026 | Recursos para dominar Small Language Models (SLMs) en 2026"
+    "Graph Engineering como evolución de loops de agente único | Comparativa Ollama vs LM Studio vs llama.cpp para runtimes locales en 2026 | Recursos para dominar Small Language Models (SLMs) en 2026",
+    "FBTriton Infra de Meta con ingestión agéntica y validación L1/L2/L3 | Pipeline de agentes de voz controlados por voz con tool calling | Pipeline agéntico end-to-end con 7 componentes para producción | Comandos CLI ocultos de Claude Code para flujos de trabajo avanzados"
   ]
 }
