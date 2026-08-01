@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "db2b3a05956bf2707160b0f41333212c265b3aafc4129735558d54b1174b555a",
-    "a9e47a60903fc88693bddd483773876925e56063547a0752dfa89136b36404b8",
     "f8718ee47c9b8286f9c704259a10cdc1c0282ce745151718b51896017ceec9ce",
     "36fdc533fc1a05b9ffabe513765644b60bc20bd2bf15323c60fce3d342d584ce",
     "6c8e8b6516ce48904acca5645a27363323bc308885005e3531c2d70ff02256fe",
@@ -499,7 +497,9 @@
     "d7f3a3bb49572155bbc2278db625c1dd1ba15ade193ed91104927721e3bab671",
     "aad419d8840e63380c6fe233a5887763ea852a45d35b0123c1b0752d844dd50e",
     "67d8fdba969c6cc20dea421b531bfcdcc173805eaee3dda138e3b5d487c07156",
-    "c22bc07efa2f90f8c3489862b215196007e6d7f71a24dc42389fb15191cdcefd"
+    "c22bc07efa2f90f8c3489862b215196007e6d7f71a24dc42389fb15191cdcefd",
+    "1362c7dd980cd65b1b0cd51dc8ccbdbaa86c29b3b5604b714360566791610e8d",
+    "095d198ad041562596c972a8c052a66ce15b25466feb1a32beb65f3d8668f394"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -625,6 +625,7 @@
     "Ataque a Abqaiq en julio 2026 expone vulnerabilidad crítica de infraestructura saudí, mercado infravalora riesgo; no hay impacto inmediato en oferta pero incrementa prima de riesgo.",
     "Petroleros atacados cerca de Omán y Trump amenaza con nuevos ataques a Irán, elevando riesgo de escalada y afectando rutas de suministro.",
     "Irán advierte contra 'llamas de guerra' y dice tener plan de represalia listo ante amenazas de EE.UU. de atacar sitios energéticos civiles; riesgo de escalada inminente en conflicto directo, sin ataque confirmado aún.",
-    "Irak y Turquía firman acuerdo de 1 año para aumentar exportaciones por oleoducto ante cierre de Ormuz; reduce presión sobre oferta y puede bajar precios."
+    "Irak y Turquía firman acuerdo de 1 año para aumentar exportaciones por oleoducto ante cierre de Ormuz; reduce presión sobre oferta y puede bajar precios.",
+    "Petrolero sancionado Caroline Bezengi derrama crudo frente a Omán (isla Qibliyah), incidente ambiental sin ataque directo, con implicaciones menores para el riesgo de suministro."
   ]
 }
