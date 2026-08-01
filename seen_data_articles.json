@@ -131,7 +131,9 @@
     "01a00810d962856e81a09113e78ddbbd6338b04c1fd8fb997ac6c610ecf43236",
     "ab06c970a47fbfb6cc09a36649db0f6652f775783089189ee7c06e566300cc59",
     "df987f1159910d7ecb28962b5896234e5fc9f494f9505166677f02aa04d79228",
-    "f5a39066724b45ad93b0e3af39425780403142fbcfcac10469c1788f701b8ebd"
+    "f5a39066724b45ad93b0e3af39425780403142fbcfcac10469c1788f701b8ebd",
+    "c470c8a0725f311ab4490e6f297a716ad106860d58a0d65c14802631e3c927c5",
+    "35204852bc1071a9a623db9b2de7c3d5b320b86e9284380d0f4eed8283777ed7"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -147,6 +149,7 @@
     "Patrones arquitectónicos para memoria persistente en agentes AI | Claude Opus 5 con inteligencia ajustable cerca del frontier | Comparativa KimiClaw vs OpenClaw agentes cloud vs self-hosted",
     "Constraint decoding práctico para salidas estructuradas de LLMs | Panorama 2026 de herramientas AI para análisis de datos",
     "Graph Engineering como evolución de loops de agente único | Comparativa Ollama vs LM Studio vs llama.cpp para runtimes locales en 2026 | Recursos para dominar Small Language Models (SLMs) en 2026",
-    "FBTriton Infra de Meta con ingestión agéntica y validación L1/L2/L3 | Pipeline de agentes de voz controlados por voz con tool calling | Pipeline agéntico end-to-end con 7 componentes para producción | Comandos CLI ocultos de Claude Code para flujos de trabajo avanzados"
+    "FBTriton Infra de Meta con ingestión agéntica y validación L1/L2/L3 | Pipeline de agentes de voz controlados por voz con tool calling | Pipeline agéntico end-to-end con 7 componentes para producción | Comandos CLI ocultos de Claude Code para flujos de trabajo avanzados",
+    "LanceDB vector database multimodal para AI workloads | Roundup semanal KDnuggets con foco en agentes autónomos y herramientas de análisis de datos 2026"
   ]
 }
