@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "2a38870f781f87a279394a2b5bbe79e412a2d9f4438a2c68a8e999d13660186b",
-    "9108d4dcac7b1542e420b53b32ba99ae40b78f8bd8956d043c55bb902d01da5f",
-    "351410ea1faa4321cec39ec68814f04c564a4fb73071c80ef3650bae6d2a0672",
-    "615d731bf96e37e99d7c2a6320b9e5229ee6019bd3c6331718ad0b7eb446f601",
-    "6007b834be2ecc6ef5e21c31c724b514e6608acf7e679a5a7dc37e7930de692e",
-    "34e26087194e14e5c8319ac44b70e46851ec3e454e9bf3d8a100f254c0221e3b",
     "b65f98ec990a4d9748ebc20f95dc40db6d7362d5df0fac410f44de57bf188840",
     "ed430c3216fdfd5214288ff3ee4276300ce58d8f28459b39a64cbc2a602d2b12",
     "0b0c5d652bf151b28521c1d44c362257f1782df4114e2746e12bc2b8d6db13b4",
@@ -499,7 +493,13 @@
     "0aff0017784a5289b5706547580a01e32eccd9ab6ae9c2d7431e161ef74ce41b",
     "c96d1c2c4773a460d17e8d048a83e85a671740471ec4fe0d42ca29916e9ba878",
     "3ad23dd798ab1d3829b776677ab0dfd893b23b901dbe2321d3dd8d29b48480f3",
-    "9c64f045a479999ec7d0261d1a4f9be711f21edf69a1b7a70ec472cd38ab3ad9"
+    "9c64f045a479999ec7d0261d1a4f9be711f21edf69a1b7a70ec472cd38ab3ad9",
+    "0a876d8269423c496e0d4e3d03e15221b1892450ed3d654161a4e6dc5a6c7f88",
+    "9c5630be4c5e860414f5abb58a9dd87159561af90639f0e65567ff92fe87b751",
+    "17084907c921aa27953ec641252aec3faff99851ae3af294acc32e7393266550",
+    "6ef462516adbab1af748f53d752308248c582294a4752a05a54db639d3cac85e",
+    "c6549ebe555f549f15ba70f30440c8648ca13c406edf7a13f74436d80f991b4e",
+    "91e31b8b73ad05400b7d91fe3e07e935b40060478b516c766b9fa3e21e4fe928"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -628,6 +628,7 @@
     "Irak y Turquía firman acuerdo de 1 año para aumentar exportaciones por oleoducto ante cierre de Ormuz; reduce presión sobre oferta y puede bajar precios.",
     "Petrolero sancionado Caroline Bezengi derrama crudo frente a Omán (isla Qibliyah), incidente ambiental sin ataque directo, con implicaciones menores para el riesgo de suministro.",
     "Trump cancela ataque a Irán y anuncia que se alcanzaron parámetros para acuerdo de paz; Arabia Saudí pide no escalar; prima de riesgo petrolero se reduce.",
-    "Trump cancela ataque planeado a Irán tras acuerdo preliminar sobre parámetros de paz, reduciendo riesgo de escalada y bajando prima petrolera."
+    "Trump cancela ataque planeado a Irán tras acuerdo preliminar sobre parámetros de paz, reduciendo riesgo de escalada y bajando prima petrolera.",
+    "Irán llama a la pausa de Trump 'operación psicológica' sin avance en Ormuz; plan de Rubio para evadir el estrecho tiene limitaciones por oleoductos y amenazas en Mar Rojo, manteniendo riesgo de suministro."
   ]
 }
