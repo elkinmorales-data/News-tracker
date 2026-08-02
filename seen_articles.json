@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "f012339a943d3c95e2601032dd0fecf22fa324c5ea109ef5177271b6d4136784",
-    "7dbfef5b40d71c6ce86437bb3f5a7a441df1c70c13d6a2b7cefd05d449cc9a1e",
     "395b009ac6dee0e739222a5e3044d08171801330607687364dd659677c1a2017",
     "e36174489ba103af36cd89a16e2ebd4cc9340c183545f94c187a5abcafc0abf9",
     "4f0ac6ec93c58a4e52119466d8623493058f9d372c216f5ed52f15fe3964a08d",
@@ -499,7 +497,9 @@
     "db637bbc16de48e2ef4b946f52d06075ac958c5369214797272f041d5d458aa8",
     "54fcb148842ee5692181e957242d94da4e379443a0ff53e104b9c11a9eee4a80",
     "cd9cf223ade416fa336ab7fa14f4621c4ffaa13a381814ad707aa59c34d57aba",
-    "9f5fb11ab1fa70822e1544ca05876e3be953115ad920a20642a9ac6fb9063343"
+    "9f5fb11ab1fa70822e1544ca05876e3be953115ad920a20642a9ac6fb9063343",
+    "ac61c81e8d64cdaa0a0bc1d1a4a0317f7748e76d9ecaa50fd327083932c8fd6d",
+    "5aecd71af1eacfb6be25d1035ee3f0e3a5aef3a17918f4ab3430c386778f0e52"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -627,6 +627,7 @@
     "Irán advierte contra 'llamas de guerra' y dice tener plan de represalia listo ante amenazas de EE.UU. de atacar sitios energéticos civiles; riesgo de escalada inminente en conflicto directo, sin ataque confirmado aún.",
     "Irak y Turquía firman acuerdo de 1 año para aumentar exportaciones por oleoducto ante cierre de Ormuz; reduce presión sobre oferta y puede bajar precios.",
     "Petrolero sancionado Caroline Bezengi derrama crudo frente a Omán (isla Qibliyah), incidente ambiental sin ataque directo, con implicaciones menores para el riesgo de suministro.",
-    "Trump cancela ataque a Irán y anuncia que se alcanzaron parámetros para acuerdo de paz; Arabia Saudí pide no escalar; prima de riesgo petrolero se reduce."
+    "Trump cancela ataque a Irán y anuncia que se alcanzaron parámetros para acuerdo de paz; Arabia Saudí pide no escalar; prima de riesgo petrolero se reduce.",
+    "Trump cancela ataque planeado a Irán tras acuerdo preliminar sobre parámetros de paz, reduciendo riesgo de escalada y bajando prima petrolera."
   ]
 }
