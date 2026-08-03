@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "291cf279da4505ad02584da8a0c001e01e862354c8d605e8d1f9819c92da0a07",
-    "fe76a8e58cc77bc6bf3f7aef6c63c10d69f1a4ec29cf51e581c65c9f174d5afc",
     "1e9d993ecbfa22c79485d306c242f72d54c0b8646c3b7676b1297b9719f440ef",
     "8f77c263ff11d8e37f7a8e89a15a53a58d1cf80d29af40b3d62b2793fef7753e",
     "b53bb0de25fe69582c568843ec9399ac7b8b661a526436bc2c125a9b597f1c2a",
@@ -499,7 +497,9 @@
     "5c5f6cd701e2f5ea636ab9814048cce276d0027ccee7cf63c85e4545b5879ea6",
     "80c6555ecace37c19d94c514a43133bff5607e18fce426c492e22a26adbf62be",
     "a66b335fa8e2cbb068c1bfbd01572b86e79fcd94cb4e269e02709a0fdcef2a52",
-    "55f6b78f2ed2c748f47a83f21e95aa56f85257263a01edfb56e8b36bf1f4a301"
+    "55f6b78f2ed2c748f47a83f21e95aa56f85257263a01edfb56e8b36bf1f4a301",
+    "a86709044b56ac2c2af3479e4bb5ef7233bf96084f1328c87392c22ec3230495",
+    "325974c057a8989280e63106e27a5a423e9e122264c6c356582f8c34fca13941"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -631,6 +631,7 @@
     "Trump cancela ataque planeado a Irán tras acuerdo preliminar sobre parámetros de paz, reduciendo riesgo de escalada y bajando prima petrolera.",
     "Irán llama a la pausa de Trump 'operación psicológica' sin avance en Ormuz; plan de Rubio para evadir el estrecho tiene limitaciones por oleoductos y amenazas en Mar Rojo, manteniendo riesgo de suministro.",
     "Irán dice que negociaciones con Omán sobre Ormuz están en fase final, mientras Trump mantiene pausa en ataques; posible avance hacia acuerdo que reduciría riesgo de bloqueo.",
-    "Trump cancela ataque a Irán y anuncia nueva ronda de conversaciones para el lunes, reduciendo prima de riesgo y bajando el petróleo más de 4%."
+    "Trump cancela ataque a Irán y anuncia nueva ronda de conversaciones para el lunes, reduciendo prima de riesgo y bajando el petróleo más de 4%.",
+    "Trump pausa ataque masivo a Irán y anuncia negociaciones para el lunes; Irán insta a EE.UU. a honrar el MoU, reduciendo prima de riesgo petrolero."
   ]
 }
