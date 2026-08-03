@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "435a2a766cadf31fb3fa05aa9ec6bb9745ce64c1ff624e4a7ba6bc274788f028",
-    "aa21b6a00eae0ee70114aa93a07509442c001538bfcec18ec7ec0ccc5e1a7b55",
-    "18df64b75d500a8fcb64197ea1b8c6414ae40442faf50f4c4a1bad153051c578",
-    "deffddd9bccc2212e257b2fb1528c7da4ef163536d167d939ca1d136c2943f21",
-    "168e020ca1e56e1e555a3079691ae6f9b580321d9a40386fbb6dab63abb5fffb",
-    "b4c31330c1466c9e5cc1d667c7451398a82a0de35b2509f4caf65e1aa1319ae4",
     "8eebae4b6ffd65f1bf998a4794342f3bd01e7fa82f075addfbb1930fdcc6e987",
     "46af5cc90caa0f3ffdc78c26bbb8dc71159612a3d28a1f879d5696e403f99ced",
     "1848f4d23d0b6b737503683eeb39931dfa77bcd414462e16a489156c769f78e3",
@@ -499,7 +493,13 @@
     "41f655045ea3fcf6c812c82103c7f99dd8455f8c4207f3c9ff957a303a8c2905",
     "43be2e63a131d2d92dc6bd7f554ac659db029741f4af40f8b07eb4b8540a6454",
     "7751656096938f62e41014c357d2e0776df69ddebc04903d7cb3559638e5049d",
-    "3ec2025b55c92fd0b299475e532b8d10f99f7854a195c1bccb5226cc8bf3b13b"
+    "3ec2025b55c92fd0b299475e532b8d10f99f7854a195c1bccb5226cc8bf3b13b",
+    "f5789ce089bc4d35905144782f285993fdafefdeb3cb17149e6e1c49e4aaf1c6",
+    "ecd11500b155cb392fc7fff8c168242f21247b19019649a122b95831070ab3f0",
+    "1a902ae9a85e68a6e8dbc8dff864982719cc5baeea679cb4a650821611a89898",
+    "6e875b31f5fdf1fb004a0407a2d79201a4e2c89bdfdf727237e7ab85fef7e012",
+    "3d572c0162924b18a228c3a892f6df9694cda0fbe81c5ef66b39101fc96753b7",
+    "236d097cd69beb18bf2204b61cb93aa1b86fa29906926739a0ec10c7b85d9da4"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -633,6 +633,7 @@
     "Irán dice que negociaciones con Omán sobre Ormuz están en fase final, mientras Trump mantiene pausa en ataques; posible avance hacia acuerdo que reduciría riesgo de bloqueo.",
     "Trump cancela ataque a Irán y anuncia nueva ronda de conversaciones para el lunes, reduciendo prima de riesgo y bajando el petróleo más de 4%.",
     "Trump pausa ataque masivo a Irán y anuncia negociaciones para el lunes; Irán insta a EE.UU. a honrar el MoU, reduciendo prima de riesgo petrolero.",
-    "Incidente no especificado con buque GNL griego en Ormuz sin daños; Trump suspende otra ronda de ataques a Irán, petróleo cae 5% y aumentan esperanzas de acuerdo."
+    "Incidente no especificado con buque GNL griego en Ormuz sin daños; Trump suspende otra ronda de ataques a Irán, petróleo cae 5% y aumentan esperanzas de acuerdo.",
+    "Dos petroleros saudíes (Lesvos y Desh Vaibhav) transitaron Bab el-Mandeb en modo oscuro el 3 de agosto de 2026, confirmando persistencia de amenaza hutí y elevando riesgo de suministro en Mar Rojo."
   ]
 }
