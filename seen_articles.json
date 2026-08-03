@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "8eebae4b6ffd65f1bf998a4794342f3bd01e7fa82f075addfbb1930fdcc6e987",
-    "46af5cc90caa0f3ffdc78c26bbb8dc71159612a3d28a1f879d5696e403f99ced",
-    "1848f4d23d0b6b737503683eeb39931dfa77bcd414462e16a489156c769f78e3",
-    "0f326cfa345681a88ebd68d7d746fb68d7c3b32cdb34e06c4c4cd41651097ae4",
-    "054a685b4733724da00511a1ba184efc57518e5436f4631aab844e99faf12cca",
     "58b1d9e89754a9d2cfd6b7c12996ebc87a4dfaf95b54668fd85d74fe56c51895",
     "50f46944394dd628bde0161e9333dd3218cb78ffedf4bb6385aae77092cc328c",
     "62dd9c9c87e30884b2d32208398271d5c44d4a043dbcfa1896bd2bb8d843d359",
@@ -499,7 +494,12 @@
     "1a902ae9a85e68a6e8dbc8dff864982719cc5baeea679cb4a650821611a89898",
     "6e875b31f5fdf1fb004a0407a2d79201a4e2c89bdfdf727237e7ab85fef7e012",
     "3d572c0162924b18a228c3a892f6df9694cda0fbe81c5ef66b39101fc96753b7",
-    "236d097cd69beb18bf2204b61cb93aa1b86fa29906926739a0ec10c7b85d9da4"
+    "236d097cd69beb18bf2204b61cb93aa1b86fa29906926739a0ec10c7b85d9da4",
+    "8061cfc59432e07454b3ac0c26c84fd1671d748089b43ed8ba4e68e59b799169",
+    "5d348e72a792873720d032c239f9b52b9fb741a030e54f97b5ec02f3e5ddf13e",
+    "6b95df533ddc70c5161b40264f0aa606b3b31676ca7fcceeb2877b023c6aec75",
+    "03d49ae21a921ea77f766b528eaf790b1e1c867b88015e274c4ad46b5b1b6e58",
+    "796f26547da2ffdac5badf862c5852090105c690cfdf6a43e03535c01e808e60"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -634,6 +634,7 @@
     "Trump cancela ataque a Irán y anuncia nueva ronda de conversaciones para el lunes, reduciendo prima de riesgo y bajando el petróleo más de 4%.",
     "Trump pausa ataque masivo a Irán y anuncia negociaciones para el lunes; Irán insta a EE.UU. a honrar el MoU, reduciendo prima de riesgo petrolero.",
     "Incidente no especificado con buque GNL griego en Ormuz sin daños; Trump suspende otra ronda de ataques a Irán, petróleo cae 5% y aumentan esperanzas de acuerdo.",
-    "Dos petroleros saudíes (Lesvos y Desh Vaibhav) transitaron Bab el-Mandeb en modo oscuro el 3 de agosto de 2026, confirmando persistencia de amenaza hutí y elevando riesgo de suministro en Mar Rojo."
+    "Dos petroleros saudíes (Lesvos y Desh Vaibhav) transitaron Bab el-Mandeb en modo oscuro el 3 de agosto de 2026, confirmando persistencia de amenaza hutí y elevando riesgo de suministro en Mar Rojo.",
+    "Trump acusa a Irán de duplicidad y exige rendición total en medio de bloqueo naval en Ormuz, incrementando riesgo de escalada y presión alcista sobre el crudo."
   ]
 }
