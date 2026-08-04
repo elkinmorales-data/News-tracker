@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "23566bf49e8e0fc8e5e5c035590e6789b8e15cc41c8399690697759f98609f23",
-    "edb0a0591bb40852aaf4274b93e3807b1c2cf3200def9f8536e319345851a452",
-    "ad348ce63babe23df9e5af321d4dbc20ba77c856f1a25fc222200b21bc62195a",
-    "a40e5c0287136e24a611a591de254867b2f893759ddbfa7077a6d78dbb7187e2",
-    "8ce9260fd2d3c47ee1ce30d07504bc6fb9dbe48f7e979bbb00ab085195630444",
-    "1d1f27d44e99fddf499bb51e4d5883eea2e5fb69cf00b70977131337cb77ae61",
     "92d411ec5df43bf962671ea7ca819f9787653cc84b8bfc7dc31f8048a4c0e795",
     "1f34f963d64986e582389c504d4b52ab5e830e808f12bc032a2b395f12c18ec3",
     "b8db37803a373b26a8caba7cfeb099d4e9fcb6dffddf77cac86b597c083d0c69",
@@ -499,7 +493,13 @@
     "153b6ef99039a9010d23d39702c26bd10f257364befccda79ac6448b45648efc",
     "3753dc4e576e4822873ef33cb3ee92716dc5b9f239f229bc7fb9e70adb00987f",
     "2f99d66cdfe4d8e064191f9f44b96c2c9120e04e2bf5b7831e8de7c3251f3a94",
-    "af24a9c7a159d82fdf507e6f0b4e165b39c3c56c6cd23e670dde59316afbc1ad"
+    "af24a9c7a159d82fdf507e6f0b4e165b39c3c56c6cd23e670dde59316afbc1ad",
+    "cfc5b6114fb14dce867eabf42e02798b8da3cb1dbc6b03d1958de2ec67c4cc66",
+    "318c37e3064472f061602641f39ed324400022a1361636985ee219ec1ac5ddc5",
+    "aea4511287f57d0395c4155ee8b82db9053751eb743ee511ba7bc3026ba7b0a7",
+    "d64a039bdf5fff99e206f18d784960b76c71ffcf3427dbaf13452fd1d5c41ec5",
+    "864bfbf14b1fc5e7ec1aa3cb29be2ce60d767b0da41adfda0e53ae5f499ff2d0",
+    "51dfe7efee946f8e76f43b1da48fa0569864a05fc2b6e65a574afb5ad47f3152"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -641,6 +641,7 @@
     "Buque de carga atacado en Ormuz el 4 de agosto de 2026; EE.UU. e Irán divergen en narrativa sobre negociaciones, elevando riesgo de escalada y prima de petróleo.",
     "Trump advierte que negociaciones con Irán son 'última oportunidad' mientras tráfico de petroleros en Ormuz sigue débil (solo 3 cruces el lunes), manteniendo incertidumbre sobre acuerdo o escalada.",
     "Bessent dice que posible acuerdo con Irán para abrir Ormuz con libertad de navegación el martes o miércoles, reduciendo riesgo de bloqueo y prima de petróleo.",
-    "Tráfico en Ormuz cae a mínimo de dos meses por ataques; India compra crudo nigeriano para evitar el estrecho, confirmando disrupción persistente pese a narrativas de acuerdo."
+    "Tráfico en Ormuz cae a mínimo de dos meses por ataques; India compra crudo nigeriano para evitar el estrecho, confirmando disrupción persistente pese a narrativas de acuerdo.",
+    "Nuevo desarrollo: EE.UU. y Catar señalan avances concretos en acuerdo preliminar con Irán para reabrir Ormuz (no solo retórica); Brent cae a ~$80 y aumenta expectativa de desescalada."
   ]
 }
