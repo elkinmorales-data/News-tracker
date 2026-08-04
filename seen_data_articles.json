@@ -136,7 +136,14 @@
     "35204852bc1071a9a623db9b2de7c3d5b320b86e9284380d0f4eed8283777ed7",
     "483ab72edb7270a52b9f5d20e6825b58aaf0e7e489d5772093eaf79db00ea625",
     "d76267750359847c8fdcfe561dc4b83dfdb6073b7b048094d9812bd5e49e82af",
-    "8944209db5a2cbab82aaeb5ac4acfb5bb1875992be8499399f50f5ef47092ef8"
+    "8944209db5a2cbab82aaeb5ac4acfb5bb1875992be8499399f50f5ef47092ef8",
+    "57a0e518dd1545ec4bffef543542ffb640c04b50b1bc29563e5eb85a6ea9103c",
+    "0688cfd14c6b9075008513a508db6c94fbada30a6e0575dede9623d110d1ff09",
+    "1bf9ce6038564dc0fea226072bd3927881df09b1a973be13513518ca070684ef",
+    "930526ab808a205c15425138cd235146ea950608396a4d23269c44b461fba5b2",
+    "9468f547276f1b3823e0fa5e19bd95b7985c3ce78dc789020eb6cdcda1d75246",
+    "f02b3a54a73a4fccbd1bff9880298b91739ff5d98ac5914a50e0cd99a3bde913",
+    "12074ac24317cde04c7a04160a0b9efa23c021a4c9dc0203af92461a7ac82219"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -155,6 +162,7 @@
     "FBTriton Infra de Meta con ingestión agéntica y validación L1/L2/L3 | Pipeline de agentes de voz controlados por voz con tool calling | Pipeline agéntico end-to-end con 7 componentes para producción | Comandos CLI ocultos de Claude Code para flujos de trabajo avanzados",
     "LanceDB vector database multimodal para AI workloads | Roundup semanal KDnuggets con foco en agentes autónomos y herramientas de análisis de datos 2026",
     "Agentic misalignment estudio de Anthropic sobre agentes que desobedecen al operador | Desafíos de alineación en agentes autónomos con objetivos propios",
-    "Estrategias de ahorro de tokens en arquitecturas multi-agente | Optimización de costos en sistemas agenticos multi-agente | Técnicas de compartición de contexto y gestión de memoria en multi-agente"
+    "Estrategias de ahorro de tokens en arquitecturas multi-agente | Optimización de costos en sistemas agenticos multi-agente | Técnicas de compartición de contexto y gestión de memoria en multi-agente",
+    "uv como reemplazo unificado de pip/venv/Poetry en Python | Evaluación práctica del agente MiniMax incluyendo arquitectura interna | Guía técnica de Agent Harness vs Loop vs Graph Engineering para diseño de agentes | Comparativa de batching estático, dinámico y continuo en inferencia LLM"
   ]
 }
