@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "3ba3135a370605f59ce77f81d06851a5aeb5521f53f6d595cf0c5dfcb25459d6",
-    "41d338cd9ca523c584f448d6b492b4430f7cb712ab04475481d21a7a7139aa88",
-    "8f9077ec4357c9fb7772645f095e5e18b10fd3a9fbaa5451aaa506974ff4d63b",
-    "ee22676632fdb009456b1c579767c9dabc3cd3b811faecb7dbb9e4e259976c6f",
     "9843036801a9d968614f8d239f808ea69572e71ecd7baf3008c8e8c11976f995",
     "1c78aebc2ecfeb5525c109bcc36a53e4a8ab6ff239ddda8574eb4656f2e04fe6",
     "9e5920262a37611b09e5d59d7cf31f34866bb683d46b609179fab9e1658e1396",
@@ -499,7 +495,11 @@
     "74a2e87c8093fae5831e5e71c1a856ef05149d41093b2b68f9a43b89a3403c07",
     "e62ddc2f89d0d3e1ca5bfed68515be8c97502f2817804b50f7d208e7f4679a9e",
     "03734f637ced94191eec0b4637e0e8e87818e776e903b42a0409f34b6e750897",
-    "18054ddd61cb3a24d5f5488c42ee2ecc5f89ddb94e449bc276cfa6f5d6dc7058"
+    "18054ddd61cb3a24d5f5488c42ee2ecc5f89ddb94e449bc276cfa6f5d6dc7058",
+    "a566d7eefd6a33f224c58c6d99b9807e4974a0adfa8842c8027f7438d574745b",
+    "ffe0adf8434155f7fd60d730f6884474d4407fbcd5551e5a3292c4400f482f41",
+    "cab772dc8e696372d426f7f766b6687a9607d28b57bd91d31559cb79470b94a7",
+    "1b50490ce22e550219fa956a2e6d039ef8c1b0fdb39c96bc1565d544b6b8f04f"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -638,6 +638,7 @@
     "Trump acusa a Irán de duplicidad y exige rendición total en medio de bloqueo naval en Ormuz, incrementando riesgo de escalada y presión alcista sobre el crudo.",
     "Ucrania expande ataques con drones a infraestructura petrolera rusa, refinación en julio cae a mínimo de 24 años (3.6 mbpd), elevando riesgo de oferta y precio.",
     "Trump llama a conversaciones con Irán 'última oportunidad' para acuerdo, sin romper pausa militar; riesgo geopolítico sigue incierto.",
-    "Buque de carga atacado en Ormuz el 4 de agosto de 2026; EE.UU. e Irán divergen en narrativa sobre negociaciones, elevando riesgo de escalada y prima de petróleo."
+    "Buque de carga atacado en Ormuz el 4 de agosto de 2026; EE.UU. e Irán divergen en narrativa sobre negociaciones, elevando riesgo de escalada y prima de petróleo.",
+    "Trump advierte que negociaciones con Irán son 'última oportunidad' mientras tráfico de petroleros en Ormuz sigue débil (solo 3 cruces el lunes), manteniendo incertidumbre sobre acuerdo o escalada."
   ]
 }
