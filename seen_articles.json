@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "ea451924158863c4ad843c3d2c48172ca58cb98f802995840d1c259a3fcdab0b",
-    "5ccef56a4473d54114219a2007ed9a3544b2ea1b8dcc34d80d1b355bd32f8656",
-    "b214a802c326598db9ae3f297c051f5ef5c1766e50cf3f97050bd1d9a91a7600",
     "709fba904d8637a383491bb493e8a9ba3c4224bb8cc5d9fbdff01bfef30d9480",
     "47b256b283f677de4da98aa6dfc291134952968c965237c338494031a1966b21",
     "c75d0a70a1d8d8a2cd648585d3ae59c07337567e12318361dd0cb49688f93365",
@@ -499,7 +496,10 @@
     "a393b3b9a308986a734d56bcc819b11b2814125ea95719197e852aa170611330",
     "433284ee2f4d6cebcad9b766602e440e7cdd6f9b74c5b6be86aa97d70f308647",
     "9c3621c3a58948838c21f1f4598a3e47e59c6ca8982b7ed415ccba34539e9bfb",
-    "0bc04617d2aaf6e1174d36279681db08c08eebee4b6c26c2a710d2d09f3efb7b"
+    "0bc04617d2aaf6e1174d36279681db08c08eebee4b6c26c2a710d2d09f3efb7b",
+    "aa9aeb6335d728cb65069f553207ba22bf26bc257f9d797de7fcaefeea14a430",
+    "0e601ab9abb35748a7b7b0436eb3fd4212a73a0ade8c16328da9216fa94b3263",
+    "b50f65e3ad9ef66445b31c9694ba1d5d8859e6155fed5d23a23b1d33094876f9"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -648,6 +648,7 @@
     "Irán dice que conversaciones con Omán sobre Ormuz son 'positivas' y un buque es atacado en el Mar Rojo; avance hacia acuerdo reduce prima de riesgo.",
     "Trump dice que acuerdo sobre Ormuz podría cerrarse el miércoles, pero tráfico de petroleros sigue muy bajo (5 cruces), señalando que la desescalada aún no se refleja en flujos reales.",
     "Hutíes hunden petrolero con crudo saudí en el Mar Rojo (4 ago 2026) y Trump advierte de 'golpe duro' si no hay acuerdo con Irán, elevando riesgo de suministro.",
-    "Hutíes afirman haber alcanzado con misiles balísticos al petrolero saudí 'Wafaa' en el Mar Rojo el 5 de agosto de 2026, confirmando amenaza activa a la navegación en Bab el-Mandeb y elevando riesgo de suministro."
+    "Hutíes afirman haber alcanzado con misiles balísticos al petrolero saudí 'Wafaa' en el Mar Rojo el 5 de agosto de 2026, confirmando amenaza activa a la navegación en Bab el-Mandeb y elevando riesgo de suministro.",
+    "Borrador de acuerdo para reabrir Ormuz completado por Irán y Omán, pendiente de aprobación de Jamenei; posible firma en 48 horas según EE.UU."
   ]
 }
