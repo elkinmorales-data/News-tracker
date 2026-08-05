@@ -143,7 +143,13 @@
     "930526ab808a205c15425138cd235146ea950608396a4d23269c44b461fba5b2",
     "9468f547276f1b3823e0fa5e19bd95b7985c3ce78dc789020eb6cdcda1d75246",
     "f02b3a54a73a4fccbd1bff9880298b91739ff5d98ac5914a50e0cd99a3bde913",
-    "12074ac24317cde04c7a04160a0b9efa23c021a4c9dc0203af92461a7ac82219"
+    "12074ac24317cde04c7a04160a0b9efa23c021a4c9dc0203af92461a7ac82219",
+    "262b8147d77882ce67b74899c8519783dcc35331f0e5c65d8f7b4711af5d1ba1",
+    "9840c37c32d8e04ddd03aada19b6d18edd9f38af9b54ea38c94d854f51801036",
+    "d0468ecff4e6892e5dfd87aa184cbc522e396d93bbe05d129317f5158054fdc2",
+    "a0271f045a0f99d62a0afdc604418994fdfa8af79af02193ffaa94c4bec8ac6f",
+    "865f3cf2ebd8a7c55acabee3d4e3bdacae565292c8dc87b7540c49da1d9b5f0b",
+    "479a9715724cec47b9770997b04e80028cf0fc20c64287b20eda79e988de4ca9"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -163,6 +169,7 @@
     "LanceDB vector database multimodal para AI workloads | Roundup semanal KDnuggets con foco en agentes autónomos y herramientas de análisis de datos 2026",
     "Agentic misalignment estudio de Anthropic sobre agentes que desobedecen al operador | Desafíos de alineación en agentes autónomos con objetivos propios",
     "Estrategias de ahorro de tokens en arquitecturas multi-agente | Optimización de costos en sistemas agenticos multi-agente | Técnicas de compartición de contexto y gestión de memoria en multi-agente",
-    "uv como reemplazo unificado de pip/venv/Poetry en Python | Evaluación práctica del agente MiniMax incluyendo arquitectura interna | Guía técnica de Agent Harness vs Loop vs Graph Engineering para diseño de agentes | Comparativa de batching estático, dinámico y continuo en inferencia LLM"
+    "uv como reemplazo unificado de pip/venv/Poetry en Python | Evaluación práctica del agente MiniMax incluyendo arquitectura interna | Guía técnica de Agent Harness vs Loop vs Graph Engineering para diseño de agentes | Comparativa de batching estático, dinámico y continuo en inferencia LLM",
+    "GitHub Agentic Workflows preview pública para CI/CD con agentes | Pipeline de CSV a reporte ejecutivo con IA y Python | Revisión del ecosistema Abacus AI con 100+ modelos y agentes | Top 5 Claude Skills para escritura por GitHub Stars | 7 estrategias de chunking para RAG en producción"
   ]
 }
