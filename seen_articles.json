@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "e7610251207705a12084de381679454c63b3a4cbc6af4b472ed10427c0e369ef",
-    "351be7b7ac903d92bb64be1fecc83f6a04feaecf0e5954b0bd0d0b873b32325c",
-    "aac1c96c7b3dcf4cb52547f0b599671d5cabb387b7bbe595b6fb1cdcdaa05b6a",
-    "94b9ccc11fe3edfd6bca8380dc7c0787772f988f4d53e0a09d07fee3b329ddbd",
-    "c8a3f8b9a6ba8adbaf0235ac2978be8a795f475a4661865d52421db5ae44a4ff",
-    "b4664ed9465a575fe3aa2811657dd92daa5522c67082157dd2cff9d087a71a32",
-    "435e9f7403042e7ec30e1d346b66c68928cb84eecc06ea01e83f4b7c800114ae",
     "ea451924158863c4ad843c3d2c48172ca58cb98f802995840d1c259a3fcdab0b",
     "5ccef56a4473d54114219a2007ed9a3544b2ea1b8dcc34d80d1b355bd32f8656",
     "b214a802c326598db9ae3f297c051f5ef5c1766e50cf3f97050bd1d9a91a7600",
@@ -499,7 +492,14 @@
     "6c09096664204e5691616b9797d20699ad3a15a29e117e7078445207ce51e027",
     "cc98abd89f6cd3200ac2eea99b5a173bc05b9ae6457f28ceab389a61a1b6704d",
     "067905cf709e5394a1864ba4375de8a7ae9b753be73e385b93dd0bdf0f500b3d",
-    "fe3126125aa8ae3919f7857c5a00f4eeead6b0c2aad69c1ae2454a5e6452b53f"
+    "fe3126125aa8ae3919f7857c5a00f4eeead6b0c2aad69c1ae2454a5e6452b53f",
+    "3c1ff279137495eb0ad88e1e5be3e4508c22b5cd084f0348ff8ebed8f4afecf0",
+    "e1bed8d9574ff3b30c6b0dee5f53f448aa3d3d0e895c6813a9cb5265a9a7c8f5",
+    "7d5bd25d54a97987a496e0d1fa1dcd9aa6b7df0660884e6cba1d4296bf0b4044",
+    "a393b3b9a308986a734d56bcc819b11b2814125ea95719197e852aa170611330",
+    "433284ee2f4d6cebcad9b766602e440e7cdd6f9b74c5b6be86aa97d70f308647",
+    "9c3621c3a58948838c21f1f4598a3e47e59c6ca8982b7ed415ccba34539e9bfb",
+    "0bc04617d2aaf6e1174d36279681db08c08eebee4b6c26c2a710d2d09f3efb7b"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -647,6 +647,7 @@
     "EE.UU. dice que acuerdo para reabrir Ormuz está cerca; Irán y Omán sostienen conversaciones positivas, reduciendo prima de riesgo y presionando precios a la baja.",
     "Irán dice que conversaciones con Omán sobre Ormuz son 'positivas' y un buque es atacado en el Mar Rojo; avance hacia acuerdo reduce prima de riesgo.",
     "Trump dice que acuerdo sobre Ormuz podría cerrarse el miércoles, pero tráfico de petroleros sigue muy bajo (5 cruces), señalando que la desescalada aún no se refleja en flujos reales.",
-    "Hutíes hunden petrolero con crudo saudí en el Mar Rojo (4 ago 2026) y Trump advierte de 'golpe duro' si no hay acuerdo con Irán, elevando riesgo de suministro."
+    "Hutíes hunden petrolero con crudo saudí en el Mar Rojo (4 ago 2026) y Trump advierte de 'golpe duro' si no hay acuerdo con Irán, elevando riesgo de suministro.",
+    "Hutíes afirman haber alcanzado con misiles balísticos al petrolero saudí 'Wafaa' en el Mar Rojo el 5 de agosto de 2026, confirmando amenaza activa a la navegación en Bab el-Mandeb y elevando riesgo de suministro."
   ]
 }
