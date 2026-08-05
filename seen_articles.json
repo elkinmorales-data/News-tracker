@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "1ce8464f0ec6caa07711c5ad1d0e0a2766e8607fca8c9a365c3d6a57ac96e548",
-    "8f98678010309e214bb1dc507811b1a71c16c083175c4c72e097dc47b3a74607",
     "c105c893da972426561492e9f2a84a6b9a002bb71587118d1d0971234f6d9e63",
     "70a98bb5e9289cba71119c4c444b7a1deb08bc4d9bec8ff089c9d8ce2b56ffb3",
     "41855997c3c4b72f0132639ae30b63f1c6a5da78177fd01d2e25519f7d9da248",
@@ -499,7 +497,9 @@
     "63231460f0f03a82fb8d02914f813d7a0b8038477393ca0af09ce11f6be37e4a",
     "8b9f797c26267ab2b9c239e0dcfa838bfad4b85f915e571bbe081bbcf4d3f9b4",
     "c9400cf09f6a40b96827a8d01245bbf8ce9b0bf2f36aca9b9dd8a16c804ef900",
-    "2fb216ea8d2481f129260fc305742b802c2b32ca82c352ca87b8e2b7a5499a9a"
+    "2fb216ea8d2481f129260fc305742b802c2b32ca82c352ca87b8e2b7a5499a9a",
+    "9c9ad014f8fb9ae902a85579d17cdea480b9357e81a3093c7bc0f42c2d6fc1ba",
+    "e440ab40ea27fe8b0459b220b312d15935fbea889d19c74e79abb22d0f6a1e80"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -649,6 +649,7 @@
     "Trump dice que acuerdo sobre Ormuz podría cerrarse el miércoles, pero tráfico de petroleros sigue muy bajo (5 cruces), señalando que la desescalada aún no se refleja en flujos reales.",
     "Hutíes hunden petrolero con crudo saudí en el Mar Rojo (4 ago 2026) y Trump advierte de 'golpe duro' si no hay acuerdo con Irán, elevando riesgo de suministro.",
     "Hutíes afirman haber alcanzado con misiles balísticos al petrolero saudí 'Wafaa' en el Mar Rojo el 5 de agosto de 2026, confirmando amenaza activa a la navegación en Bab el-Mandeb y elevando riesgo de suministro.",
-    "Borrador de acuerdo para reabrir Ormuz completado por Irán y Omán, pendiente de aprobación de Jamenei; posible firma en 48 horas según EE.UU."
+    "Borrador de acuerdo para reabrir Ormuz completado por Irán y Omán, pendiente de aprobación de Jamenei; posible firma en 48 horas según EE.UU.",
+    "Irán confirma que conversaciones con Omán sobre Ormuz están en fase final y que se acordaron coordenadas de ruta, acercando un acuerdo para reabrir el estrecho."
   ]
 }
