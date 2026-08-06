@@ -2,7 +2,7 @@ name: Data Trends Tracker
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # 13:00 UTC = 8:00am Colombia
+    - cron: "0 13,14 * * *"   # 13:00 UTC = 8:00am Colombia (14:00 = respaldo si falla infraestructura)
   workflow_dispatch: {}     # permite correrlo manualmente desde GitHub
 
 permissions:
