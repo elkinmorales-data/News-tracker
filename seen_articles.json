@@ -1,13 +1,5 @@
 {
   "seen_hashes": [
-    "9cff6c220490cbd5f57e7399fe901cad3306ec00e7664990b935174fc9086d90",
-    "a9eb787bd19fc0ae7114c242f2b8b647cb83cfd9f3e0af6abe477f4c1d70d262",
-    "ac29df7aa97c9f4daefeaebf1825bb461c0fab84d03c3dc0b6982277fb91bbbe",
-    "ca1f795e303cf0cd75b3806173023416b5a2a344107629ca2bd74db8b7a2f823",
-    "873847ea8c470c159084f3665ed434d770ac42accf747173cab50da7c4e948b1",
-    "dac87bec70a2e5150d9c182612f90491958e7bf77b720e8fe8e7974fd12d2497",
-    "6572eb9e679d386752c0d85efa177b54ab8704200125ad2de8e832c6a3e7be6e",
-    "84c31258c3ef7d6065a4b241861f22ea99dad76e5ccd63b7156e6f86b9f6630c",
     "32655753a791bfc4d0517bd2eedfb435f47df28d93f79e7c6e4167c258912722",
     "f10b0e7f81994774e6e3afa74cc8459d44f3bc70f7f5d2434b8f70fe877ea7b6",
     "2985a2e08883ef14fcd691eae6b01d7fc28c52d7cce7f85b9b908a3dd7c96fd6",
@@ -499,7 +491,15 @@
     "8d7e8f2370dcfc4590c24f62a01c5dd167f4e45e3f668b9a666a376e97969aad",
     "7e847df2cb85abc8a3a4dec369517e5f6753bf93ec59559014ef3a84476b9c5a",
     "f56d268456053c8e422e259f1a83d6fb7063b89bbf26f6d800ecb785d580af27",
-    "f1e98ddf81c4f177ac021a8572efa39b9c6d5ebd8681ebe61f3020244a8abe24"
+    "f1e98ddf81c4f177ac021a8572efa39b9c6d5ebd8681ebe61f3020244a8abe24",
+    "de9afbf9843391b3852963816099a5dd9adfc90395b36190f97261f9a0479ea8",
+    "803331b2ab3900464424a2adf3a8be8dc93f402c9f3fec920f542d9d2121bfc3",
+    "3c38e89faf215d6b92e6656a51084e6cc0a73904c2304e426dd2cac0560de74b",
+    "f6e298e569b04df573075aa8de6dcb7ef32d1b2b08904c2f4b9f0b628d8da2c2",
+    "7338c5784672c63aa681574ee3bfa38dd697da5face7c5d1556fc160c02492b0",
+    "3ad767cb29ad729dfe75c61c8370684719548e9f94f642c71b45da4be7f01344",
+    "4db915f0571138e2e500eb3f583bec2e6e368f2aaa0c44155a4af48c108b4629",
+    "0b8699e003fc07b420dc30fa7f1434ac3f4f1c31fdedfaf0d64d4e0d59a867ff"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -653,6 +653,7 @@
     "Irán confirma que conversaciones con Omán sobre Ormuz están en fase final y que se acordaron coordenadas de ruta, acercando un acuerdo para reabrir el estrecho.",
     "Irán dice que EE.UU. está listo para retomar compromisos y Trump afirma que acuerdo está cerca, pese a negativa iraní de negociar directamente; refuerza expectativa de desescalada y baja precios.",
     "Irán y Omán cerca de acuerdo final para gestión conjunta de Ormuz, con Brent bajo $80; avance concreto reduce prima de riesgo.",
-    "UAE mantiene exportaciones de crudo a niveles pre-crisis usando oleoductos, transbordos y modo oscuro para evadir bloqueo de Ormuz; reduce presión sobre oferta y riesgo de suministro."
+    "UAE mantiene exportaciones de crudo a niveles pre-crisis usando oleoductos, transbordos y modo oscuro para evadir bloqueo de Ormuz; reduce presión sobre oferta y riesgo de suministro.",
+    "Tráfico marítimo en Ormuz colapsa a 2 cruces y Bab el-Mandeb a 1 tras ataque hutí a petrolero saudí; Irán y Omán acuerdan coordenadas para reapertura pero flujos aún no se recuperan, manteniendo riesgo de oferta."
   ]
 }
