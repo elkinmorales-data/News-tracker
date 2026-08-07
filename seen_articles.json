@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "399962d62556b07ae91a9290ff13bbf4d2753b86bcaaf961941e00adeecb7fbc",
-    "e0fb6ec9a2a5d81c93bd78026d281be068eb0012296be908271fb494f5db8d14",
     "20c765d024cd24c29632dbd5b9cdd61a8028a4ce1d78f5dad82e39e78e4d6d6a",
     "d452c0e8875a8c89dbc7b4371fd003936f0b895b72c607b725ad6b30c862d719",
     "3cd6bfb26f881dd0f3e51010ec73d81f90529ff41b918152586eeac1ffb0b7b6",
@@ -499,7 +497,9 @@
     "4c9adc9383c83dd6eacbc62b8e47c009fa71174ed88243a591aa358512b44bb2",
     "efa42dce1ca0e1bbc4ee8ec85900bf73013b59bd8b5018a19978f9ccbba07c4a",
     "ca377711691c13afd726044c600a6ec5c8c3c0b061545f3c0e04e1d87516f0be",
-    "6da1959b2c79cd313af220aad280ff54a73ef517508e26a40d846fe4a5b765fc"
+    "6da1959b2c79cd313af220aad280ff54a73ef517508e26a40d846fe4a5b765fc",
+    "540553d39fb8f233986410ea2fec46dee8702c8d093c625579c23f48d3e5d0a9",
+    "e0e8c9306a34fceac8ef8cb9c5160a2426db71428951d08ca7edaca901732d5c"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -663,6 +663,7 @@
     "Tráfico en Ormuz cae drásticamente: 33 buques en cuatro días (vs 50 la semana previa), 4 el jueves, confirmando disrupción persistente pese a conversaciones.",
     "Europa duda en sumarse a coalición naval en Ormuz por temor a confrontación con Irán, debilitando presión militar y manteniendo incertidumbre sobre reapertura del estrecho.",
     "Irán considera ley que prohíbe buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada.",
-    "Arabia Saudita emplea ruta alternativa Yanbu-SUMED-Cabo de Buena Esperanza para exportar a Asia, añadiendo $5/bbl por costos extra, confirmando disrupción persistente en Ormuz y Mar Rojo pese a negociaciones de acuerdo."
+    "Arabia Saudita emplea ruta alternativa Yanbu-SUMED-Cabo de Buena Esperanza para exportar a Asia, añadiendo $5/bbl por costos extra, confirmando disrupción persistente en Ormuz y Mar Rojo pese a negociaciones de acuerdo.",
+    "Irán considera ley para prohibir permanentemente buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada."
   ]
 }
