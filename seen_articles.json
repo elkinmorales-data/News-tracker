@@ -1,18 +1,5 @@
 {
   "seen_hashes": [
-    "32655753a791bfc4d0517bd2eedfb435f47df28d93f79e7c6e4167c258912722",
-    "f10b0e7f81994774e6e3afa74cc8459d44f3bc70f7f5d2434b8f70fe877ea7b6",
-    "2985a2e08883ef14fcd691eae6b01d7fc28c52d7cce7f85b9b908a3dd7c96fd6",
-    "8b8bb560611391dbf7a2a8607af0d603286f49a30bdf382fe3a6336bc500c6fe",
-    "b6584e41821e53b3c8b4517818d77d604b1c312bf5fa6cee1fd0bb24030ec350",
-    "42f40671093792c9dcf0b4b1d1e7ccc893d19ef9fe6ab504c692f583e21f05a9",
-    "4a99627353e1a3dc6246207990b0c77cbfd6796c16ae37f556ffee47821faf3f",
-    "c17aaa3fd0c240ef3e2c6f7f678f8596e89e3c2288f0828d1f723884ece82f77",
-    "bf20d4a9467f88c5e248336ac5d5b1b0147471e1a54ed408895a4bd93f65f498",
-    "f4ceb7b0270a7e770932e913a52014bb7a3ee74e86e90a4641bbf3300ebb4c97",
-    "7a0bca31b021a995d0bc787ebc4d48078059bf7d80fa8c3856d5c93759abccc5",
-    "b2b462dd4a0b6d17176d2b73e9a12af3452ed720d943f2878e467f4d981151d1",
-    "93b68a5b9efcb38e31418f035d8eb3547fffccef5225bec25ac5e859db0977c7",
     "77a9e5330cfb2c3310627b143740fb77db053070a7dd2ecf931ebf529737faf3",
     "260d4f653a40de4267d20a0dd1a85940b32b67281752e8f37c40c11a0380e69a",
     "d82cabbde89e4764432ef3e342f6c6b6594261900f73eb2ba58f7c746731734c",
@@ -499,7 +486,20 @@
     "7338c5784672c63aa681574ee3bfa38dd697da5face7c5d1556fc160c02492b0",
     "3ad767cb29ad729dfe75c61c8370684719548e9f94f642c71b45da4be7f01344",
     "4db915f0571138e2e500eb3f583bec2e6e368f2aaa0c44155a4af48c108b4629",
-    "0b8699e003fc07b420dc30fa7f1434ac3f4f1c31fdedfaf0d64d4e0d59a867ff"
+    "0b8699e003fc07b420dc30fa7f1434ac3f4f1c31fdedfaf0d64d4e0d59a867ff",
+    "c2e43a07cdcf9c405a2f489d5aefdc3a14a2c6be3da87d849aa19894cd1538a9",
+    "03dc7c3c2f338ecb7f01b116fce90ac17769c48fee74ab34712a5ec6af960a42",
+    "2ec7abe5fbf112724e8e103428242ffd958cc1fdebc19e0b515ef29bcb60d34f",
+    "e93bb7be88ca93caabe2294e6342799389edc43710effd681fab4ff551163c47",
+    "bf85c47b5cbac5670943dde5cb4b12853c7e95b826c4300d6e0f356ea0744a08",
+    "5680498176b7dd867d4f1615017debc71eb65e086697cd63e0fd2cae38fa1a80",
+    "df96b2097d789da44ce5e9a5c8a43e2cf2851fa0018b367a2d37c97a1f2c5a51",
+    "078ea1fefbc11434e78e26fe53950d89674c028320ef3aee96170932e53a5837",
+    "d5dce2d315a2127ec242d001794bfe90e7f02080270a23e38df9b2bdf65a5889",
+    "a6dbbcba07d56f4792b27a6961988612c9c670c4d9ec09f49bfba66659de0914",
+    "f178d9d2f999c77d0f4d6e624af54837cd98d56a3839eac303d6e263b2ed38c8",
+    "552600260892656677562f80db4987b4422f1a35d1d393d6eaef4e829146ad7f",
+    "fc2fdf776c66deeba15ec6d9e4b9e060c36a214a4dbf60528e83038d33e1b2f3"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -654,6 +654,7 @@
     "Irán dice que EE.UU. está listo para retomar compromisos y Trump afirma que acuerdo está cerca, pese a negativa iraní de negociar directamente; refuerza expectativa de desescalada y baja precios.",
     "Irán y Omán cerca de acuerdo final para gestión conjunta de Ormuz, con Brent bajo $80; avance concreto reduce prima de riesgo.",
     "UAE mantiene exportaciones de crudo a niveles pre-crisis usando oleoductos, transbordos y modo oscuro para evadir bloqueo de Ormuz; reduce presión sobre oferta y riesgo de suministro.",
-    "Tráfico marítimo en Ormuz colapsa a 2 cruces y Bab el-Mandeb a 1 tras ataque hutí a petrolero saudí; Irán y Omán acuerdan coordenadas para reapertura pero flujos aún no se recuperan, manteniendo riesgo de oferta."
+    "Tráfico marítimo en Ormuz colapsa a 2 cruces y Bab el-Mandeb a 1 tras ataque hutí a petrolero saudí; Irán y Omán acuerdan coordenadas para reapertura pero flujos aún no se recuperan, manteniendo riesgo de oferta.",
+    "Irán publica plan restrictivo para Ormuz (6 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste."
   ]
 }
