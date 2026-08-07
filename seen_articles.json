@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "77a9e5330cfb2c3310627b143740fb77db053070a7dd2ecf931ebf529737faf3",
-    "260d4f653a40de4267d20a0dd1a85940b32b67281752e8f37c40c11a0380e69a",
     "d82cabbde89e4764432ef3e342f6c6b6594261900f73eb2ba58f7c746731734c",
     "e5d885dec672d637a8f166daf573090ebb890eda6a17e6b9532059528d40fd7e",
     "96a1554fbde01876c1c702a2bb0edb6fc898f21268380ddcddbaa6806d66f630",
@@ -499,7 +497,9 @@
     "a6dbbcba07d56f4792b27a6961988612c9c670c4d9ec09f49bfba66659de0914",
     "f178d9d2f999c77d0f4d6e624af54837cd98d56a3839eac303d6e263b2ed38c8",
     "552600260892656677562f80db4987b4422f1a35d1d393d6eaef4e829146ad7f",
-    "fc2fdf776c66deeba15ec6d9e4b9e060c36a214a4dbf60528e83038d33e1b2f3"
+    "fc2fdf776c66deeba15ec6d9e4b9e060c36a214a4dbf60528e83038d33e1b2f3",
+    "2363523ca86b92b861d3855da532fd287bc0f0fc81a7066c7290280d26891bbd",
+    "7d9d0f048b5a41210d9c6ee861db5cc1d337b5f2990d8e4c0599583250eacd2b"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -655,6 +655,7 @@
     "Irán y Omán cerca de acuerdo final para gestión conjunta de Ormuz, con Brent bajo $80; avance concreto reduce prima de riesgo.",
     "UAE mantiene exportaciones de crudo a niveles pre-crisis usando oleoductos, transbordos y modo oscuro para evadir bloqueo de Ormuz; reduce presión sobre oferta y riesgo de suministro.",
     "Tráfico marítimo en Ormuz colapsa a 2 cruces y Bab el-Mandeb a 1 tras ataque hutí a petrolero saudí; Irán y Omán acuerdan coordenadas para reapertura pero flujos aún no se recuperan, manteniendo riesgo de oferta.",
-    "Irán publica plan restrictivo para Ormuz (6 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste."
+    "Irán publica plan restrictivo para Ormuz (6 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste.",
+    "Irán publica plan restrictivo para Ormuz (7 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste."
   ]
 }
