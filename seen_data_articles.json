@@ -152,7 +152,15 @@
     "479a9715724cec47b9770997b04e80028cf0fc20c64287b20eda79e988de4ca9",
     "806a3604f068a31d1a80c51290ed9c2a4ae8742ac5127045c389fe3af423d44b",
     "44e7c92283cc2b00b37ad2010178bf7b04199457270317a9f1cff938518fd7b8",
-    "62e28416b2ef27d254c16a5242a04b7fbba1475f93a4f102fe98a9b949fccb03"
+    "62e28416b2ef27d254c16a5242a04b7fbba1475f93a4f102fe98a9b949fccb03",
+    "b5333a6d30bb95c2a99953f103d4024551b2ff3d5e735dba095e01b421df42a8",
+    "4fc512a8597ae53c117d3c67f88f8ed1c9ee190ee005abc5d9548455fc0a5b56",
+    "6f294fb07190134fbf10a3f9751351031cbf2c21d7cb2b48e41dcb16670d55e7",
+    "3d1ea0ada376cd4eb94312efd8372e2846f1bd6c1b309a3e901d53340fa67869",
+    "fab6cf0b67faa94e8773fcf6062d482eb630fa0326019f85c7139a5d4d0b3aff",
+    "99260dbc7e5c8a8373c531b1c67fc48ca114786f9cb1477cd7e12058f1075c97",
+    "0dc5f036ff867b07aabd381c69c34ffb9f420d607810a6685956a82abc5d9a08",
+    "224467182540871b8a65f40e6c50e5779293b658198044ebe4f00ec6107b57d9"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -174,6 +182,7 @@
     "Estrategias de ahorro de tokens en arquitecturas multi-agente | Optimización de costos en sistemas agenticos multi-agente | Técnicas de compartición de contexto y gestión de memoria en multi-agente",
     "uv como reemplazo unificado de pip/venv/Poetry en Python | Evaluación práctica del agente MiniMax incluyendo arquitectura interna | Guía técnica de Agent Harness vs Loop vs Graph Engineering para diseño de agentes | Comparativa de batching estático, dinámico y continuo en inferencia LLM",
     "GitHub Agentic Workflows preview pública para CI/CD con agentes | Pipeline de CSV a reporte ejecutivo con IA y Python | Revisión del ecosistema Abacus AI con 100+ modelos y agentes | Top 5 Claude Skills para escritura por GitHub Stars | 7 estrategias de chunking para RAG en producción",
-    "Toolkit mínimo de herramientas de IA para producción 2026 | Comparativa de herramientas de web crawling y APIs para datos de agentes 2026 | Patrones de diseño para agentes de IA con autocorrección basada en modos de fallo"
+    "Toolkit mínimo de herramientas de IA para producción 2026 | Comparativa de herramientas de web crawling y APIs para datos de agentes 2026 | Patrones de diseño para agentes de IA con autocorrección basada en modos de fallo",
+    "Análisis empírico de 400K sesiones de Claude Code con mejores prácticas basadas en evidencia | Identificación de costos de tokens ocultos en loops agenticos y su optimización | Top 10 skills para Claude Code y Codex CLI como bibliotecas reutilizables | Arquitectura híbrida RAG + fine-tuning para soporte AI en producción | smolLM3 con Hugging Face Transformers demostrando SLMs como alternativa rentable a modelos grandes"
   ]
 }
