@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "a300bd191c49d3a40145083f19891488c238824f92dd42b801b64c738ea74249",
-    "fa42a6ee0214b3275534cb807de50b06f6970d7ba7198218aa9eb12aecf0b06a",
     "fefbadf06287a651ba140bdc3c752b1b5c34fe864bc354e11e977300b73c9d14",
     "2b54410c4204ea47c74529547cbb39f5da941b5987aa007a20088e1a4c4d02f6",
     "ec8b3bcd49331fc888c9b1d65575637e331d5f24731ad220d92e1328365ad43c",
@@ -499,7 +497,9 @@
     "102b57cf28ef737bb9f8c94c3c6a6913293a9a8e34e8e12f0a860fc73e03a4fc",
     "ffd1ce1a1b1c12f46b40f3e8f88c9a01887715ce70500bccf586cd4842d0439e",
     "20ad6572fd3a49a2929252a27c3eb0f6ad6b5b8afeb396e3f9f39610aec46f54",
-    "6fca5a7c3b58e8cb0859e8a2a2a7a0e5085702deb8836a2c616e8e6deb200b26"
+    "6fca5a7c3b58e8cb0859e8a2a2a7a0e5085702deb8836a2c616e8e6deb200b26",
+    "78d25550c4ebe3fe21db4bad769ad028fff0eb346110d2ca14cabb4e77d4c2af",
+    "4c9adc9383c83dd6eacbc62b8e47c009fa71174ed88243a591aa358512b44bb2"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -662,6 +662,7 @@
     "Rusia importó 30,000 toneladas de combustibles de Corea del Sur en julio por caída de refinación a mínimo de 24 años tras ataques ucranianos, confirmando disrupción de oferta rusa.",
     "Tráfico en Ormuz cae drásticamente: 33 buques en cuatro días (vs 50 la semana previa), 4 el jueves, confirmando disrupción persistente pese a conversaciones.",
     "Europa duda en sumarse a coalición naval en Ormuz por temor a confrontación con Irán, debilitando presión militar y manteniendo incertidumbre sobre reapertura del estrecho.",
-    "Irán considera ley que prohíbe buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada."
+    "Irán considera ley que prohíbe buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada.",
+    "Arabia Saudita emplea ruta alternativa Yanbu-SUMED-Cabo de Buena Esperanza para exportar a Asia, añadiendo $5/bbl por costos extra, confirmando disrupción persistente en Ormuz y Mar Rojo pese a negociaciones de acuerdo."
   ]
 }
