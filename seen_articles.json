@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "f4c78e884f710a8c83389ef3cd570873696a084f596f5ac19ad780b2cb8e7804",
-    "d1534b096a11376e15a1ff2bbaa1a705f20554cbb42e5b8113190bfd8113d852",
-    "dd8f543d93c09c0f7916627a62db5a4e47da4cc94f02816c26ea1fa7168615cb",
     "144c141dba5278602cb7465202510a047298998d502dd5469dea38ee12189e84",
     "3baf4193d030d317045fd23e7836c174d4f6625c4919b011e235952cf6d9b52c",
     "8caf5762ef632d9307cfab0f354d3b0382d25717f66a7884a37a2ec50c30d5e0",
@@ -499,7 +496,10 @@
     "46474360e01feacf05cd23ea0135438fc58cebed1e120f28c75be8b919788ebc",
     "080c487ecbec4dd056479317f8420d4cd970df8795b64a7c4af4aec2d8749c2e",
     "53d57d10a38a0a6d2d19f1aac63b6e20fe365020086d510c31a3a35fed82ee20",
-    "3f8c9ae558093829a74ce334a5337d68d96b3becb935933ff5cfe16854427f90"
+    "3f8c9ae558093829a74ce334a5337d68d96b3becb935933ff5cfe16854427f90",
+    "6a7794cdd0c49418bfacfd384c7a1df72b10c4c808cb3bf34c97c2d212f1486a",
+    "d5985430a3db0a56e41d867a9682c583dde38e2c48ad271470a6374c6229af9b",
+    "54a8c14370485633388b63cc831467d038c1acd58b558fce007746fd3e4089ac"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -660,6 +660,7 @@
     "AP reporta que acuerdo sobre Ormuz requeriría concesiones de Trump, añadiendo incertidumbre sobre desenlace y prima de riesgo petrolero.",
     "Hutíes atacan Najran (11 muertos) e Irán estudia prohibir buques hostiles en Ormuz con multas, elevando riesgo de suministro y precios.",
     "Rusia importó 30,000 toneladas de combustibles de Corea del Sur en julio por caída de refinación a mínimo de 24 años tras ataques ucranianos, confirmando disrupción de oferta rusa.",
-    "Tráfico en Ormuz cae drásticamente: 33 buques en cuatro días (vs 50 la semana previa), 4 el jueves, confirmando disrupción persistente pese a conversaciones."
+    "Tráfico en Ormuz cae drásticamente: 33 buques en cuatro días (vs 50 la semana previa), 4 el jueves, confirmando disrupción persistente pese a conversaciones.",
+    "Europa duda en sumarse a coalición naval en Ormuz por temor a confrontación con Irán, debilitando presión militar y manteniendo incertidumbre sobre reapertura del estrecho."
   ]
 }
