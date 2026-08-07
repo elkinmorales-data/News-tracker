@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "cb35186447be176280e92ee99e424f7a4deac1f89f75a3c453d12ecf8786c440",
-    "678daa787073b71371bdedd873389945b55c1e57b4c06ede5321b80c6970df79",
-    "3dc086e84c0dc7ab8fdfe980a35dfe90c40886acf97e118f7a4fe7216e063efe",
     "4ccb6d1a34412b440f246b1d53f7427671396d29921f2f13cc57b170bdc43fc1",
     "e760c763c99f26ad81748baf77a89aa8cd93db2c34b03da50d9fde35aa3844cc",
     "f4c78e884f710a8c83389ef3cd570873696a084f596f5ac19ad780b2cb8e7804",
@@ -499,7 +496,10 @@
     "16619fe7d4e569d92773800dd7deecacd9899ebca036ca066aa44e68b3148378",
     "dfb08d3b778b4aa4484a53652565a6c81df049761061fd54fd3c6f897c7d04d4",
     "c8aeee5a2583348cc19d7af1a420b1f72537d4057c0a50215b1a4f7f94f55cb8",
-    "d4368f7ae61301d76e881a93790a69058e52bdc5eb11b8b08ae9a78194bfffcf"
+    "d4368f7ae61301d76e881a93790a69058e52bdc5eb11b8b08ae9a78194bfffcf",
+    "6a45d93dc976dfac89140125b4daef7d004d0238e339f9579c540370d6befcea",
+    "46474360e01feacf05cd23ea0135438fc58cebed1e120f28c75be8b919788ebc",
+    "080c487ecbec4dd056479317f8420d4cd970df8795b64a7c4af4aec2d8749c2e"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -658,6 +658,7 @@
     "Irán publica plan restrictivo para Ormuz (6 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste.",
     "Irán publica plan restrictivo para Ormuz (7 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste.",
     "AP reporta que acuerdo sobre Ormuz requeriría concesiones de Trump, añadiendo incertidumbre sobre desenlace y prima de riesgo petrolero.",
-    "Hutíes atacan Najran (11 muertos) e Irán estudia prohibir buques hostiles en Ormuz con multas, elevando riesgo de suministro y precios."
+    "Hutíes atacan Najran (11 muertos) e Irán estudia prohibir buques hostiles en Ormuz con multas, elevando riesgo de suministro y precios.",
+    "Rusia importó 30,000 toneladas de combustibles de Corea del Sur en julio por caída de refinación a mínimo de 24 años tras ataques ucranianos, confirmando disrupción de oferta rusa."
   ]
 }
