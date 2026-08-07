@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "96a1554fbde01876c1c702a2bb0edb6fc898f21268380ddcddbaa6806d66f630",
-    "bf3dc4d06e0cb356cb51397c1ad6b3d075eefc9077b334f3ac28ad52ecea381c",
     "cb35186447be176280e92ee99e424f7a4deac1f89f75a3c453d12ecf8786c440",
     "678daa787073b71371bdedd873389945b55c1e57b4c06ede5321b80c6970df79",
     "3dc086e84c0dc7ab8fdfe980a35dfe90c40886acf97e118f7a4fe7216e063efe",
@@ -499,7 +497,9 @@
     "2363523ca86b92b861d3855da532fd287bc0f0fc81a7066c7290280d26891bbd",
     "7d9d0f048b5a41210d9c6ee861db5cc1d337b5f2990d8e4c0599583250eacd2b",
     "16619fe7d4e569d92773800dd7deecacd9899ebca036ca066aa44e68b3148378",
-    "dfb08d3b778b4aa4484a53652565a6c81df049761061fd54fd3c6f897c7d04d4"
+    "dfb08d3b778b4aa4484a53652565a6c81df049761061fd54fd3c6f897c7d04d4",
+    "c8aeee5a2583348cc19d7af1a420b1f72537d4057c0a50215b1a4f7f94f55cb8",
+    "d4368f7ae61301d76e881a93790a69058e52bdc5eb11b8b08ae9a78194bfffcf"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -657,6 +657,7 @@
     "Tráfico marítimo en Ormuz colapsa a 2 cruces y Bab el-Mandeb a 1 tras ataque hutí a petrolero saudí; Irán y Omán acuerdan coordenadas para reapertura pero flujos aún no se recuperan, manteniendo riesgo de oferta.",
     "Irán publica plan restrictivo para Ormuz (6 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste.",
     "Irán publica plan restrictivo para Ormuz (7 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste.",
-    "AP reporta que acuerdo sobre Ormuz requeriría concesiones de Trump, añadiendo incertidumbre sobre desenlace y prima de riesgo petrolero."
+    "AP reporta que acuerdo sobre Ormuz requeriría concesiones de Trump, añadiendo incertidumbre sobre desenlace y prima de riesgo petrolero.",
+    "Hutíes atacan Najran (11 muertos) e Irán estudia prohibir buques hostiles en Ormuz con multas, elevando riesgo de suministro y precios."
   ]
 }
