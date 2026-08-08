@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "68755669b34bb9f481c87cd1b502ee6b03ba015f6f836b92fb8198beec6645d5",
-    "5dc0ecb403c82f8472467334ecc940f8387c7c5617c3a0c90b43e2bdda1c211f",
     "87cafc79fcfe3671d5f450c72d1fa53ad8740771c1d9d22d5263cf569fb65c73",
     "99920c65073f3676ad2b5043f619d667e26e926d36997a6f5b5a56be08aae150",
     "6b46aeb6abfb81fe6781ff771186b43f2f8dfc65d2d484206085ced4d4992221",
@@ -499,7 +497,9 @@
     "670348bc56732b89e3b08f02662a5a503e061691ac06804264fa4f0ae8fdd63e",
     "bfd969671495bce399c6406faf74f44ef4e152c0035d624afe358a1f3854174d",
     "2854c2aa57551e7009c96b15eb0b33927cda4ae074be6152ebb0810c88343148",
-    "92df8b1fddd3d4ca63a1b642e0a742a9872e15ba9cf79ba5c3a0e47fee75aab1"
+    "92df8b1fddd3d4ca63a1b642e0a742a9872e15ba9cf79ba5c3a0e47fee75aab1",
+    "46da1393f6866ae0f1e9d5aab1c72a3d144818e4acf49eef07929b70d33d4ba4",
+    "20994f0c01e9692f54ee58a8cbbda7c332fabc56c340bb6fe3a38bfd16127107"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -668,6 +668,7 @@
     "Senado de EE.UU. aprueba sanciones energéticas integrales a Rusia (arancel 100% a importadores) y Arabia Saudita, Turquía y Pakistán firman pacto de defensa en La Meca, elevando riesgo geopolítico y presión alcista sobre el crudo.",
     "Senado de EE.UU. aprueba sanciones integrales a exportaciones energéticas de Rusia con arancel del 100% a importadores (8 ago 2026), afectando a India y China y elevando riesgo de oferta y precios.",
     "UAE reporta ataque con misil a buque propio el 8 ago 2026 en medio de tensiones por Ormuz; Irán condiciona reapertura a aceptación de sus demandas, elevando riesgo de suministro y precios.",
-    "Irán y Omán acuerdan coordenadas de rutas para Ormuz, pero Teherán aún delibera y no hay aprobación final; avance concreto hacia reapertura reduce prima de riesgo."
+    "Irán y Omán acuerdan coordenadas de rutas para Ormuz, pero Teherán aún delibera y no hay aprobación final; avance concreto hacia reapertura reduce prima de riesgo.",
+    "Al Jazeera informa día 28 de 'guerra contra Irán': pacto Saudi-Pakistán-Turquía genera reacciones mixtas y se confirma acuerdo de seguridad sobre Ormuz entre Irán y Omán."
   ]
 }
