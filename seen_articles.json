@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "d42413040590d94c7d7c49928837c4b08e6cdeb88c8fd3860cbf80a9adc22f29",
     "81fe8784c548de06042a425f3ae818ae7b6dfce3b5eb51316e4b53983bbe684a",
     "2c18bd0c853452c8a07c9619b641de018dde2863db42c31f3369c1a2dd147a36",
     "4dd797b90671b4190979fd432951148f964b4d1b13b0787452569aaefa4be728",
@@ -499,7 +498,8 @@
     "f575f5f0237830be71820da8cc773c3305b81c26d6fa475d67c1c9b5ecf6f0b3",
     "6fe385da9523331b63cdb5476855f7f0614ba9d11721142399a47aae04b2bcfa",
     "51df4795dee30fe03a895acff8afc3562521bebd237923c57d0a52340d35d7c0",
-    "ce020f4106418006f1f215b6164f2cf45432b89396d222dcf065bb991e374072"
+    "ce020f4106418006f1f215b6164f2cf45432b89396d222dcf065bb991e374072",
+    "787482d97b4c1d3f6c5fe0aaedde97cdffda9d5901fede7c5130f087e50ba68c"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -665,6 +665,7 @@
     "Irán considera ley que prohíbe buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada.",
     "Arabia Saudita emplea ruta alternativa Yanbu-SUMED-Cabo de Buena Esperanza para exportar a Asia, añadiendo $5/bbl por costos extra, confirmando disrupción persistente en Ormuz y Mar Rojo pese a negociaciones de acuerdo.",
     "Irán considera ley para prohibir permanentemente buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada.",
-    "Senado de EE.UU. aprueba sanciones energéticas integrales a Rusia (arancel 100% a importadores) y Arabia Saudita, Turquía y Pakistán firman pacto de defensa en La Meca, elevando riesgo geopolítico y presión alcista sobre el crudo."
+    "Senado de EE.UU. aprueba sanciones energéticas integrales a Rusia (arancel 100% a importadores) y Arabia Saudita, Turquía y Pakistán firman pacto de defensa en La Meca, elevando riesgo geopolítico y presión alcista sobre el crudo.",
+    "Senado de EE.UU. aprueba sanciones integrales a exportaciones energéticas de Rusia con arancel del 100% a importadores (8 ago 2026), afectando a India y China y elevando riesgo de oferta y precios."
   ]
 }
