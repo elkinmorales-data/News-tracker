@@ -160,7 +160,8 @@
     "fab6cf0b67faa94e8773fcf6062d482eb630fa0326019f85c7139a5d4d0b3aff",
     "99260dbc7e5c8a8373c531b1c67fc48ca114786f9cb1477cd7e12058f1075c97",
     "0dc5f036ff867b07aabd381c69c34ffb9f420d607810a6685956a82abc5d9a08",
-    "224467182540871b8a65f40e6c50e5779293b658198044ebe4f00ec6107b57d9"
+    "224467182540871b8a65f40e6c50e5779293b658198044ebe4f00ec6107b57d9",
+    "5238f8cc2af7a48751a89edb5aabfc8f4e5f961c1b4d6b3ee806e8dd967eb673"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -183,6 +184,7 @@
     "uv como reemplazo unificado de pip/venv/Poetry en Python | Evaluación práctica del agente MiniMax incluyendo arquitectura interna | Guía técnica de Agent Harness vs Loop vs Graph Engineering para diseño de agentes | Comparativa de batching estático, dinámico y continuo en inferencia LLM",
     "GitHub Agentic Workflows preview pública para CI/CD con agentes | Pipeline de CSV a reporte ejecutivo con IA y Python | Revisión del ecosistema Abacus AI con 100+ modelos y agentes | Top 5 Claude Skills para escritura por GitHub Stars | 7 estrategias de chunking para RAG en producción",
     "Toolkit mínimo de herramientas de IA para producción 2026 | Comparativa de herramientas de web crawling y APIs para datos de agentes 2026 | Patrones de diseño para agentes de IA con autocorrección basada en modos de fallo",
-    "Análisis empírico de 400K sesiones de Claude Code con mejores prácticas basadas en evidencia | Identificación de costos de tokens ocultos en loops agenticos y su optimización | Top 10 skills para Claude Code y Codex CLI como bibliotecas reutilizables | Arquitectura híbrida RAG + fine-tuning para soporte AI en producción | smolLM3 con Hugging Face Transformers demostrando SLMs como alternativa rentable a modelos grandes"
+    "Análisis empírico de 400K sesiones de Claude Code con mejores prácticas basadas en evidencia | Identificación de costos de tokens ocultos en loops agenticos y su optimización | Top 10 skills para Claude Code y Codex CLI como bibliotecas reutilizables | Arquitectura híbrida RAG + fine-tuning para soporte AI en producción | smolLM3 con Hugging Face Transformers demostrando SLMs como alternativa rentable a modelos grandes",
+    "Semantic Governance para agentes de IA en Snowflake con definiciones de negocio, linaje y políticas de acceso para asegurar confiabilidad en data foundation | Confiabilidad de agentes AI depende de capa semántica sobre datos crudos"
   ]
 }
