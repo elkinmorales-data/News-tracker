@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "23b83416cc474045dfbbbe91681b81aa2b792dd1153a5ee7d555bdb45c7c27e1",
     "5989497afd45bf25ed97dc84e0a1a587ca5c2772af477919dcbc5beb803bcda2",
     "8525e02c1592f2da3184a10b81e95a691d8cdd8bcaf6cd3fee29068b2b4ae321",
     "2fe45b83e8a5afea9bb7075eef05b53e9aa50b91410da2b33afc0570a72171a2",
@@ -499,7 +498,8 @@
     "41212d1607cb5da99f95277aaa247e772fd0b7d24cb24ad026b2317a8fdb2d9c",
     "d37f9ee39321a08884f5c1be0a402effb0d937dfc41359b27b84f8e91da6621d",
     "f8675f908db3b1988e5bd7852ceb1b31a19fb2771eebc9a205290d3482d852db",
-    "4702c009126a9254ba51e8d12fb9fa1b597c29a7c9e077f3628dc2f23b8afe77"
+    "4702c009126a9254ba51e8d12fb9fa1b597c29a7c9e077f3628dc2f23b8afe77",
+    "410feaf829c955bbdba339f0d5be0bb13d9f6fb0ff14d1b600d6149d2eae9ced"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -674,6 +674,7 @@
     "Irán fija como condición para reabrir Ormuz el cumplimiento de seis demandas amplias a EE.UU., incluyendo fin de hostilidad y retiro naval, contradiciendo narrativa de acuerdo inminente y elevando riesgo de suministro.",
     "El vicepresidente de EE.UU., Vance, afirmó que el programa nuclear de Irán fue 'destruido' por Washington, señalando una degradación militar que reduce la prima de riesgo y presiona los precios del petróleo a la baja.",
     "Hutíes reivindican ataque a instalación petrolera de Aramco en Arabia Saudita (9 ago 2026), elevando riesgo de suministro y precios.",
-    "Hutíes reivindican ataque a refinería de Aramco (9 ago 2026); incendio extinguido, y canciller iraní dice que no hay negociación directa con EE.UU., solo intercambio de mensajes, elevando riesgo de suministro."
+    "Hutíes reivindican ataque a refinería de Aramco (9 ago 2026); incendio extinguido, y canciller iraní dice que no hay negociación directa con EE.UU., solo intercambio de mensajes, elevando riesgo de suministro.",
+    "Irán condiciona la reapertura de Ormuz al cumplimiento de demandas de EE.UU., manteniendo el riesgo de suministro del petróleo."
   ]
 }
