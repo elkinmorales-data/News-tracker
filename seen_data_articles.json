@@ -161,7 +161,13 @@
     "99260dbc7e5c8a8373c531b1c67fc48ca114786f9cb1477cd7e12058f1075c97",
     "0dc5f036ff867b07aabd381c69c34ffb9f420d607810a6685956a82abc5d9a08",
     "224467182540871b8a65f40e6c50e5779293b658198044ebe4f00ec6107b57d9",
-    "5238f8cc2af7a48751a89edb5aabfc8f4e5f961c1b4d6b3ee806e8dd967eb673"
+    "5238f8cc2af7a48751a89edb5aabfc8f4e5f961c1b4d6b3ee806e8dd967eb673",
+    "321b8bf1b153141866bf410b6a51b4a2dc66f574c47f2fe4fdd80146a531d060",
+    "79b3ffc4bc1e07ada95aa00c86dcaa8b7bdde277dbad5054b53550acaf203b73",
+    "eaf914413c25410e6edc931c39975b8b2ac857b2a23a8948aecd03c8edc00bf4",
+    "a4501699f2916fdb5e587e65595c42faf0f4116d7bcde88a35330408b59435f4",
+    "cd4e18903cae21f0fb6e9e6561b6306a54bc7dee245c0d99ffd106d72dbf0f55",
+    "2a31cfa30481ebb400fee6e82ea7b940bd97d6d62a78c03b6e95ba2e3886998c"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -185,6 +191,7 @@
     "GitHub Agentic Workflows preview pública para CI/CD con agentes | Pipeline de CSV a reporte ejecutivo con IA y Python | Revisión del ecosistema Abacus AI con 100+ modelos y agentes | Top 5 Claude Skills para escritura por GitHub Stars | 7 estrategias de chunking para RAG en producción",
     "Toolkit mínimo de herramientas de IA para producción 2026 | Comparativa de herramientas de web crawling y APIs para datos de agentes 2026 | Patrones de diseño para agentes de IA con autocorrección basada en modos de fallo",
     "Análisis empírico de 400K sesiones de Claude Code con mejores prácticas basadas en evidencia | Identificación de costos de tokens ocultos en loops agenticos y su optimización | Top 10 skills para Claude Code y Codex CLI como bibliotecas reutilizables | Arquitectura híbrida RAG + fine-tuning para soporte AI en producción | smolLM3 con Hugging Face Transformers demostrando SLMs como alternativa rentable a modelos grandes",
-    "Semantic Governance para agentes de IA en Snowflake con definiciones de negocio, linaje y políticas de acceso para asegurar confiabilidad en data foundation | Confiabilidad de agentes AI depende de capa semántica sobre datos crudos"
+    "Semantic Governance para agentes de IA en Snowflake con definiciones de negocio, linaje y políticas de acceso para asegurar confiabilidad en data foundation | Confiabilidad de agentes AI depende de capa semántica sobre datos crudos",
+    "Specification Engineering como evolución del prompt engineering | Muse Glimmer 30B modelo on-device para agentic AI con ExecuTorch | Framework de decisión prompt caching vs fine-tuning en sistemas agentic | Claude Skills especializadas para marketing como agentes modulares verticales"
   ]
 }
