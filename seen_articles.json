@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "f74e3fd6117446a1b3c83f40cf245f6c432e256f821dcdc61a65d0cf7c8824e1",
-    "caf40bf2ca4ea5c20f7959544516164a406f7608a7c0434415240a9debd43523",
-    "380d42d67dcb595f0fb6ecb11636fed13f3e469f1796febb1811e86b47e261d5",
     "aa357af112bc10078c27e04926e5821f6f84eec142fa5a3ba1947c0030b0d0f0",
     "0329441c4201b94bdb6310d2a55d6b47999d3d647a02cec8750538acb27d8538",
     "a45cf0a79eade0835b90d58eca48faa4cdabb21831e0a994d3dc5c81d9c1725e",
@@ -499,7 +496,10 @@
     "bd7aa4bcd298d128ba301bc9cca19cfd7e316216cb61733bf97b034bb4e67124",
     "b51daaf7a98bfe50a922d218fd3bc175e8fc72fa188cf3d013f09312cc49eff7",
     "e62a172c7831ab72e3dd7d9a6ace808ceaddd1da64cbdc16d56617ad80d3c1e9",
-    "6e962667dd3a4d178bd3eeb7fb6e598f496e2755defd37e34ce9cf54c2f34f42"
+    "6e962667dd3a4d178bd3eeb7fb6e598f496e2755defd37e34ce9cf54c2f34f42",
+    "d4795f46875686df1fe2ef73e336ce6f8e2a6326e4c54b913ad36ff66f707861",
+    "8edcc07dd9d08895b35c7dd3df1c426a4eaaa693c57e9c1b4bee69f66bb3e3b1",
+    "477287ee181ab45835ec14607c87d3a29236d5da4dd739c5fa768e64039cb72a"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -679,6 +679,7 @@
     "Hutíes atacan puerto de al-Makha en Yemen (10 ago 2026) con misiles y drones, confirmando amenaza activa en Mar Rojo y elevando riesgo de suministro; sin noticias de avance en acuerdo de Ormuz.",
     "10 ago 2026: Reportes no verificados de un nuevo ataque iraní a petrolero frente a Omán; se suma al ataque confirmado a ADNOC del 8 ago, elevando riesgo de suministro y precios.",
     "Irán condiciona reapertura de Ormuz a concesiones de EE.UU. y designa a excomandante del IRGC Rezaei como secretario del Consejo de Seguridad, aumentando incertidumbre sin ataque nuevo.",
-    "Trump cambia a presión económica sobre Irán (no militar) y Kazajistán estudia rutas alternas vía BTC/Baku-Supsa por ataques a Novorossiysk; ambos hechos nuevos afectan oferta y riesgo."
+    "Trump cambia a presión económica sobre Irán (no militar) y Kazajistán estudia rutas alternas vía BTC/Baku-Supsa por ataques a Novorossiysk; ambos hechos nuevos afectan oferta y riesgo.",
+    "Derrame extenso de petróleo de petrolero ruso (flota sombra) frente a Omán, en contenedón, sin impacto directo en oferta pero con riesgo ambiental y de navegación."
   ]
 }
