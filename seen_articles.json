@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "5ff11cac0bb9b541f2200a789cd123ac6617b07fc1ef084f5cc871d4ba252716",
-    "a287a7bf64255b6e37ff791bae4cbb3bee5015045be19a5c87d1afd878695b73",
     "56258a6cb81b407560e5618727e15f4edd0653884d1e28481b9f97ca795cfac9",
     "1e6c5fe2a687f4b455a5931cead1c89d5e923d475afbdcce6082dff7576eec74",
     "7317a52463d9934a2c3d3effd4b3c2893246901753e29311747b5b06f09bd903",
@@ -499,7 +497,9 @@
     "0eb21c54576ab120d30de8f265deb0b1efa65cdcb1ff03c96da4c6c7abe32dfe",
     "d6a0d51dfd5c6a27f4bea800e65ba1e4fd473d8c45afff37a368e8f49242fa6f",
     "b8a3cd73d5b21b9eb3800a2175aef2193b81cbe91561418083f28e290c51754a",
-    "18f34fe16602ba4f11773d4b7654a9ef78dc65076a6e1cc1606c986306a56e9d"
+    "18f34fe16602ba4f11773d4b7654a9ef78dc65076a6e1cc1606c986306a56e9d",
+    "b75ce186cfaed7e53045969e7dbb1a3e9f071d053090760bd81c06a87991789a",
+    "4126f3994164c0e198821eda5b8880810ee1fc1060764930e7d017a42b55e1e1"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -676,6 +676,7 @@
     "Hutíes reivindican ataque a instalación petrolera de Aramco en Arabia Saudita (9 ago 2026), elevando riesgo de suministro y precios.",
     "Hutíes reivindican ataque a refinería de Aramco (9 ago 2026); incendio extinguido, y canciller iraní dice que no hay negociación directa con EE.UU., solo intercambio de mensajes, elevando riesgo de suministro.",
     "Irán condiciona la reapertura de Ormuz al cumplimiento de demandas de EE.UU., manteniendo el riesgo de suministro del petróleo.",
-    "Hutíes atacan puerto de al-Makha en Yemen (10 ago 2026) con misiles y drones, confirmando amenaza activa en Mar Rojo y elevando riesgo de suministro; sin noticias de avance en acuerdo de Ormuz."
+    "Hutíes atacan puerto de al-Makha en Yemen (10 ago 2026) con misiles y drones, confirmando amenaza activa en Mar Rojo y elevando riesgo de suministro; sin noticias de avance en acuerdo de Ormuz.",
+    "10 ago 2026: Reportes no verificados de un nuevo ataque iraní a petrolero frente a Omán; se suma al ataque confirmado a ADNOC del 8 ago, elevando riesgo de suministro y precios."
   ]
 }
