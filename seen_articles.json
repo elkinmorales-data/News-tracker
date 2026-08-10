@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "c4ddd400addd1c15b9a69583943333ca7e881ad7d4549a704eea726305d7d4fc",
-    "e813d46e3cf13934da9543473b8d5c8ce0d8bb2192b2b3b0e223c3575e44df25",
-    "21253cb021383a098d6feed94dbfe21dc0af7f313103d61a45e672ad3a43b061",
-    "7ce8fd58749fa9c78eb70dbecee8a876ad4b71aab1630c637e20e285b3f403d5",
     "2da407d8180781471c6f3bab598c9290a8f66a37bb46773b5c7afa28c6c4bab8",
     "eb932e585629727880dfbe79fc34497763b1b2f9e81963eb1ba3d59cdc342dc7",
     "b800e2499ab101143fab2be9287ae8f1c432fff6d6fbb0128cc50cbee29bfc35",
@@ -499,7 +495,11 @@
     "10e2204f6fcc9eb6c09899300c46e06460c9249ee8bec3bdd07a505f904d81c2",
     "c92a41155ebfffe99b4b73fa301aac4035d6eded2617ecffc5185d8ae4b2fb06",
     "f988aafcfa54f61b6c807364bcd8d35992f99a9dec26f58b0b4adda179b652b5",
-    "cd82084871a292e25e7d146a307f8f382a1ddcf27eeec88eaaa973636c4826f3"
+    "cd82084871a292e25e7d146a307f8f382a1ddcf27eeec88eaaa973636c4826f3",
+    "d5dec6c98d9cb929356e0add2321be34e4bb7c9cf3cfcd285cdfa770b4a9d01a",
+    "976b44fe5259a125418215138cd69cf903f5e5cd98cebc16e3b3956d964c8439",
+    "f4b988620b533ddcd969c8a53292981cdb775fd92056f0549c77a3a38647a16b",
+    "a413c5eb4fb3e0f7934d52fa62e6e9310665929004b4390a542e538188cd7f74"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
