@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "0a0ab1007eaef5cf31bfe7e8735393af53d27301e01c3c283ac8376854645b2a",
-    "7b84018dead5bf9808dc85d2c56a74e48bd8535a54200b169dae4e79bc9a7f54",
     "5cde1f073ba9fe4e053db1410fc04006b6795da900002afd0f434ee033e1e523",
     "5abba42ee9b6ca3468fa77b63854c4b1ce27b3c7f0c1504f826feacb7df6e1f6",
     "449acc73495a4e5701c910082c3fb656f1c6e0c5f2f47d7a2987fca4ee0138f8",
@@ -499,7 +497,9 @@
     "477287ee181ab45835ec14607c87d3a29236d5da4dd739c5fa768e64039cb72a",
     "85474ef8db47d5e8a39610f2fee4f09509ea7ef7561a4fa386a1767853a02b9a",
     "0a2a61f6079c68748f17f71209b66d12213434d65b45bd2fec55e9f0449086f0",
-    "abe49193db64d42612d256864c9de4d3f692010bddf3dd995e1c24bb607c424e"
+    "abe49193db64d42612d256864c9de4d3f692010bddf3dd995e1c24bb607c424e",
+    "c30ae93d15e68a3356fa368dccd4f745246bed9d0cbc92bc00e6809b27e4c511",
+    "37fc26e65479185d57f49f8eb23550601581af39916ac2d57b34388f70dd98cd"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -682,6 +682,7 @@
     "Trump cambia a presión económica sobre Irán (no militar) y Kazajistán estudia rutas alternas vía BTC/Baku-Supsa por ataques a Novorossiysk; ambos hechos nuevos afectan oferta y riesgo.",
     "Derrame extenso de petróleo de petrolero ruso (flota sombra) frente a Omán, en contenedón, sin impacto directo en oferta pero con riesgo ambiental y de navegación.",
     "Trump extiende exención de Jones Act el 10 ago 2026 para asegurar flujo de crudo en EE.UU. ante falta de acuerdo sobre Ormuz; refleja disrupción logística y sin avance en negociaciones.",
-    "Reabre el oleoducto iraquí Kirkuk-Ceyhan como ruta alternativa para exportaciones de Iraq ante el bloqueo de Ormuz, reduciendo presión sobre la oferta."
+    "Reabre el oleoducto iraquí Kirkuk-Ceyhan como ruta alternativa para exportaciones de Iraq ante el bloqueo de Ormuz, reduciendo presión sobre la oferta.",
+    "Escasez global de diésel se agrava por tensiones en el Golfo y ataques a refinerías rusas, con exportaciones récord de EE.UU. y déficits en Asia, elevando riesgo de precios."
   ]
 }
