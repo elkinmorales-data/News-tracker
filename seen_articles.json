@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "d2adb13244b3262e5c344c4e0905cc840a24771435dacfcf48cb685375e9b12e",
-    "b8f33d77337026a1fd8755b5cb3a439a1d5de7c7bdb9fce68c7b6096536df89f",
     "404cf1704c1477f56799e9deca902ee6de78ef137d657827d573ff7592738fdd",
     "a7fe344dce699496ab01e7dbca1c3ce87fef2bf07f52cdba3aeb0b1ee38be179",
     "913cabd5db184b2438319d9182a9fa719ed047759ec48a52cc957af702182298",
@@ -499,7 +497,9 @@
     "410feaf829c955bbdba339f0d5be0bb13d9f6fb0ff14d1b600d6149d2eae9ced",
     "8e06cd60eb3798ac5d32a0d314d226011e40cacdb385dfce260a8d12d5f1dbc4",
     "260d7e056220e72bf044b3c987a2a25cbb85133386aae0c69af10a31d46dffea",
-    "4790604829e936ac137fbb4f9c09ac9695188752ba6924754b9d487e427fb326"
+    "4790604829e936ac137fbb4f9c09ac9695188752ba6924754b9d487e427fb326",
+    "84c769ddf3af7d62d3117d36bd1dba1abf9a26427562a293d99da2888b7baac6",
+    "7949aff780d8ce16f8a4ae4373dc84dde597617e182c5a2d1a883a19398811bc"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -675,6 +675,7 @@
     "El vicepresidente de EE.UU., Vance, afirmó que el programa nuclear de Irán fue 'destruido' por Washington, señalando una degradación militar que reduce la prima de riesgo y presiona los precios del petróleo a la baja.",
     "Hutíes reivindican ataque a instalación petrolera de Aramco en Arabia Saudita (9 ago 2026), elevando riesgo de suministro y precios.",
     "Hutíes reivindican ataque a refinería de Aramco (9 ago 2026); incendio extinguido, y canciller iraní dice que no hay negociación directa con EE.UU., solo intercambio de mensajes, elevando riesgo de suministro.",
-    "Irán condiciona la reapertura de Ormuz al cumplimiento de demandas de EE.UU., manteniendo el riesgo de suministro del petróleo."
+    "Irán condiciona la reapertura de Ormuz al cumplimiento de demandas de EE.UU., manteniendo el riesgo de suministro del petróleo.",
+    "Hutíes atacan puerto de al-Makha en Yemen (10 ago 2026) con misiles y drones, confirmando amenaza activa en Mar Rojo y elevando riesgo de suministro; sin noticias de avance en acuerdo de Ormuz."
   ]
 }
