@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "0329441c4201b94bdb6310d2a55d6b47999d3d647a02cec8750538acb27d8538",
-    "a45cf0a79eade0835b90d58eca48faa4cdabb21831e0a994d3dc5c81d9c1725e",
     "0a0ab1007eaef5cf31bfe7e8735393af53d27301e01c3c283ac8376854645b2a",
     "7b84018dead5bf9808dc85d2c56a74e48bd8535a54200b169dae4e79bc9a7f54",
     "5cde1f073ba9fe4e053db1410fc04006b6795da900002afd0f434ee033e1e523",
@@ -499,7 +497,9 @@
     "d4795f46875686df1fe2ef73e336ce6f8e2a6326e4c54b913ad36ff66f707861",
     "8edcc07dd9d08895b35c7dd3df1c426a4eaaa693c57e9c1b4bee69f66bb3e3b1",
     "477287ee181ab45835ec14607c87d3a29236d5da4dd739c5fa768e64039cb72a",
-    "85474ef8db47d5e8a39610f2fee4f09509ea7ef7561a4fa386a1767853a02b9a"
+    "85474ef8db47d5e8a39610f2fee4f09509ea7ef7561a4fa386a1767853a02b9a",
+    "0a2a61f6079c68748f17f71209b66d12213434d65b45bd2fec55e9f0449086f0",
+    "abe49193db64d42612d256864c9de4d3f692010bddf3dd995e1c24bb607c424e"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -681,6 +681,7 @@
     "Irán condiciona reapertura de Ormuz a concesiones de EE.UU. y designa a excomandante del IRGC Rezaei como secretario del Consejo de Seguridad, aumentando incertidumbre sin ataque nuevo.",
     "Trump cambia a presión económica sobre Irán (no militar) y Kazajistán estudia rutas alternas vía BTC/Baku-Supsa por ataques a Novorossiysk; ambos hechos nuevos afectan oferta y riesgo.",
     "Derrame extenso de petróleo de petrolero ruso (flota sombra) frente a Omán, en contenedón, sin impacto directo en oferta pero con riesgo ambiental y de navegación.",
-    "Trump extiende exención de Jones Act el 10 ago 2026 para asegurar flujo de crudo en EE.UU. ante falta de acuerdo sobre Ormuz; refleja disrupción logística y sin avance en negociaciones."
+    "Trump extiende exención de Jones Act el 10 ago 2026 para asegurar flujo de crudo en EE.UU. ante falta de acuerdo sobre Ormuz; refleja disrupción logística y sin avance en negociaciones.",
+    "Reabre el oleoducto iraquí Kirkuk-Ceyhan como ruta alternativa para exportaciones de Iraq ante el bloqueo de Ormuz, reduciendo presión sobre la oferta."
   ]
 }
