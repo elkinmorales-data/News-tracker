@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "4ef8c32ca84f8d090138c0f85a5f3ffb12559e0bb97ac329f3f843ee025892ce",
-    "324084297c80d93c6a01586fa6f551438294b34412424ed577248bee6f66366c",
-    "2a47880632facb6aaf78a6449f6df22efda820a44068b613f278d7ffae9fd171",
-    "43ec458bf554501d40f5eedc05c738d304a5552b8a9228bb7246fdd44b13631a",
-    "5aa5188d65956696a49c13ba1dfdebb502e4b896a39202654e44e2040f880208",
-    "57e0616f47a562a6dbe19828a2e73980d5b1edb339581400946ce9e83cecb01b",
     "71d9b347f97f6e70e618da8828d2c1eb5c22de9071be185280adae77f802d172",
     "e5396d2904cb6e7e82f4b2bbea27ead52812fb708b069118bcff209470da670a",
     "f1d9a52719ac54bcc9d00deb208e5b33ee0c9274fd9c4ae46d1591b0352884a7",
@@ -499,7 +493,13 @@
     "dec43c3997065321ecd5bacde5b7ed5aa8ee71c308b981d7fd4aae25f70263f8",
     "0b94dfcf7e1dd352dfa1d21597d66e68458793773af0c8b83ea311d3cccd89be",
     "b6594bc790c2940a084d6593e6d20e8a896222038215c3ce86d4e8f8b58f7580",
-    "b4eabf32dc100e312a59543925f9ed62d366dc53033bf74a31ea45f90f8df083"
+    "b4eabf32dc100e312a59543925f9ed62d366dc53033bf74a31ea45f90f8df083",
+    "7cb52b493762dc574243605394a9867db628c40c5621ae8809e866099dd0bc6a",
+    "56ea9861fe1e6d8b4a582e81253871932370b009b7a67fe965cf6d2149cbb1be",
+    "ac6fe89648a87152d4eb4c89955848f78cffab3c85e2fb2015e3d5178d459da2",
+    "b34c26733d77df07216035798747aee1ce175065857285589f99299fb49586b0",
+    "ca727bf97be7aa21189e3941a15281c6b4cbdfe964ccd7ae1343ab199f4e1d79",
+    "e7776b577c3154ad07403ace6c21fa690edcb531160fed3a634c50a95eb9be45"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -684,6 +684,7 @@
     "Trump extiende exención de Jones Act el 10 ago 2026 para asegurar flujo de crudo en EE.UU. ante falta de acuerdo sobre Ormuz; refleja disrupción logística y sin avance en negociaciones.",
     "Reabre el oleoducto iraquí Kirkuk-Ceyhan como ruta alternativa para exportaciones de Iraq ante el bloqueo de Ormuz, reduciendo presión sobre la oferta.",
     "Escasez global de diésel se agrava por tensiones en el Golfo y ataques a refinerías rusas, con exportaciones récord de EE.UU. y déficits en Asia, elevando riesgo de precios.",
-    "Libia evalúa fuerza mayor en terminal Zawiya tras ataques con drones que destruyeron tanque de almacenamiento; riesgo de oferta adicional (120-300 mil bpd) eleva presión alcista."
+    "Libia evalúa fuerza mayor en terminal Zawiya tras ataques con drones que destruyeron tanque de almacenamiento; riesgo de oferta adicional (120-300 mil bpd) eleva presión alcista.",
+    "11 ago 2026: China reanuda compras de crudo iraní (teapots) y el petróleo supera $84 por desvanecimiento de acuerdo sobre Ormuz; riesgo de suministro elevado."
   ]
 }
