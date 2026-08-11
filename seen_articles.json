@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "f7eae5304abf443995aab4f70bbf502f2aafc5148acafcf637a3ae4a3d848415",
-    "8aac0571a81dc595789465b4b50cbf13281ebe87f6bcdead1aa220fff6099a57",
-    "988e3e9846546be264ed344674e360f756c2e74c4e7c15f490a689689f0b3efc",
     "ac5fda7f138f1c5371a94f9a3f2c9286d491b7735589a18459ebe20ddf7c7d97",
     "5d5bfebb6673dcb58c784fa75708ca0652b7c89e8d9ac295f3b48c32a227ec08",
     "a77c1e7707ebf450085ba698bfb9b1ca50958f4b34314488412ef5e7682e18fc",
@@ -499,7 +496,10 @@
     "1d2a2024eb0741699f78e0ec3291ee879f27a9c7e6ad06cb27b7388c4c13366f",
     "33bf76d85942d24980a64f673c9f1c3d6e860043f9f394a5b8fad7d72d60f413",
     "7334795c3727809a776405d3e328bae35ef7dc0b21c6d369af58394959d57e03",
-    "4cefb41a6cd429a52ae37c89375eef0e115d4331d98fb3eed65784e2b9cb20eb"
+    "4cefb41a6cd429a52ae37c89375eef0e115d4331d98fb3eed65784e2b9cb20eb",
+    "a9fbbfa8fdb13bb9d9807660f0183b9f35f0ba7b3943a4732101b4c1c227c307",
+    "5a9750678ee62fe1de4d04c5e1ee355faca16957e3cf9c4efac0585df7ea9863",
+    "ea2e11c95bbbdddc0028e2afe28db8fe0bfa815b080424fdfef0728ac77573af"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -687,6 +687,7 @@
     "Libia evalúa fuerza mayor en terminal Zawiya tras ataques con drones que destruyeron tanque de almacenamiento; riesgo de oferta adicional (120-300 mil bpd) eleva presión alcista.",
     "11 ago 2026: China reanuda compras de crudo iraní (teapots) y el petróleo supera $84 por desvanecimiento de acuerdo sobre Ormuz; riesgo de suministro elevado.",
     "La Cámara de Representantes de EE.UU. avanza con paquete de sanciones integrales a Rusia e Irán (arancel 100% a importadores de energía rusa) el 11 ago 2026, elevando presión alcista sobre precios del petróleo.",
-    "OilPrice reporta que las tensiones en Ormuz se reavivan con colapso de exportaciones iraníes, empujando el Brent hacia $87 y con riesgo de $100; China reanuda compras de crudo iraní mientras el acuerdo no avanza."
+    "OilPrice reporta que las tensiones en Ormuz se reavivan con colapso de exportaciones iraníes, empujando el Brent hacia $87 y con riesgo de $100; China reanuda compras de crudo iraní mientras el acuerdo no avanza.",
+    "Irán confirma el 11 ago 2026 que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones (fin guerra, liberar fondos), elevando riesgo de oferta y precios."
   ]
 }
