@@ -167,7 +167,11 @@
     "eaf914413c25410e6edc931c39975b8b2ac857b2a23a8948aecd03c8edc00bf4",
     "a4501699f2916fdb5e587e65595c42faf0f4116d7bcde88a35330408b59435f4",
     "cd4e18903cae21f0fb6e9e6561b6306a54bc7dee245c0d99ffd106d72dbf0f55",
-    "2a31cfa30481ebb400fee6e82ea7b940bd97d6d62a78c03b6e95ba2e3886998c"
+    "2a31cfa30481ebb400fee6e82ea7b940bd97d6d62a78c03b6e95ba2e3886998c",
+    "6dff90a372297c18fff280916930913e767e1eaa6245bf0dad74869e92349fc1",
+    "48a596a1842b1060a33d0a030203db378532e349005e96e5759caf57650dc884",
+    "d82925416d541ff0ecc9237230b217186e9709699623fe36bf3dd38fc7428280",
+    "8c77eaf740eb008e61d4d08a7c175efcc4f92b2a597e893b1b50fc961a495938"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -192,6 +196,7 @@
     "Toolkit mínimo de herramientas de IA para producción 2026 | Comparativa de herramientas de web crawling y APIs para datos de agentes 2026 | Patrones de diseño para agentes de IA con autocorrección basada en modos de fallo",
     "Análisis empírico de 400K sesiones de Claude Code con mejores prácticas basadas en evidencia | Identificación de costos de tokens ocultos en loops agenticos y su optimización | Top 10 skills para Claude Code y Codex CLI como bibliotecas reutilizables | Arquitectura híbrida RAG + fine-tuning para soporte AI en producción | smolLM3 con Hugging Face Transformers demostrando SLMs como alternativa rentable a modelos grandes",
     "Semantic Governance para agentes de IA en Snowflake con definiciones de negocio, linaje y políticas de acceso para asegurar confiabilidad en data foundation | Confiabilidad de agentes AI depende de capa semántica sobre datos crudos",
-    "Specification Engineering como evolución del prompt engineering | Muse Glimmer 30B modelo on-device para agentic AI con ExecuTorch | Framework de decisión prompt caching vs fine-tuning en sistemas agentic | Claude Skills especializadas para marketing como agentes modulares verticales"
+    "Specification Engineering como evolución del prompt engineering | Muse Glimmer 30B modelo on-device para agentic AI con ExecuTorch | Framework de decisión prompt caching vs fine-tuning en sistemas agentic | Claude Skills especializadas para marketing como agentes modulares verticales",
+    "Watermarking obligatorio de contenido IA en Claude por cumplimiento EU AI Act | Patrones async para concurrencia de agentes en Python con casos de producción"
   ]
 }
