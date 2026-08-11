@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "1d6b9d8273e372c19e964d4125f920bae21bcfce3c80d80c628b3b46d77bd5dc",
-    "7eeeae7478ce5db222cd1777787df47a666e9bb4c86471420beb3a817d66e8fe",
     "3ccb70ae6d5cf31e6f8f193ae9945fb8a3ef6023b6b6261f28da710fc3b65852",
     "32abc62a39499fe7c5ec8fe869d23c913da8f796976867ab568174fa199ccecc",
     "710abcb3b8c0f595a2b4adaaf23f5c8c058acf5611c7a33745a1da3b5c48e2eb",
@@ -499,7 +497,9 @@
     "27d56c1a6bfd99a91785ce8cd0e830bcddbde1d5edf81e624e16fec71f8f2041",
     "ff4ffdd3e04478841c5440e3e7f8df40ba4506e4355d1da433da88534e359962",
     "a5b371b17413787730f3192078e982b1ae44d640aeb6bf123ccd50c8fb1523da",
-    "5729b313babf7c9258c064d990892c0df9b30e55df2da19460938cc1ddddb492"
+    "5729b313babf7c9258c064d990892c0df9b30e55df2da19460938cc1ddddb492",
+    "058a725790ab051434606f73c3e054a0c8c4772e6b01e3af545ffefc084218b1",
+    "dec43c3997065321ecd5bacde5b7ed5aa8ee71c308b981d7fd4aae25f70263f8"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -683,6 +683,7 @@
     "Derrame extenso de petróleo de petrolero ruso (flota sombra) frente a Omán, en contenedón, sin impacto directo en oferta pero con riesgo ambiental y de navegación.",
     "Trump extiende exención de Jones Act el 10 ago 2026 para asegurar flujo de crudo en EE.UU. ante falta de acuerdo sobre Ormuz; refleja disrupción logística y sin avance en negociaciones.",
     "Reabre el oleoducto iraquí Kirkuk-Ceyhan como ruta alternativa para exportaciones de Iraq ante el bloqueo de Ormuz, reduciendo presión sobre la oferta.",
-    "Escasez global de diésel se agrava por tensiones en el Golfo y ataques a refinerías rusas, con exportaciones récord de EE.UU. y déficits en Asia, elevando riesgo de precios."
+    "Escasez global de diésel se agrava por tensiones en el Golfo y ataques a refinerías rusas, con exportaciones récord de EE.UU. y déficits en Asia, elevando riesgo de precios.",
+    "Libia evalúa fuerza mayor en terminal Zawiya tras ataques con drones que destruyeron tanque de almacenamiento; riesgo de oferta adicional (120-300 mil bpd) eleva presión alcista."
   ]
 }
