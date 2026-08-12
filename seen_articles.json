@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "e6355fa613c53c2fde45e6a3da67a4dc0ba59de164e12f9c20137ce4636cc8b4",
-    "485bb968e8c2d1207aa97613f84415a29997a533848ea790db37afb22ab640ef",
-    "583ad5c3146dc17665ba822890c854beaf8f3db46c7a671744af0c2fdf914100",
-    "83d21c54806712d8324e769fd1c60b2a6569f8639fd31133d79d1849a23387ff",
     "bf0d96b4af0e532995530e380468f10d5f507bcfb792b3cf23fb4cd55637fe06",
     "e9e61e1526ce370869545c4007102e071e1e00905a706ba5405919d45843ee36",
     "64c6773491f386204e8e9f738e4cd21b9ea23bee3628a2d66325cbeca6e11251",
@@ -499,7 +495,11 @@
     "119b5f785e73aba1ed741292fb983bf7c5e997fc1c9ac10febba7e27177b647e",
     "d5a35b3ea55778c9cbd6853923372eed5a01395885a522d936610882c0536275",
     "daf32bf1eaca2656add33280bb9e8535a2418aeed33fabc1fb939a068b47f7f5",
-    "566509c03fede2e630049d50edbc74e70496250e08c2d170c036bb046c893223"
+    "566509c03fede2e630049d50edbc74e70496250e08c2d170c036bb046c893223",
+    "2faeb454318da9475a25d896845f75f8ac23a875b584a8a24174d83b0fe84995",
+    "e172f4d08afd8ab6968c6f0a940cad99bdd36ccd6b6ae420469ebd9887d52b3c",
+    "974fdd1acdbe786ee8c0a591c9299b8d9110926673921adf6f42c80c8e7d605c",
+    "c5d8b3cfc75f5c05256eac07d7450c4eeb597d6bc5c57058eb74125ee8930fa9"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -696,6 +696,7 @@
     "Trump afirma que su avión señuelo enfrentó riesgo de ataque iraní en vuelo secreto, confirmando amenaza militar activa y elevando riesgo de escalada.",
     "IEA ve caída de demanda de 1,6M bpd en 2026 por cierre de Ormuz; datos de tankers contradicen a Wright sobre normalización de flujos – riesgo de suministro sigue alto.",
     "12 ago 2026: Brent supera $89 por estancamiento EE.UU.-Irán sobre Ormuz (Irán mantiene cierre) y Pakistán confirma 3 ciudadanos muertos en ataque hutí a buque frente a Bab el-Mandeb, elevando riesgo de suministro.",
-    "12 ago 2026: IEA proyecta déficit global de 1,8M bpd en Q3 2026 por cierre de Ormuz y caída de oferta de 4,3M bpd; refinerías indias buscan 6M barriles spot, confirmando escasez y presión alcista."
+    "12 ago 2026: IEA proyecta déficit global de 1,8M bpd en Q3 2026 por cierre de Ormuz y caída de oferta de 4,3M bpd; refinerías indias buscan 6M barriles spot, confirmando escasez y presión alcista.",
+    "Ucrania suspende ataques a petroleros en Novorossiysk por petición de Vance, reduciendo riesgo de oferta rusa y presión bajista sobre precios."
   ]
 }
