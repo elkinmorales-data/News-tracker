@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "8195b14bd86a697e50d8e492a6f8bdbd50544bd2bdb0319657fe74e9a95becc0",
-    "a62ec57ac9b0109760fc9e99bd5826556b21240ad761ae6a6a2cf7c64f8c5c56",
-    "6bf3e8dae02bf90e798fe94e28b896912ac1e474ab2279c4a0e38142944ea8cd",
-    "3ab91f01c7b9f7e1f27e850b38cb6e98285d635a5ce9d8ca4aeefa627c9b0603",
     "4470faae3705fc49292167ec36f4458b811260ce7cd2b1844d8344d3b682a80f",
     "c657c255837282db47e7b1e6af199113c529d5e7477ab892bfa85c142cbf1fa7",
     "9fa1c362a5f7982f9efa0b3a36509ddf566a2c3ae9977355f29e2aae45afdcd1",
@@ -499,7 +495,11 @@
     "55e43a0e376fb9698d80e5ff3c41fea29c37acdad08386460211f61419217f35",
     "a6b046d89a64a9e6a6e97a13087e6339c9ff695efd0b69dd928573d374c12b92",
     "a0c9cc9f3cd458d6444e5f3b4f9bda0a3b2bb3b1b343adf4f890027b77f1a512",
-    "76bf89351c6b820de4aa5c527eb8cbccccc56a6c88710316f148c646903e0a9a"
+    "76bf89351c6b820de4aa5c527eb8cbccccc56a6c88710316f148c646903e0a9a",
+    "3d7dda468b2945cc02d44730f2e70baf4842bef44691648500990ab17f60c9e1",
+    "65f3730c0fef7b6b48e7e3aa510ac39f6be6576ae4dcb7b17385303882388648",
+    "c8ffde05d5e9130939b71e1d64a467e068680e7c36e8e905918a71431a952644",
+    "8d9d5ebcc41536901ce4efce06cf90cfab1ccd40d3dc6e38a1270acb3a440a09"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -698,6 +698,7 @@
     "12 ago 2026: Brent supera $89 por estancamiento EE.UU.-Irán sobre Ormuz (Irán mantiene cierre) y Pakistán confirma 3 ciudadanos muertos en ataque hutí a buque frente a Bab el-Mandeb, elevando riesgo de suministro.",
     "12 ago 2026: IEA proyecta déficit global de 1,8M bpd en Q3 2026 por cierre de Ormuz y caída de oferta de 4,3M bpd; refinerías indias buscan 6M barriles spot, confirmando escasez y presión alcista.",
     "Ucrania suspende ataques a petroleros en Novorossiysk por petición de Vance, reduciendo riesgo de oferta rusa y presión bajista sobre precios.",
-    "12 ago 2026: Tránsito en Ormuz cae a 8 buques (mínimo histórico) mientras Trump afirma tener 'control'; ataque hutí mata a 6 en Bab el-Mandeb, sin avance en negociaciones y persistente riesgo de suministro."
+    "12 ago 2026: Tránsito en Ormuz cae a 8 buques (mínimo histórico) mientras Trump afirma tener 'control'; ataque hutí mata a 6 en Bab el-Mandeb, sin avance en negociaciones y persistente riesgo de suministro.",
+    "Putin amenaza con apoderarse de buques de la UE en represalia por medidas contra la flota sombra rusa, elevando el riesgo de interrupción de exportaciones y sumando presión alcista al petróleo."
   ]
 }
