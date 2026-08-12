@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "a34192b8f0a9875608b1baeb862edb370cabfe2b2397c802b8dfe8cc38b654f2",
-    "86a862f29220152251b783d9b2d1cc754ecaaa7375843a20e76f4d1cded97479",
-    "94fb497d05b877054fcc701506a35f0a7f6af1702d597b1cb23aa9d1f8c4a8a8",
     "b3dbd4a7cc0fed8483ab56176824af24936fee37ffa1e642f7126a4e24f40b72",
     "8eafc29ac0db4ae542201593fd704ea23e3c1ebf6117138c0fad3ecc38e250ec",
     "9c21a74c66487ad65b303a279cedafd03748f9ec4fccdd33cdeb2bc6bcf5e75d",
@@ -499,7 +496,10 @@
     "0e0a1dbcc3d181218ba2381cb28000c4cd61691c4353ee7849209368a387c2b0",
     "b5c3eb7d4eb4e36ad9f68730e27c771f25aada244279b35a05c5dfec8e1c5742",
     "3634ea09a7e4378e78e34d884cbf91e74b529504709249486fff97a92a0f2f0a",
-    "14595dc49c2b92e8416dbb7fbfe98b0cda70435762006fd880602753848a8933"
+    "14595dc49c2b92e8416dbb7fbfe98b0cda70435762006fd880602753848a8933",
+    "68e239506e3957f1417418f7c723617c6f7287b7887f0dff7b29e40d91298d5a",
+    "1b2e50df29ca3bdc34dcb1aebc7f17f6f923793478576348c30a9cca5b3782bf",
+    "a6ea8c39bad347218a5f1b2cc5003c7d3f81d8b35e0aa34af5dea04de7218498"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -690,6 +690,7 @@
     "OilPrice reporta que las tensiones en Ormuz se reavivan con colapso de exportaciones iraníes, empujando el Brent hacia $87 y con riesgo de $100; China reanuda compras de crudo iraní mientras el acuerdo no avanza.",
     "Irán confirma el 11 ago 2026 que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones (fin guerra, liberar fondos), elevando riesgo de oferta y precios.",
     "11 ago 2026: Tráfico en Ormuz cae a solo 6 buques el lunes, mínimo histórico, confirmando colapso de suministro y desvanecimiento de acuerdo, elevando riesgo de precios.",
-    "11 ago 2026: CENTCOM dispara contra buque Vela Nova que intentó romper bloqueo iraní en Ormuz; riesgo de escalada militar y presión alcista sobre petróleo."
+    "11 ago 2026: CENTCOM dispara contra buque Vela Nova que intentó romper bloqueo iraní en Ormuz; riesgo de escalada militar y presión alcista sobre petróleo.",
+    "12 ago 2026: Ataque hutí en Bab el-Mandeb mata a seis (primeras muertes en navegación) e Irán reitera que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones; se mantiene riesgo de suministro y presión alcista."
   ]
 }
