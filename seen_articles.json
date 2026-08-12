@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "bde60cac3d58ad8fff291a5c5b35e5fe3c2c29b22c29b09577b4f42cf0f4b51d",
-    "6d177d3f887463e8ffb8a721caa462beceeac377824b91952a56d26f3a99a584",
-    "c0e00ae25ba0babd31f67ccad6ecfeee3eb4619fe9466dd732c9a5543983bb0b",
     "87a8bdc6f8f71b139c7e22acf637e89014a1a5de2ab558b9ea310a6867dee5c9",
     "119b5f785e73aba1ed741292fb983bf7c5e997fc1c9ac10febba7e27177b647e",
     "8530709373861fffe5010a15ead305c6be971756295c384765f48c2e3e961739",
@@ -499,7 +496,10 @@
     "6b0a64855cd890fe1b898a303b1fae42334081d315fb271e027e03ab2eb94883",
     "60198a8b478813d318d01336aa136ac83e34748000708d32a22037cb3ba28836",
     "764fd2ce36ebfcd15a747139eaea9611b2b9ef2a56a9b14535659733e7c01201",
-    "691600b193c279568173d991c571473e890d58d99bfa956d790648acc0a3397f"
+    "691600b193c279568173d991c571473e890d58d99bfa956d790648acc0a3397f",
+    "bade8362b5d3ec138e965955f73fbe1497ec4e6da8674abb778fee61400745da",
+    "362dd9f71ed275051e5edd2127e5fe04fd0e4b0d8e9bbf06e18b98578c8b1801",
+    "0c2dc04ee988b7297033f8a90f1e3b2d9ead1c3b12fadf98a71271b6420eb68c"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -694,6 +694,7 @@
     "12 ago 2026: Ataque hutí en Bab el-Mandeb mata a seis (primeras muertes en navegación) e Irán reitera que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones; se mantiene riesgo de suministro y presión alcista.",
     "12 ago 2026: Ataques mortales en Mar Rojo y Golfo de Omán elevan precios del crudo y confirman riesgo persistente en rutas de navegación, sin avance en reapertura de Ormuz.",
     "Trump afirma que su avión señuelo enfrentó riesgo de ataque iraní en vuelo secreto, confirmando amenaza militar activa y elevando riesgo de escalada.",
-    "IEA ve caída de demanda de 1,6M bpd en 2026 por cierre de Ormuz; datos de tankers contradicen a Wright sobre normalización de flujos – riesgo de suministro sigue alto."
+    "IEA ve caída de demanda de 1,6M bpd en 2026 por cierre de Ormuz; datos de tankers contradicen a Wright sobre normalización de flujos – riesgo de suministro sigue alto.",
+    "12 ago 2026: Brent supera $89 por estancamiento EE.UU.-Irán sobre Ormuz (Irán mantiene cierre) y Pakistán confirma 3 ciudadanos muertos en ataque hutí a buque frente a Bab el-Mandeb, elevando riesgo de suministro."
   ]
 }
