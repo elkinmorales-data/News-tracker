@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "2aae81c162f8ee9a7ab4c053a5ee064020a859ff5969b063ee3ea95d49d28f4d",
-    "fa3bff2240834669191571f164825f24913be64fa6f3016a297e6dbe2990eac1",
-    "e32afc7c6f0fa1cbcfac1f5dcf65a97d79e71254276eabd62e4b638c3d2d5cc9",
     "135d3f53c8e355b0f0be3494ce76db88ec4793143c4e0817fae6e808ab39c229",
     "39ca394a4e1c0b8f286cc08dc9c7f4d6f34b8cf6398bf730fbacecee147021b2",
     "9b9fea79365a7140406df2032c92541c50173110d1da8287f8bd8765aced7215",
@@ -499,7 +496,10 @@
     "1cf12d2aacd0cbcc77f901c8fda81397ebd90afbac4b76b95bfcec53ec1ea22c",
     "79edad5051c10b75f2027e901292637830c5156a53ca4fe2ed0af1d5da23ed6c",
     "8560885f70ca640f72177a5afd63218d523e7672fa9f4c7ecbc3ad9950a432aa",
-    "edb9f9a09b91517a64723121b59e40fee9c2b095e03f4ebdeea1f530dc2e1101"
+    "edb9f9a09b91517a64723121b59e40fee9c2b095e03f4ebdeea1f530dc2e1101",
+    "9c0d360803d574dc0ba10f3a493c9a98cec1b20892cbd7a5780ee7a9be919eb6",
+    "4118454c292166917488cea71ce21957adfce81ef4561c24a650b3e4c35f510c",
+    "765ecf1e80290b5e9231d8ef83f5e128c2c086ff243092f78e4c2c73583582fb"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -700,6 +700,7 @@
     "Ucrania suspende ataques a petroleros en Novorossiysk por petición de Vance, reduciendo riesgo de oferta rusa y presión bajista sobre precios.",
     "12 ago 2026: Tránsito en Ormuz cae a 8 buques (mínimo histórico) mientras Trump afirma tener 'control'; ataque hutí mata a 6 en Bab el-Mandeb, sin avance en negociaciones y persistente riesgo de suministro.",
     "Putin amenaza con apoderarse de buques de la UE en represalia por medidas contra la flota sombra rusa, elevando el riesgo de interrupción de exportaciones y sumando presión alcista al petróleo.",
-    "12 ago 2026: Ataques iraníes en primavera dañaron Ras Laffan LNG Trains 4&6 y Pearl GTL Train 2 en Qatar, eliminando 12,8M t/a de capacidad de LNG por 3-5 años, elevando riesgo de oferta y precios energéticos."
+    "12 ago 2026: Ataques iraníes en primavera dañaron Ras Laffan LNG Trains 4&6 y Pearl GTL Train 2 en Qatar, eliminando 12,8M t/a de capacidad de LNG por 3-5 años, elevando riesgo de oferta y precios energéticos.",
+    "12 ago 2026: Derrame de petrolero ruso Caroline Bezengi alcanza costa de Omán, confirmando impacto ambiental y riesgo de navegación en zona crítica; sin efecto directo en oferta."
   ]
 }
