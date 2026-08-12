@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "968f46d6e2b2265c9aa74659fd13bf3274740983418b45d40cb7a2c59bbc3e88",
-    "f0155aa475e337e85e87f0beea8777ef109a02a1a3acae13713c58340962332e",
     "8759d4d0b48c16a991888395de9176b60bc8de469be8580c7844e089059bc1ad",
     "c2d95511fe93d364fc4f8fad672e522e182480a02ab654e9e4c7342abc094791",
     "3c4ccd8769bf78959c4a3e7755553469ae9fd0b7f6976a9c0f865944f89873c5",
@@ -499,7 +497,9 @@
     "5c07858d2c49e29b293e8c01d0efeaebb25083f3be6feb5ddae7cbfc6df9502e",
     "ec6e38c0097e98e88d17d97592f9e696652299dedca804f6d2a33715037edffd",
     "7bfe7ce7db56ee812c88ced7b4e7ec5785060306fe4847aaf3dcb9af7b970ab9",
-    "d053a423395c3d345bcee1786e16b17e0074a1127cf57360e61c405ad018de91"
+    "d053a423395c3d345bcee1786e16b17e0074a1127cf57360e61c405ad018de91",
+    "db95033b67066c7433724568cffd8fae127baa9017dfd8de56cb4fae6e837f29",
+    "6b0a64855cd890fe1b898a303b1fae42334081d315fb271e027e03ab2eb94883"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -692,6 +692,7 @@
     "11 ago 2026: Tráfico en Ormuz cae a solo 6 buques el lunes, mínimo histórico, confirmando colapso de suministro y desvanecimiento de acuerdo, elevando riesgo de precios.",
     "11 ago 2026: CENTCOM dispara contra buque Vela Nova que intentó romper bloqueo iraní en Ormuz; riesgo de escalada militar y presión alcista sobre petróleo.",
     "12 ago 2026: Ataque hutí en Bab el-Mandeb mata a seis (primeras muertes en navegación) e Irán reitera que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones; se mantiene riesgo de suministro y presión alcista.",
-    "12 ago 2026: Ataques mortales en Mar Rojo y Golfo de Omán elevan precios del crudo y confirman riesgo persistente en rutas de navegación, sin avance en reapertura de Ormuz."
+    "12 ago 2026: Ataques mortales en Mar Rojo y Golfo de Omán elevan precios del crudo y confirman riesgo persistente en rutas de navegación, sin avance en reapertura de Ormuz.",
+    "Trump afirma que su avión señuelo enfrentó riesgo de ataque iraní en vuelo secreto, confirmando amenaza militar activa y elevando riesgo de escalada."
   ]
 }
