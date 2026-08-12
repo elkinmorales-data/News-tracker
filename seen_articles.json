@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "b3dbd4a7cc0fed8483ab56176824af24936fee37ffa1e642f7126a4e24f40b72",
-    "8eafc29ac0db4ae542201593fd704ea23e3c1ebf6117138c0fad3ecc38e250ec",
-    "9c21a74c66487ad65b303a279cedafd03748f9ec4fccdd33cdeb2bc6bcf5e75d",
-    "4e7ecbc905f51c5c502e54ee3d67bc9972be73fdb6f18a919e6eccc6a61eeb33",
     "45ee3c92dbd9e692e44c34162a9fc0c7e3981110f6a7855be6b316e268f7f5d6",
     "9c1bcc5b4df7e6600210961d2b180d67b80321cc57e2b81fb98d210ba1b24868",
     "968f46d6e2b2265c9aa74659fd13bf3274740983418b45d40cb7a2c59bbc3e88",
@@ -499,7 +495,11 @@
     "14595dc49c2b92e8416dbb7fbfe98b0cda70435762006fd880602753848a8933",
     "68e239506e3957f1417418f7c723617c6f7287b7887f0dff7b29e40d91298d5a",
     "1b2e50df29ca3bdc34dcb1aebc7f17f6f923793478576348c30a9cca5b3782bf",
-    "a6ea8c39bad347218a5f1b2cc5003c7d3f81d8b35e0aa34af5dea04de7218498"
+    "a6ea8c39bad347218a5f1b2cc5003c7d3f81d8b35e0aa34af5dea04de7218498",
+    "29f1b126768cea6c8551716c0c474a30133c4cff0179d639df35601386f7064a",
+    "b0c49edf24f59460567d10335a4b0200ee3186db845ef8e8e260fd678bed0072",
+    "5c07858d2c49e29b293e8c01d0efeaebb25083f3be6feb5ddae7cbfc6df9502e",
+    "ec6e38c0097e98e88d17d97592f9e696652299dedca804f6d2a33715037edffd"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -691,6 +691,7 @@
     "Irán confirma el 11 ago 2026 que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones (fin guerra, liberar fondos), elevando riesgo de oferta y precios.",
     "11 ago 2026: Tráfico en Ormuz cae a solo 6 buques el lunes, mínimo histórico, confirmando colapso de suministro y desvanecimiento de acuerdo, elevando riesgo de precios.",
     "11 ago 2026: CENTCOM dispara contra buque Vela Nova que intentó romper bloqueo iraní en Ormuz; riesgo de escalada militar y presión alcista sobre petróleo.",
-    "12 ago 2026: Ataque hutí en Bab el-Mandeb mata a seis (primeras muertes en navegación) e Irán reitera que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones; se mantiene riesgo de suministro y presión alcista."
+    "12 ago 2026: Ataque hutí en Bab el-Mandeb mata a seis (primeras muertes en navegación) e Irán reitera que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones; se mantiene riesgo de suministro y presión alcista.",
+    "12 ago 2026: Ataques mortales en Mar Rojo y Golfo de Omán elevan precios del crudo y confirman riesgo persistente en rutas de navegación, sin avance en reapertura de Ormuz."
   ]
 }
