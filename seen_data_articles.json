@@ -171,7 +171,11 @@
     "6dff90a372297c18fff280916930913e767e1eaa6245bf0dad74869e92349fc1",
     "48a596a1842b1060a33d0a030203db378532e349005e96e5759caf57650dc884",
     "d82925416d541ff0ecc9237230b217186e9709699623fe36bf3dd38fc7428280",
-    "8c77eaf740eb008e61d4d08a7c175efcc4f92b2a597e893b1b50fc961a495938"
+    "8c77eaf740eb008e61d4d08a7c175efcc4f92b2a597e893b1b50fc961a495938",
+    "32cdc20b834654fcd6839cf6ff485311d0f1104dd1cb4e81bd50b25e88ff9546",
+    "3b79b64096fb6c52b84acd28e587342f2d246d505f6ceca7f4d82d044c4f4fa9",
+    "edba670e73b39282fd287d13ac0d9b3ea82c0c9d177625221378ba16cf5cb2fc",
+    "09b649feee2f290b8b1e21ec6254d5d42fc6c02c2860c95af7f285faf780e8ca"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -197,6 +201,7 @@
     "Análisis empírico de 400K sesiones de Claude Code con mejores prácticas basadas en evidencia | Identificación de costos de tokens ocultos en loops agenticos y su optimización | Top 10 skills para Claude Code y Codex CLI como bibliotecas reutilizables | Arquitectura híbrida RAG + fine-tuning para soporte AI en producción | smolLM3 con Hugging Face Transformers demostrando SLMs como alternativa rentable a modelos grandes",
     "Semantic Governance para agentes de IA en Snowflake con definiciones de negocio, linaje y políticas de acceso para asegurar confiabilidad en data foundation | Confiabilidad de agentes AI depende de capa semántica sobre datos crudos",
     "Specification Engineering como evolución del prompt engineering | Muse Glimmer 30B modelo on-device para agentic AI con ExecuTorch | Framework de decisión prompt caching vs fine-tuning en sistemas agentic | Claude Skills especializadas para marketing como agentes modulares verticales",
-    "Watermarking obligatorio de contenido IA en Claude por cumplimiento EU AI Act | Patrones async para concurrencia de agentes en Python con casos de producción"
+    "Watermarking obligatorio de contenido IA en Claude por cumplimiento EU AI Act | Patrones async para concurrencia de agentes en Python con casos de producción",
+    "Sesgos en LLM-as-a-Judge para evaluación automatizada DHS 2026 | Distinción y combinación de retrieval vs memoria en sistemas agentic AI"
   ]
 }
