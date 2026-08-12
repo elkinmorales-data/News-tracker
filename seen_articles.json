@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "bf0d96b4af0e532995530e380468f10d5f507bcfb792b3cf23fb4cd55637fe06",
-    "e9e61e1526ce370869545c4007102e071e1e00905a706ba5405919d45843ee36",
-    "64c6773491f386204e8e9f738e4cd21b9ea23bee3628a2d66325cbeca6e11251",
     "0592f41889ae16a5a043a1660e67e9779e510e5fb87fd246382d321d36a28407",
     "e9ee4d29ac28d0739af53c08b49c2a4b9544e83fb0433265c97adbae31959cd2",
     "8195b14bd86a697e50d8e492a6f8bdbd50544bd2bdb0319657fe74e9a95becc0",
@@ -499,7 +496,10 @@
     "2faeb454318da9475a25d896845f75f8ac23a875b584a8a24174d83b0fe84995",
     "e172f4d08afd8ab6968c6f0a940cad99bdd36ccd6b6ae420469ebd9887d52b3c",
     "974fdd1acdbe786ee8c0a591c9299b8d9110926673921adf6f42c80c8e7d605c",
-    "c5d8b3cfc75f5c05256eac07d7450c4eeb597d6bc5c57058eb74125ee8930fa9"
+    "c5d8b3cfc75f5c05256eac07d7450c4eeb597d6bc5c57058eb74125ee8930fa9",
+    "4e007e46de257ec7d84c55fd96812df25614a2bab742d5eb629e63295f9b6ebf",
+    "55e43a0e376fb9698d80e5ff3c41fea29c37acdad08386460211f61419217f35",
+    "a6b046d89a64a9e6a6e97a13087e6339c9ff695efd0b69dd928573d374c12b92"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -697,6 +697,7 @@
     "IEA ve caída de demanda de 1,6M bpd en 2026 por cierre de Ormuz; datos de tankers contradicen a Wright sobre normalización de flujos – riesgo de suministro sigue alto.",
     "12 ago 2026: Brent supera $89 por estancamiento EE.UU.-Irán sobre Ormuz (Irán mantiene cierre) y Pakistán confirma 3 ciudadanos muertos en ataque hutí a buque frente a Bab el-Mandeb, elevando riesgo de suministro.",
     "12 ago 2026: IEA proyecta déficit global de 1,8M bpd en Q3 2026 por cierre de Ormuz y caída de oferta de 4,3M bpd; refinerías indias buscan 6M barriles spot, confirmando escasez y presión alcista.",
-    "Ucrania suspende ataques a petroleros en Novorossiysk por petición de Vance, reduciendo riesgo de oferta rusa y presión bajista sobre precios."
+    "Ucrania suspende ataques a petroleros en Novorossiysk por petición de Vance, reduciendo riesgo de oferta rusa y presión bajista sobre precios.",
+    "12 ago 2026: Tránsito en Ormuz cae a 8 buques (mínimo histórico) mientras Trump afirma tener 'control'; ataque hutí mata a 6 en Bab el-Mandeb, sin avance en negociaciones y persistente riesgo de suministro."
   ]
 }
