@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "c657c255837282db47e7b1e6af199113c529d5e7477ab892bfa85c142cbf1fa7",
-    "9fa1c362a5f7982f9efa0b3a36509ddf566a2c3ae9977355f29e2aae45afdcd1",
-    "dd006976d8b4f3ea45b55d4bead88cab336f2bb3f2685c9a63a987f4d5e7c8e3",
-    "4a874749df6e5ff6a033167bc5e3f0a5bb298915bd0cb5fcf6835048e4d16638",
-    "97b06e5f12a5a86c66233b1ace1e0c959709c87e8e9ac214946be592f50bf831",
     "e44425982eeef687e0cb7c3b8a21a286f789e1c0c312c5a229a66ee8fb3d2145",
     "2aae81c162f8ee9a7ab4c053a5ee064020a859ff5969b063ee3ea95d49d28f4d",
     "fa3bff2240834669191571f164825f24913be64fa6f3016a297e6dbe2990eac1",
@@ -499,7 +494,12 @@
     "65f3730c0fef7b6b48e7e3aa510ac39f6be6576ae4dcb7b17385303882388648",
     "c8ffde05d5e9130939b71e1d64a467e068680e7c36e8e905918a71431a952644",
     "8d9d5ebcc41536901ce4efce06cf90cfab1ccd40d3dc6e38a1270acb3a440a09",
-    "065b0010dca9a5af3f681d7112bc639f08bb02843579142d66ca9c4f0ed91703"
+    "065b0010dca9a5af3f681d7112bc639f08bb02843579142d66ca9c4f0ed91703",
+    "1c3488aec5664ce4022fd52db3ae73ceab7e579bf67dbb15a09efbbd053b6631",
+    "3da3d6c2643836bd5afc0071e451d95af5041c570f487bb3d2917d9cf35025d3",
+    "1cf12d2aacd0cbcc77f901c8fda81397ebd90afbac4b76b95bfcec53ec1ea22c",
+    "79edad5051c10b75f2027e901292637830c5156a53ca4fe2ed0af1d5da23ed6c",
+    "8560885f70ca640f72177a5afd63218d523e7672fa9f4c7ecbc3ad9950a432aa"
   ],
   "seen_summaries": [
     "Trump declaró el fin del alto el fuego con Irán y canceló la exención de sanciones al petróleo iraní tras ataques a buques en Ormuz, elevando el precio del crudo más de un 7%.",
@@ -699,6 +699,7 @@
     "12 ago 2026: IEA proyecta déficit global de 1,8M bpd en Q3 2026 por cierre de Ormuz y caída de oferta de 4,3M bpd; refinerías indias buscan 6M barriles spot, confirmando escasez y presión alcista.",
     "Ucrania suspende ataques a petroleros en Novorossiysk por petición de Vance, reduciendo riesgo de oferta rusa y presión bajista sobre precios.",
     "12 ago 2026: Tránsito en Ormuz cae a 8 buques (mínimo histórico) mientras Trump afirma tener 'control'; ataque hutí mata a 6 en Bab el-Mandeb, sin avance en negociaciones y persistente riesgo de suministro.",
-    "Putin amenaza con apoderarse de buques de la UE en represalia por medidas contra la flota sombra rusa, elevando el riesgo de interrupción de exportaciones y sumando presión alcista al petróleo."
+    "Putin amenaza con apoderarse de buques de la UE en represalia por medidas contra la flota sombra rusa, elevando el riesgo de interrupción de exportaciones y sumando presión alcista al petróleo.",
+    "12 ago 2026: Ataques iraníes en primavera dañaron Ras Laffan LNG Trains 4&6 y Pearl GTL Train 2 en Qatar, eliminando 12,8M t/a de capacidad de LNG por 3-5 años, elevando riesgo de oferta y precios energéticos."
   ]
 }
