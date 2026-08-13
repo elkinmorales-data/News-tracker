@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "f9a778428b0a03a624d6771f21a1488d0e24d2dfa4feed5b195faf2e73b9c66a",
-    "cb13be20d6dfbee81045501d346231857b945949a447d3cd9e35fbeacdd6cc00",
-    "b35d89c14fa9a614668c890441f9a23ffb724fe6e291158b2898dbc8219b0691",
-    "e101ac8f10eb9cdf98cf6364ed08ec4c5acb516f656caacc54565b634f9cd94b",
     "bf267ad2e9d36330417322f12436b5337ea56a3fea363efefad88551a147255b",
     "f8a98622c236e2be1db726be3c0b2b45095f4ce652e970ae52e91f268c2f58c0",
     "540be217fc2006d602bcf69b7dcc54e7d023b4d207fd79d5de75c050e101dc82",
@@ -499,7 +495,11 @@
     "522f4a127390f4abb02c4e7a557e8876c0548022cdb38afd2fe221f59fd3ff60",
     "cc8c25cd268ad40d25ada8d77b6e5c0d5d282d1eb5a7dafb927f9cdceef10d8c",
     "107ae8cb00e68fbd7544b3e2130875cb6921b7cc1b0cc032ef21e1794660729d",
-    "c92540e932ed6719107e04e8ac69e01ecfc5ffdea9f8d2fc6dd8174cc37fd694"
+    "c92540e932ed6719107e04e8ac69e01ecfc5ffdea9f8d2fc6dd8174cc37fd694",
+    "723cc45d734e3c3627744dd7cab195b74ea4053e29370dd6f40667994cd8e709",
+    "ff12614693c95d688230ae94c9d2baed5ffc8e499c3f910a4683beddb5da5dfc",
+    "33df2c68902d9f94fa7df2ad9448b54a7503c9d314f1411ae7f8b6ecf5e7e6b1",
+    "791a1208afac302fa58a862a77afce9bf1f7ff1d57a2174f4c374e4d693e5b6d"
   ],
   "seen_summaries": [
     "Reanudación de ataques EE.UU.-Irán en Bushehr y caída del tráfico en Ormuz; AIE advierte riesgo de déficit, márgenes de refino en máximos.",
