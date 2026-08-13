@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "4d481ac49874a69e7bb53f2e145552e201b972af4b649f278ad8a65f725a84fe",
-    "c2d8df4b53463e1f55143afec2edc73ffeca37ba0b4e02b2b3c949dfc75cae7f",
-    "17054b160febee4d75dbdd7a7a62c67fbf529225c5e76f672ada9da30fe04e0a",
     "1e1e11eaa28eec818ef16d79b6ba58180721dbcae6d60ce2e5f80962f7910de7",
     "037cd2e9cf77e3bd44316f4f6b36124f41fd6653dffc04cab5af687f533fbe19",
     "a6ff5fd90c791d8ff85daccbfd6cbcef8b727f7811fc443870e39cf80e99b6f0",
@@ -499,10 +496,12 @@
     "f759140f32ed561438dc713884ce39a54e75dded34ee6970182285678c484b5c",
     "6479276ef9c3e0bc7f737ac0e4441778a25c80abfecbf29a346caf58f18205a8",
     "6726c27ae0b63fd353dc116ec98571e1ceca74cf2cab3698caf21bd08005758f",
-    "6db2919c63620b9cb260616fa24ab13df9703e462fa6ed92204a6b93bfef5f14"
+    "6db2919c63620b9cb260616fa24ab13df9703e462fa6ed92204a6b93bfef5f14",
+    "d43e7483b0db34c01e6fd45cf0cb2cfad6bfe5ad75e2ee8a2530aa8732402c53",
+    "adeb1036743dfbcc17a1ad13961e08e7fe1ce17bd79e2014de099434b0605c27",
+    "46d366226b0a04e75f3b7caa246485a12d2f29933dff0da30cca0849e8b2ef9b"
   ],
   "seen_summaries": [
-    "EE.UU. ataca 90 objetivos iraníes e Irán responde contra bases estadounidenses; Ormuz casi bloqueado, Brent supera 76 dólares y AIE alerta sobre riesgo de suministro.",
     "Kazajistán extiende seis meses su prohibición de exportación de petróleo debido a tensiones en Ormuz y escasez rusa.",
     "Trump amenaza con decimar Irán si lo atentan, exige apertura de Ormuz; funeral de Jamenei intensifica llamados a atacar a EE.UU.",
     "Trump amenaza con diezmar Irán con 1.000 misiles y sanciona a financista iraní, tras cánticos de muerte en funeral de Jamenei, escalando riesgo de conflicto en Ormuz.",
@@ -701,6 +700,7 @@
     "13 ago 2026: Derrame del petrolero ruso Caroline Bezengi alcanza costa de Omán con 40 km de litoral afectado; sin impacto directo en oferta pero eleva riesgo ambiental y de navegación en zona crítica.",
     "13 ago 2026: Hutíes chocan con fuerzas yemeníes y derrame de crudo en Qeshm Island (Irán) agrava riesgo en Ormuz, sin avance en negociaciones; presión alcista en petróleo.",
     "13 ago 2026: Ucrania ataca refinería rusa cerca de Novorossiysk, provocando incendio en infraestructura portuaria; añade presión alcista a oferta de refinados y petróleo.",
-    "13 ago 2026: Irán reafirma control total de Ormuz y Ucrania ataca refinería rusa Salavat (200k bpd), elevando riesgo de suministro y precios."
+    "13 ago 2026: Irán reafirma control total de Ormuz y Ucrania ataca refinería rusa Salavat (200k bpd), elevando riesgo de suministro y precios.",
+    "Crew of Yemeni vessel Tihama recounts chaotic rescue after deadly Houthi attack in Bab el-Mandeb (Aug 10, 2026); confirms ongoing navigation risk and bolsters supply concerns."
   ]
 }
