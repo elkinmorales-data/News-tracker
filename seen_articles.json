@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "542598ce8a12d894226e971999f6140443ca5f48efab50aefc93372cd1b7aaf3",
-    "6cc78e6fd8be05dbcf9f2e5f6530e3015658c19d4a1561c5f01dc437b951736c",
     "6649f0a4258f1e8c3e700cb59730dda9564e44be195abf499fd2b08446888bb3",
     "0632bb7f4385d16bc90c643a7b5ad829b5e852e7040e86db7d0ecd79f4526326",
     "6af2d5c9976e2bba6f03d39575fc24c82e6c79bfe88ace72f5b17ee552849def",
@@ -499,10 +497,11 @@
     "374acfbd66bc567154a449e3894de93906a2dd3c955a654c68430ca601fb3f14",
     "6f84cffe5e658e9f8f6ec235fcb638f400538d4230738ec13ab99fcad3097770",
     "eb997b4a45ef7965bab94c9377e0334c2011fe29aa10141f52813d95c4e8f1df",
-    "6c99e13c689743a02b52995045114a13c3a5e4dc4fcd1296e0b9b3796c0ab4df"
+    "6c99e13c689743a02b52995045114a13c3a5e4dc4fcd1296e0b9b3796c0ab4df",
+    "6a409948d1545f437d3e3dde73d3cd8ed3c8845940b2910ef0d4c5e7a6159652",
+    "50be5d197fec6a614a0ae10e4b6a3494bb52368ccc49a7a3daf227455ef1483b"
   ],
   "seen_summaries": [
-    "Trump amenaza con decimar Irán si lo atentan, exige apertura de Ormuz; funeral de Jamenei intensifica llamados a atacar a EE.UU.",
     "Trump amenaza con diezmar Irán con 1.000 misiles y sanciona a financista iraní, tras cánticos de muerte en funeral de Jamenei, escalando riesgo de conflicto en Ormuz.",
     "Irán cierra el Estrecho de Ormuz y ataca bases estadounidenses en cuatro países del Golfo tras nuevos bombardeos de EE.UU. en territorio iraní; escalada militar directa y bloqueo activo del estrecho.",
     "Irán ataca cinco países del Golfo y cierra Ormuz tras tercera ronda de bombardeos de EE.UU.",
@@ -701,6 +700,7 @@
     "13 ago 2026: Ucrania ataca refinería rusa cerca de Novorossiysk, provocando incendio en infraestructura portuaria; añade presión alcista a oferta de refinados y petróleo.",
     "13 ago 2026: Irán reafirma control total de Ormuz y Ucrania ataca refinería rusa Salavat (200k bpd), elevando riesgo de suministro y precios.",
     "Crew of Yemeni vessel Tihama recounts chaotic rescue after deadly Houthi attack in Bab el-Mandeb (Aug 10, 2026); confirms ongoing navigation risk and bolsters supply concerns.",
-    "13 ago 2026: nuevo portaaviones USS Germantown se despliega hacia Medio Oriente tras problemas en USS Lincoln; refuerza presencia militar de EE.UU. en zona de tensión con Irán y eleva riesgo de escalada."
+    "13 ago 2026: nuevo portaaviones USS Germantown se despliega hacia Medio Oriente tras problemas en USS Lincoln; refuerza presencia militar de EE.UU. en zona de tensión con Irán y eleva riesgo de escalada.",
+    "13 ago 2026: Exportaciones de diésel ruso caen a mínimo multi anual (80k bpd) por ataques ucranianos a refinerías y restricciones, agravando escasez global de destilados y añadiendo presión alcista."
   ]
 }
