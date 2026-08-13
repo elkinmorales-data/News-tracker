@@ -175,7 +175,10 @@
     "32cdc20b834654fcd6839cf6ff485311d0f1104dd1cb4e81bd50b25e88ff9546",
     "3b79b64096fb6c52b84acd28e587342f2d246d505f6ceca7f4d82d044c4f4fa9",
     "edba670e73b39282fd287d13ac0d9b3ea82c0c9d177625221378ba16cf5cb2fc",
-    "09b649feee2f290b8b1e21ec6254d5d42fc6c02c2860c95af7f285faf780e8ca"
+    "09b649feee2f290b8b1e21ec6254d5d42fc6c02c2860c95af7f285faf780e8ca",
+    "265702587e53f5dfd50148759414f8ca36ea95c39387be1929524b239df74b38",
+    "4a95e6a03deceb42a00a9102748737484f27ffe87b3653f12762e3b2ddec1638",
+    "254c47b6aef561801e716bbd93ad5237d7697810441549b85a8cc7eacd0852d4"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -202,6 +205,7 @@
     "Semantic Governance para agentes de IA en Snowflake con definiciones de negocio, linaje y políticas de acceso para asegurar confiabilidad en data foundation | Confiabilidad de agentes AI depende de capa semántica sobre datos crudos",
     "Specification Engineering como evolución del prompt engineering | Muse Glimmer 30B modelo on-device para agentic AI con ExecuTorch | Framework de decisión prompt caching vs fine-tuning en sistemas agentic | Claude Skills especializadas para marketing como agentes modulares verticales",
     "Watermarking obligatorio de contenido IA en Claude por cumplimiento EU AI Act | Patrones async para concurrencia de agentes en Python con casos de producción",
-    "Sesgos en LLM-as-a-Judge para evaluación automatizada DHS 2026 | Distinción y combinación de retrieval vs memoria en sistemas agentic AI"
+    "Sesgos en LLM-as-a-Judge para evaluación automatizada DHS 2026 | Distinción y combinación de retrieval vs memoria en sistemas agentic AI",
+    "Baidu Unlimited-OCR resolver KV cache en transcripción de documentos largos | Constraining output space para SLMs en automatización estrecha | Clarificación de streaming en agentes locales de IA: dos interpretaciones"
   ]
 }
