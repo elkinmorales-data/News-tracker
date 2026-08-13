@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "0573866d8d925860a850f67097e7b382200399fbba265e93007d632f5693e8e9",
-    "568d605cb8e462c62535ef1da2b17dcb233501ca77ed9e0c8263ec7d51a72696",
     "bcadfacf974173c0def027c8bc95781d26c4ed9a78317e47394b3b68a4698733",
     "faef079bd6aacd43e4698143f8a4c1e0578e5fe3fdbe80e50dbd89607dbaa352",
     "8a16b0217c28833a5c62b17b971ee13a928e4b8d9a7fdc5df2771eabbf8ac273",
@@ -499,10 +497,11 @@
     "e00857e0cf38d245d6c4d396f03391f7ff75f1b995f89d9792709abc344efdb5",
     "8e9997e8f0a5c8ffbe4c04d56a65f1430e604fa7867d13fe11da5cddc4f244b4",
     "d1acf38824a56882a647d2d72d1c4e3bebf76ae3d9cd12371fff2fb528c3d1cf",
-    "59111c9bdb051404acac5ede5ccb3ba4fb741c91af07966931975d44312dc2ce"
+    "59111c9bdb051404acac5ede5ccb3ba4fb741c91af07966931975d44312dc2ce",
+    "efa03e8764018f04cc264fd85dd539fd4f11fa1e74cbb4b97a4eac3fe3c77922",
+    "0c4caaa0faf4a82416d92aed0dde62f3e1d1333fc5bfda625747b642d4dfeda9"
   ],
   "seen_summaries": [
-    "Tráfico en Ormuz casi nulo por nuevos ataques EE.UU.-Irán; Goldman Sachs alerta sobre riesgo de disrupción prolongada y producción 10.5 mb/d por debajo de niveles pre-guerra.",
     "Reanudación de ataques EE.UU.-Irán en Ormuz con ataques iraníes a buques y respuesta militar estadounidense; crudo sube 7% y tráfico marítimo se reduce drásticamente.",
     "EE.UU. expande ataques a Bushehr, Irán amenaza con cerrar Ormuz, y reservas estratégicas de crudo en EE.UU. caen a mínimos de 1983.",
     "Reanudación de ataques EE.UU.-Irán en Bushehr y caída del tráfico en Ormuz; AIE advierte riesgo de déficit, márgenes de refino en máximos.",
@@ -701,6 +700,7 @@
     "12 ago 2026: Ataques iraníes en primavera dañaron Ras Laffan LNG Trains 4&6 y Pearl GTL Train 2 en Qatar, eliminando 12,8M t/a de capacidad de LNG por 3-5 años, elevando riesgo de oferta y precios energéticos.",
     "12 ago 2026: Derrame de petrolero ruso Caroline Bezengi alcanza costa de Omán, confirmando impacto ambiental y riesgo de navegación en zona crítica; sin efecto directo en oferta.",
     "EIA proyecta que 600,000 bpd de producción de Medio Oriente permanecerán offline hasta fin de 2027 debido al cierre prolongado de Ormuz, elevando pronósticos de precios del petróleo.",
-    "13 ago 2026: Rubio y Bessent viajaron en vuelo señuelo de Trump ante amenaza iraní, confirmando riesgo de escalada militar y presión alcista sobre precios del petróleo."
+    "13 ago 2026: Rubio y Bessent viajaron en vuelo señuelo de Trump ante amenaza iraní, confirmando riesgo de escalada militar y presión alcista sobre precios del petróleo.",
+    "13 ago 2026: Derrame del petrolero ruso Caroline Bezengi alcanza costa de Omán con 40 km de litoral afectado; sin impacto directo en oferta pero eleva riesgo ambiental y de navegación en zona crítica."
   ]
 }
