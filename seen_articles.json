@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "f8a98622c236e2be1db726be3c0b2b45095f4ce652e970ae52e91f268c2f58c0",
-    "540be217fc2006d602bcf69b7dcc54e7d023b4d207fd79d5de75c050e101dc82",
-    "c0b511be33c760a3c37c900a7ebc770c26c0f2bc89d0e5b0af3b7bd6ef858e3f",
-    "0c0bbd02bc3c1e5e6d022181803d1efcbba6fab8772c532584990af12f9aecac",
-    "d9fa84755f3e451ea1ba7897dee5102d2dfb00a11f8586ad0e02e55f77791ef4",
     "4d481ac49874a69e7bb53f2e145552e201b972af4b649f278ad8a65f725a84fe",
     "c2d8df4b53463e1f55143afec2edc73ffeca37ba0b4e02b2b3c949dfc75cae7f",
     "17054b160febee4d75dbdd7a7a62c67fbf529225c5e76f672ada9da30fe04e0a",
@@ -499,10 +494,14 @@
     "ff12614693c95d688230ae94c9d2baed5ffc8e499c3f910a4683beddb5da5dfc",
     "33df2c68902d9f94fa7df2ad9448b54a7503c9d314f1411ae7f8b6ecf5e7e6b1",
     "791a1208afac302fa58a862a77afce9bf1f7ff1d57a2174f4c374e4d693e5b6d",
-    "0c88df04ab2b6123601304761a67fe55c61fee1df6eb5628db4b18a1f4769dfb"
+    "0c88df04ab2b6123601304761a67fe55c61fee1df6eb5628db4b18a1f4769dfb",
+    "802d67a69aede5858d43c80663997caa52b4fa043671a0a8a457b3d62fcb0f80",
+    "f759140f32ed561438dc713884ce39a54e75dded34ee6970182285678c484b5c",
+    "6479276ef9c3e0bc7f737ac0e4441778a25c80abfecbf29a346caf58f18205a8",
+    "6726c27ae0b63fd353dc116ec98571e1ceca74cf2cab3698caf21bd08005758f",
+    "6db2919c63620b9cb260616fa24ab13df9703e462fa6ed92204a6b93bfef5f14"
   ],
   "seen_summaries": [
-    "Reanudación de ataques EE.UU.-Irán en Bushehr y caída del tráfico en Ormuz; AIE advierte riesgo de déficit, márgenes de refino en máximos.",
     "EE.UU. ataca 90 objetivos iraníes e Irán responde contra bases estadounidenses; Ormuz casi bloqueado, Brent supera 76 dólares y AIE alerta sobre riesgo de suministro.",
     "Kazajistán extiende seis meses su prohibición de exportación de petróleo debido a tensiones en Ormuz y escasez rusa.",
     "Trump amenaza con decimar Irán si lo atentan, exige apertura de Ormuz; funeral de Jamenei intensifica llamados a atacar a EE.UU.",
@@ -701,6 +700,7 @@
     "13 ago 2026: Rubio y Bessent viajaron en vuelo señuelo de Trump ante amenaza iraní, confirmando riesgo de escalada militar y presión alcista sobre precios del petróleo.",
     "13 ago 2026: Derrame del petrolero ruso Caroline Bezengi alcanza costa de Omán con 40 km de litoral afectado; sin impacto directo en oferta pero eleva riesgo ambiental y de navegación en zona crítica.",
     "13 ago 2026: Hutíes chocan con fuerzas yemeníes y derrame de crudo en Qeshm Island (Irán) agrava riesgo en Ormuz, sin avance en negociaciones; presión alcista en petróleo.",
-    "13 ago 2026: Ucrania ataca refinería rusa cerca de Novorossiysk, provocando incendio en infraestructura portuaria; añade presión alcista a oferta de refinados y petróleo."
+    "13 ago 2026: Ucrania ataca refinería rusa cerca de Novorossiysk, provocando incendio en infraestructura portuaria; añade presión alcista a oferta de refinados y petróleo.",
+    "13 ago 2026: Irán reafirma control total de Ormuz y Ucrania ataca refinería rusa Salavat (200k bpd), elevando riesgo de suministro y precios."
   ]
 }
