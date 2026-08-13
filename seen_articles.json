@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "50be5d197fec6a614a0ae10e4b6a3494bb52368ccc49a7a3daf227455ef1483b",
-    "c46ae0523213a728fb93bb6b0f15c38cd177135fb2114a0d45517f97f200bfa5",
-    "24237b6575b9a978b05e344450eb2285053820d0e40eb02445ddd7f4c75e14a6",
     "542598ce8a12d894226e971999f6140443ca5f48efab50aefc93372cd1b7aaf3",
     "6cc78e6fd8be05dbcf9f2e5f6530e3015658c19d4a1561c5f01dc437b951736c",
     "6649f0a4258f1e8c3e700cb59730dda9564e44be195abf499fd2b08446888bb3",
@@ -499,10 +496,12 @@
     "b1aa305995ce0da206ced81d5ec142bfbc778f1bc63098851fd447262f06898e",
     "00b88c71b2799e4004d6ce35fa038c92d2147dabc0b7c6343f55bde1efc1a3d9",
     "fa99069b5568b3cbc8afceb75cef32ca86a44d8639b256667909abae0c3a7eca",
-    "374acfbd66bc567154a449e3894de93906a2dd3c955a654c68430ca601fb3f14"
+    "374acfbd66bc567154a449e3894de93906a2dd3c955a654c68430ca601fb3f14",
+    "6f84cffe5e658e9f8f6ec235fcb638f400538d4230738ec13ab99fcad3097770",
+    "eb997b4a45ef7965bab94c9377e0334c2011fe29aa10141f52813d95c4e8f1df",
+    "6c99e13c689743a02b52995045114a13c3a5e4dc4fcd1296e0b9b3796c0ab4df"
   ],
   "seen_summaries": [
-    "Kazajistán extiende seis meses su prohibición de exportación de petróleo debido a tensiones en Ormuz y escasez rusa.",
     "Trump amenaza con decimar Irán si lo atentan, exige apertura de Ormuz; funeral de Jamenei intensifica llamados a atacar a EE.UU.",
     "Trump amenaza con diezmar Irán con 1.000 misiles y sanciona a financista iraní, tras cánticos de muerte en funeral de Jamenei, escalando riesgo de conflicto en Ormuz.",
     "Irán cierra el Estrecho de Ormuz y ataca bases estadounidenses en cuatro países del Golfo tras nuevos bombardeos de EE.UU. en territorio iraní; escalada militar directa y bloqueo activo del estrecho.",
@@ -701,6 +700,7 @@
     "13 ago 2026: Hutíes chocan con fuerzas yemeníes y derrame de crudo en Qeshm Island (Irán) agrava riesgo en Ormuz, sin avance en negociaciones; presión alcista en petróleo.",
     "13 ago 2026: Ucrania ataca refinería rusa cerca de Novorossiysk, provocando incendio en infraestructura portuaria; añade presión alcista a oferta de refinados y petróleo.",
     "13 ago 2026: Irán reafirma control total de Ormuz y Ucrania ataca refinería rusa Salavat (200k bpd), elevando riesgo de suministro y precios.",
-    "Crew of Yemeni vessel Tihama recounts chaotic rescue after deadly Houthi attack in Bab el-Mandeb (Aug 10, 2026); confirms ongoing navigation risk and bolsters supply concerns."
+    "Crew of Yemeni vessel Tihama recounts chaotic rescue after deadly Houthi attack in Bab el-Mandeb (Aug 10, 2026); confirms ongoing navigation risk and bolsters supply concerns.",
+    "13 ago 2026: nuevo portaaviones USS Germantown se despliega hacia Medio Oriente tras problemas en USS Lincoln; refuerza presencia militar de EE.UU. en zona de tensión con Irán y eleva riesgo de escalada."
   ]
 }
