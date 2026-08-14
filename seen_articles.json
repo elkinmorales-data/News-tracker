@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "aad419d8840e63380c6fe233a5887763ea852a45d35b0123c1b0752d844dd50e",
-    "67d8fdba969c6cc20dea421b531bfcdcc173805eaee3dda138e3b5d487c07156",
     "c22bc07efa2f90f8c3489862b215196007e6d7f71a24dc42389fb15191cdcefd",
     "1362c7dd980cd65b1b0cd51dc8ccbdbaa86c29b3b5604b714360566791610e8d",
     "095d198ad041562596c972a8c052a66ce15b25466feb1a32beb65f3d8668f394",
@@ -499,10 +497,11 @@
     "62dbecadbf9932979ff96fabad1b81411c3017b7d91e2592c94e7858aaea390f",
     "09454a520c2a83695b3cd38c2b0348070a23e0a10bffddf903a6de4ad0ad6993",
     "30ba71f4ce61dd973b340629751a19abac6a4ee455843b23bb5eeb8b5220b391",
-    "0b88437e8527e7f8d8fede9a1fd5086b08dd5391fc54323ad3d039155fead52c"
+    "0b88437e8527e7f8d8fede9a1fd5086b08dd5391fc54323ad3d039155fead52c",
+    "b399b0f3801494388f77c15b00f1850f7a9f678ec38d065671c428ffdfa68aee",
+    "71c795704de6a354f54462a98fb9f7f5b5b7b388f2dc09001541b4e09694f8e6"
   ],
   "seen_summaries": [
-    "Trump reimpone bloqueo a Irán, petróleo sube 8%; Reino Unido designa al IRGC como terrorista; IMO rechaza peajes en Ormuz.",
     "Nuevos ataques EE.UU.-Irán en Ormuz; EE.UU. ataca buque iraní con drones navales por primera vez, Irán advierte contra interferencia en el estrecho.",
     "Trump amenaza con atacar la instalación nuclear iraní 'Pickaxe Mountain'; se reanudan ataques en Ormuz con Irán atacando buques y países del Golfo; Brent supera 85 USD; importaciones chinas caen a mínimo de 10 años.",
     "Irán ataca dos petroleros de EAU en Ormuz, elevando el Brent a 86 dólares; persiste la amenaza de peajes de Trump y la reconfiguración de flujos asiáticos.",
@@ -701,6 +700,7 @@
     "Rusia captura récord del 50.83% de importaciones de crudo de India en julio (2.47M bpd), consolidando su oferta a pesar de sanciones, en medio del cierre de Ormuz.",
     "14 ago 2026: Tráfico de petroleros en Ormuz cae a mínimo histórico de 5 cruces diarios, confirmando persistencia del bloqueo iraní y presión alcista sobre precios.",
     "14 ago 2026: Petroleros en Ormuz y Bab el-Mandeb extienden 'modo oscuro' a más de una semana; Vance prioriza gasolina barata pero no ofrece medida concreta; riesgo de oferta sigue alto y refuerza presión alcista.",
-    "14 ago 2026: Hutíes atacan refinería de Aramco en Jazan (daño menor en tanque) y Hegseth dice que bloqueo en Ormuz será indefinido; nuevos ataques a infraestructura petrolera y postura de EE.UU. refuerzan riesgo de oferta."
+    "14 ago 2026: Hutíes atacan refinería de Aramco en Jazan (daño menor en tanque) y Hegseth dice que bloqueo en Ormuz será indefinido; nuevos ataques a infraestructura petrolera y postura de EE.UU. refuerzan riesgo de oferta.",
+    "14 ago 2026: Refinerías asiáticas (al menos 4) compran crudo de EE.UU. como alternativa al crudo de Oriente Medio bloqueado en Ormuz, confirmando disrupción de oferta y presión alcista en precios."
   ]
 }
