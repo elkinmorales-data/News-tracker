@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "1c418ec35e112b9da0b609ab07e71053a2cb53e5711483ac762089739b8b6b24",
-    "3c7816317a71f34d5a1bb93fa605c62f7e8af31fec0953b4ace6bdb65774f2d6",
-    "9e7de7ba73ddb428f2140cd9d43906810fd022f75d12fe03117c9f752ed483ae",
-    "dc75cc110aa77c9b9ec6d2dfa0227b697d1aee8afdc7907c00a4e91bcb3390c0",
     "902464e72e5a43b4e37d89abff7aa7f5a53b3cb87ecc377ffed27b2944e871a8",
     "59b8b34a849a7f71a6cec4c9e9c21f3b068748c6e072b6d7d66104831d0c3733",
     "12a31dd1369394b0f3102c520c0580617b586d6407c589f14f8c01ce541598e8",
@@ -499,10 +495,13 @@
     "d2bb6930033d0f6833b7ddf122fda9db4e8a85d4109947dac2d2cc94dab90acc",
     "6d488cb8a3f9e9881f9a65cd724bbaa837cb534c60f2b9cf497349c790250ae1",
     "c8f528ac9fe8914b4e980a30f539635cd8046b69a443c874e6b9edef5f5e70a2",
-    "0e8e4bb3e093c495f898502e754a7feb2f71deb3a2b55da0dd491fa0e379539c"
+    "0e8e4bb3e093c495f898502e754a7feb2f71deb3a2b55da0dd491fa0e379539c",
+    "bca0dd18d086baafe5b406e9c23d40d5e452b5450b726d7fe6bbca3de6adf48a",
+    "f482f61db762a19d9f7c5b292a07a943d5303f8fa5b27f3e1837ecdf13fdef3d",
+    "0b3701aaca02eac64a61bac9655dbda6c57d071406f50845ba4760208e81f557",
+    "b7181d680570a17f0966badec068f6972609bcb7ee49b7307c15bc593ebe1482"
   ],
   "seen_summaries": [
-    "Irán cierra el Estrecho de Ormuz y ataca bases estadounidenses en cuatro países del Golfo tras nuevos bombardeos de EE.UU. en territorio iraní; escalada militar directa y bloqueo activo del estrecho.",
     "Irán ataca cinco países del Golfo y cierra Ormuz tras tercera ronda de bombardeos de EE.UU.",
     "EE.UU. intensifica ataques militares y civiles en Irán en medio del bloqueo del Estrecho de Ormuz, escalando el conflicto directo.",
     "Ataque con casi una docena de proyectiles enemigos contra la isla iraní de Qeshm, en el Estrecho de Ormuz, con explosiones en Bandar Abbas.",
@@ -701,6 +700,7 @@
     "Crew of Yemeni vessel Tihama recounts chaotic rescue after deadly Houthi attack in Bab el-Mandeb (Aug 10, 2026); confirms ongoing navigation risk and bolsters supply concerns.",
     "13 ago 2026: nuevo portaaviones USS Germantown se despliega hacia Medio Oriente tras problemas en USS Lincoln; refuerza presencia militar de EE.UU. en zona de tensión con Irán y eleva riesgo de escalada.",
     "13 ago 2026: Exportaciones de diésel ruso caen a mínimo multi anual (80k bpd) por ataques ucranianos a refinerías y restricciones, agravando escasez global de destilados y añadiendo presión alcista.",
-    "14 ago 2026: EAU acusa a Irán de atacar dos buques de ADNOC en Ormuz (sin heridos) y Hegseth dice que EE.UU. sostendrá el bloqueo 'indefinidamente'; escalada militar mantiene riesgo de suministro y presión alcista."
+    "14 ago 2026: EAU acusa a Irán de atacar dos buques de ADNOC en Ormuz (sin heridos) y Hegseth dice que EE.UU. sostendrá el bloqueo 'indefinidamente'; escalada militar mantiene riesgo de suministro y presión alcista.",
+    "14 ago 2026: Bessent anuncia aislamiento económico sin precedentes contra Irán y bloqueo indefinido en Ormuz; USS George Washington releva al Lincoln, elevando riesgo de escalada y presión alcista."
   ]
 }
