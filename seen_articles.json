@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "1362c7dd980cd65b1b0cd51dc8ccbdbaa86c29b3b5604b714360566791610e8d",
-    "095d198ad041562596c972a8c052a66ce15b25466feb1a32beb65f3d8668f394",
-    "d7ebba307d67f4091bae7d2204940db1d33861d1260faef50feb063b5bc9d867",
-    "4623bce82593a10f73e9ecd908b615ee5c3ff4dfe3fa62279e2fe61ea8dc5340",
     "717c755fce28e3387b4e778170beecf19cf1d83cffcdced43d59a94776b27922",
     "9ec357d8cef4caeaedb599fcc4d7bedbbbafc42ad496beac0f0a1eed8dc582ea",
     "0cf7ce5764501ad09b7204d23cf497f3355d9cab834f65d6a122e06597598beb",
@@ -499,10 +495,13 @@
     "0b88437e8527e7f8d8fede9a1fd5086b08dd5391fc54323ad3d039155fead52c",
     "b399b0f3801494388f77c15b00f1850f7a9f678ec38d065671c428ffdfa68aee",
     "71c795704de6a354f54462a98fb9f7f5b5b7b388f2dc09001541b4e09694f8e6",
-    "3f4b8561b3674ab508b90ee899718b4f1d0b401f3fa35dc0d0178dbecd94705b"
+    "3f4b8561b3674ab508b90ee899718b4f1d0b401f3fa35dc0d0178dbecd94705b",
+    "5cc640b341161e1cf74356c81cab4fd8e8b8e98ba3ddccd4cbb5a67fb0747271",
+    "0445c1107a768855d7e8dcdb0a14d2a76b1f9f4ba56ed6f1bb6c9453adcdd31e",
+    "87395a37db2869693b44613908a9728a76e95474741563417e705e44cac5b63f",
+    "81af5cdbaa865ea45a7856bafb4b47ed7b5a7ead50f5284c661030dbd0d4b22f"
   ],
   "seen_summaries": [
-    "Nuevos ataques EE.UU.-Irán en Ormuz; EE.UU. ataca buque iraní con drones navales por primera vez, Irán advierte contra interferencia en el estrecho.",
     "Trump amenaza con atacar la instalación nuclear iraní 'Pickaxe Mountain'; se reanudan ataques en Ormuz con Irán atacando buques y países del Golfo; Brent supera 85 USD; importaciones chinas caen a mínimo de 10 años.",
     "Irán ataca dos petroleros de EAU en Ormuz, elevando el Brent a 86 dólares; persiste la amenaza de peajes de Trump y la reconfiguración de flujos asiáticos.",
     "Colapso de la tregua EE.UU.-Irán con ataques mutuos durante tres noches consecutivas, cese del tráfico en Ormuz, Brent supera 85 USD, gasolina en EE.UU. sube por primera vez desde mayo, y Pakistán busca GNL de emergencia.",
@@ -701,6 +700,7 @@
     "14 ago 2026: Tráfico de petroleros en Ormuz cae a mínimo histórico de 5 cruces diarios, confirmando persistencia del bloqueo iraní y presión alcista sobre precios.",
     "14 ago 2026: Petroleros en Ormuz y Bab el-Mandeb extienden 'modo oscuro' a más de una semana; Vance prioriza gasolina barata pero no ofrece medida concreta; riesgo de oferta sigue alto y refuerza presión alcista.",
     "14 ago 2026: Hutíes atacan refinería de Aramco en Jazan (daño menor en tanque) y Hegseth dice que bloqueo en Ormuz será indefinido; nuevos ataques a infraestructura petrolera y postura de EE.UU. refuerzan riesgo de oferta.",
-    "14 ago 2026: Refinerías asiáticas (al menos 4) compran crudo de EE.UU. como alternativa al crudo de Oriente Medio bloqueado en Ormuz, confirmando disrupción de oferta y presión alcista en precios."
+    "14 ago 2026: Refinerías asiáticas (al menos 4) compran crudo de EE.UU. como alternativa al crudo de Oriente Medio bloqueado en Ormuz, confirmando disrupción de oferta y presión alcista en precios.",
+    "14 ago 2026: Ataques iraníes en Ormuz y estancamiento de negociaciones empujan al Brent hacia $100 (ganancia semanal del 5%), pese a aumento de 17M bpd de inventarios en EE.UU. Confirma riesgo de oferta y presión alcista."
   ]
 }
