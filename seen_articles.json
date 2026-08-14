@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "beec45ab8f030d7b6cb8f0d8b28cf7846982618af75ede82c333f38c55a1653a",
-    "45fe51163f984430d766f47044d225d23f8193eca18c8e4eedcdbd4328aae27f",
-    "99887900bb3f09ff31d98a8b42748612b29afb1a7b31da087bff265acca72953",
     "12aa74ee7ac857d8827f6759ab40d04e5046e82ef64bf2d81a4efe39c27a21ef",
     "b58e380bf9418472085a594bdae9f321106b4635ebdf19174096dc6e287eab6c",
     "071546c9894ecbe8d762afa0b53d22f1506b86aa714501d44e0d5ecee389f3e2",
@@ -499,10 +496,12 @@
     "45c87be25f9776d63cfdf8edabfe5b92848492b43b36e47d77023b420f086f0d",
     "34115f8b56bc249d13fffb15cc3ea89ce65be5ca6cf297976b652ac8e7a076cc",
     "0160b2a4910b7a2e10970ff467f6aee60f3ec5f76e510d08f99f54897bbb1dd1",
-    "4dcca983b185e40b08481da6972908c7d17a8cb64ebb4abe512363240d18f9c7"
+    "4dcca983b185e40b08481da6972908c7d17a8cb64ebb4abe512363240d18f9c7",
+    "eff92198b2081b634e25618e034dbbb359e5f295ee101ef2eb2d2ea2b41eafbc",
+    "cdd309419e93c582390348de0f80dea6fe83e81cd0401581c6da1542a2b7b8c6",
+    "3c565c04f6e389db56640c47b39dc6f6b8701da4b9a237cc1d9b4708d0cd737d"
   ],
   "seen_summaries": [
-    "Irán ataca bases estadounidenses en cinco países del Golfo y cierra Ormuz; EE.UU. responde con 140 objetivos bombardeados; tráfico colapsa a seis buques en modo oscuro y crudo sube 4% a 79 USD.",
     "Trump anuncia que EE.UU. tomará control del Estrecho de Ormuz y cobrará peajes; tráfico de petroleros cae a mínimo de cinco semanas por escalada de ataques entre EE.UU. e Irán.",
     "Trump reimpone bloqueo a Irán, petróleo sube 8%; Reino Unido designa al IRGC como terrorista; IMO rechaza peajes en Ormuz.",
     "Nuevos ataques EE.UU.-Irán en Ormuz; EE.UU. ataca buque iraní con drones navales por primera vez, Irán advierte contra interferencia en el estrecho.",
@@ -701,6 +700,7 @@
     "14 ago 2026: Bessent anuncia aislamiento económico sin precedentes contra Irán y bloqueo indefinido en Ormuz; USS George Washington releva al Lincoln, elevando riesgo de escalada y presión alcista.",
     "Se inician trabajos de salvamento del petrolero Caroline Bezengi en Omán; derrame se expande a 1,300 km², elevando riesgo ambiental/navegación en zona crítica.",
     "Rusia captura récord del 50.83% de importaciones de crudo de India en julio (2.47M bpd), consolidando su oferta a pesar de sanciones, en medio del cierre de Ormuz.",
-    "14 ago 2026: Tráfico de petroleros en Ormuz cae a mínimo histórico de 5 cruces diarios, confirmando persistencia del bloqueo iraní y presión alcista sobre precios."
+    "14 ago 2026: Tráfico de petroleros en Ormuz cae a mínimo histórico de 5 cruces diarios, confirmando persistencia del bloqueo iraní y presión alcista sobre precios.",
+    "14 ago 2026: Petroleros en Ormuz y Bab el-Mandeb extienden 'modo oscuro' a más de una semana; Vance prioriza gasolina barata pero no ofrece medida concreta; riesgo de oferta sigue alto y refuerza presión alcista."
   ]
 }
