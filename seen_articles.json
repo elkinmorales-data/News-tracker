@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "b58e380bf9418472085a594bdae9f321106b4635ebdf19174096dc6e287eab6c",
-    "071546c9894ecbe8d762afa0b53d22f1506b86aa714501d44e0d5ecee389f3e2",
-    "d7f3a3bb49572155bbc2278db625c1dd1ba15ade193ed91104927721e3bab671",
     "aad419d8840e63380c6fe233a5887763ea852a45d35b0123c1b0752d844dd50e",
     "67d8fdba969c6cc20dea421b531bfcdcc173805eaee3dda138e3b5d487c07156",
     "c22bc07efa2f90f8c3489862b215196007e6d7f71a24dc42389fb15191cdcefd",
@@ -499,10 +496,12 @@
     "eff92198b2081b634e25618e034dbbb359e5f295ee101ef2eb2d2ea2b41eafbc",
     "cdd309419e93c582390348de0f80dea6fe83e81cd0401581c6da1542a2b7b8c6",
     "3c565c04f6e389db56640c47b39dc6f6b8701da4b9a237cc1d9b4708d0cd737d",
-    "62dbecadbf9932979ff96fabad1b81411c3017b7d91e2592c94e7858aaea390f"
+    "62dbecadbf9932979ff96fabad1b81411c3017b7d91e2592c94e7858aaea390f",
+    "09454a520c2a83695b3cd38c2b0348070a23e0a10bffddf903a6de4ad0ad6993",
+    "30ba71f4ce61dd973b340629751a19abac6a4ee455843b23bb5eeb8b5220b391",
+    "0b88437e8527e7f8d8fede9a1fd5086b08dd5391fc54323ad3d039155fead52c"
   ],
   "seen_summaries": [
-    "Trump anuncia que EE.UU. tomará control del Estrecho de Ormuz y cobrará peajes; tráfico de petroleros cae a mínimo de cinco semanas por escalada de ataques entre EE.UU. e Irán.",
     "Trump reimpone bloqueo a Irán, petróleo sube 8%; Reino Unido designa al IRGC como terrorista; IMO rechaza peajes en Ormuz.",
     "Nuevos ataques EE.UU.-Irán en Ormuz; EE.UU. ataca buque iraní con drones navales por primera vez, Irán advierte contra interferencia en el estrecho.",
     "Trump amenaza con atacar la instalación nuclear iraní 'Pickaxe Mountain'; se reanudan ataques en Ormuz con Irán atacando buques y países del Golfo; Brent supera 85 USD; importaciones chinas caen a mínimo de 10 años.",
@@ -701,6 +700,7 @@
     "Se inician trabajos de salvamento del petrolero Caroline Bezengi en Omán; derrame se expande a 1,300 km², elevando riesgo ambiental/navegación en zona crítica.",
     "Rusia captura récord del 50.83% de importaciones de crudo de India en julio (2.47M bpd), consolidando su oferta a pesar de sanciones, en medio del cierre de Ormuz.",
     "14 ago 2026: Tráfico de petroleros en Ormuz cae a mínimo histórico de 5 cruces diarios, confirmando persistencia del bloqueo iraní y presión alcista sobre precios.",
-    "14 ago 2026: Petroleros en Ormuz y Bab el-Mandeb extienden 'modo oscuro' a más de una semana; Vance prioriza gasolina barata pero no ofrece medida concreta; riesgo de oferta sigue alto y refuerza presión alcista."
+    "14 ago 2026: Petroleros en Ormuz y Bab el-Mandeb extienden 'modo oscuro' a más de una semana; Vance prioriza gasolina barata pero no ofrece medida concreta; riesgo de oferta sigue alto y refuerza presión alcista.",
+    "14 ago 2026: Hutíes atacan refinería de Aramco en Jazan (daño menor en tanque) y Hegseth dice que bloqueo en Ormuz será indefinido; nuevos ataques a infraestructura petrolera y postura de EE.UU. refuerzan riesgo de oferta."
   ]
 }
