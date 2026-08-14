@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "902464e72e5a43b4e37d89abff7aa7f5a53b3cb87ecc377ffed27b2944e871a8",
-    "59b8b34a849a7f71a6cec4c9e9c21f3b068748c6e072b6d7d66104831d0c3733",
-    "12a31dd1369394b0f3102c520c0580617b586d6407c589f14f8c01ce541598e8",
     "4d93e9c8ca65e4e206858334b49a1c5d00ec64f23e9ee7fa2421314a3fb34266",
     "cc8b1510130394d2a8912fe51ccc63517d642ff8616f2a2fc04a14626b6cefc0",
     "37d009b4f0c4449521d75aef5d4691f8953f7a07cbca0e967a6ef8e3cbb2f020",
@@ -499,10 +496,12 @@
     "bca0dd18d086baafe5b406e9c23d40d5e452b5450b726d7fe6bbca3de6adf48a",
     "f482f61db762a19d9f7c5b292a07a943d5303f8fa5b27f3e1837ecdf13fdef3d",
     "0b3701aaca02eac64a61bac9655dbda6c57d071406f50845ba4760208e81f557",
-    "b7181d680570a17f0966badec068f6972609bcb7ee49b7307c15bc593ebe1482"
+    "b7181d680570a17f0966badec068f6972609bcb7ee49b7307c15bc593ebe1482",
+    "10c678a77af827daaf9a229f0790b2aa55b44e5aabc12f049f43ad75ec88c4a6",
+    "3298d51df51ec4868a20e186c68bcddc73053fd3a26e8dbc8ea718d8d0323c23",
+    "54d934fd13e28f55525b1458349b80baedd9a4d83147d68a7d84f408a7941791"
   ],
   "seen_summaries": [
-    "Irán ataca cinco países del Golfo y cierra Ormuz tras tercera ronda de bombardeos de EE.UU.",
     "EE.UU. intensifica ataques militares y civiles en Irán en medio del bloqueo del Estrecho de Ormuz, escalando el conflicto directo.",
     "Ataque con casi una docena de proyectiles enemigos contra la isla iraní de Qeshm, en el Estrecho de Ormuz, con explosiones en Bandar Abbas.",
     "Irán ataca bases estadounidenses en cinco países del Golfo y cierra Ormuz; EE.UU. responde con 140 objetivos bombardeados; tráfico colapsa a seis buques en modo oscuro y crudo sube 4% a 79 USD.",
@@ -701,6 +700,7 @@
     "13 ago 2026: nuevo portaaviones USS Germantown se despliega hacia Medio Oriente tras problemas en USS Lincoln; refuerza presencia militar de EE.UU. en zona de tensión con Irán y eleva riesgo de escalada.",
     "13 ago 2026: Exportaciones de diésel ruso caen a mínimo multi anual (80k bpd) por ataques ucranianos a refinerías y restricciones, agravando escasez global de destilados y añadiendo presión alcista.",
     "14 ago 2026: EAU acusa a Irán de atacar dos buques de ADNOC en Ormuz (sin heridos) y Hegseth dice que EE.UU. sostendrá el bloqueo 'indefinidamente'; escalada militar mantiene riesgo de suministro y presión alcista.",
-    "14 ago 2026: Bessent anuncia aislamiento económico sin precedentes contra Irán y bloqueo indefinido en Ormuz; USS George Washington releva al Lincoln, elevando riesgo de escalada y presión alcista."
+    "14 ago 2026: Bessent anuncia aislamiento económico sin precedentes contra Irán y bloqueo indefinido en Ormuz; USS George Washington releva al Lincoln, elevando riesgo de escalada y presión alcista.",
+    "Se inician trabajos de salvamento del petrolero Caroline Bezengi en Omán; derrame se expande a 1,300 km², elevando riesgo ambiental/navegación en zona crítica."
   ]
 }
