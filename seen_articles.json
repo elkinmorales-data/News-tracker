@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "db637bbc16de48e2ef4b946f52d06075ac958c5369214797272f041d5d458aa8",
     "54fcb148842ee5692181e957242d94da4e379443a0ff53e104b9c11a9eee4a80",
     "cd9cf223ade416fa336ab7fa14f4621c4ffaa13a381814ad707aa59c34d57aba",
     "9f5fb11ab1fa70822e1544ca05876e3be953115ad920a20642a9ac6fb9063343",
@@ -499,10 +498,10 @@
     "5712a2d4e5e40e497d4f6c464dc9f7d3b3f5c65b0efeadf0e406eff859282aa9",
     "93306a1152e46a3ba46f88478a66b4e822036c8d01faf415899f446fb890c0c8",
     "1d263bebfe4118261498f82411542abec14c4310e525f9f35b27dc41618bc271",
-    "bf053e31ad3e67e8831eb0ff32e71d74c18b258a68663c5d589524e702862bf4"
+    "bf053e31ad3e67e8831eb0ff32e71d74c18b258a68663c5d589524e702862bf4",
+    "7f227abe2a5903334ad561fce371d88af6589d9bdc0fbc8e3ac6b5a1032bc620"
   ],
   "seen_summaries": [
-    "Colapso de la tregua EE.UU.-Irán con ataques mutuos durante tres noches consecutivas, cese del tráfico en Ormuz, Brent supera 85 USD, gasolina en EE.UU. sube por primera vez desde mayo, y Pakistán busca GNL de emergencia.",
     "Trump descarta peaje del 20% en Ormuz y lo reemplaza por acuerdos con países del Golfo, en medio de nuevos ataques EE.UU.-Irán.",
     "Irán ataca base naval de EE.UU. en Baréin con misiles y drones, escalando conflicto en el Golfo.",
     "EE.UU. reimpone bloqueo naval a puertos iraníes cerca de Ormuz y Trump amenaza con atacar infraestructura civil iraní; refinerías chinas colapsan a mínimos de pandemia por disrupciones en Ormuz.",
@@ -701,6 +700,7 @@
     "14 ago 2026: Refinerías asiáticas (al menos 4) compran crudo de EE.UU. como alternativa al crudo de Oriente Medio bloqueado en Ormuz, confirmando disrupción de oferta y presión alcista en precios.",
     "14 ago 2026: Ataques iraníes en Ormuz y estancamiento de negociaciones empujan al Brent hacia $100 (ganancia semanal del 5%), pese a aumento de 17M bpd de inventarios en EE.UU. Confirma riesgo de oferta y presión alcista.",
     "14 ago 2026: Trump anuncia que declarará el Estrecho de Ormuz 'territorio' de EE.UU., elevando riesgo de escalada militar y presión alcista sobre precios del petróleo.",
-    "14 ago 2026: Ataque hutí en Al-Makha mata a cuatro, aumentando hostilidades en Yemen y elevando riesgo de suministro en Bab el-Mandeb."
+    "14 ago 2026: Ataque hutí en Al-Makha mata a cuatro, aumentando hostilidades en Yemen y elevando riesgo de suministro en Bab el-Mandeb.",
+    "15 ago 2026: Piratería somalí resurge con secuestro de 3 petroleros (MT Honour 25, MT Eureka, MT Asana) en Golfo de Adén y Puntland (abr-jul 2026), aprovechando el bloqueo de Ormuz y desvío de buques por África; eleva riesgo de suministro y presión alcista."
   ]
 }
