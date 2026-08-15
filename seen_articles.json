@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "9c64f045a479999ec7d0261d1a4f9be711f21edf69a1b7a70ec472cd38ab3ad9",
     "0a876d8269423c496e0d4e3d03e15221b1892450ed3d654161a4e6dc5a6c7f88",
     "9c5630be4c5e860414f5abb58a9dd87159561af90639f0e65567ff92fe87b751",
     "17084907c921aa27953ec641252aec3faff99851ae3af294acc32e7393266550",
@@ -499,10 +498,10 @@
     "de8690e7a34a8544da30ff29e8da2431eb9eaea40cf18d74743cfd8a76892516",
     "815f7123f9e7f5a4f390eae73de1854e04b13ec77c38e7de0ec840a8030ab0e5",
     "a236d22c5ee7978f55ebb3769a35db216dfc198bb06eecd736a3d878878fc0f9",
-    "3d6264f3bb36d4db21f6101d9991f15bba0d2ffd59ce5a32e0a772e2a91b3007"
+    "3d6264f3bb36d4db21f6101d9991f15bba0d2ffd59ce5a32e0a772e2a91b3007",
+    "ca4284a537c222e8b56c5e9aa2cecd0ffec416745491d78b37852afccf8343ac"
   ],
   "seen_summaries": [
-    "Irán ataca base naval de EE.UU. en Baréin con misiles y drones, escalando conflicto en el Golfo.",
     "EE.UU. reimpone bloqueo naval a puertos iraníes cerca de Ormuz y Trump amenaza con atacar infraestructura civil iraní; refinerías chinas colapsan a mínimos de pandemia por disrupciones en Ormuz.",
     "Irán ataca Kuwait, Baréin y Jordania; EE.UU. reanuda bloqueo naval a puertos iraníes, escalando conflicto en el Golfo.",
     "EE.UU. ataca torre de control marítimo iraní mientras IMO y Japón confirman que Ormuz sigue intransitable, prolongando la crisis de suministro.",
@@ -701,6 +700,7 @@
     "14 ago 2026: Trump anuncia que declarará el Estrecho de Ormuz 'territorio' de EE.UU., elevando riesgo de escalada militar y presión alcista sobre precios del petróleo.",
     "14 ago 2026: Ataque hutí en Al-Makha mata a cuatro, aumentando hostilidades en Yemen y elevando riesgo de suministro en Bab el-Mandeb.",
     "15 ago 2026: Piratería somalí resurge con secuestro de 3 petroleros (MT Honour 25, MT Eureka, MT Asana) en Golfo de Adén y Puntland (abr-jul 2026), aprovechando el bloqueo de Ormuz y desvío de buques por África; eleva riesgo de suministro y presión alcista.",
-    "15 ago 2026: Dos petroleros atacados en Ormuz y ataque israelí en Líbano (7 muertos) intensifican riesgo regional y presionan precios al alza."
+    "15 ago 2026: Dos petroleros atacados en Ormuz y ataque israelí en Líbano (7 muertos) intensifican riesgo regional y presionan precios al alza.",
+    "15 ago 2026: Irán rechaza declaración de Trump sobre Ormuz ('seguirá siendo iraní') y se reporta nuevo ataque a buque en la zona, elevando riesgo de escalada y presión alcista."
   ]
 }
