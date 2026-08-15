@@ -183,7 +183,9 @@
     "cc30dd8dc6a3ac8e4f9eab3c117f0a1de6ab32762709b4446e4549355c4f1314",
     "f377efa84d641511b721db663e05027852b1ae72218990f30739a03eb2172e52",
     "1081c279c03aedb1b8bd5a04e33c7443a72295b26bd422902b66ebc846e5a886",
-    "2f89913925491efd773b7f1c508009bc5d3ffc87a46835880f8b55e3c6751790"
+    "2f89913925491efd773b7f1c508009bc5d3ffc87a46835880f8b55e3c6751790",
+    "b85a4522bebb725e66e00a39d0c29d75963466f4e1f899e1882504e0bb85f887",
+    "ac1481e301a232b71df11f2d699c0bf84f78c77c822cd4005c2548ef2344f11a"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -212,6 +214,7 @@
     "Watermarking obligatorio de contenido IA en Claude por cumplimiento EU AI Act | Patrones async para concurrencia de agentes en Python con casos de producción",
     "Sesgos en LLM-as-a-Judge para evaluación automatizada DHS 2026 | Distinción y combinación de retrieval vs memoria en sistemas agentic AI",
     "Baidu Unlimited-OCR resolver KV cache en transcripción de documentos largos | Constraining output space para SLMs en automatización estrecha | Clarificación de streaming en agentes locales de IA: dos interpretaciones",
-    "FP8 training en AMD GPUs con TorchTitan y TorchAO integrado en PyTorch | Scraping web con IA para reducción de tokens en LLM pipelines | Ontologías para agentes de IA como sistema semántico de gobernanza | NVIDIA Nemotron 3.5 Lightning para ejecución rutinaria de agentes"
+    "FP8 training en AMD GPUs con TorchTitan y TorchAO integrado en PyTorch | Scraping web con IA para reducción de tokens en LLM pipelines | Ontologías para agentes de IA como sistema semántico de gobernanza | NVIDIA Nemotron 3.5 Lightning para ejecución rutinaria de agentes",
+    "Concepto de triple rol del espacio latente (descriptivo, generativo, predictivo) en ML | La guía de instalación de Codex CLI se considera tutorial básico sin novedad técnica"
   ]
 }
