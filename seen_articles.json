@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "cc772d006c12ab74ebcbf28659dd64d90095b50a3749aa406b62c00d8142c369",
-    "74a2e87c8093fae5831e5e71c1a856ef05149d41093b2b68f9a43b89a3403c07",
     "e62ddc2f89d0d3e1ca5bfed68515be8c97502f2817804b50f7d208e7f4679a9e",
     "03734f637ced94191eec0b4637e0e8e87818e776e903b42a0409f34b6e750897",
     "18054ddd61cb3a24d5f5488c42ee2ecc5f89ddb94e449bc276cfa6f5d6dc7058",
@@ -499,10 +497,11 @@
     "b26f511985f43a140ecf6cb0ab56722787607da650456328e816cca2dc89f1a9",
     "fab3e04b34ab867929883d5616cd26ce8323c77a5de92db26fb94c4ab44610a9",
     "01e376f6ded37dfb104c89f967dcf257c9afc905ea59a4d3c61d44fa5b0342a6",
-    "8f51b93763972661e237a6f106f7c1dafbdfe90c644bc3a3ebe226d120acb48c"
+    "8f51b93763972661e237a6f106f7c1dafbdfe90c644bc3a3ebe226d120acb48c",
+    "4eb47a0d13788290ad29d5a321f7526d0b8ce64ae11529d90c580d1f9044ca48",
+    "379fc1af3959c6357026009f4f723e4e3a23fb4fe08a63cdb536c73d101b25e7"
   ],
   "seen_summaries": [
-    "EE.UU. ataca Irán por sexta noche consecutiva; Teherán advierte riesgo de guerra regional más amplia, perpetuando el bloqueo de Ormuz.",
     "EE.UU. bombardea infraestructura civil iraní por sexta noche consecutiva; AIE advierte que crisis en Ormuz amenaza seguridad energética global; Pakistán compra GNL spot por interrupción de flujo desde Catar.",
     "EE.UU. bombardea puentes y torres en sur de Irán; Irán ataca seis países del Golfo; bloqueo naval estadounidense obliga a buques LPG iraníes a retroceder, profundizando la crisis en Ormuz.",
     "EE.UU. daña planta nuclear de Bushehr con ataques confirmados por satélite; Irán ordena a hutíes preparar cierre de Bab el-Mandeb, escalando riesgo en dos estrechos petroleros.",
@@ -701,6 +700,7 @@
     "17 ago 2026: Japón crece 1.1% anual en Q2 2026 pese a importaciones de petróleo caras por cierre de Ormuz; consumo privado plano, impacto incierto en precios de crudo.",
     "17 ago 2026: Tráfico en Ormuz cae a nuevo mínimo histórico y alto el fuego EE.UU.-Irán expira sin acuerdo, elevando riesgo de reanudación de ataques y presión alcista.",
     "17 ago 2026: Irán dice estar trabajando para finalizar acuerdo con Omán sobre Ormuz, sin detalles; avance diplomático potencial pero incierto, manteniendo riesgo de oferta.",
-    "17 ago 2026: Irán descarta extender acuerdo interino con EE.UU. y amenaza con escalar conflicto, eliminando avance diplomático para reabrir Ormuz y elevando riesgo de oferta."
+    "17 ago 2026: Irán descarta extender acuerdo interino con EE.UU. y amenaza con escalar conflicto, eliminando avance diplomático para reabrir Ormuz y elevando riesgo de oferta.",
+    "17 ago 2026: Irán anuncia preparación para 'operaciones terrestres de EE.UU.' tras expirar el MoU, aumentando riesgo de escalada militar directa en la región de Ormuz."
   ]
 }
