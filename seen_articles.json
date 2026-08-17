@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "ef354704d676ac747a5e45a89df57d9fdd81da4e32ff5a72918eac475fa2ef90",
-    "3f3a0935cc124384579a5a33677c541cbd5ad49725a2b932ab6c22b9799ab115",
-    "606840ca5f6cbad8e02dec3a26bd4d2fd2e32d98cb490c48337eb9164fe3bf97",
-    "5ec8611a544c2fad5e4a61f2ccff824455016996d9023b3d286a4b91561a39d7",
     "cc772d006c12ab74ebcbf28659dd64d90095b50a3749aa406b62c00d8142c369",
     "74a2e87c8093fae5831e5e71c1a856ef05149d41093b2b68f9a43b89a3403c07",
     "e62ddc2f89d0d3e1ca5bfed68515be8c97502f2817804b50f7d208e7f4679a9e",
@@ -499,10 +495,13 @@
     "fdfb74c2f2b351ab84cc59c3700fb15610a07f5b35b76443b70fffa7f497157f",
     "8dfb18ed1f703da618b3b4c3d55baa1e32c1478df4a5757ea7dcf85c551b6941",
     "6602ed7ef7ecb618d0dbf579f4d2d4d56404893aeec89157c900ce38decd9256",
-    "a1fcd8827cae339d15343089619191383bbcf85134c1e477f1a4e4cf20e4b36e"
+    "a1fcd8827cae339d15343089619191383bbcf85134c1e477f1a4e4cf20e4b36e",
+    "b26f511985f43a140ecf6cb0ab56722787607da650456328e816cca2dc89f1a9",
+    "fab3e04b34ab867929883d5616cd26ce8323c77a5de92db26fb94c4ab44610a9",
+    "01e376f6ded37dfb104c89f967dcf257c9afc905ea59a4d3c61d44fa5b0342a6",
+    "8f51b93763972661e237a6f106f7c1dafbdfe90c644bc3a3ebe226d120acb48c"
   ],
   "seen_summaries": [
-    "IRGC amenaza con cerrar Bab el-Mandeb y hutíes reavivan guerra en Yemen, escalando riesgo de bloqueo en dos rutas petroleras críticas.",
     "EE.UU. ataca Irán por sexta noche consecutiva; Teherán advierte riesgo de guerra regional más amplia, perpetuando el bloqueo de Ormuz.",
     "EE.UU. bombardea infraestructura civil iraní por sexta noche consecutiva; AIE advierte que crisis en Ormuz amenaza seguridad energética global; Pakistán compra GNL spot por interrupción de flujo desde Catar.",
     "EE.UU. bombardea puentes y torres en sur de Irán; Irán ataca seis países del Golfo; bloqueo naval estadounidense obliga a buques LPG iraníes a retroceder, profundizando la crisis en Ormuz.",
@@ -701,6 +700,7 @@
     "17 ago 2026: AP publica análisis gráfico confirmando que el ataque de EE.UU./Israel a Irán (28 feb) cerró efectivamente Ormuz, elevando precios del petróleo; reafirma riesgo de oferta y presión alcista estructural.",
     "17 ago 2026: Japón crece 1.1% anual en Q2 2026 pese a importaciones de petróleo caras por cierre de Ormuz; consumo privado plano, impacto incierto en precios de crudo.",
     "17 ago 2026: Tráfico en Ormuz cae a nuevo mínimo histórico y alto el fuego EE.UU.-Irán expira sin acuerdo, elevando riesgo de reanudación de ataques y presión alcista.",
-    "17 ago 2026: Irán dice estar trabajando para finalizar acuerdo con Omán sobre Ormuz, sin detalles; avance diplomático potencial pero incierto, manteniendo riesgo de oferta."
+    "17 ago 2026: Irán dice estar trabajando para finalizar acuerdo con Omán sobre Ormuz, sin detalles; avance diplomático potencial pero incierto, manteniendo riesgo de oferta.",
+    "17 ago 2026: Irán descarta extender acuerdo interino con EE.UU. y amenaza con escalar conflicto, eliminando avance diplomático para reabrir Ormuz y elevando riesgo de oferta."
   ]
 }
