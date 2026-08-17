@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "6e875b31f5fdf1fb004a0407a2d79201a4e2c89bdfdf727237e7ab85fef7e012",
-    "3d572c0162924b18a228c3a892f6df9694cda0fbe81c5ef66b39101fc96753b7",
-    "236d097cd69beb18bf2204b61cb93aa1b86fa29906926739a0ec10c7b85d9da4",
-    "8061cfc59432e07454b3ac0c26c84fd1671d748089b43ed8ba4e68e59b799169",
     "5d348e72a792873720d032c239f9b52b9fb741a030e54f97b5ec02f3e5ddf13e",
     "6b95df533ddc70c5161b40264f0aa606b3b31676ca7fcceeb2877b023c6aec75",
     "03d49ae21a921ea77f766b528eaf790b1e1c867b88015e274c4ad46b5b1b6e58",
@@ -499,10 +495,13 @@
     "7c12b4c8fb1eff3a5461d6dee91535fbb4f558196e6095796de1a0fdb16f7e33",
     "7f934a8e860c2db42cdf2c5ab5b1682a43476114186668e539f0b69654cdcfc7",
     "f8f9fe7fb82aa9b0b7e765cb6b7cba7a1cf341fcb800da297a72c94600e5f2f3",
-    "e1663191c84dc83af76b102822a9346e54d6b8165d74e5fc1c06e299db70f559"
+    "e1663191c84dc83af76b102822a9346e54d6b8165d74e5fc1c06e299db70f559",
+    "b3b732f2bf345736ce3b391833019f42c3b8febf97fcc1ee58f5d7b2040dcc45",
+    "d1764471eed8d1ad50c9da5eeb86002821d3d9dd65a484bf49ed413ffdee6065",
+    "3d319163ddcf686aa148d3dae69fb1ed699ab114787e724205bca9ed72052c8e",
+    "1a72a03fca39839e1c5d4a5e74d67d6ba383936d505a8e3266842fa50ca42d99"
   ],
   "seen_summaries": [
-    "Irán ataca bases de EE.UU. y advierte de ataques regionales más amplios; EE.UU. publica videos de bombardeos y sigue atacando petroleros en medio de la ruptura del alto el fuego en Ormuz.",
     "Irán ordena a hutíes preparar cierre de Bab el-Mandeb si EE.UU. ataca infraestructura iraní, ampliando riesgo de bloqueo de rutas petroleras clave.",
     "IRGC amenaza con cerrar Bab el-Mandeb y hutíes reavivan guerra en Yemen, escalando riesgo de bloqueo en dos rutas petroleras críticas.",
     "EE.UU. ataca Irán por sexta noche consecutiva; Teherán advierte riesgo de guerra regional más amplia, perpetuando el bloqueo de Ormuz.",
@@ -701,6 +700,7 @@
     "16 ago 2026: Israel mata a 11 en Líbano, ataques más mortíferos desde tregua de junio, mientras continúan negociaciones Omán-Irán sobre Ormuz; escalada regional eleva riesgo de suministro.",
     "16 ago 2026: Alto comandante de EE.UU. en Medio Oriente (Alm. Brad Cooper) visita portaaviones en la región, confirmando despliegue militar activo y elevando riesgo de escalada con Irán; presión alcista en petróleo.",
     "17 ago 2026: AP publica análisis gráfico confirmando que el ataque de EE.UU./Israel a Irán (28 feb) cerró efectivamente Ormuz, elevando precios del petróleo; reafirma riesgo de oferta y presión alcista estructural.",
-    "17 ago 2026: Japón crece 1.1% anual en Q2 2026 pese a importaciones de petróleo caras por cierre de Ormuz; consumo privado plano, impacto incierto en precios de crudo."
+    "17 ago 2026: Japón crece 1.1% anual en Q2 2026 pese a importaciones de petróleo caras por cierre de Ormuz; consumo privado plano, impacto incierto en precios de crudo.",
+    "17 ago 2026: Tráfico en Ormuz cae a nuevo mínimo histórico y alto el fuego EE.UU.-Irán expira sin acuerdo, elevando riesgo de reanudación de ataques y presión alcista."
   ]
 }
