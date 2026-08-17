@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "e62ddc2f89d0d3e1ca5bfed68515be8c97502f2817804b50f7d208e7f4679a9e",
-    "03734f637ced94191eec0b4637e0e8e87818e776e903b42a0409f34b6e750897",
     "18054ddd61cb3a24d5f5488c42ee2ecc5f89ddb94e449bc276cfa6f5d6dc7058",
     "a566d7eefd6a33f224c58c6d99b9807e4974a0adfa8842c8027f7438d574745b",
     "ffe0adf8434155f7fd60d730f6884474d4407fbcd5551e5a3292c4400f482f41",
@@ -499,7 +497,9 @@
     "01e376f6ded37dfb104c89f967dcf257c9afc905ea59a4d3c61d44fa5b0342a6",
     "8f51b93763972661e237a6f106f7c1dafbdfe90c644bc3a3ebe226d120acb48c",
     "4eb47a0d13788290ad29d5a321f7526d0b8ce64ae11529d90c580d1f9044ca48",
-    "379fc1af3959c6357026009f4f723e4e3a23fb4fe08a63cdb536c73d101b25e7"
+    "379fc1af3959c6357026009f4f723e4e3a23fb4fe08a63cdb536c73d101b25e7",
+    "65672082558a1d671378b656376bf3cce593549556052048fbed312ddae38982",
+    "2312a8d37c8811268cdf492f106bef8eb51b87e9f1ea968863786c3015a23481"
   ],
   "seen_summaries": [
     "EE.UU. bombardea infraestructura civil iraní por sexta noche consecutiva; AIE advierte que crisis en Ormuz amenaza seguridad energética global; Pakistán compra GNL spot por interrupción de flujo desde Catar.",
