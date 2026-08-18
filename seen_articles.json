@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "6c09096664204e5691616b9797d20699ad3a15a29e117e7078445207ce51e027",
-    "cc98abd89f6cd3200ac2eea99b5a173bc05b9ae6457f28ceab389a61a1b6704d",
-    "067905cf709e5394a1864ba4375de8a7ae9b753be73e385b93dd0bdf0f500b3d",
     "fe3126125aa8ae3919f7857c5a00f4eeead6b0c2aad69c1ae2454a5e6452b53f",
     "3c1ff279137495eb0ad88e1e5be3e4508c22b5cd084f0348ff8ebed8f4afecf0",
     "e1bed8d9574ff3b30c6b0dee5f53f448aa3d3d0e895c6813a9cb5265a9a7c8f5",
@@ -499,10 +496,12 @@
     "bc3ba199fc0d136b6d69a5ca57f3ed8acfece573ec0b2ca98e5b1458c4df6c6f",
     "02300f0437888a722604cbc7813c05a2486a0a1987d069e0d0dccc5349869d68",
     "61975a4ad88d0fa1f373cb6715aef6e938830a60c786a23d21445d2c0c35914e",
-    "605494544a4ec7a3de5ee3a6fbe8fca41d23554cc69ac2d8a306db663d02fed5"
+    "605494544a4ec7a3de5ee3a6fbe8fca41d23554cc69ac2d8a306db663d02fed5",
+    "e07e6336bdc412a58c006876c4e2f7cb38d19cd4520fac0dd2b13b936832ab4e",
+    "229e6b2bbc36850e73e1988d33940a9a4d6d5bdfb61e99cb812e7b69d070c7ab",
+    "bb8582916f1b82575123c735630c50ff19f1dee47ea10631392b4f7c25dd18cf"
   ],
   "seen_summaries": [
-    "Hutíes declaran bloqueo naval contra Arabia Saudí, extendiendo la crisis del Golfo al Mar Rojo y amenazando una ruta alternativa saudí a Ormuz.",
     "OilPrice reporta que los amortiguadores del mercado petrolero se han agotado por la reescalada del conflicto Irán-EE.UU., dejando al crudo expuesto a un nuevo pico de precios.",
     "EE.UU. lanza décima noche consecutiva de ataques contra Irán; Irán ataca Kuwait, perpetuando el conflicto directo y el bloqueo de Ormuz.",
     "CNBC reporta colapso de tráfico en Ormuz por bloqueo de EE.UU. y combates; décima noche consecutiva de ataques EE.UU.-Irán confirmada por CENTCOM.",
@@ -701,6 +700,7 @@
     "18 ago 2026: Ataque a buque en Ormuz deja un muerto; Trump dice que el estrecho está 'abierto y operativo', contradiciendo bloqueo real y ataques continuos, elevando riesgo de oferta y presión alcista.",
     "18 ago 2026: Aramco reanuda carga de VLCC en Ras Tanura y Juaymah tras pausa de tres semanas, enviando tres buques con ~2M barriles cada uno, indicio de que Ormuz vuelve a estar parcialmente operativo y reduciendo algo el riesgo de oferta.",
     "18 ago 2026: Análisis de OilPrice revela red paralela de 4M bpd (UAE, Irak, Kuwait, Qatar) con buques AIS-dark y STS fuera del Golfo para eludir bloqueo de Ormuz; Bessent predice estrecho 'irrelevante' en 2 años; mitigación parcial de riesgo de oferta, impacto incierto en precios.",
-    "18 ago 2026: Trump descarta negociaciones con Irán y critica acuerdo Irán-Omán sobre Ormuz, eliminando avance diplomático y elevando riesgo de escalada y presión alcista."
+    "18 ago 2026: Trump descarta negociaciones con Irán y critica acuerdo Irán-Omán sobre Ormuz, eliminando avance diplomático y elevando riesgo de escalada y presión alcista.",
+    "18 ago 2026: EE.UU. aumenta producción de misiles Tomahawk mediante contratos de defensa, señal de preparación militar activa en medio de escalada con Irán y riesgo de conflicto, elevando presión alcista en petróleo."
   ]
 }
