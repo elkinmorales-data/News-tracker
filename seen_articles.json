@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "78fdde12c01893ad0f4535052c20c1b806abdfb398f9b8814b9d9353b4ef8860",
-    "b3b95b3776615d1cac46c93357604b3a949dd9c25d3a7de2fd0719abf94a8a29",
-    "11afca56dfdf9ab0f52c1208546bd1540afee0f62daf9f35bf0c76a2b80d3823",
     "71de1a4248cabbdc5075c6b006e962e514a6f0d485b995a360cad379a3dfaf4b",
     "30c4eaa4383babfb729ef94c2d91c0c0a8620f58ed2c069ca8c5d02b13d35b4a",
     "255674e976c931c1215c8771e764a7b8841bb44a23a30e76b5d2a6fcf501e9d8",
@@ -499,10 +496,12 @@
     "8c668411e9a0d0c30f00cc3075421a69af23b20489301aa0e7e66a73bccefd1d",
     "a5e9ebae11d820b622a3776bfc9af3854204fe2b0b2e1196dc23ec622812279a",
     "64f5ae8eebf920210b777555a412f1dea7468c3c7872034513bb841bcafac73a",
-    "3f67fa41bf6b24d56a4e3fb4dec6cdf1c8a24aa930a736f7c0f4c385fb45335e"
+    "3f67fa41bf6b24d56a4e3fb4dec6cdf1c8a24aa930a736f7c0f4c385fb45335e",
+    "a3fbcec28491047cce2eaeb654b2fedb72b16232ad13d470cca6cfbe734c2ccb",
+    "d2c738ce58a43eedfe3461cfc899cf90a7091faafb74ca4e9482098f04122ab9",
+    "aa507fca68deb39b5629ef24f54aec824fd2da36f718455c6a5993426e6b6f9f"
   ],
   "seen_summaries": [
-    "Octava noche consecutiva de ataques EE.UU.-Irán; soldados estadounidenses mueren por misil iraní en Jordania, escalando el conflicto y el bloqueo de Ormuz.",
     "Dos soldados estadounidenses mueren por ataque iraní en Jordania; EE.UU. responde con nuevos bombardeos contra Irán, intensificando el conflicto y el bloqueo de Ormuz.",
     "Irán ataca planta eléctrica en Kuwait y extiende ataques a Baréin y Jordania, escalando el conflicto a infraestructura energética de aliados de EE.UU. en el Golfo.",
     "Cierre de Ormuz expone dependencia energética de África hacia Irán y China, generando escasez y presión al alza sobre precios del crudo.",
@@ -701,6 +700,7 @@
     "18 ago 2026: Nuevo ataque con proyectil a buque en Ormuz reportado por UKMTO eleva Brent sobre $91, confirmando persistencia de ataques y riesgo de oferta.",
     "18 ago 2026: Hutíes reivindican tercer ataque con drones contra refinería de Aramco en Jazan en dos semanas, aumentando riesgo de oferta y presión alcista en petróleo.",
     "18 ago 2026: Trump amenaza con bombardear Omán por segunda vez por el tema de Ormuz, con negociaciones EE.UU.-Irán estancadas; eleva riesgo de escalada y presión alcista en petróleo.",
-    "18 ago 2026: Qatar rechaza reclamos de Irán sobre pilotos desaparecidos; petroleros dan vueltas en Ormuz, confirmando bloqueo y disrupción de oferta."
+    "18 ago 2026: Qatar rechaza reclamos de Irán sobre pilotos desaparecidos; petroleros dan vueltas en Ormuz, confirmando bloqueo y disrupción de oferta.",
+    "18 ago 2026: Tarifas de flete VLCC Golfo-China suben a $510,000/día, máximo en 2 meses, por inseguridad en Ormuz, confirmando disrupción logística y presión alcista en precios."
   ]
 }
