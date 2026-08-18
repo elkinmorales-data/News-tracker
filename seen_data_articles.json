@@ -188,7 +188,10 @@
     "ac1481e301a232b71df11f2d699c0bf84f78c77c822cd4005c2548ef2344f11a",
     "3d87012045239650abcbdab11dbab3d9ff3b75a7cb834a55d44e597d0901d2c7",
     "cf157ee2589daa18251facad9aad27a3ef7ee88dc0b72fd3bb43e830222f9032",
-    "5940209cb4ff6dc4975163230d0c143bce37d2b8b9e4f0923efafdf10d05631c"
+    "5940209cb4ff6dc4975163230d0c143bce37d2b8b9e4f0923efafdf10d05631c",
+    "dbb0ff755ed16bfe33996cb7fe17fe918560483db1896d57b96e38142a81fdc5",
+    "00eda7c16db1b9806abf0b81d41f67d21c24e08ffdb01c65e13b2b7f370293d7",
+    "1c29e08dbc636fd315fd92543a53b6e903581b8c4deeae7c7393eb75ea43a7aa"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -219,6 +222,7 @@
     "Baidu Unlimited-OCR resolver KV cache en transcripción de documentos largos | Constraining output space para SLMs en automatización estrecha | Clarificación de streaming en agentes locales de IA: dos interpretaciones",
     "FP8 training en AMD GPUs con TorchTitan y TorchAO integrado en PyTorch | Scraping web con IA para reducción de tokens en LLM pipelines | Ontologías para agentes de IA como sistema semántico de gobernanza | NVIDIA Nemotron 3.5 Lightning para ejecución rutinaria de agentes",
     "Concepto de triple rol del espacio latente (descriptivo, generativo, predictivo) en ML | La guía de instalación de Codex CLI se considera tutorial básico sin novedad técnica",
-    "7 pruebas de regresión para capa de orquestación en agentes de IA | Librerías Python modernas para data cleaning con foco en expresividad y developer experience"
+    "7 pruebas de regresión para capa de orquestación en agentes de IA | Librerías Python modernas para data cleaning con foco en expresividad y developer experience",
+    "Skills modulares en LangChain para agentes eficientes | Kimi K3 con parámetros de API innovadores como reasoning_effort y 131K tokens de salida | Estrategias prácticas para manejar contextos pequeños en LLMs con ejemplos Python"
   ]
 }
