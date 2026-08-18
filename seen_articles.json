@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "af24a9c7a159d82fdf507e6f0b4e165b39c3c56c6cd23e670dde59316afbc1ad",
-    "cfc5b6114fb14dce867eabf42e02798b8da3cb1dbc6b03d1958de2ec67c4cc66",
     "318c37e3064472f061602641f39ed324400022a1361636985ee219ec1ac5ddc5",
     "aea4511287f57d0395c4155ee8b82db9053751eb743ee511ba7bc3026ba7b0a7",
     "d64a039bdf5fff99e206f18d784960b76c71ffcf3427dbaf13452fd1d5c41ec5",
@@ -499,10 +497,11 @@
     "bace1650096c2a51e88cc2be3dfd4f2cf55b9b38cce3189a21dee6d1eeb53c71",
     "3374908d044f6744fd163771e655c4921aa067567226fa0cdcdc934ad3556fda",
     "c9e214abc9f5c22c30b330b503d04af602e4126a3ab853f7282111c0be92dd59",
-    "7e5b777cc4da0a579330acd98b20f1f8e12a26e3d787013dfd5ef94e8f3476d0"
+    "7e5b777cc4da0a579330acd98b20f1f8e12a26e3d787013dfd5ef94e8f3476d0",
+    "7d0c537fb6cb7683d07083c62c3b6e6e57d15affccbd4d5359469000cb91d9fa",
+    "2f99d66cdfe4d8e064191f9f44b96c2c9120e04e2bf5b7831e8de7c3251f3a94"
   ],
   "seen_summaries": [
-    "EE.UU. completa octava ronda de ataques contra Irán con bloqueo naval activo en Ormuz, Kuwait y Baréin interceptan proyectiles iraníes.",
     "Irak firma 48 acuerdos con EE.UU., incluyendo reconstrucción del oleoducto Irak-Siria para eludir Ormuz.",
     "Irán ataca Kuwait (Mangaf) con repetidos impactos, confirmando nueva escalada regional en el Golfo.",
     "Líder supremo iraní advierte represalias si EE.UU. continúa ataques; dos soldados estadounidenses mueren en ataque iraní en Jordania, escalando el conflicto directo.",
@@ -701,6 +700,7 @@
     "18 ago 2026: Incendio en depósito de combustible en Sulaimaniyah (Irak) con 20 heridos y decenas de camiones destruidos, añade riesgo de oferta y presión alcista en petróleo.",
     "17 ago 2026: Irán anuncia estrategia 'totalmente ofensiva' contra EE.UU., elevando Brent a $91.33 y WTI a $85.08; margen de diésel en EE.UU. supera $100/barril por primera vez, confirmando escalada y presión alcista extrema en destilados.",
     "18 ago 2026: UKMTO reporta ataque con proyectil desconocido a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista.",
-    "18 ago 2026: UKMTO reporta ataque con proyectil a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista."
+    "18 ago 2026: UKMTO reporta ataque con proyectil a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista.",
+    "18 ago 2026: Nuevo ataque con proyectil a buque en Ormuz reportado por UKMTO eleva Brent sobre $91, confirmando persistencia de ataques y riesgo de oferta."
   ]
 }
