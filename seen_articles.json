@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "7b417e4827004bd199ff96f5f6154b906be079c82f721258d0cd9328552c4808",
     "640699cc3104a1be5f54aecaa6163f99a4b6ebc4e75c2689de246b691f4a5a71",
     "5d2cb157588dac0f8e28923684ffedeb31f1ef4b315e9c381449622a66deed00",
     "3d270da8a044e2415567c12254f55eaa4ec60b446932278416aa48c041cbf7d1",
@@ -499,10 +498,10 @@
     "6af5c83cb2012fa987afefc74043087b086ecae5ced9003d4dbac395626bc68d",
     "42af6d1d33ed2af2e4ab4f3f01574a52065832722fbd963d2ab938fc3e52b242",
     "c7053c88c95260adf9fb28f84a35fd3ad39a3c121668c9dbc8c155352cac83ed",
-    "463bce220154a7088d1355b6e693dbc45c0bbabe72866152abc0d443986e25ed"
+    "463bce220154a7088d1355b6e693dbc45c0bbabe72866152abc0d443986e25ed",
+    "0bf074a31a7cf2f18e15418f72e828848f00d43a0c024ded91a0b82b9ea1516b"
   ],
   "seen_summaries": [
-    "Cierre de Ormuz expone dependencia energética de África hacia Irán y China, generando escasez y presión al alza sobre precios del crudo.",
     "EE.UU. lanza novena noche consecutiva de ataques contra Irán; tráfico de petroleros y GNL en Ormuz se detiene por temor a ataques, elevando riesgo de suministro global.",
     "Ataque con dron detiene exportaciones en terminal CPC del Mar Negro y hutíes declaran embargo marítimo contra Arabia Saudí, escalando riesgo en dos rutas petroleras.",
     "Hutíes declaran bloqueo naval contra Arabia Saudí, extendiendo la crisis del Golfo al Mar Rojo y amenazando una ruta alternativa saudí a Ormuz.",
@@ -701,6 +700,7 @@
     "18 ago 2026: Qatar rechaza reclamos de Irán sobre pilotos desaparecidos; petroleros dan vueltas en Ormuz, confirmando bloqueo y disrupción de oferta.",
     "18 ago 2026: Tarifas de flete VLCC Golfo-China suben a $510,000/día, máximo en 2 meses, por inseguridad en Ormuz, confirmando disrupción logística y presión alcista en precios.",
     "18 ago 2026: Aramco reanuda carga en Ras Tanura, pero tráfico en Ormuz sigue mínimo y tarifas VLCC Golfo-China superan $500,000/día; rutas alternativas confirman disrupción persistente y presión alcista en fletes.",
-    "18 ago 2026: Ataque a buque en Ormuz deja un muerto; Trump dice que el estrecho está 'abierto y operativo', contradiciendo bloqueo real y ataques continuos, elevando riesgo de oferta y presión alcista."
+    "18 ago 2026: Ataque a buque en Ormuz deja un muerto; Trump dice que el estrecho está 'abierto y operativo', contradiciendo bloqueo real y ataques continuos, elevando riesgo de oferta y presión alcista.",
+    "18 ago 2026: Aramco reanuda carga de VLCC en Ras Tanura y Juaymah tras pausa de tres semanas, enviando tres buques con ~2M barriles cada uno, indicio de que Ormuz vuelve a estar parcialmente operativo y reduciendo algo el riesgo de oferta."
   ]
 }
