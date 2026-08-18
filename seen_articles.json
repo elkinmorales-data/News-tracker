@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "01b96e97893bbca750481ad3345add8f39916bf206778d80c63ce4929f722ac8",
-    "a7d5fa43b56c14afffae2ede587c4e9fef91fca3bf127ef0b96b032496e91cd3",
-    "153b6ef99039a9010d23d39702c26bd10f257364befccda79ac6448b45648efc",
-    "3753dc4e576e4822873ef33cb3ee92716dc5b9f239f229bc7fb9e70adb00987f",
     "2f99d66cdfe4d8e064191f9f44b96c2c9120e04e2bf5b7831e8de7c3251f3a94",
     "af24a9c7a159d82fdf507e6f0b4e165b39c3c56c6cd23e670dde59316afbc1ad",
     "cfc5b6114fb14dce867eabf42e02798b8da3cb1dbc6b03d1958de2ec67c4cc66",
@@ -499,10 +495,13 @@
     "0082bde8f3711c45a5657a458e6d229550686e26a5410607828162e6e0b385b0",
     "36895293df6c56b18a1efc64c02c07113080f446f7fc83ea7df1670d92376f43",
     "36c66ca4dc6fe6d6eaaf7eb2c613428c9f3f5088abd3472996aa4b88c0cbff9f",
-    "9a017a9e1bd77ae0c38bc4d09c3d0d25b0c4af71dacbe9c8d93b1998825bc67e"
+    "9a017a9e1bd77ae0c38bc4d09c3d0d25b0c4af71dacbe9c8d93b1998825bc67e",
+    "3ea7d90f42f4da9c2d32a5731e19d9f28ae25a96dad7a2e1ccfd4dd7b99d1fda",
+    "bace1650096c2a51e88cc2be3dfd4f2cf55b9b38cce3189a21dee6d1eeb53c71",
+    "3374908d044f6744fd163771e655c4921aa067567226fa0cdcdc934ad3556fda",
+    "c9e214abc9f5c22c30b330b503d04af602e4126a3ab853f7282111c0be92dd59"
   ],
   "seen_summaries": [
-    "EE.UU. lanza séptima noche consecutiva de ataques contra Irán, perpetuando el conflicto directo y el bloqueo de Ormuz.",
     "EE.UU. ataca Irán por séptima noche consecutiva, expandiendo bombardeos a infraestructura civil y energética; Irán declara fin de la política de negociación en guerra y advierte escalada a conflicto total.",
     "EE.UU. completa octava ronda de ataques contra Irán con bloqueo naval activo en Ormuz, Kuwait y Baréin interceptan proyectiles iraníes.",
     "Irak firma 48 acuerdos con EE.UU., incluyendo reconstrucción del oleoducto Irak-Siria para eludir Ormuz.",
@@ -701,6 +700,7 @@
     "17 ago 2026: Trump exige rendición total de Irán y afirma contacto directo con IRGC tras expirar MoU, intensificando retórica y riesgo de escalada militar.",
     "18 ago 2026: Irán ofrece recompensa por soldados de EE.UU. y Trump reduce ejercicios con Corea del Sur, intensificando escalada militar y riesgo de oferta en Ormuz.",
     "18 ago 2026: Incendio en depósito de combustible en Sulaimaniyah (Irak) con 20 heridos y decenas de camiones destruidos, añade riesgo de oferta y presión alcista en petróleo.",
-    "17 ago 2026: Irán anuncia estrategia 'totalmente ofensiva' contra EE.UU., elevando Brent a $91.33 y WTI a $85.08; margen de diésel en EE.UU. supera $100/barril por primera vez, confirmando escalada y presión alcista extrema en destilados."
+    "17 ago 2026: Irán anuncia estrategia 'totalmente ofensiva' contra EE.UU., elevando Brent a $91.33 y WTI a $85.08; margen de diésel en EE.UU. supera $100/barril por primera vez, confirmando escalada y presión alcista extrema en destilados.",
+    "18 ago 2026: UKMTO reporta ataque con proyectil desconocido a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista."
   ]
 }
