@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "640699cc3104a1be5f54aecaa6163f99a4b6ebc4e75c2689de246b691f4a5a71",
     "5d2cb157588dac0f8e28923684ffedeb31f1ef4b315e9c381449622a66deed00",
     "3d270da8a044e2415567c12254f55eaa4ec60b446932278416aa48c041cbf7d1",
     "61975a4ad88d0fa1f373cb6715aef6e938830a60c786a23d21445d2c0c35914e",
@@ -499,10 +498,10 @@
     "42af6d1d33ed2af2e4ab4f3f01574a52065832722fbd963d2ab938fc3e52b242",
     "c7053c88c95260adf9fb28f84a35fd3ad39a3c121668c9dbc8c155352cac83ed",
     "463bce220154a7088d1355b6e693dbc45c0bbabe72866152abc0d443986e25ed",
-    "0bf074a31a7cf2f18e15418f72e828848f00d43a0c024ded91a0b82b9ea1516b"
+    "0bf074a31a7cf2f18e15418f72e828848f00d43a0c024ded91a0b82b9ea1516b",
+    "2e5212704877b52a5c01f482b34e389394c7515483bde7e761a6bc8337e7771e"
   ],
   "seen_summaries": [
-    "EE.UU. lanza novena noche consecutiva de ataques contra Irán; tráfico de petroleros y GNL en Ormuz se detiene por temor a ataques, elevando riesgo de suministro global.",
     "Ataque con dron detiene exportaciones en terminal CPC del Mar Negro y hutíes declaran embargo marítimo contra Arabia Saudí, escalando riesgo en dos rutas petroleras.",
     "Hutíes declaran bloqueo naval contra Arabia Saudí, extendiendo la crisis del Golfo al Mar Rojo y amenazando una ruta alternativa saudí a Ormuz.",
     "OilPrice reporta que los amortiguadores del mercado petrolero se han agotado por la reescalada del conflicto Irán-EE.UU., dejando al crudo expuesto a un nuevo pico de precios.",
@@ -701,6 +700,7 @@
     "18 ago 2026: Tarifas de flete VLCC Golfo-China suben a $510,000/día, máximo en 2 meses, por inseguridad en Ormuz, confirmando disrupción logística y presión alcista en precios.",
     "18 ago 2026: Aramco reanuda carga en Ras Tanura, pero tráfico en Ormuz sigue mínimo y tarifas VLCC Golfo-China superan $500,000/día; rutas alternativas confirman disrupción persistente y presión alcista en fletes.",
     "18 ago 2026: Ataque a buque en Ormuz deja un muerto; Trump dice que el estrecho está 'abierto y operativo', contradiciendo bloqueo real y ataques continuos, elevando riesgo de oferta y presión alcista.",
-    "18 ago 2026: Aramco reanuda carga de VLCC en Ras Tanura y Juaymah tras pausa de tres semanas, enviando tres buques con ~2M barriles cada uno, indicio de que Ormuz vuelve a estar parcialmente operativo y reduciendo algo el riesgo de oferta."
+    "18 ago 2026: Aramco reanuda carga de VLCC en Ras Tanura y Juaymah tras pausa de tres semanas, enviando tres buques con ~2M barriles cada uno, indicio de que Ormuz vuelve a estar parcialmente operativo y reduciendo algo el riesgo de oferta.",
+    "18 ago 2026: Análisis de OilPrice revela red paralela de 4M bpd (UAE, Irak, Kuwait, Qatar) con buques AIS-dark y STS fuera del Golfo para eludir bloqueo de Ormuz; Bessent predice estrecho 'irrelevante' en 2 años; mitigación parcial de riesgo de oferta, impacto incierto en precios."
   ]
 }
