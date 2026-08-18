@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "aea4511287f57d0395c4155ee8b82db9053751eb743ee511ba7bc3026ba7b0a7",
-    "d64a039bdf5fff99e206f18d784960b76c71ffcf3427dbaf13452fd1d5c41ec5",
     "864bfbf14b1fc5e7ec1aa3cb29be2ce60d767b0da41adfda0e53ae5f499ff2d0",
     "51dfe7efee946f8e76f43b1da48fa0569864a05fc2b6e65a574afb5ad47f3152",
     "4db7b1119f7336d7b756b58462f3c36330e53b70d72c091a55ff2a7757ff3913",
@@ -499,10 +497,11 @@
     "7e5b777cc4da0a579330acd98b20f1f8e12a26e3d787013dfd5ef94e8f3476d0",
     "7d0c537fb6cb7683d07083c62c3b6e6e57d15affccbd4d5359469000cb91d9fa",
     "2f99d66cdfe4d8e064191f9f44b96c2c9120e04e2bf5b7831e8de7c3251f3a94",
-    "d17c8152b199f2ae21ac626f118dc665f5d0385a711017e09316f6971cef8e54"
+    "d17c8152b199f2ae21ac626f118dc665f5d0385a711017e09316f6971cef8e54",
+    "64dcc7e6fefd25d4e3794fb3309eade246dbf330510975a039e0ed8b8d9f1bd7",
+    "cad2196e9dab22c764f6eedcc13f78e0dc2472948740af6ef3cae6510cb7e062"
   ],
   "seen_summaries": [
-    "Irak firma 48 acuerdos con EE.UU., incluyendo reconstrucción del oleoducto Irak-Siria para eludir Ormuz.",
     "Irán ataca Kuwait (Mangaf) con repetidos impactos, confirmando nueva escalada regional en el Golfo.",
     "Líder supremo iraní advierte represalias si EE.UU. continúa ataques; dos soldados estadounidenses mueren en ataque iraní en Jordania, escalando el conflicto directo.",
     "Octava noche consecutiva de ataques EE.UU.-Irán; soldados estadounidenses mueren por misil iraní en Jordania, escalando el conflicto y el bloqueo de Ormuz.",
@@ -701,6 +700,7 @@
     "17 ago 2026: Irán anuncia estrategia 'totalmente ofensiva' contra EE.UU., elevando Brent a $91.33 y WTI a $85.08; margen de diésel en EE.UU. supera $100/barril por primera vez, confirmando escalada y presión alcista extrema en destilados.",
     "18 ago 2026: UKMTO reporta ataque con proyectil desconocido a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista.",
     "18 ago 2026: UKMTO reporta ataque con proyectil a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista.",
-    "18 ago 2026: Nuevo ataque con proyectil a buque en Ormuz reportado por UKMTO eleva Brent sobre $91, confirmando persistencia de ataques y riesgo de oferta."
+    "18 ago 2026: Nuevo ataque con proyectil a buque en Ormuz reportado por UKMTO eleva Brent sobre $91, confirmando persistencia de ataques y riesgo de oferta.",
+    "18 ago 2026: Hutíes reivindican tercer ataque con drones contra refinería de Aramco en Jazan en dos semanas, aumentando riesgo de oferta y presión alcista en petróleo."
   ]
 }
