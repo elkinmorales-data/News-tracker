@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "25c2c72836290f724205606101e8d1f00418b71af2ba14ffb2aa49946c9a5b78",
     "46e9b1dad49d13a5e057177263d71834631939ce6652ebe271de6ff03049e48d",
     "60969ff73e445600ea29f493045e1039fbea4e34eb4085f865223c23eedda727",
     "e2f4170e71327f6e6cbd9daa2aa97f1c490d23b30a4f192724b3f8cdd89d9de3",
@@ -499,10 +498,10 @@
     "1b73b3a64f8e67b451c56c6d8e22dadcf376758fdce29a4ba825b47fd2b91018",
     "4e11ce09c743d8e3556a843cb45344f747922c2fa283e3e73256f7383420bb73",
     "f08b9693d423c843a6a75bf172015ba839587cbda7fe5e5bd61571c720353f64",
-    "dba828bbf4888f934ef320c9e5c09fa51528ca29e9c92c74b34f5955587d0bb9"
+    "dba828bbf4888f934ef320c9e5c09fa51528ca29e9c92c74b34f5955587d0bb9",
+    "6af5c83cb2012fa987afefc74043087b086ecae5ced9003d4dbac395626bc68d"
   ],
   "seen_summaries": [
-    "Irán ataca planta eléctrica en Kuwait y extiende ataques a Baréin y Jordania, escalando el conflicto a infraestructura energética de aliados de EE.UU. en el Golfo.",
     "Cierre de Ormuz expone dependencia energética de África hacia Irán y China, generando escasez y presión al alza sobre precios del crudo.",
     "EE.UU. lanza novena noche consecutiva de ataques contra Irán; tráfico de petroleros y GNL en Ormuz se detiene por temor a ataques, elevando riesgo de suministro global.",
     "Ataque con dron detiene exportaciones en terminal CPC del Mar Negro y hutíes declaran embargo marítimo contra Arabia Saudí, escalando riesgo en dos rutas petroleras.",
@@ -701,6 +700,7 @@
     "18 ago 2026: Trump amenaza con bombardear Omán por segunda vez por el tema de Ormuz, con negociaciones EE.UU.-Irán estancadas; eleva riesgo de escalada y presión alcista en petróleo.",
     "18 ago 2026: Qatar rechaza reclamos de Irán sobre pilotos desaparecidos; petroleros dan vueltas en Ormuz, confirmando bloqueo y disrupción de oferta.",
     "18 ago 2026: Tarifas de flete VLCC Golfo-China suben a $510,000/día, máximo en 2 meses, por inseguridad en Ormuz, confirmando disrupción logística y presión alcista en precios.",
-    "18 ago 2026: Aramco reanuda carga en Ras Tanura, pero tráfico en Ormuz sigue mínimo y tarifas VLCC Golfo-China superan $500,000/día; rutas alternativas confirman disrupción persistente y presión alcista en fletes."
+    "18 ago 2026: Aramco reanuda carga en Ras Tanura, pero tráfico en Ormuz sigue mínimo y tarifas VLCC Golfo-China superan $500,000/día; rutas alternativas confirman disrupción persistente y presión alcista en fletes.",
+    "18 ago 2026: Ataque a buque en Ormuz deja un muerto; Trump dice que el estrecho está 'abierto y operativo', contradiciendo bloqueo real y ataques continuos, elevando riesgo de oferta y presión alcista."
   ]
 }
