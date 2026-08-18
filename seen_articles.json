@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "864bfbf14b1fc5e7ec1aa3cb29be2ce60d767b0da41adfda0e53ae5f499ff2d0",
-    "51dfe7efee946f8e76f43b1da48fa0569864a05fc2b6e65a574afb5ad47f3152",
-    "4db7b1119f7336d7b756b58462f3c36330e53b70d72c091a55ff2a7757ff3913",
     "219be82a138e1fb80f8510d718a89cd0f8e877ef9f7e8f7f9084cfcc7c8b3e8c",
     "a97852d0729a2f52e2bb970aa0e31f884426b96429e73b722b23a4ab2796e4c2",
     "0877e58cb79156e2bb4275c045534d8567c575e8807c48027dd2e5986d29ecf8",
@@ -499,10 +496,12 @@
     "2f99d66cdfe4d8e064191f9f44b96c2c9120e04e2bf5b7831e8de7c3251f3a94",
     "d17c8152b199f2ae21ac626f118dc665f5d0385a711017e09316f6971cef8e54",
     "64dcc7e6fefd25d4e3794fb3309eade246dbf330510975a039e0ed8b8d9f1bd7",
-    "cad2196e9dab22c764f6eedcc13f78e0dc2472948740af6ef3cae6510cb7e062"
+    "cad2196e9dab22c764f6eedcc13f78e0dc2472948740af6ef3cae6510cb7e062",
+    "229b56d7b570425488fa1191b46c0bb2f93c5c01228fed00b49a85f34180cba8",
+    "851a0be624bc2c2ef85c0bddf1f69112c21bf0840300b692a300f0df13936d01",
+    "8c668411e9a0d0c30f00cc3075421a69af23b20489301aa0e7e66a73bccefd1d"
   ],
   "seen_summaries": [
-    "Irán ataca Kuwait (Mangaf) con repetidos impactos, confirmando nueva escalada regional en el Golfo.",
     "Líder supremo iraní advierte represalias si EE.UU. continúa ataques; dos soldados estadounidenses mueren en ataque iraní en Jordania, escalando el conflicto directo.",
     "Octava noche consecutiva de ataques EE.UU.-Irán; soldados estadounidenses mueren por misil iraní en Jordania, escalando el conflicto y el bloqueo de Ormuz.",
     "Dos soldados estadounidenses mueren por ataque iraní en Jordania; EE.UU. responde con nuevos bombardeos contra Irán, intensificando el conflicto y el bloqueo de Ormuz.",
@@ -701,6 +700,7 @@
     "18 ago 2026: UKMTO reporta ataque con proyectil desconocido a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista.",
     "18 ago 2026: UKMTO reporta ataque con proyectil a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista.",
     "18 ago 2026: Nuevo ataque con proyectil a buque en Ormuz reportado por UKMTO eleva Brent sobre $91, confirmando persistencia de ataques y riesgo de oferta.",
-    "18 ago 2026: Hutíes reivindican tercer ataque con drones contra refinería de Aramco en Jazan en dos semanas, aumentando riesgo de oferta y presión alcista en petróleo."
+    "18 ago 2026: Hutíes reivindican tercer ataque con drones contra refinería de Aramco en Jazan en dos semanas, aumentando riesgo de oferta y presión alcista en petróleo.",
+    "18 ago 2026: Trump amenaza con bombardear Omán por segunda vez por el tema de Ormuz, con negociaciones EE.UU.-Irán estancadas; eleva riesgo de escalada y presión alcista en petróleo."
   ]
 }
