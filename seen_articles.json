@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "a393b3b9a308986a734d56bcc819b11b2814125ea95719197e852aa170611330",
     "433284ee2f4d6cebcad9b766602e440e7cdd6f9b74c5b6be86aa97d70f308647",
     "9c3621c3a58948838c21f1f4598a3e47e59c6ca8982b7ed415ccba34539e9bfb",
     "0bc04617d2aaf6e1174d36279681db08c08eebee4b6c26c2a710d2d09f3efb7b",
@@ -499,10 +498,10 @@
     "4b02d0345f805f76a3d449fb90a4bf2bf808fa30c6ec46d6df6195815ab50d73",
     "c641de733b2549a0a4ba0ca3a22d7a17bce7758345f4294c13e785b0922bced9",
     "acca9c98a461d5850f3528900a8707e92218bc321a35238e4d74623d422ecf78",
-    "b235972cf45bee4ccf2860942bf38e79dd509c9ff17c1e0eb839cdd7d68f4fc5"
+    "b235972cf45bee4ccf2860942bf38e79dd509c9ff17c1e0eb839cdd7d68f4fc5",
+    "51a3108fc9092f9376faeda276863dddff28138317b04ecd44482432bf690460"
   ],
   "seen_summaries": [
-    "OilPrice reporta que los amortiguadores del mercado petrolero se han agotado por la reescalada del conflicto Irán-EE.UU., dejando al crudo expuesto a un nuevo pico de precios.",
     "EE.UU. lanza décima noche consecutiva de ataques contra Irán; Irán ataca Kuwait, perpetuando el conflicto directo y el bloqueo de Ormuz.",
     "CNBC reporta colapso de tráfico en Ormuz por bloqueo de EE.UU. y combates; décima noche consecutiva de ataques EE.UU.-Irán confirmada por CENTCOM.",
     "Reportes de negociación de tregua de 10 días entre EE.UU. e Irán generan caída del petróleo desde máximos; Brent retrocede a 88.77 USD.",
@@ -701,6 +700,7 @@
     "18 ago 2026: Aramco reanuda carga de VLCC en Ras Tanura y Juaymah tras pausa de tres semanas, enviando tres buques con ~2M barriles cada uno, indicio de que Ormuz vuelve a estar parcialmente operativo y reduciendo algo el riesgo de oferta.",
     "18 ago 2026: Análisis de OilPrice revela red paralela de 4M bpd (UAE, Irak, Kuwait, Qatar) con buques AIS-dark y STS fuera del Golfo para eludir bloqueo de Ormuz; Bessent predice estrecho 'irrelevante' en 2 años; mitigación parcial de riesgo de oferta, impacto incierto en precios.",
     "18 ago 2026: Trump descarta negociaciones con Irán y critica acuerdo Irán-Omán sobre Ormuz, eliminando avance diplomático y elevando riesgo de escalada y presión alcista.",
-    "18 ago 2026: EE.UU. aumenta producción de misiles Tomahawk mediante contratos de defensa, señal de preparación militar activa en medio de escalada con Irán y riesgo de conflicto, elevando presión alcista en petróleo."
+    "18 ago 2026: EE.UU. aumenta producción de misiles Tomahawk mediante contratos de defensa, señal de preparación militar activa en medio de escalada con Irán y riesgo de conflicto, elevando presión alcista en petróleo.",
+    "19 ago 2026: Funcionario de EE.UU. dice que refinerías del Golfo reciben el 50% del crudo venezolano (500k bpd), indicando alivio de sanciones o acuerdos implícitos; oferta adicional modera riesgo de suministro y presiona precios a la baja."
   ]
 }
