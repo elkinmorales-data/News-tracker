@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "7e847df2cb85abc8a3a4dec369517e5f6753bf93ec59559014ef3a84476b9c5a",
-    "f56d268456053c8e422e259f1a83d6fb7063b89bbf26f6d800ecb785d580af27",
-    "f1e98ddf81c4f177ac021a8572efa39b9c6d5ebd8681ebe61f3020244a8abe24",
     "de9afbf9843391b3852963816099a5dd9adfc90395b36190f97261f9a0479ea8",
     "803331b2ab3900464424a2adf3a8be8dc93f402c9f3fec920f542d9d2121bfc3",
     "3c38e89faf215d6b92e6656a51084e6cc0a73904c2304e426dd2cac0560de74b",
@@ -499,10 +496,12 @@
     "fa9a469ffb080f130ed33db787565a88aaa1b31a4e59494f2c6c612739ff1723",
     "d50f47bfb5566bff9e54ee85aca573cdcdde483b692f83977481f34028bce9de",
     "e8f76919d1ebf96f6a8f58c0b6dadf600f2ace1563ef035aa5ea07c6778347b9",
-    "5556e0c3100be2725539cf5406a3beac10cee7b10344828cc48c5bf1349549d0"
+    "5556e0c3100be2725539cf5406a3beac10cee7b10344828cc48c5bf1349549d0",
+    "d76f17ccdfea02eec51a98147e2bb3a4d3be4103b594706c9086b2fcc96efa2f",
+    "36f057ec1ddeede0a91d5199f0d05ef003cc068c8096720c133d3cb251d400b6",
+    "4f3cbda7637f6cdc738457bcfe9c6ced40554dbd3d7c31c5e2331fbfb64421f7"
   ],
   "seen_summaries": [
-    "Hutíes amenazan con cerrar Bab el-Mandeb, bloqueando puerto saudí de Yanbu; petróleo sube 4% por riesgo de interrupción en dos estrechos simultáneamente.",
     "Hutíes lanzan ataques con misiles y drones contra buques en el sur del Mar Rojo, cerrando Bab el-Mandeb y cortando flujo de crudo saudí a Asia, en escalada que duplica el riesgo sobre dos estrechos petroleros.",
     "Trump amenaza con bombardear puentes y plantas de poder iraníes; Irán amenaza con atacar instalaciones energéticas con intereses de EE.UU., escalando riesgo sobre infraestructura petrolera.",
     "Hutíes declaran bloqueo total de puertos saudíes en el Mar Rojo, amenazando hasta 4 millones de bpd de crudo redirigido, sumando una nueva interrupción masiva al ya bloqueado estrecho de Ormuz.",
@@ -701,6 +700,7 @@
     "19 ago 2026: OTAN dice estar 'preparada' para defender aliados ante informe de posibles ataques iraníes contra objetivos de EE.UU. en Europa, ampliando riesgo de escalada y presión alcista en petróleo.",
     "19 ago 2026: Análisis de OilPrice destaca que cracks de diésel superan $100/barril, confirmando tensión extrema en productos refinados por disrupción de Ormuz.",
     "19 ago 2026: SLB prepara reinicio de 15 taladros en Venezuela, lo que podría aumentar producción y moderar precios del petróleo en medio de tensión en Ormuz.",
-    "19 ago 2026: OilPrice reporta que traders abandonan esperanza de fin rápido de la guerra Irán-EE.UU. y se preparan para una crisis extendida de petróleo y GNL; escasez de diésel severa empeorando, presión alcista en precios."
+    "19 ago 2026: OilPrice reporta que traders abandonan esperanza de fin rápido de la guerra Irán-EE.UU. y se preparan para una crisis extendida de petróleo y GNL; escasez de diésel severa empeorando, presión alcista en precios.",
+    "19 ago 2026: Trump anuncia 'operación económica más devastadora contra Irán' y amenaza con consecuencias a quien comercie con Irán, endureciendo sanciones y elevando riesgo de oferta."
   ]
 }
