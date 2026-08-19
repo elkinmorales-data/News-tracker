@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "0e601ab9abb35748a7b7b0436eb3fd4212a73a0ade8c16328da9216fa94b3263",
     "b50f65e3ad9ef66445b31c9694ba1d5d8859e6155fed5d23a23b1d33094876f9",
     "a3a3e4007186d9ef734aad8a5ea8d6793505e08f1ba5f29c42b95749c176a451",
     "bd3d43395d06d6dc0d7a8c766e1bd69e724aa28873a242f812a547fcd5b108d4",
@@ -499,10 +498,10 @@
     "1a75c330ba7af176503d447cc2d4b83c5ea036141e493b9f48445e870e67c487",
     "48e2821b7d842889c5b0d9a7b26d1aaf4dfe498ed3f8ba7021304a3392c03375",
     "f49cc5ced24e539c9e4f7e223a8ff54159a24367200f7330fd17bc93b4f4f0e2",
-    "8e38c7fc142c68ec11b6b0398e5576695a6dcc6de4474adb5d9a145a6db50022"
+    "8e38c7fc142c68ec11b6b0398e5576695a6dcc6de4474adb5d9a145a6db50022",
+    "0268c2719c0e2cf6c0d4a08eb0bff05ca59fd4e6c50ed719f5b954783643d24d"
   ],
   "seen_summaries": [
-    "CNBC reporta colapso de tráfico en Ormuz por bloqueo de EE.UU. y combates; décima noche consecutiva de ataques EE.UU.-Irán confirmada por CENTCOM.",
     "Reportes de negociación de tregua de 10 días entre EE.UU. e Irán generan caída del petróleo desde máximos; Brent retrocede a 88.77 USD.",
     "EE.UU. ataca planta nuclear iraní en construcción; hutíes amenazan buques saudíes; mediadores proponen tregua de 10 días.",
     "Petrolero kuwaití atacado en Ormuz cerca de Omán; Brent sube sobre 90 USD por escalada de hostilidades en el estrecho.",
@@ -701,6 +700,7 @@
     "18 ago 2026: Trump descarta negociaciones con Irán y critica acuerdo Irán-Omán sobre Ormuz, eliminando avance diplomático y elevando riesgo de escalada y presión alcista.",
     "18 ago 2026: EE.UU. aumenta producción de misiles Tomahawk mediante contratos de defensa, señal de preparación militar activa en medio de escalada con Irán y riesgo de conflicto, elevando presión alcista en petróleo.",
     "19 ago 2026: Funcionario de EE.UU. dice que refinerías del Golfo reciben el 50% del crudo venezolano (500k bpd), indicando alivio de sanciones o acuerdos implícitos; oferta adicional modera riesgo de suministro y presiona precios a la baja.",
-    "19 ago 2026: EAU impone embargo comercial indefinido a Irán por presuntos ataques con misiles, elevando tensiones en el Golfo y presión alcista en petróleo."
+    "19 ago 2026: EAU impone embargo comercial indefinido a Irán por presuntos ataques con misiles, elevando tensiones en el Golfo y presión alcista en petróleo.",
+    "19 ago 2026: Tráfico en Ormuz se ralentiza aún más (datos de seguimiento de buques) y retórica EE.UU.-Irán se endurece sin negociación; Brent $91.53, WTI $85.47, confirma bloqueo persistente y presión alcista."
   ]
 }
