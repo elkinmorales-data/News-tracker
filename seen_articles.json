@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "98f3dae961ca68a61ac87bbeceb1245a009f97237422a4b679ab2e27dcd6f05a",
     "3d0dd72e86f4b0458f3bd2c54848b69b7b7debbd6540b301fc9e942722cbdcd0",
     "5209fc74b5b2f4c9e963e57be36e979aa000abccb694287539988cb1e3c71b42",
     "9dfbc8edcc99d63e7594b8ec9728e478b0b87671dcef71f392dc59ad55f5c08a",
@@ -499,10 +498,10 @@
     "903e845b69b03209781e89fc0863b526b00bc85a6ac816251e3ffa6613bf95af",
     "e7cb68a91f163fc5c32ac610cd660e877c35c3eda68f793c6b86fbbcf79d1044",
     "4e3067d13cd2a9a6b22e4dac175bff356f59f07e1b556f3eaa331579d98f232b",
-    "f21eaf3f673f83725f30a4d55a767015a28c11e080282321458e1f207e5d7f03"
+    "f21eaf3f673f83725f30a4d55a767015a28c11e080282321458e1f207e5d7f03",
+    "f14c6b0389cc51738db2be1e5727659dc5d1bdc20230fc5ea8961d2d976a791e"
   ],
   "seen_summaries": [
-    "Kazajistán suspende exportaciones de crudo por ataques en terminal CPC del Mar Negro; India deja de cargar crudo iraquí por riesgo en Ormuz, agravando la crisis de suministro.",
     "EE.UU. lanza nuevos ataques contra Irán, continuando el conflicto directo y el bloqueo de Ormuz.",
     "EE.UU. lanza nuevos ataques contra Irán; guerra ha costado $37.5 mil millones y crudo sube a $92.44 por continuidad del conflicto y bloqueo de Ormuz.",
     "Undécima noche consecutiva de ataques de EE.UU. contra Irán; bombardeos se expanden a nuevas provincias iraníes no atacadas previamente, intensificando el conflicto y el bloqueo de Ormuz.",
@@ -701,6 +700,7 @@
     "19 ago 2026: Tráfico de buques en Ormuz cae a 6 cruces el martes (vs 9 el lunes y promedio de 10 días de 11), confirmando ralentización persistente y riesgo de oferta.",
     "India lanza incentivos para gas por ducto doméstico ante altos costos de importación de GLP por la guerra con Irán, reflejando impacto en demanda de combustibles y disrupción de oferta en Medio Oriente.",
     "19 ago 2026: ADNOC recorta 5% oferta de crudo Murban a Asia en licitaciones spot por mantenimiento, elevando precios del crudo en medio de disrupción en Ormuz.",
-    "19 ago 2026: Irán ataca con misiles a EAU; EAU responde con embargo comercial indefinido, escalando conflicto y elevando riesgo de oferta en el Golfo."
+    "19 ago 2026: Irán ataca con misiles a EAU; EAU responde con embargo comercial indefinido, escalando conflicto y elevando riesgo de oferta en el Golfo.",
+    "19 ago 2026: EAU congela todo comercio con Irán tras ataque con misiles balísticos iraníes cerca de sus costas, escalando tensión en el Golfo y aumentando riesgo de oferta."
   ]
 }
