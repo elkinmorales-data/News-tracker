@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "d76c53907d9b9e73fc28f0ea3036df20c8a14662ebb0770e69a44d5331b28b2c",
-    "dc529fae48ff5fe6ac6d77c29d4f791bfb13ac68fc68b1eafbba3511ee1961a5",
-    "c1170eff4d9cfa8b7d5812f0f93dfea0c950c864012f9ed57472c2b70c5b5a0b",
-    "e9b51abf185491c6cca047d457d152aa4e22daed89383511655198f550e70322",
-    "e8b1828c0e44907dedd92e245d99d5e73304bcc713a83981459e0d99f358659e",
-    "284143f03d92ee2f7f85dfe01995f800c98cd0fef527a8f9252d524e2603a04d",
-    "bf00d8a5aaef9140a91734667742092ea934ab67bdbbac8e0b7686c581d17667",
     "7ef8db2bcf8eac5184f9d7a760373353bc144f54e03d62967654c3dae04cca1f",
     "16d424ed0bbb47bde7913cd8c36ba304542a317959aad7a315b218c976f5c54c",
     "f0d23a822a2bd724c25ecae9d794e5668a2a1c6250211b9a3cadd8310d33284c",
@@ -499,10 +492,16 @@
     "5896acb5a4872a2e744ce26b583a299f5f0f27efd35035e01036985538521116",
     "185900087f68d7c926a793154912448d076686ce57570a11b46021e9715fdc00",
     "b500deee8597b50b9c41615401a7eec4ff5d28ab5c4d7a8009e5aa07379c96f8",
-    "62c853ec1f89e34473b1393c803ef25baffb19f57bae0e141fd61c0602c69ea0"
+    "62c853ec1f89e34473b1393c803ef25baffb19f57bae0e141fd61c0602c69ea0",
+    "053faf30baa5ddd572bb1df87b1921e848933a0416c8faaf0695e6819921040d",
+    "7639fc85c2a7c935f3c22641b207dc523f89841afda633a5ab614e7fdf6cb4cc",
+    "423a58d8b08911ddd617a021cc3cfa479d7064ee97a0412706f5feae2213b634",
+    "65db4253dd05287faa67225fc1cf0370b2084f2223dd6d09ebb9a886b434228c",
+    "83695d6ed02d20ea810d9b8162f380fd9d9b75a5e139c08368dc1cf2552d7e02",
+    "8c83bd68bca248c270adf4be321449e3dadfdf4c275bf6e8ec15604258561b3e",
+    "903e845b69b03209781e89fc0863b526b00bc85a6ac816251e3ffa6613bf95af"
   ],
   "seen_summaries": [
-    "EE.UU. anuncia que China redujo compras de crudo iraní en 40% por sanciones a refinerías independientes, debilitando financiación de Irán en pleno conflicto.",
     "Kazajistán suspende exportaciones de crudo por ataques en terminal CPC del Mar Negro; India deja de cargar crudo iraquí por riesgo en Ormuz, agravando la crisis de suministro.",
     "EE.UU. lanza nuevos ataques contra Irán, continuando el conflicto directo y el bloqueo de Ormuz.",
     "EE.UU. lanza nuevos ataques contra Irán; guerra ha costado $37.5 mil millones y crudo sube a $92.44 por continuidad del conflicto y bloqueo de Ormuz.",
@@ -701,6 +700,7 @@
     "19 ago 2026: Irán evalúa ataques a objetivos militares europeos y EAU suspende comercio con Teherán, escalando conflicto y elevando riesgo de oferta.",
     "19 ago 2026: Tráfico de buques en Ormuz cae a 6 cruces el martes (vs 9 el lunes y promedio de 10 días de 11), confirmando ralentización persistente y riesgo de oferta.",
     "India lanza incentivos para gas por ducto doméstico ante altos costos de importación de GLP por la guerra con Irán, reflejando impacto en demanda de combustibles y disrupción de oferta en Medio Oriente.",
-    "19 ago 2026: ADNOC recorta 5% oferta de crudo Murban a Asia en licitaciones spot por mantenimiento, elevando precios del crudo en medio de disrupción en Ormuz."
+    "19 ago 2026: ADNOC recorta 5% oferta de crudo Murban a Asia en licitaciones spot por mantenimiento, elevando precios del crudo en medio de disrupción en Ormuz.",
+    "19 ago 2026: Irán ataca con misiles a EAU; EAU responde con embargo comercial indefinido, escalando conflicto y elevando riesgo de oferta en el Golfo."
   ]
 }
