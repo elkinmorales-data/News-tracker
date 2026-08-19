@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "fe3126125aa8ae3919f7857c5a00f4eeead6b0c2aad69c1ae2454a5e6452b53f",
-    "3c1ff279137495eb0ad88e1e5be3e4508c22b5cd084f0348ff8ebed8f4afecf0",
-    "e1bed8d9574ff3b30c6b0dee5f53f448aa3d3d0e895c6813a9cb5265a9a7c8f5",
     "7d5bd25d54a97987a496e0d1fa1dcd9aa6b7df0660884e6cba1d4296bf0b4044",
     "a393b3b9a308986a734d56bcc819b11b2814125ea95719197e852aa170611330",
     "433284ee2f4d6cebcad9b766602e440e7cdd6f9b74c5b6be86aa97d70f308647",
@@ -499,7 +496,10 @@
     "605494544a4ec7a3de5ee3a6fbe8fca41d23554cc69ac2d8a306db663d02fed5",
     "e07e6336bdc412a58c006876c4e2f7cb38d19cd4520fac0dd2b13b936832ab4e",
     "229e6b2bbc36850e73e1988d33940a9a4d6d5bdfb61e99cb812e7b69d070c7ab",
-    "bb8582916f1b82575123c735630c50ff19f1dee47ea10631392b4f7c25dd18cf"
+    "bb8582916f1b82575123c735630c50ff19f1dee47ea10631392b4f7c25dd18cf",
+    "4b02d0345f805f76a3d449fb90a4bf2bf808fa30c6ec46d6df6195815ab50d73",
+    "c641de733b2549a0a4ba0ca3a22d7a17bce7758345f4294c13e785b0922bced9",
+    "acca9c98a461d5850f3528900a8707e92218bc321a35238e4d74623d422ecf78"
   ],
   "seen_summaries": [
     "OilPrice reporta que los amortiguadores del mercado petrolero se han agotado por la reescalada del conflicto Irán-EE.UU., dejando al crudo expuesto a un nuevo pico de precios.",
