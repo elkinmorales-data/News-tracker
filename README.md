@@ -55,7 +55,7 @@ Crea estos 4:
 | `DEEPSEEK_API_KEY` | tu API key de DeepSeek |
 | `GMAIL_USER` | el correo que ENVÍA (puede ser el mismo u otro Gmail) |
 | `GMAIL_APP_PASSWORD` | la app password de 16 caracteres |
-| `TO_EMAIL` | elkinstewarmanagement@gmail.com |
+| `TO_EMAIL` | correo(s) que reciben, separados por coma si son varios: `elkinstewarmanagement@gmail.com,ximenasalazar2000@gmail.com` |
 
 ### 5. Activa el workflow
 El cron ya está configurado a `*/15 * * * *` (cada 15 min, hora UTC).

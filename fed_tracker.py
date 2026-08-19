@@ -89,6 +89,7 @@ DEEPSEEK_MODEL = "deepseek-chat"
 GMAIL_USER = os.environ.get("GMAIL_USER")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD")
 TO_EMAIL = os.environ.get("TO_EMAIL", "elkinstewarmanagement@gmail.com")
+TO_EMAILS = [e.strip() for e in TO_EMAIL.split(",") if e.strip()]
 
 
 # ---------------------------------------------------------------------------
@@ -259,13 +260,13 @@ def send_fed_email(decision):
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
     msg["From"] = GMAIL_USER
-    msg["To"] = TO_EMAIL
+    msg["To"] = ", ".join(TO_EMAILS)
     msg.attach(MIMEText(body_html, "html"))
 
     context = ssl.create_default_context()
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
         server.login(GMAIL_USER, GMAIL_APP_PASSWORD)
-        server.sendmail(GMAIL_USER, TO_EMAIL, msg.as_string())
+        server.sendmail(GMAIL_USER, TO_EMAILS, msg.as_string())
 
     print(f"[OK] Email enviado: {subject}")
 
