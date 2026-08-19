@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "728206f4e334242cddf38e7e89f86a7b7f39bfaf3e9292a1028f7301359aa5f9",
-    "5d10c733e7f84dbbd8ac96ecee4be2a5aea9f117045fa65be6a55f4bc699125b",
     "63231460f0f03a82fb8d02914f813d7a0b8038477393ca0af09ce11f6be37e4a",
     "8b9f797c26267ab2b9c239e0dcfa838bfad4b85f915e571bbe081bbcf4d3f9b4",
     "c9400cf09f6a40b96827a8d01245bbf8ce9b0bf2f36aca9b9dd8a16c804ef900",
@@ -499,10 +497,11 @@
     "0268c2719c0e2cf6c0d4a08eb0bff05ca59fd4e6c50ed719f5b954783643d24d",
     "2ee2f4f8e93166ccaba22ab71c5273816e590cd830a0f816ba4d4d57813889ed",
     "1080bf98f89e409d999eea49656e4033bc6a3705bf536612c67f47d7a00fcaaa",
-    "4fb4960bc46d5bc875cd2a0a21e4f435c3d3a0710bba03b908b65d11af8ba793"
+    "4fb4960bc46d5bc875cd2a0a21e4f435c3d3a0710bba03b908b65d11af8ba793",
+    "c4a551218b6a2cd848376df42d5701a525a04ffb8f9b7bc020713303cff29abe",
+    "879d841e91a904693b3272255c7ba1e1d294ca29abb3c39cc50bc528ef47b683"
   ],
   "seen_summaries": [
-    "EE.UU. ataca planta nuclear iraní en construcción; hutíes amenazan buques saudíes; mediadores proponen tregua de 10 días.",
     "Petrolero kuwaití atacado en Ormuz cerca de Omán; Brent sube sobre 90 USD por escalada de hostilidades en el estrecho.",
     "Hutíes obligan a petroleros saudíes a dar marcha atrás en el Mar Rojo, expandiendo la crisis de Ormuz a Bab el-Mandeb; décima noche de ataques EE.UU.-Irán y crudo cerca de 90 USD.",
     "EE.UU. anuncia que China redujo compras de crudo iraní en 40% por sanciones a refinerías independientes, debilitando financiación de Irán en pleno conflicto.",
@@ -701,6 +700,7 @@
     "19 ago 2026: Funcionario de EE.UU. dice que refinerías del Golfo reciben el 50% del crudo venezolano (500k bpd), indicando alivio de sanciones o acuerdos implícitos; oferta adicional modera riesgo de suministro y presiona precios a la baja.",
     "19 ago 2026: EAU impone embargo comercial indefinido a Irán por presuntos ataques con misiles, elevando tensiones en el Golfo y presión alcista en petróleo.",
     "19 ago 2026: Tráfico en Ormuz se ralentiza aún más (datos de seguimiento de buques) y retórica EE.UU.-Irán se endurece sin negociación; Brent $91.53, WTI $85.47, confirma bloqueo persistente y presión alcista.",
-    "19 ago 2026: Irán evalúa ataques a objetivos militares europeos y EAU suspende comercio con Teherán, escalando conflicto y elevando riesgo de oferta."
+    "19 ago 2026: Irán evalúa ataques a objetivos militares europeos y EAU suspende comercio con Teherán, escalando conflicto y elevando riesgo de oferta.",
+    "19 ago 2026: Tráfico de buques en Ormuz cae a 6 cruces el martes (vs 9 el lunes y promedio de 10 días de 11), confirmando ralentización persistente y riesgo de oferta."
   ]
 }
