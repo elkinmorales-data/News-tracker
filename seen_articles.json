@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "46474360e01feacf05cd23ea0135438fc58cebed1e120f28c75be8b919788ebc",
     "080c487ecbec4dd056479317f8420d4cd970df8795b64a7c4af4aec2d8749c2e",
     "53d57d10a38a0a6d2d19f1aac63b6e20fe365020086d510c31a3a35fed82ee20",
     "3f8c9ae558093829a74ce334a5337d68d96b3becb935933ff5cfe16854427f90",
@@ -499,7 +498,8 @@
     "cd58b0d789c883f527d4edad75bb35349bcd465d936d6b1d225110fc0720c083",
     "fd276681e59401d4e8c09380ce81bb73a0714ff2ab786de30539e6e30309c233",
     "c9d3fb30c5cd0885c16e25f47e03033eb3dc291ff5603d37cfbeb4affcde9b78",
-    "cba44a0ec37bbab84ba10526bbbf4ac5a70cc1aebcf095e9dd739f5066c66307"
+    "cba44a0ec37bbab84ba10526bbbf4ac5a70cc1aebcf095e9dd739f5066c66307",
+    "9be713c91cbbaf7d349ab1e59115049fdb7a6257863a3f54635da1235aa62284"
   ],
   "seen_summaries": [
     "Brent supera $96 por duodécima noche de ataques EE.UU.-Irán y amenazas hutíes en Mar Rojo.",
