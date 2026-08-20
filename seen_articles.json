@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "7d9d0f048b5a41210d9c6ee861db5cc1d337b5f2990d8e4c0599583250eacd2b",
-    "16619fe7d4e569d92773800dd7deecacd9899ebca036ca066aa44e68b3148378",
     "dfb08d3b778b4aa4484a53652565a6c81df049761061fd54fd3c6f897c7d04d4",
     "c8aeee5a2583348cc19d7af1a420b1f72537d4057c0a50215b1a4f7f94f55cb8",
     "d4368f7ae61301d76e881a93790a69058e52bdc5eb11b8b08ae9a78194bfffcf",
@@ -499,10 +497,11 @@
     "573ded3af7cb15d38c1211f2c9dfcaff32d37d390e3fd725698c75d67dbf10a5",
     "485220188203c1ae76905da277e4fdf39b933d9420e833e807958e59d408cc11",
     "04f0ec094a51362ca7dda6f7650a8b7c08eb3bae668e7367ba4a524c020e8865",
-    "3172e069a352017fe9b18bfedc281e172a25d9d5c4151b494defe65edaae81b9"
+    "3172e069a352017fe9b18bfedc281e172a25d9d5c4151b494defe65edaae81b9",
+    "3f6bbd04ad5b5d1c0c91038ba9d1bbde33d92775a132a665d0c91cdba72da564",
+    "aaf23203a12ccee538cb0e82b79ac7ed458985a43ca1e21967a44ea7e0a6a98b"
   ],
   "seen_summaries": [
-    "Hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando la ejecución del bloqueo naval contra Arabia Saudí anunciado previamente.",
     "Duodécima noche de ataques de EE.UU. contra Irán con bombardeos en nuevas ciudades; hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando bloqueo naval contra Arabia Saudí.",
     "Brent supera $96 por duodécima noche de ataques EE.UU.-Irán y amenazas hutíes en Mar Rojo.",
     "Duodécima noche de ataques EE.UU.-Irán; hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando bloqueo naval saudí; crudo sube por riesgo en dos estrechos.",
@@ -701,6 +700,7 @@
     "19 ago 2026: Trump anuncia 'operación económica más devastadora contra Irán' y amenaza con consecuencias a quien comercie con Irán, endureciendo sanciones y elevando riesgo de oferta.",
     "Trump anuncia sanciones 'más devastadoras' contra Irán (20 ago 2026), pero menciona posibilidad de retomar negociaciones, generando incertidumbre en el mercado.",
     "20 ago 2026: Trump amenaza con 'guerra económica' (Día D económico) contra países que ayuden o comercien con Irán, endureciendo la presión sin nueva oferta diplomática inmediata.",
-    "20 ago 2026: Refinerías chinas compran crudo iraquí (8M barriles) mientras cruces en Ormuz caen a 95/semana (vs 118), confirmando disrupción persistente pero con adaptación parcial del mercado."
+    "20 ago 2026: Refinerías chinas compran crudo iraquí (8M barriles) mientras cruces en Ormuz caen a 95/semana (vs 118), confirmando disrupción persistente pero con adaptación parcial del mercado.",
+    "20 ago 2026: Irán desestima amenazas económicas de EE.UU., sin avance diplomático, manteniendo presión alcista en petróleo por riesgo de oferta."
   ]
 }
