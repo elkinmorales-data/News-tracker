@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "7bbd6a24ede671bb810b4473b38f7e54f0e8ca3e7bfdc273932b4c3b256589ef",
-    "dafa862354e915b5600ba6881cc246daf22fb622f2eb7c97d0bf402586d17623",
-    "3dbe0880cbe6ec7e6a7f66c24697b9e1ab2aa627cc1a78933a86644c6b9a3aff",
     "0a439050a4ab5fcb5232dd842bb1d1df50b3b21e9b6660e9ea09dbd2de3368d2",
     "01d39e99dbc23c3d5c080df3a5822dc49d72e6639bddbf6e24b59b5318913d0e",
     "2e6869040da91969ad9966355a85f369cd9393a8d54457b60c2f95f91ab89803",
@@ -499,10 +496,12 @@
     "fd78c2332a4fac3c371feaff236d649fac76463010a6b5a178642fcb07b0a07b",
     "711ba274ae65291264f65ae0bf72a2fbf9fbbc670119a065dd23b0a3693a3cf1",
     "1b2a9563e99bb74cccfda63956b5f652866947d6ad3ad27d37ec36e12e120649",
-    "9b94f46ab7d85fbdfc3835ff3ba89b76fd9749195fba15ee06e722e2130d6a3a"
+    "9b94f46ab7d85fbdfc3835ff3ba89b76fd9749195fba15ee06e722e2130d6a3a",
+    "2718b4b51988da49d971e243260b0f6a1c1d93dddc309af63025698b5af6074b",
+    "8ec4a50a96a082f85cae2f6b772c05ad6a9bc027457e69061906fcedd85e6ef8",
+    "c8392820754e33190152a5ff307927bede3781aed39fb31993698995ab192470"
   ],
   "seen_summaries": [
-    "Los hutíes atacan petroleros en el Mar Rojo y el Brent supera los $98 por quinto día consecutivo, acercándose a $100, en medio de la continuación de los bombardeos de EE.UU. contra Irán y el bloqueo de Ormuz.",
     "Buques chinos cruzan Bab el-Mandeb desafiando bloqueo hutí; Rubio descarta negociación seria con Irán, perpetuando el conflicto y bloqueo de Ormuz.",
     "Brent supera $100 por ataques hutíes en Mar Rojo, ampliando crisis de Ormuz; primas de seguro se cuadruplican.",
     "Brent supera $100 por ataques hutíes a petroleros saudíes en el Mar Rojo, confirmando bloqueo hutí en Bab el-Mandeb y sumando crisis en dos estrechos.",
@@ -701,6 +700,7 @@
     "20 ago 2026: Irán desestima amenazas económicas de EE.UU., sin avance diplomático, manteniendo presión alcista en petróleo por riesgo de oferta.",
     "20 ago 2026: Trump amenaza con 'tremendas' consecuencias económicas a países que ayuden a Irán, ratificando presión sin avance diplomático y elevando riesgo de oferta.",
     "ADNOC emite novena licitación spot de crudo desde junio para cargas de octubre/noviembre, aumentando oferta en el Golfo pese a crisis de Ormuz; indicio de adaptación y presión bajista moderada.",
-    "Trump anuncia nueva campaña económica para aislar a Irán (20 ago 2026), endureciendo sanciones sin avance diplomático, elevando riesgo de oferta."
+    "Trump anuncia nueva campaña económica para aislar a Irán (20 ago 2026), endureciendo sanciones sin avance diplomático, elevando riesgo de oferta.",
+    "20 ago 2026: Piratas secuestran petrolero frente a Yemen y lo desvían a Somalia, señal de resurgimiento de piratería somalí que extiende el riesgo de disrupción marítima más allá de Ormuz."
   ]
 }
