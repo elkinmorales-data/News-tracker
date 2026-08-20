@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "7338c5784672c63aa681574ee3bfa38dd697da5face7c5d1556fc160c02492b0",
-    "3ad767cb29ad729dfe75c61c8370684719548e9f94f642c71b45da4be7f01344",
     "4db915f0571138e2e500eb3f583bec2e6e368f2aaa0c44155a4af48c108b4629",
     "0b8699e003fc07b420dc30fa7f1434ac3f4f1c31fdedfaf0d64d4e0d59a867ff",
     "c2e43a07cdcf9c405a2f489d5aefdc3a14a2c6be3da87d849aa19894cd1538a9",
@@ -499,10 +497,11 @@
     "bc24714ad111c8332402e6af953a9476eb6835c7ee2322e8f3ae07d860e5477d",
     "b972477fc0123572e26e2b9d768ffdc34b58970fcfba3f0988360f9a314f6005",
     "110e85ac86c82a0632382843aaa14c91cdaf2a47d6165a322daa32089da6aa20",
-    "c21c60cab0533b5533c91b33758f8a278bdb6b373f58b27549a8484d1c76e858"
+    "c21c60cab0533b5533c91b33758f8a278bdb6b373f58b27549a8484d1c76e858",
+    "065363298b4b3b5d0ca4ea947af8587c65f3eea138bdee5f2d571312d7b64404",
+    "b99427ec17d720c52c5c6b5431479aabca0f6786f7ce21802eaa684d093c4041"
   ],
   "seen_summaries": [
-    "Trump amenaza con bombardear puentes y plantas de poder iraníes; Irán amenaza con atacar instalaciones energéticas con intereses de EE.UU., escalando riesgo sobre infraestructura petrolera.",
     "Hutíes declaran bloqueo total de puertos saudíes en el Mar Rojo, amenazando hasta 4 millones de bpd de crudo redirigido, sumando una nueva interrupción masiva al ya bloqueado estrecho de Ormuz.",
     "Hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando la ejecución del bloqueo naval contra Arabia Saudí anunciado previamente.",
     "Duodécima noche de ataques de EE.UU. contra Irán con bombardeos en nuevas ciudades; hutíes atacan dos petroleros saudíes en el Mar Rojo, confirmando bloqueo naval contra Arabia Saudí.",
@@ -701,6 +700,7 @@
     "19 ago 2026: SLB prepara reinicio de 15 taladros en Venezuela, lo que podría aumentar producción y moderar precios del petróleo en medio de tensión en Ormuz.",
     "19 ago 2026: OilPrice reporta que traders abandonan esperanza de fin rápido de la guerra Irán-EE.UU. y se preparan para una crisis extendida de petróleo y GNL; escasez de diésel severa empeorando, presión alcista en precios.",
     "19 ago 2026: Trump anuncia 'operación económica más devastadora contra Irán' y amenaza con consecuencias a quien comercie con Irán, endureciendo sanciones y elevando riesgo de oferta.",
-    "Trump anuncia sanciones 'más devastadoras' contra Irán (20 ago 2026), pero menciona posibilidad de retomar negociaciones, generando incertidumbre en el mercado."
+    "Trump anuncia sanciones 'más devastadoras' contra Irán (20 ago 2026), pero menciona posibilidad de retomar negociaciones, generando incertidumbre en el mercado.",
+    "20 ago 2026: Trump amenaza con 'guerra económica' (Día D económico) contra países que ayuden o comercien con Irán, endureciendo la presión sin nueva oferta diplomática inmediata."
   ]
 }
