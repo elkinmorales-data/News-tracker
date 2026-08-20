@@ -195,7 +195,9 @@
     "7d30d4e7942cda3a263ed639ca94b95aa8103d1f59ab0b0ee09d4e3a01dcf68a",
     "66d76a18214dc3dbf0aa2e8d65cfa6875e0d9414b6beac790e7ef069dcb8f055",
     "ef0f917ca6edafa9b414164e63f967f86d59bbee7c050f6b5f1fd9c7837ef3df",
-    "43ecc22850ee703e7b3252617be2d3e04a3ebebd2b9fdec392fecbbe3d5667f8"
+    "43ecc22850ee703e7b3252617be2d3e04a3ebebd2b9fdec392fecbbe3d5667f8",
+    "1951dea5b0a6d8ce9c1448ce76ca8ecf0adeb9f441a34ec829585a9bc6454d8b",
+    "840f71aa5d9d1f85fce981fd5466240e380e53558e33c7e1bfcfb824c15249c5"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -228,6 +230,7 @@
     "Concepto de triple rol del espacio latente (descriptivo, generativo, predictivo) en ML | La guía de instalación de Codex CLI se considera tutorial básico sin novedad técnica",
     "7 pruebas de regresión para capa de orquestación en agentes de IA | Librerías Python modernas para data cleaning con foco en expresividad y developer experience",
     "Skills modulares en LangChain para agentes eficientes | Kimi K3 con parámetros de API innovadores como reasoning_effort y 131K tokens de salida | Estrategias prácticas para manejar contextos pequeños en LLMs con ejemplos Python",
-    "Herramientas por capa del stack para producción de agentes AI | Técnicas y mecanismos de watermarking en Claude y métodos de eliminación"
+    "Herramientas por capa del stack para producción de agentes AI | Técnicas y mecanismos de watermarking en Claude y métodos de eliminación",
+    "Top 10 benchmarks open-source para agentes de coding 2026 incluyendo Terminal-Bench, SlopCodeBench y ProgramBench | Método práctico para construir RAG robusto con recursos mínimos (laptop) sin depender de la nube | Evolución de benchmarks de agentes de código más allá de SWE-bench | Técnicas de diseño y tuning de RAG para entornos locales con restricciones de recursos"
   ]
 }
