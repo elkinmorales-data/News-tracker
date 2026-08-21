@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "7074a879033df5d76e08b5d0afa0964f293ceb7b211ea25ecfb3607e47ab1786",
-    "b7ed8008c6eb45ed0d6831e9e490436c7b0bcbd763b4fcddcb8eb13ea27a76df",
-    "0d00b5b7430fd2fb940054ffe3701609fd846cb331a3942bee973a844afe06e8",
-    "edbc2fc1da290e1bbfcb6dbbf270f68aec26143401b0c6c1b9a09ece02e7d6ee",
     "670348bc56732b89e3b08f02662a5a503e061691ac06804264fa4f0ae8fdd63e",
     "bfd969671495bce399c6406faf74f44ef4e152c0035d624afe358a1f3854174d",
     "2854c2aa57551e7009c96b15eb0b33927cda4ae074be6152ebb0810c88343148",
@@ -499,10 +495,13 @@
     "14ff5e5e379963e34047f369ef1189fb553ada546ebe015c50b3ae2f88e5b657",
     "ca086db2514d63f77752aafbf1027ae944e4cc35a2836a1e569600304c858f58",
     "1a604d44c66ac5d7ce08289e0bab91668047cf8a8eef997d838bd44377b2406a",
-    "91a2859b9b9e1a941e64934800f0f687f207d2a88db383a587bbe14474e35c02"
+    "91a2859b9b9e1a941e64934800f0f687f207d2a88db383a587bbe14474e35c02",
+    "06398ef058dee93dfdc8e28784f52634e9019998ae5bc46c03b3986287905575",
+    "3458f4145566aa2fa3ffcee38ddcae7b797ad6f2fbe56a52a962bd3e79de038e",
+    "9515e7576483afcc1e0eb5f18b18d8f3e65f3b383b42f8626ddd8c90be683be3",
+    "8f8e3a27c4c857394b48feb7e69e59fffae44a219015e6cb71177d5f5e470339"
   ],
   "seen_summaries": [
-    "Trump dice que considera un ataque masivo contra Irán, escalando la retórica bélica al más alto nivel; conflicto y bloqueo de Ormuz continúan.",
     "EE.UU. lanza 13ª noche consecutiva de ataques contra Irán; Irán advierte escalada en el Golfo, perpetuando el bloqueo de Ormuz y la presión alcista sobre el petróleo.",
     "Trump amenaza con castigo militar a Irán si hutíes atacan petroleros en Bab el-Mandeb, elevando riesgo geopolítico mientras Brent supera $100.",
     "Decimotercera noche de ataques de EE.UU. contra Irán y caída del tráfico de petroleros en Ormuz a mínimo de dos meses, intensificando la crisis de suministro.",
@@ -701,6 +700,7 @@
     "20 ago 2026: Bessent dice que nuevas medidas económicas colapsarán a Irán, sin especificar si China será objetivo, endureciendo presión alcista en petróleo.",
     "20 ago 2026: EPA autoriza cambio temprano a gasolina de invierno desde el 1 de septiembre para aumentar oferta doméstica de gasolina y aliviar costos por presión a Irán; efecto bajista moderado en precios de combustibles.",
     "21 ago 2026: Petróleo sube segunda semana consecutiva; esperanzas de reapertura rápida de Ormuz casi nulas, EE.UU. intensifica presión económica sobre Irán, manteniendo riesgo de oferta y sesgo alcista en precios.",
-    "21 ago 2026: Oferta de crudo iraní a China se agota; inventarios fuera del Golfo caen a 83M barriles (desde >100M), obligando a refinerías chinas a buscar alternativas y elevando presión alcista."
+    "21 ago 2026: Oferta de crudo iraní a China se agota; inventarios fuera del Golfo caen a 83M barriles (desde >100M), obligando a refinerías chinas a buscar alternativas y elevando presión alcista.",
+    "21 ago 2026: EE.UU. designa a Hezbolá como proxy de Irán y sanciona su red de financiamiento, escalando presión económica sobre Teherán y elevando riesgo de oferta."
   ]
 }
