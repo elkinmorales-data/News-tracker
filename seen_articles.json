@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "2854c2aa57551e7009c96b15eb0b33927cda4ae074be6152ebb0810c88343148",
-    "92df8b1fddd3d4ca63a1b642e0a742a9872e15ba9cf79ba5c3a0e47fee75aab1",
-    "46da1393f6866ae0f1e9d5aab1c72a3d144818e4acf49eef07929b70d33d4ba4",
-    "20994f0c01e9692f54ee58a8cbbda7c332fabc56c340bb6fe3a38bfd16127107",
-    "52b42ccfc796b3497aa5c239f770b0bf3a236ddc59934ca47dbe0df1d771edde",
     "d1f2f8f6dbb790e8e0026e50724056a879628d80dcaaf4ef97ed8ca63cc6be16",
     "c19bcc4209086f999f2a446f800a6e034ac7932edb756a662e0a3195d0d8711f",
     "130f71a5b439a925344133e76eafbfd08358fad4b05ad2bfa0315788482b98aa",
@@ -499,10 +494,14 @@
     "9515e7576483afcc1e0eb5f18b18d8f3e65f3b383b42f8626ddd8c90be683be3",
     "8f8e3a27c4c857394b48feb7e69e59fffae44a219015e6cb71177d5f5e470339",
     "e8c5817aa5b06673fb678b431a9296bfdfab82769ab83abb1f1968a3642d7f43",
-    "39704610acfd1a4b0b28c4d40d3d65aadd4e40fbe92f0fd8eecab1425b822260"
+    "39704610acfd1a4b0b28c4d40d3d65aadd4e40fbe92f0fd8eecab1425b822260",
+    "c7c31351f28704a641214085fba4f5032f69d7f585a963c9c5178c7c99b986a8",
+    "e9144d57ef009f9582c26d336f1e8c6f8f979c1bd36b7bd812559daf73e0aff2",
+    "7ab8c9571987c066ae60c9f8569778bc6d8fd6be98dd6a11cf03374761f10146",
+    "e46c9e3c7d6f48e23e544fd1268fa7273ebdc63302ecbde25bc9864b9a3ca356",
+    "551864b2e065fcb8611f898235985bf8d7250ad622d265beae723235f6fbd252"
   ],
   "seen_summaries": [
-    "Trump amenaza con castigo militar a Irán si hutíes atacan petroleros en Bab el-Mandeb, elevando riesgo geopolítico mientras Brent supera $100.",
     "Decimotercera noche de ataques de EE.UU. contra Irán y caída del tráfico de petroleros en Ormuz a mínimo de dos meses, intensificando la crisis de suministro.",
     "Irán ataca bases militares de EE.UU. en Bahréin, Kuwait y Jordania, matando personal estadounidense, lo que lleva la guerra a una peligrosa nueva fase y empuja el petróleo sobre los 100 USD.",
     "Cruces de petroleros por Ormuz caen a mínimo desde mayo (1 buque el jueves); petrolero saudí cruza Bab el-Mandeb en modo oscuro para evadir ataques hutíes.",
@@ -701,6 +700,7 @@
     "21 ago 2026: Petróleo sube segunda semana consecutiva; esperanzas de reapertura rápida de Ormuz casi nulas, EE.UU. intensifica presión económica sobre Irán, manteniendo riesgo de oferta y sesgo alcista en precios.",
     "21 ago 2026: Oferta de crudo iraní a China se agota; inventarios fuera del Golfo caen a 83M barriles (desde >100M), obligando a refinerías chinas a buscar alternativas y elevando presión alcista.",
     "21 ago 2026: EE.UU. designa a Hezbolá como proxy de Irán y sanciona su red de financiamiento, escalando presión económica sobre Teherán y elevando riesgo de oferta.",
-    "21 ago 2026: CENTCOM dice que ayudó al paso de 660M barriles de petróleo por Ormuz desde mayo, confirmando flujo parcial a pesar del bloqueo y moderando riesgo de oferta."
+    "21 ago 2026: CENTCOM dice que ayudó al paso de 660M barriles de petróleo por Ormuz desde mayo, confirmando flujo parcial a pesar del bloqueo y moderando riesgo de oferta.",
+    "21 ago 2026: Petróleo se acerca a $100 con tráfico de Ormuz en cifras de un solo dígito toda la semana; Trump intensifica 'Día D económico' contra Irán; Brent ~$94; GNL y fletes en máximos; presión alcista continúa."
   ]
 }
