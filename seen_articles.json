@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "cbc40804f7c1fe8bd9df48de5fead6f2890c4650a296a4dbfc35b70258adb262",
-    "eaca42dea4b233a6f479ba03f396bcd5e4510be5328c9cebb4ea0dc661fac7e7",
     "abfbec91d426fde0fde1434641a8dd6e534f8b48243e90f4c279a488945159fd",
     "233781a9dc524ff873e0eb1561fbfadfd168c94224015b8a7fbd4cf09928f449",
     "6e151864179d8dbb09d27aae6c93daf859c2295e39f8c3ad54c98a74caecf7bc",
@@ -499,10 +497,11 @@
     "3bc427b742a219a9631f35b79258a5f5a216c60a65eb8ff021316cc4d2b45ad2",
     "ec83772e8d43780b0b273874da2d455d316953ca4b9b1d0c201791c3465c487e",
     "64b489b0500ff2b9b1c5e507db6a2765ec0431634bd4bef8e8c6f0b62fb2a352",
-    "7880704e85fe4f11808e0c8a7c187d36c00c354681e0f297334f49ff90c26502"
+    "7880704e85fe4f11808e0c8a7c187d36c00c354681e0f297334f49ff90c26502",
+    "8160b38efff1bc9622b9d0e14b877fa1ffd13ec19bb7a376f989f11e5a6b83e2",
+    "7d0161da6d802501d069803a254efbfd2aa2f6f1480ffc710a7392729a6650ee"
   ],
   "seen_summaries": [
-    "Decimotercera noche de ataques de EE.UU. contra Irán y caída del tráfico de petroleros en Ormuz a mínimo de dos meses, intensificando la crisis de suministro.",
     "Irán ataca bases militares de EE.UU. en Bahréin, Kuwait y Jordania, matando personal estadounidense, lo que lleva la guerra a una peligrosa nueva fase y empuja el petróleo sobre los 100 USD.",
     "Cruces de petroleros por Ormuz caen a mínimo desde mayo (1 buque el jueves); petrolero saudí cruza Bab el-Mandeb en modo oscuro para evadir ataques hutíes.",
     "Ucrania ataca buques iraníes en el mar Caspio, expandiendo el conflicto y elevando el riesgo geopolítico sobre el petróleo.",
@@ -701,6 +700,7 @@
     "21 ago 2026: Oferta de crudo iraní a China se agota; inventarios fuera del Golfo caen a 83M barriles (desde >100M), obligando a refinerías chinas a buscar alternativas y elevando presión alcista.",
     "21 ago 2026: EE.UU. designa a Hezbolá como proxy de Irán y sanciona su red de financiamiento, escalando presión económica sobre Teherán y elevando riesgo de oferta.",
     "21 ago 2026: CENTCOM dice que ayudó al paso de 660M barriles de petróleo por Ormuz desde mayo, confirmando flujo parcial a pesar del bloqueo y moderando riesgo de oferta.",
-    "21 ago 2026: Petróleo se acerca a $100 con tráfico de Ormuz en cifras de un solo dígito toda la semana; Trump intensifica 'Día D económico' contra Irán; Brent ~$94; GNL y fletes en máximos; presión alcista continúa."
+    "21 ago 2026: Petróleo se acerca a $100 con tráfico de Ormuz en cifras de un solo dígito toda la semana; Trump intensifica 'Día D económico' contra Irán; Brent ~$94; GNL y fletes en máximos; presión alcista continúa.",
+    "21 ago 2026: Venezuela no puede aumentar exportaciones de crudo más allá de ~1.25M bpd por límites de infraestructura portuaria, con demoras de carga de hasta 30 días, limitando oferta global y apoyando precios."
   ]
 }
