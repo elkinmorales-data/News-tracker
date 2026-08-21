@@ -198,7 +198,11 @@
     "43ecc22850ee703e7b3252617be2d3e04a3ebebd2b9fdec392fecbbe3d5667f8",
     "1951dea5b0a6d8ce9c1448ce76ca8ecf0adeb9f441a34ec829585a9bc6454d8b",
     "840f71aa5d9d1f85fce981fd5466240e380e53558e33c7e1bfcfb824c15249c5",
-    "a8fdb4c941438251515ec0a5a2f6433e21df6819e89dd0f625045093f8e5dded"
+    "a8fdb4c941438251515ec0a5a2f6433e21df6819e89dd0f625045093f8e5dded",
+    "d166e15497830f9b3023a96125b977a2ec69d2678e20630dc078fdbcd5ae9529",
+    "6f1c0986a2e7e06d47c7463b5f3f5976449e264cb5eac87ee8bf4e2a87a3cc98",
+    "448e77d23196117465d96aa287b49fad504f2dc922f0d60fe5cfdb439ec212c8",
+    "cbf138bdb4b017f9333f1ec5eee718bcb950010acbffdc50e5c819f03ab04e96"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -233,6 +237,7 @@
     "Skills modulares en LangChain para agentes eficientes | Kimi K3 con parámetros de API innovadores como reasoning_effort y 131K tokens de salida | Estrategias prácticas para manejar contextos pequeños en LLMs con ejemplos Python",
     "Herramientas por capa del stack para producción de agentes AI | Técnicas y mecanismos de watermarking en Claude y métodos de eliminación",
     "Top 10 benchmarks open-source para agentes de coding 2026 incluyendo Terminal-Bench, SlopCodeBench y ProgramBench | Método práctico para construir RAG robusto con recursos mínimos (laptop) sin depender de la nube | Evolución de benchmarks de agentes de código más allá de SWE-bench | Técnicas de diseño y tuning de RAG para entornos locales con restricciones de recursos",
-    "Tres vías para carrera en IA: orientaciones y mapas de habilidades diferenciados según contexto personal"
+    "Tres vías para carrera en IA: orientaciones y mapas de habilidades diferenciados según contexto personal",
+    "Comparativa PagedAttention vs RadixAttention para optimización de KV cache en LLMs | Casos de uso reales de agentes AI en soporte, código, supply chain, salud y fraude | IA para habilitación de modelos el primer día en PyTorch con generación automática de kernels"
   ]
 }
