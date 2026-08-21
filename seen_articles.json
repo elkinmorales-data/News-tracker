@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "6fe385da9523331b63cdb5476855f7f0614ba9d11721142399a47aae04b2bcfa",
-    "51df4795dee30fe03a895acff8afc3562521bebd237923c57d0a52340d35d7c0",
     "ce020f4106418006f1f215b6164f2cf45432b89396d222dcf065bb991e374072",
     "787482d97b4c1d3f6c5fe0aaedde97cdffda9d5901fede7c5130f087e50ba68c",
     "b8ba004007188ec258aa07d0e4e786341eb406f0c06344811b733b814ff46c20",
@@ -499,10 +497,11 @@
     "b28129391e4413045448782b61533b67be1571e23f6556c9341faed41009453c",
     "c221358ee64b43d45280d1af8f723860c1c3d8c6a64072b1edc23704be6699f5",
     "7c07c384ede2a37a23b389a8b8cb296ac276195268f522febcb292b38d57e5f9",
-    "b50194afe387ad93e960b228226041e28a964f7781313332e17b25de899725f8"
+    "b50194afe387ad93e960b228226041e28a964f7781313332e17b25de899725f8",
+    "ae46aae59a4446737efe4298ce0753c04b41f2eb0b90f6f883cb58a3230919ba",
+    "14ff5e5e379963e34047f369ef1189fb553ada546ebe015c50b3ae2f88e5b657"
   ],
   "seen_summaries": [
-    "Trump amenaza con los mayores ataques contra Irán mientras Irán ataca Bahréin, Kuwait y Jordania, perpetuando la escalada del conflicto y el bloqueo de Ormuz.",
     "Trump dice que considera un ataque masivo contra Irán, escalando la retórica bélica al más alto nivel; conflicto y bloqueo de Ormuz continúan.",
     "EE.UU. lanza 13ª noche consecutiva de ataques contra Irán; Irán advierte escalada en el Golfo, perpetuando el bloqueo de Ormuz y la presión alcista sobre el petróleo.",
     "Trump amenaza con castigo militar a Irán si hutíes atacan petroleros en Bab el-Mandeb, elevando riesgo geopolítico mientras Brent supera $100.",
@@ -701,6 +700,7 @@
     "20 ago 2026: Piratas secuestran petrolero frente a Yemen y lo desvían a Somalia, señal de resurgimiento de piratería somalí que extiende el riesgo de disrupción marítima más allá de Ormuz.",
     "20 ago 2026: Bessent dice que nuevas medidas económicas colapsarán a Irán, sin especificar si China será objetivo, endureciendo presión alcista en petróleo.",
     "20 ago 2026: EPA autoriza cambio temprano a gasolina de invierno desde el 1 de septiembre para aumentar oferta doméstica de gasolina y aliviar costos por presión a Irán; efecto bajista moderado en precios de combustibles.",
-    "21 ago 2026: Petróleo sube segunda semana consecutiva; esperanzas de reapertura rápida de Ormuz casi nulas, EE.UU. intensifica presión económica sobre Irán, manteniendo riesgo de oferta y sesgo alcista en precios."
+    "21 ago 2026: Petróleo sube segunda semana consecutiva; esperanzas de reapertura rápida de Ormuz casi nulas, EE.UU. intensifica presión económica sobre Irán, manteniendo riesgo de oferta y sesgo alcista en precios.",
+    "21 ago 2026: Oferta de crudo iraní a China se agota; inventarios fuera del Golfo caen a 83M barriles (desde >100M), obligando a refinerías chinas a buscar alternativas y elevando presión alcista."
   ]
 }
