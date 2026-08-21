@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "abfbec91d426fde0fde1434641a8dd6e534f8b48243e90f4c279a488945159fd",
-    "233781a9dc524ff873e0eb1561fbfadfd168c94224015b8a7fbd4cf09928f449",
     "6e151864179d8dbb09d27aae6c93daf859c2295e39f8c3ad54c98a74caecf7bc",
     "d6b97496b24003c022a00662f5582ba7950d85fc6d98890376e1eb84e93bf12b",
     "76b8991db3314deb6a743c19934b6e479bc34f3f2771aa94a638606a0a68526a",
@@ -499,10 +497,11 @@
     "64b489b0500ff2b9b1c5e507db6a2765ec0431634bd4bef8e8c6f0b62fb2a352",
     "7880704e85fe4f11808e0c8a7c187d36c00c354681e0f297334f49ff90c26502",
     "8160b38efff1bc9622b9d0e14b877fa1ffd13ec19bb7a376f989f11e5a6b83e2",
-    "7d0161da6d802501d069803a254efbfd2aa2f6f1480ffc710a7392729a6650ee"
+    "7d0161da6d802501d069803a254efbfd2aa2f6f1480ffc710a7392729a6650ee",
+    "544ef7f52b548bac8a51e8441c16fe097f851d0d1f6606ace2e6b97785a6b1f6",
+    "fe80694921c85d0bf77786bae8e241497fa85bf7ad5673ec2bba0704adbcc1cc"
   ],
   "seen_summaries": [
-    "Irán ataca bases militares de EE.UU. en Bahréin, Kuwait y Jordania, matando personal estadounidense, lo que lleva la guerra a una peligrosa nueva fase y empuja el petróleo sobre los 100 USD.",
     "Cruces de petroleros por Ormuz caen a mínimo desde mayo (1 buque el jueves); petrolero saudí cruza Bab el-Mandeb en modo oscuro para evadir ataques hutíes.",
     "Ucrania ataca buques iraníes en el mar Caspio, expandiendo el conflicto y elevando el riesgo geopolítico sobre el petróleo.",
     "Ucrania ataca buque iraní en el mar Caspio, expandiendo el conflicto a una nueva región marítima clave para energía.",
@@ -701,6 +700,7 @@
     "21 ago 2026: EE.UU. designa a Hezbolá como proxy de Irán y sanciona su red de financiamiento, escalando presión económica sobre Teherán y elevando riesgo de oferta.",
     "21 ago 2026: CENTCOM dice que ayudó al paso de 660M barriles de petróleo por Ormuz desde mayo, confirmando flujo parcial a pesar del bloqueo y moderando riesgo de oferta.",
     "21 ago 2026: Petróleo se acerca a $100 con tráfico de Ormuz en cifras de un solo dígito toda la semana; Trump intensifica 'Día D económico' contra Irán; Brent ~$94; GNL y fletes en máximos; presión alcista continúa.",
-    "21 ago 2026: Venezuela no puede aumentar exportaciones de crudo más allá de ~1.25M bpd por límites de infraestructura portuaria, con demoras de carga de hasta 30 días, limitando oferta global y apoyando precios."
+    "21 ago 2026: Venezuela no puede aumentar exportaciones de crudo más allá de ~1.25M bpd por límites de infraestructura portuaria, con demoras de carga de hasta 30 días, limitando oferta global y apoyando precios.",
+    "Irak busca duplicar producción a 8-10M bpd en 6 años y pide aumento de cuota OPEP; potencial alza de oferta futura con efecto bajista moderado."
   ]
 }
