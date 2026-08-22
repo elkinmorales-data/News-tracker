@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "416f75f2d6c8fe97bc6348a67456e15a60f49d52687b85c8ad20e1241a421227",
-    "9e26fabc033390f528de5aa7db2bd4dc3ef735eaab681f5767324cc795c4af85",
     "8424ced9d4d8b930fc2bd269fb56bed6a556b05f872d803ed6e245e0b18749ec",
     "1991f6557db9251b7faac097d74e8d13cf336a0bee7ec77d701492df6f6706c4",
     "4e7d0b7c4d6fdee7f89b3d292fa7620c31d5a4499577d78a09a99c9f0615dfab",
@@ -499,7 +497,9 @@
     "71ad8c19dd1a5551e42ab1cfcc833a4eae39ff5097f3b91bdffff7d44de0e4f3",
     "44705ee02e8387547e64cb85d81880c7b9292d8919896140d3aabfe2a08e79b4",
     "9c9a31bec2ff4ea5e6bce98c974431b1cca87c1680b1e3e0d083a6afd6f268c8",
-    "6bf5d2646aaef5424b5c9d04eadf7727ffedbbedcabbad985004fdfa0c67e1ef"
+    "6bf5d2646aaef5424b5c9d04eadf7727ffedbbedcabbad985004fdfa0c67e1ef",
+    "6ac2475320a6cbad349b6ce362ea3279428f98d434f19f41de104c570b46a619",
+    "1f31369e2dd5e40baabdd50d5a29e34c8cfb622070b30ee679907f7d9bfef913"
   ],
   "seen_summaries": [
     "Cruces de petroleros por Ormuz caen a mínimo desde mayo (1 buque el jueves); petrolero saudí cruza Bab el-Mandeb en modo oscuro para evadir ataques hutíes.",
