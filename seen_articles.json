@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "f8675f908db3b1988e5bd7852ceb1b31a19fb2771eebc9a205290d3482d852db",
-    "4702c009126a9254ba51e8d12fb9fa1b597c29a7c9e077f3628dc2f23b8afe77",
-    "410feaf829c955bbdba339f0d5be0bb13d9f6fb0ff14d1b600d6149d2eae9ced",
     "8e06cd60eb3798ac5d32a0d314d226011e40cacdb385dfce260a8d12d5f1dbc4",
     "260d7e056220e72bf044b3c987a2a25cbb85133386aae0c69af10a31d46dffea",
     "4790604829e936ac137fbb4f9c09ac9695188752ba6924754b9d487e427fb326",
@@ -499,7 +496,10 @@
     "2659df263e6f473a179c660299ea2171d0d6763033bbfe153dd81ae46f570cea",
     "5ccb092035f50d5543d63b25e16900c1ab3b6642f6a14d9b12b89155f14495b3",
     "8d4e26a5c07ca5ef8e462e2c8d2e5aca6ded7b6afddb1a30e313a7bdde30a092",
-    "98b4080fb7621f35804eb4ad97d0c9bb64bd03638680156ef8384aaca99fc778"
+    "98b4080fb7621f35804eb4ad97d0c9bb64bd03638680156ef8384aaca99fc778",
+    "dcbaa0b358f54c3a9eb079351f20d3e47464811f7b93209100fad7401fce18c4",
+    "408b78ba751f297dd49a062e821c7c3809287c61377c0e405b7ad886a66f6aae",
+    "242f5c340c6c459da502f39c8b9102b9cdddd48b1b1592d06ecf2acc64c56e42"
   ],
   "seen_summaries": [
     "EE.UU. e Irán pausan ataques por segundo día consecutivo, marcando una tregua de facto que reduce el riesgo de bloqueo en el estrecho de Ormuz y presiona el crudo a la baja.",
