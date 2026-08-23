@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "790ef31c102a27933dc6ffc7216efefcbefe6e311da4dbc42f34cca9d67d78b3",
-    "10e2204f6fcc9eb6c09899300c46e06460c9249ee8bec3bdd07a505f904d81c2",
     "c92a41155ebfffe99b4b73fa301aac4035d6eded2617ecffc5185d8ae4b2fb06",
     "f988aafcfa54f61b6c807364bcd8d35992f99a9dec26f58b0b4adda179b652b5",
     "cd82084871a292e25e7d146a307f8f382a1ddcf27eeec88eaaa973636c4826f3",
@@ -499,10 +497,11 @@
     "30fed8c3637b24a5f215a1c7b547918679748f69642ef32b97131cfca6fd2022",
     "36382af45a81dad79c8895d0ea78e714546ff5ffab9ffbe5ca89f6d7ce705c03",
     "52d54f46a8f9ed7b3297b1703aee55067d5ccc48d3fc338b5bb6675f8521bbb2",
-    "b1ed296e7f19ebc5d38246abbaab0b69dd488ba5b4b5e3789cbdd8b028667adb"
+    "b1ed296e7f19ebc5d38246abbaab0b69dd488ba5b4b5e3789cbdd8b028667adb",
+    "99e1836fb3befd51083988ac7fe61acd427eddb40123013401182cc534af5ece",
+    "9840d2240b88fc9938d3d47fa1907a8261c632d161b0a2939eb554b58b548530"
   ],
   "seen_summaries": [
-    "India MRPL prohíbe rutas de Ormuz y Mar Rojo en tender de crudo, evidenciando riesgo extremo de suministro.",
     "Arabia Saudí repele ataques con drones de grupos respaldados por Irán, expandiendo el conflicto directo a su territorio y elevando el riesgo sobre infraestructura petrolera.",
     "EE.UU. e Irán mantienen pausa de ataques por tercer día consecutivo; mediadores de Catar y Pakistán buscan reanudar negociaciones de alto el fuego, reduciendo el riesgo geopolítico sobre el petróleo.",
     "Irán rechaza plan de compensación de Trump y amenaza con prohibir tránsito de buques por el estrecho de Ormuz, escalando el riesgo de bloqueo directo.",
@@ -701,6 +700,7 @@
     "22 ago 2026: Irán advierte a países vecinos contra participar en la campaña económica de EE.UU., escalando tensión regional y elevando riesgo de oferta.",
     "23 ago 2026: Irán amenaza con atacar intereses de países vecinos que se unan a la guerra económica de EE.UU., escalando riesgo de represalias regionales y presión alcista sobre petróleo.",
     "23 ago 2026: Presidente iraní Pezeshkian dice que memorando de EE.UU. es la mejor vía para terminar la guerra, señal diplomática que podría reducir riesgo de oferta y presionar precios a la baja.",
-    "23 ago 2026: Irán advierte de represalias contra países vecinos que se unan a la guerra económica de EE.UU., escalando riesgo de conflicto regional y presión alcista en petróleo."
+    "23 ago 2026: Irán advierte de represalias contra países vecinos que se unan a la guerra económica de EE.UU., escalando riesgo de conflicto regional y presión alcista en petróleo.",
+    "23 ago 2026: Irán señala posible aumento de precios de combustible en vísperas de nuevas sanciones de EE.UU., reflejando presión económica interna; impacto incierto en petróleo."
   ]
 }
