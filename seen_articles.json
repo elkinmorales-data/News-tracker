@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "0ec24c032c95851e5a1c5d45af747f1373f26b207ac0f9a5c65f03e564dda2d9",
-    "64b3ae1112e585ef46777dc08e3347dc922698f49592427e779f713e59a695c8",
     "bd7aa4bcd298d128ba301bc9cca19cfd7e316216cb61733bf97b034bb4e67124",
     "b51daaf7a98bfe50a922d218fd3bc175e8fc72fa188cf3d013f09312cc49eff7",
     "e62a172c7831ab72e3dd7d9a6ace808ceaddd1da64cbdc16d56617ad80d3c1e9",
@@ -499,10 +497,11 @@
     "2c41c26d54cd1bf0b73e3f27f3f83e7a6f82f747bba638dddaa91f729ea222c4",
     "ea2b4aeb990d6e1f3e398f53a22f8bb33217dc59eca35f94d0c96d5c178a8136",
     "32761be22a705eb368a8dc46cb3540b515956d7b490b687a7dbbb626d1c50738",
-    "8630472b44fa5fe6aef9e8516a432671859afd083b03b4c78668136796c8d808"
+    "8630472b44fa5fe6aef9e8516a432671859afd083b03b4c78668136796c8d808",
+    "9ecbf22b9654242c743eee7eff4599de70bd705e7962dd360286954660c0443a",
+    "1fbde2243413aadf666dd732ee7a88cd0375806e16adc9fee5340098aa1410ec"
   ],
   "seen_summaries": [
-    "EE.UU. e Irán mantienen pausa de ataques por tercer día consecutivo; mediadores de Catar y Pakistán buscan reanudar negociaciones de alto el fuego, reduciendo el riesgo geopolítico sobre el petróleo.",
     "Irán rechaza plan de compensación de Trump y amenaza con prohibir tránsito de buques por el estrecho de Ormuz, escalando el riesgo de bloqueo directo.",
     "Hutíes atacan y fuerzan cierre de refinería de Aramco de 400,000 bpd en Jazán por daños; reparaciones hasta el 15 de agosto.",
     "OPEP+ planea detener aumentos de producción tras septiembre de 2026, pausando incrementos mensuales y manteniendo restricción de oferta.",
@@ -701,6 +700,7 @@
     "23 ago 2026: Presidente iraní Pezeshkian dice que memorando de EE.UU. es la mejor vía para terminar la guerra, señal diplomática que podría reducir riesgo de oferta y presionar precios a la baja.",
     "23 ago 2026: Irán advierte de represalias contra países vecinos que se unan a la guerra económica de EE.UU., escalando riesgo de conflicto regional y presión alcista en petróleo.",
     "23 ago 2026: Irán señala posible aumento de precios de combustible en vísperas de nuevas sanciones de EE.UU., reflejando presión económica interna; impacto incierto en petróleo.",
-    "23 ago 2026: OilPrice reporta que la crisis de diésel (por capacidad de refinación reducida e inventarios bajos) durará meses incluso si la guerra Irán-EE.UU. termina pronto, manteniendo presión alcista en precios de petróleo y derivados."
+    "23 ago 2026: OilPrice reporta que la crisis de diésel (por capacidad de refinación reducida e inventarios bajos) durará meses incluso si la guerra Irán-EE.UU. termina pronto, manteniendo presión alcista en precios de petróleo y derivados.",
+    "24 ago 2026: Parlamento iraní avanza plan para cobrar tarifas de servicio a buques que transiten por Ormuz, formalizando el control del estrecho y añadiendo incertidumbre sobre el flujo petrolero."
   ]
 }
