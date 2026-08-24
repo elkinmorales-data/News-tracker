@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "a5b371b17413787730f3192078e982b1ae44d640aeb6bf123ccd50c8fb1523da",
-    "5729b313babf7c9258c064d990892c0df9b30e55df2da19460938cc1ddddb492",
-    "058a725790ab051434606f73c3e054a0c8c4772e6b01e3af545ffefc084218b1",
     "dec43c3997065321ecd5bacde5b7ed5aa8ee71c308b981d7fd4aae25f70263f8",
     "0b94dfcf7e1dd352dfa1d21597d66e68458793773af0c8b83ea311d3cccd89be",
     "b6594bc790c2940a084d6593e6d20e8a896222038215c3ce86d4e8f8b58f7580",
@@ -499,10 +496,12 @@
     "1725705dd90faa379de3eba68a0b64573bf10e05ea2a50f77dbcfaff8e1763e2",
     "b47e8eab50217418f1e49b1e85dbd50d40403272c002d8bd3a851cd1ac4824b9",
     "cfd90393c6941f512c43bff0edc596b8909b756c43f39a665ce57ef99277c8c1",
-    "4a6495423e9702901d0c8116db5b1eb18f8871ee024735d1267b0db7ffdd6f26"
+    "4a6495423e9702901d0c8116db5b1eb18f8871ee024735d1267b0db7ffdd6f26",
+    "9b37dfeb12c91c7959bbf39d26a60b87b5ae9f3af4a0f1249e786ab07b6ebca9",
+    "d917c807f5618b3eb3c7ebe77c90cdaf85d20cc865fbfd4f8a00dd86b42667dc",
+    "fcbfed281726f0b50bbab1e7905d3f8279b346ad8ba49d598e77b1ac89ce37f9"
   ],
   "seen_summaries": [
-    "Irán y Omán proponen gestionar Ormuz con modelo de Malaca (tarifas voluntarias), mientras hutíes continúan obstruyendo tráfico en Bab el-Mandeb y Arabia Saudí derriba drones.",
     "Hutíes atacan petrolero saudí en Mar Rojo con misil, continuando bloqueo contra Arabia Saudí y afectando tráfico de crudo.",
     "Irán ataca con misiles balísticos a EE.UU.; se reanudan los combates directos y el petróleo sube por mayor riesgo de bloqueo en Ormuz.",
     "Irán ataca con misiles fuerzas de EE.UU. en Jordania y Arabia Saudí/EE.UU. bombardean grupos pro-Irán en Irak, rompiendo la pausa de cinco días y escalando el conflicto.",
@@ -701,6 +700,7 @@
     "24 ago 2026: Parlamento iraní avanza plan para cobrar tarifas de servicio a buques que transiten por Ormuz, formalizando el control del estrecho y añadiendo incertidumbre sobre el flujo petrolero.",
     "24 ago 2026: EE.UU. prepara 'mayor ofensiva financiera' contra Irán (nuevas sanciones), Irán amenaza con incautar buques; se cierra ventana de alto el fuego de 60 días, escalando riesgo de oferta y presión alcista.",
     "24 ago 2026: Tráfico de petroleros en Ormuz cae a 4-13 buques/día (Kpler), mínimo de la crisis, pese a paso selectivo previo; presión alcista se intensifica.",
-    "24 ago 2026: Irán advierte respuesta dura a sanciones anticipadas de EE.UU., escalando tensión sin avance diplomático y elevando riesgo de oferta en petróleo."
+    "24 ago 2026: Irán advierte respuesta dura a sanciones anticipadas de EE.UU., escalando tensión sin avance diplomático y elevando riesgo de oferta en petróleo.",
+    "24 ago 2026: EE.UU. cancela ejercicios marítimos con Corea del Sur por guerra con Irán, señal de redistribución de recursos militares; impacto incierto en petróleo."
   ]
 }
