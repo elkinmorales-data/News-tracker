@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "d4795f46875686df1fe2ef73e336ce6f8e2a6326e4c54b913ad36ff66f707861",
-    "8edcc07dd9d08895b35c7dd3df1c426a4eaaa693c57e9c1b4bee69f66bb3e3b1",
     "477287ee181ab45835ec14607c87d3a29236d5da4dd739c5fa768e64039cb72a",
     "85474ef8db47d5e8a39610f2fee4f09509ea7ef7561a4fa386a1767853a02b9a",
     "0a2a61f6079c68748f17f71209b66d12213434d65b45bd2fec55e9f0449086f0",
@@ -499,10 +497,11 @@
     "10e998c58c73c9ea09c24b51748f2c92b0953545db6b5f7364e035dd4038d588",
     "a0cf6426c095f3fefaf23ec76cfdb820f519857d3fe4f747ef48c6ea8e459beb",
     "ae6a5df6d9222dfa6f6aa1003263ec9e2a419e4a86527cf006ad915fbca651ab",
-    "7bd760f706de55ed8caf3073f1033d2924c99fae7a41dd83799f6595bd319b83"
+    "7bd760f706de55ed8caf3073f1033d2924c99fae7a41dd83799f6595bd319b83",
+    "75e88b5de71639525c00ab982ee7303d606b5a547deee9566c4b7af2d51a5c0c",
+    "73e228ab5246cbeec0497bb0b6a2bfceeba1abcb997780c368f19c4bd3c56df3"
   ],
   "seen_summaries": [
-    "Hutíes atacan y fuerzan cierre de refinería de Aramco de 400,000 bpd en Jazán por daños; reparaciones hasta el 15 de agosto.",
     "OPEP+ planea detener aumentos de producción tras septiembre de 2026, pausando incrementos mensuales y manteniendo restricción de oferta.",
     "Irán y Omán proponen gestionar Ormuz con modelo de Malaca (tarifas voluntarias), mientras hutíes continúan obstruyendo tráfico en Bab el-Mandeb y Arabia Saudí derriba drones.",
     "Hutíes atacan petrolero saudí en Mar Rojo con misil, continuando bloqueo contra Arabia Saudí y afectando tráfico de crudo.",
@@ -701,6 +700,7 @@
     "23 ago 2026: Irán señala posible aumento de precios de combustible en vísperas de nuevas sanciones de EE.UU., reflejando presión económica interna; impacto incierto en petróleo.",
     "23 ago 2026: OilPrice reporta que la crisis de diésel (por capacidad de refinación reducida e inventarios bajos) durará meses incluso si la guerra Irán-EE.UU. termina pronto, manteniendo presión alcista en precios de petróleo y derivados.",
     "24 ago 2026: Parlamento iraní avanza plan para cobrar tarifas de servicio a buques que transiten por Ormuz, formalizando el control del estrecho y añadiendo incertidumbre sobre el flujo petrolero.",
-    "24 ago 2026: EE.UU. prepara 'mayor ofensiva financiera' contra Irán (nuevas sanciones), Irán amenaza con incautar buques; se cierra ventana de alto el fuego de 60 días, escalando riesgo de oferta y presión alcista."
+    "24 ago 2026: EE.UU. prepara 'mayor ofensiva financiera' contra Irán (nuevas sanciones), Irán amenaza con incautar buques; se cierra ventana de alto el fuego de 60 días, escalando riesgo de oferta y presión alcista.",
+    "24 ago 2026: Tráfico de petroleros en Ormuz cae a 4-13 buques/día (Kpler), mínimo de la crisis, pese a paso selectivo previo; presión alcista se intensifica."
   ]
 }
