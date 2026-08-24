@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "b34c26733d77df07216035798747aee1ce175065857285589f99299fb49586b0",
-    "ca727bf97be7aa21189e3941a15281c6b4cbdfe964ccd7ae1343ab199f4e1d79",
-    "e7776b577c3154ad07403ace6c21fa690edcb531160fed3a634c50a95eb9be45",
     "a6b133b0b2dc0d6f484eca9030b62cba6808a6904205cf8594f1695a56de646d",
     "43ec458bf554501d40f5eedc05c738d304a5552b8a9228bb7246fdd44b13631a",
     "4385d596e60b4e70aaa3061ecaff35e68ddfb19eedc3a04e1c2c4b6d3874ca4d",
@@ -499,10 +496,12 @@
     "b3c78a3dd9fccf503dbe0652aa498a35391219a65c06966dbe21ea804438f264",
     "6079b9423940da8b04e9af855ee195bba76b9ba2be3b66dcd4d7ef73ae2d3c01",
     "d30850e3a31e097d9b692938784d1451af396d179e1fed7a67e4c5cb32313c17",
-    "e0fd9bc889d3c5509acb96b522a5730d92b845d62cf2fe645a6016d452a3d927"
+    "e0fd9bc889d3c5509acb96b522a5730d92b845d62cf2fe645a6016d452a3d927",
+    "6cf055e470f05727c3bfb2fdf220c7b3a5f3e1d5f548513ace680abaf421197c",
+    "dd84824942eee90206f98d46bd319e1cc6084cc20f5d3cc9f1d9f3eee01d5ebd",
+    "dc36ffcf9be9de112ae1a00712981ad239c3e173c92da68eb2c5bb45efe937f1"
   ],
   "seen_summaries": [
-    "Irán ataca bases de EE.UU. y tres buques en Ormuz, y rechaza propuesta de Omán, escalando conflicto y riesgo de bloqueo.",
     "EE.UU. y Arabia Saudí atacan grupos pro-Irán en Irak; Irán propone mayor control sobre Ormuz en negociaciones con Omán.",
     "Irán rechaza propuesta de Omán para control compartido de Ormuz, exigiendo control mayoritario; hutíes atacan petrolero saudí en Mar Rojo, manteniendo bloqueo en Bab el-Mandeb.",
     "Senado de EE.UU. avanza sanciones masivas contra Rusia e Irán; Trump amenaza con ataque a Irán y petróleo sube 7% por renovadas hostilidades y amenazas hutíes en Bab el-Mandeb.",
@@ -701,6 +700,7 @@
     "24 ago 2026: EE.UU. cancela ejercicios marítimos con Corea del Sur por guerra con Irán, señal de redistribución de recursos militares; impacto incierto en petróleo.",
     "24 ago 2026: Irán incluye en lista negra a 45 petroleros (incluyendo de Arabia Saudita y ADNOC) que usaron Ormuz, amenazando con multas y detención, escalando el bloqueo y elevando riesgo de oferta.",
     "Goldman Sachs dice que Europa necesitará precios de gas mucho más altos para asegurar inventarios invernales si la crisis de Ormuz persiste, elevando presión alcista en energía.",
-    "24 ago 2026: Ciberataque vinculado a Irán desactiva instalación energética en Reino Unido, primera intrusión exitosa de este tipo en infraestructura británica, ampliando el riesgo de conflicto a Occidente y elevando presión alcista en petróleo."
+    "24 ago 2026: Ciberataque vinculado a Irán desactiva instalación energética en Reino Unido, primera intrusión exitosa de este tipo en infraestructura británica, ampliando el riesgo de conflicto a Occidente y elevando presión alcista en petróleo.",
+    "La ventana de paz de 60 días entre EE.UU. e Irán se cerró oficialmente; Irán se prepara para nuevas sanciones estadounidenses, confiando en China, mientras Trump podría cambiar su estrategia hacia Irán, elevando el riesgo de oferta y presión alcista en petróleo."
   ]
 }
