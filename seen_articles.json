@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "b4eabf32dc100e312a59543925f9ed62d366dc53033bf74a31ea45f90f8df083",
-    "7cb52b493762dc574243605394a9867db628c40c5621ae8809e866099dd0bc6a",
-    "56ea9861fe1e6d8b4a582e81253871932370b009b7a67fe965cf6d2149cbb1be",
     "ac6fe89648a87152d4eb4c89955848f78cffab3c85e2fb2015e3d5178d459da2",
     "b34c26733d77df07216035798747aee1ce175065857285589f99299fb49586b0",
     "ca727bf97be7aa21189e3941a15281c6b4cbdfe964ccd7ae1343ab199f4e1d79",
@@ -499,10 +496,12 @@
     "fcbfed281726f0b50bbab1e7905d3f8279b346ad8ba49d598e77b1ac89ce37f9",
     "01968d5eb9102000d93169f03ae79488837c838d8ef26efcd24f81d6d6c8ba11",
     "954196df947e25be1ed99c43bd79808ffb06cf2f3ec061d2c9d3751816d40ed9",
-    "e0a42bbea0adf02121b0b1f6f6dae5f8a364eb4e9e1c048b4799c2abe235fd4b"
+    "e0a42bbea0adf02121b0b1f6f6dae5f8a364eb4e9e1c048b4799c2abe235fd4b",
+    "b3c78a3dd9fccf503dbe0652aa498a35391219a65c06966dbe21ea804438f264",
+    "6079b9423940da8b04e9af855ee195bba76b9ba2be3b66dcd4d7ef73ae2d3c01",
+    "d30850e3a31e097d9b692938784d1451af396d179e1fed7a67e4c5cb32313c17"
   ],
   "seen_summaries": [
-    "Irán ataca con misiles balísticos a EE.UU.; se reanudan los combates directos y el petróleo sube por mayor riesgo de bloqueo en Ormuz.",
     "Irán ataca con misiles fuerzas de EE.UU. en Jordania y Arabia Saudí/EE.UU. bombardean grupos pro-Irán en Irak, rompiendo la pausa de cinco días y escalando el conflicto.",
     "Irán ataca bases de EE.UU. y tres buques en Ormuz, y rechaza propuesta de Omán, escalando conflicto y riesgo de bloqueo.",
     "EE.UU. y Arabia Saudí atacan grupos pro-Irán en Irak; Irán propone mayor control sobre Ormuz en negociaciones con Omán.",
@@ -701,6 +700,7 @@
     "24 ago 2026: Tráfico de petroleros en Ormuz cae a 4-13 buques/día (Kpler), mínimo de la crisis, pese a paso selectivo previo; presión alcista se intensifica.",
     "24 ago 2026: Irán advierte respuesta dura a sanciones anticipadas de EE.UU., escalando tensión sin avance diplomático y elevando riesgo de oferta en petróleo.",
     "24 ago 2026: EE.UU. cancela ejercicios marítimos con Corea del Sur por guerra con Irán, señal de redistribución de recursos militares; impacto incierto en petróleo.",
-    "24 ago 2026: Irán incluye en lista negra a 45 petroleros (incluyendo de Arabia Saudita y ADNOC) que usaron Ormuz, amenazando con multas y detención, escalando el bloqueo y elevando riesgo de oferta."
+    "24 ago 2026: Irán incluye en lista negra a 45 petroleros (incluyendo de Arabia Saudita y ADNOC) que usaron Ormuz, amenazando con multas y detención, escalando el bloqueo y elevando riesgo de oferta.",
+    "Goldman Sachs dice que Europa necesitará precios de gas mucho más altos para asegurar inventarios invernales si la crisis de Ormuz persiste, elevando presión alcista en energía."
   ]
 }
