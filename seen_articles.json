@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "362dd9f71ed275051e5edd2127e5fe04fd0e4b0d8e9bbf06e18b98578c8b1801",
-    "0c2dc04ee988b7297033f8a90f1e3b2d9ead1c3b12fadf98a71271b6420eb68c",
-    "d84e7842e74d1956dea7093e0d91e6b4ee18abee306dc2460fcc6e8906fcbb99",
     "eec8571b3cf08c8d2b306e10147a23a33077a3c761dfe3ab3f8e00201a520346",
     "119b5f785e73aba1ed741292fb983bf7c5e997fc1c9ac10febba7e27177b647e",
     "d5a35b3ea55778c9cbd6853923372eed5a01395885a522d936610882c0536275",
@@ -499,10 +496,12 @@
     "7a665e4abe9a975dfb94cb42669d50b4f4bc319a58671c34c94c9236370aae04",
     "182259ebf1733ebcfbb9e5e2847bf681c36dded48e882aa063b5092dfcf8d2e1",
     "0421b2577120244200d216318c7023581f33d679dd54d21b15db38f5d297548e",
-    "176437243ba59ae6ffd0ad33bb0b5c9c235ca6861167763613b08ad8daf994cf"
+    "176437243ba59ae6ffd0ad33bb0b5c9c235ca6861167763613b08ad8daf994cf",
+    "69632898f8bdcd9ca49895a7cd3a7ba0ac84e739016c0d342be517e9ea16f105",
+    "c17ec712a94cb803234c053c5870e9abebf6794ea81b77f9f672f95b30d4eadd",
+    "40f3690eb8a6656c2c742da2bc99588c7ee9c7961ad73a402af5a204c2d9dcac"
   ],
   "seen_summaries": [
-    "Ataque con drones a dos buques en puerto de Damieta, Egipto, amplía ataques a infraestructura energética regional más allá del Golfo y Mar Rojo.",
     "EE.UU. reanuda bombardeos en el sur de Irán (Ahvaz, Qeshm) e IRGC lanza misiles contra fuerzas estadounidenses en Jordania, escalando el conflicto directo y elevando el riesgo de bloqueo en Ormuz.",
     "EE.UU. lanza nueva ola de ataques contra Irán y un buque LNG estadounidense es impactado, escalando conflicto y riesgo de bloqueo en Ormuz.",
     "El tráfico por Ormuz se recupera tras los ataques de EE.UU.-Irán; los flujos de crudo se normalizan y el petróleo cae por reducción de la prima de riesgo.",
@@ -701,6 +700,7 @@
     "25 ago 2026: Ataque en Ormuz deja un petrolero averiado y India reporta aumentos récord en fletes y seguros para importar crudo de Medio Oriente, intensificando la presión alcista sobre precios.",
     "25 ago 2026: Pakistán reporta avances en conversaciones de paz Irán-EE.UU. tras misión en Teherán, pero jefes militares iraníes siguen desconfiando; señal diplomática que podría reducir riesgo de oferta y presión bajista moderada en petróleo.",
     "25 ago 2026: Irán anuncia plan de dos años para resistir sanciones de EE.UU. sin escalada militar; petróleo cae 3% a mínimo de 12 días por menor riesgo de disrupción de oferta.",
-    "25 ago 2026: Ucrania ataca refinería Afipsky (180k bpd) en Krasnodar, agravando crisis de combustible rusa y presionando al alza precios de crudo y refinados."
+    "25 ago 2026: Ucrania ataca refinería Afipsky (180k bpd) en Krasnodar, agravando crisis de combustible rusa y presionando al alza precios de crudo y refinados.",
+    "25 ago 2026: Qatar critica sanciones de EE.UU. como unilaterales y renace esperanza de negociación Irán-EE.UU. mediada por Pakistán; petróleo cae a $89 por menor riesgo de oferta."
   ]
 }
