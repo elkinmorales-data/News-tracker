@@ -210,7 +210,9 @@
     "06657e346d46f19493fe9f88f326f496dcb8d07d9e494f98a4c3d4dbed5ad4b4",
     "25ff07395219a95e04197f1469cf1f4c8051ff20632aad9f4f308b57090d77e8",
     "0c1efbceb9816140302d78798335265910278fcd15ae7dc105bff7a0fb3ff91c",
-    "ccd7e23ae26a71831fe11c1205127e10109d7600eb6fabd88490bcc793e198a1"
+    "ccd7e23ae26a71831fe11c1205127e10109d7600eb6fabd88490bcc793e198a1",
+    "a9365c5b2541ed8bcdf3ff969334a3cdb07ec0bf41238579ce6ebd8584c7c4a2",
+    "9556e63d24f3e6e003d2f2a3c98a3cdb4f99f110fc95776aeeffc066e7cd53bd"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -249,6 +251,7 @@
     "Comparativa PagedAttention vs RadixAttention para optimización de KV cache en LLMs | Casos de uso reales de agentes AI en soporte, código, supply chain, salud y fraude | IA para habilitación de modelos el primer día en PyTorch con generación automática de kernels",
     "Top 5 papers de Agentic AI 2026 con foco en finalización de workflows largos, verificación autónoma, supervivencia en sitios web reales y recuperación de fallos | Métricas de evaluación de agentes más allá de benchmarks estáticos",
     "Spec-Driven Development con Claude Code para prevenir desviaciones no deseadas del agente | Escritura de especificaciones a prueba de balas para agentes de codificación | Técnicas para evitar que Claude Code convierta estructuras de datos sin autorización",
-    "Grok Build para proyectos DS end-to-end | Kimi K3 modelo 2.8T MoE abierto | Integración de agentic AI con pipelines ML clásicos"
+    "Grok Build para proyectos DS end-to-end | Kimi K3 modelo 2.8T MoE abierto | Integración de agentic AI con pipelines ML clásicos",
+    "Rol Forward Deployed Engineer (FDE) para entrega de código IA en producción en clientes | Kimi Agent como familia de agentes interconectados y plataforma unificada con arquitectura compleja"
   ]
 }
