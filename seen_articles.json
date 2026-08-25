@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "76bf89351c6b820de4aa5c527eb8cbccccc56a6c88710316f148c646903e0a9a",
-    "3d7dda468b2945cc02d44730f2e70baf4842bef44691648500990ab17f60c9e1",
     "65f3730c0fef7b6b48e7e3aa510ac39f6be6576ae4dcb7b17385303882388648",
     "c8ffde05d5e9130939b71e1d64a467e068680e7c36e8e905918a71431a952644",
     "8d9d5ebcc41536901ce4efce06cf90cfab1ccd40d3dc6e38a1270acb3a440a09",
@@ -499,10 +497,11 @@
     "8bb9b0575470c30fec43dec5243c4d7ddd33c13964f4cb40d0eebf862b347955",
     "00348f636ded19e6044df098c2b2f883a43bdb87ea8e4ed0634f0be26347a8fe",
     "5f963717cac8c81d7a8bd9e6f57841491a87d6a937c0bfa9b3de77bb73c047c8",
-    "7c7d157c6d213f2ef58dda45687fc9b9f5c1bfc524e6711970dda072ac6a647d"
+    "7c7d157c6d213f2ef58dda45687fc9b9f5c1bfc524e6711970dda072ac6a647d",
+    "810dbcd9f1efb7fa96b9a4bbb4d199b54c461e86aea6e8ecfdd47b2b6f08d5c4",
+    "a676d1c59d59d687c9fa9fcfb90c22686148a6416e2d7c6f6dd40438ad7a5ace"
   ],
   "seen_summaries": [
-    "El tráfico por Ormuz se recupera tras los ataques de EE.UU.-Irán; los flujos de crudo se normalizan y el petróleo cae por reducción de la prima de riesgo.",
     "IRGC ataca objetivos de EE.UU. en Kuwait en represalia por bombardeos en Irán (Qeshm), escalando conflicto directo y expandiendo el riesgo a aliados del Golfo; petróleo sube. ADNOC compra cinco supertanqueros ante crisis de Ormuz.",
     "Seis petroleros saudíes vacíos desviados alrededor de África para evitar Bab el-Mandeb por amenaza hutí, confirmando bloqueo activo y elevando riesgo de suministro.",
     "Irán ataca bases de EE.UU. en Kuwait y Baréin; ADNOC cambia fórmula de precios de crudo, escalando conflicto directo en el Golfo y elevando riesgo sobre Ormuz.",
@@ -701,6 +700,7 @@
     "25 ago 2026: Ucrania ataca refinería Afipsky (180k bpd) en Krasnodar, agravando crisis de combustible rusa y presionando al alza precios de crudo y refinados.",
     "25 ago 2026: Qatar critica sanciones de EE.UU. como unilaterales y renace esperanza de negociación Irán-EE.UU. mediada por Pakistán; petróleo cae a $89 por menor riesgo de oferta.",
     "Irán y Omán proponen ruta conjunta y desminado en Ormuz; China desafía sanciones de EE.UU. y mantiene comercio con Irán, reduciendo riesgo de oferta y presionando precios a la baja.",
-    "Irán y Omán discuten un carril temporal de navegación en Ormuz con posible anuncio pronto, señal de desescalada que presiona precios a la baja."
+    "Irán y Omán discuten un carril temporal de navegación en Ormuz con posible anuncio pronto, señal de desescalada que presiona precios a la baja.",
+    "25 ago 2026: Expertos ven las nuevas sanciones de EE.UU. a Irán como señal de desesperación de Trump y no esperan que fuerzan capitulación iraní, prolongando riesgo de oferta y presión alcista."
   ]
 }
