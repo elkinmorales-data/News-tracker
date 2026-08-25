@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "0e0a1dbcc3d181218ba2381cb28000c4cd61691c4353ee7849209368a387c2b0",
-    "b5c3eb7d4eb4e36ad9f68730e27c771f25aada244279b35a05c5dfec8e1c5742",
     "3634ea09a7e4378e78e34d884cbf91e74b529504709249486fff97a92a0f2f0a",
     "14595dc49c2b92e8416dbb7fbfe98b0cda70435762006fd880602753848a8933",
     "68e239506e3957f1417418f7c723617c6f7287b7887f0dff7b29e40d91298d5a",
@@ -499,10 +497,11 @@
     "da32c4e81cbfebb1b61f1954a16042eb4eec2080749939f5e4de94f1d67c0978",
     "704268577651ad6f5400bbde41a2a35d2346dffe44fc7d1e3a1b0f3eb5923ef7",
     "c51601bb4bd35d9d3215f47ebc6e90e539e061d95f604cb06f036fcde23e4714",
-    "e0102f2d682c18b1115df6658748a2dd730a5e736681edd2491605c4221debec"
+    "e0102f2d682c18b1115df6658748a2dd730a5e736681edd2491605c4221debec",
+    "e3be521dd51561362010863c1f61a061e01e489615b908e08f1d5894329f7831",
+    "5ca4d6e5a0598ad1eb9fe46d62968fc87f3460e82116ea4b4c2d304d96975ec5"
   ],
   "seen_summaries": [
-    "Trump amenaza con atacar Irán tras ataque en Jordania; conflicto se intensifica con participación de Arabia Saudí contra proxies iraníes, elevando riesgo geopolítico.",
     "Trump amenaza con represalias por ataque en Jordania; Arabia Saudí busca coalición internacional contra hutíes en Mar Rojo, confirmando bloqueo activo en Bab el-Mandeb y escalada del conflicto con Irán.",
     "EE.UU. lanza bombardeos masivos sobre el sur de Irán y la isla de Qeshm, escalando el conflicto directo y elevando el riesgo de bloqueo en Ormuz.",
     "EE.UU. causa daños extensos en la isla iraní de Qeshm, escalando ataques directos; Qatar envía primer cargamento de GNL por Ormuz desde ataque a buque tanque, pero el riesgo de bloqueo persiste.",
@@ -701,6 +700,7 @@
     "TotalEnergies anuncia inversión en dos oleoductos para bypass de Ormuz (Fujairah y Iraq-Siria), señal de diversificación de rutas que reduce riesgo de oferta y modera precios.",
     "24 ago 2026: Tesoro de EE.UU. lanza 'Operation Economic Outcast' con nuevas sanciones secundarias contra Irán (60 entidades/buques), sin tocar a grandes bancos chinos, escalando presión sobre exportaciones petroleras iraníes y elevando riesgo de oferta.",
     "24 ago 2026: Hutíes atacan petrolero saudí Amzan en el Mar Rojo con misiles y drones; Arabia Saudita confirma, extendiendo riesgo de disrupción marítima y presión alcista en petróleo.",
-    "25 ago 2026: Artículo de opinión de Al Jazeera subraya la escalada de ciberguerra de Irán contra infraestructura crítica en Occidente, enfatizando vulnerabilidades en energía y llamando a acción gubernamental; riesgo de disrupciones futuras en instalaciones petroleras."
+    "25 ago 2026: Artículo de opinión de Al Jazeera subraya la escalada de ciberguerra de Irán contra infraestructura crítica en Occidente, enfatizando vulnerabilidades en energía y llamando a acción gubernamental; riesgo de disrupciones futuras en instalaciones petroleras.",
+    "25 ago 2026: Pakistán reporta avances significativos en conversaciones de paz entre Irán y EE.UU. tras misión diplomática en Teherán, señal que podría reducir riesgo de oferta y presión bajista en petróleo."
   ]
 }
