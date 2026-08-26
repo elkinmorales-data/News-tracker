@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "0c88df04ab2b6123601304761a67fe55c61fee1df6eb5628db4b18a1f4769dfb",
-    "802d67a69aede5858d43c80663997caa52b4fa043671a0a8a457b3d62fcb0f80",
-    "f759140f32ed561438dc713884ce39a54e75dded34ee6970182285678c484b5c",
-    "6479276ef9c3e0bc7f737ac0e4441778a25c80abfecbf29a346caf58f18205a8",
     "6726c27ae0b63fd353dc116ec98571e1ceca74cf2cab3698caf21bd08005758f",
     "6db2919c63620b9cb260616fa24ab13df9703e462fa6ed92204a6b93bfef5f14",
     "d43e7483b0db34c01e6fd45cf0cb2cfad6bfe5ad75e2ee8a2530aa8732402c53",
@@ -499,10 +495,13 @@
     "312cd917777f38ad78d4f000123c32871e2b9917c3718955512c09673170b375",
     "1073d64a0fab2d0bd519d3acb6a1fe6ae0febe8acc27a6319240e705dbcf717e",
     "3a3b18467212a2f64ffe12bfcd081d2276db8b6a020f90edcc255dd9fde42769",
-    "4237829daab589d1cd529a32a60847892c8ff91474f74ebaa51bef425cdf5537"
+    "4237829daab589d1cd529a32a60847892c8ff91474f74ebaa51bef425cdf5537",
+    "cf55a053bb8eb14e22264fc6ea8ebebb7e7f2e595699f3fdd771657639cae6a6",
+    "99d4d4cc96b658c88e1793858628346c5274895ca1c22bbb3992c510fe9c7fa6",
+    "56a257b603787a2f55e8af154c26209ca7bb344d73a471c31b549c273a957359",
+    "0d13523fff50b4687534ad8fe74043df49a575cc3958ff22ce5a4fcc27a38adc"
   ],
   "seen_summaries": [
-    "Irán advierte contra 'llamas de guerra' y dice tener plan de represalia listo ante amenazas de EE.UU. de atacar sitios energéticos civiles; riesgo de escalada inminente en conflicto directo, sin ataque confirmado aún.",
     "Irak y Turquía firman acuerdo de 1 año para aumentar exportaciones por oleoducto ante cierre de Ormuz; reduce presión sobre oferta y puede bajar precios.",
     "Petrolero sancionado Caroline Bezengi derrama crudo frente a Omán (isla Qibliyah), incidente ambiental sin ataque directo, con implicaciones menores para el riesgo de suministro.",
     "Trump cancela ataque a Irán y anuncia que se alcanzaron parámetros para acuerdo de paz; Arabia Saudí pide no escalar; prima de riesgo petrolero se reduce.",
@@ -701,6 +700,7 @@
     "26 ago 2026: Irán refuerza su lista negra de 45 petroleros (incluidos los de Arabia Saudita y ADNOC) y ya afecta a refinerías indias y una major global que evitan usar esos buques, elevando riesgo de disrupción en el transporte de crudo del Golfo.",
     "26 ago 2026: Japón anunciará plan de diversificación energética con apoyo a oleoductos alternativos a Ormuz y reducción de dependencia de Medio Oriente, señal bajista para petróleo.",
     "26 ago 2026: Qatar pierde $24 mil millones por colapso del 96% en exportaciones de GNL (de 509 a 18 cargamentos) debido al cierre de Ormuz, confirmando disrupción energética masiva y presión alcista en precios.",
-    "26 ago 2026: Irán advierte que prohibirá buques militares en Ormuz incluso si se logra acuerdo con Omán para reapertura, manteniendo riesgo militar y presionando precios al alza."
+    "26 ago 2026: Irán advierte que prohibirá buques militares en Ormuz incluso si se logra acuerdo con Omán para reapertura, manteniendo riesgo militar y presionando precios al alza.",
+    "26 ago 2026: Trump declara que no está apurado por negociar con Irán, sin cronograma para retomar diálogo, manteniendo estatus quo de presión y riesgo de oferta sin escalada nueva."
   ]
 }
