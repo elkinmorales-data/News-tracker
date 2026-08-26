@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "4118454c292166917488cea71ce21957adfce81ef4561c24a650b3e4c35f510c",
-    "765ecf1e80290b5e9231d8ef83f5e128c2c086ff243092f78e4c2c73583582fb",
-    "5896f11c7d198f6fbe2ed2e6d212ac232db993c48f7a62baa9060b20ce2b82ba",
     "e00857e0cf38d245d6c4d396f03391f7ff75f1b995f89d9792709abc344efdb5",
     "8e9997e8f0a5c8ffbe4c04d56a65f1430e604fa7867d13fe11da5cddc4f244b4",
     "d1acf38824a56882a647d2d72d1c4e3bebf76ae3d9cd12371fff2fb528c3d1cf",
@@ -499,10 +496,12 @@
     "1736b74eab0e322cadd68df8994ad88bf91d66548db819d412a4c88130bbdb0f",
     "29535158609c898d94a2eac2178a40289d0d7d131137b45986418c513decf35d",
     "1199883a5408af365543614aa82d1bd07c5cfdaa304dac795ae42600c53e4cb7",
-    "e4db2ce6daf4bb05bcc857f791ceb09661ed4a7dc19b700773ec94313c60a6fe"
+    "e4db2ce6daf4bb05bcc857f791ceb09661ed4a7dc19b700773ec94313c60a6fe",
+    "591d7982a3037ef84a34a82d013cb162e86bdc698ff76aa5455f8164dc284152",
+    "b00c62f72990c7ec8fda7602b84e0b978c9d17b59af565057aa27aca48115019",
+    "e045a7d4e566aa64f4d71a4cbde823d3a6e531eb2ee52738585337547dea4c6e"
   ],
   "seen_summaries": [
-    "Irán ataca bases de EE.UU. en Kuwait y Baréin; ADNOC cambia fórmula de precios de crudo, escalando conflicto directo en el Golfo y elevando riesgo sobre Ormuz.",
     "Ucrania ataca refinería de Lukoil en Volgogrado (300,000 bpd) reanudando ataques a infraestructura petrolera rusa, añadiendo riesgo de oferta en Rusia.",
     "EE.UU. despliega primeros aviones cisterna en Bulgaria para apoyar operaciones en Medio Oriente, señal de escalada militar que aumenta riesgo de suministro.",
     "Ataque a Abqaiq en julio 2026 expone vulnerabilidad crítica de infraestructura saudí, mercado infravalora riesgo; no hay impacto inmediato en oferta pero incrementa prima de riesgo.",
@@ -701,6 +700,7 @@
     "Irán y Omán discuten un carril temporal de navegación en Ormuz con posible anuncio pronto, señal de desescalada que presiona precios a la baja.",
     "25 ago 2026: Expertos ven las nuevas sanciones de EE.UU. a Irán como señal de desesperación de Trump y no esperan que fuerzan capitulación iraní, prolongando riesgo de oferta y presión alcista.",
     "25 ago 2026: EE.UU. refuerza su posición en Irak en medio de la crisis con Irán; Irak planea aumentar producción a 8-10 millones bpd en seis años, con impacto incierto en petróleo.",
-    "26 ago 2026: Irán niega que acuerdo con Omán abra Ormuz, sigue cerrado; China dificulta sanciones de EE.UU. a Irán, manteniendo riesgo de oferta y presión alcista en petróleo."
+    "26 ago 2026: Irán niega que acuerdo con Omán abra Ormuz, sigue cerrado; China dificulta sanciones de EE.UU. a Irán, manteniendo riesgo de oferta y presión alcista en petróleo.",
+    "26 ago 2026: Irán confirma acuerdo con Omán para ruta temporal en Ormuz (entrada y parte de salida por aguas iraníes), el petróleo cae a $86.69 Brent por esperanzas de reapertura parcial."
   ]
 }
