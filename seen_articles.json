@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "6a409948d1545f437d3e3dde73d3cd8ed3c8845940b2910ef0d4c5e7a6159652",
-    "50be5d197fec6a614a0ae10e4b6a3494bb52368ccc49a7a3daf227455ef1483b",
     "b0deab027fe05068ed60a8c933b8e37433c117e75c29baa5e3b55b2ecd608fe2",
     "f6ebb4268be1fa6f3940602e331ddb0f506e98c69a12a037f4944f2601fb0a0d",
     "3d5bbbb81687ae80aba894394ec4fc5875cfa9f7d6d52fb9f9657d370c82e0e3",
@@ -499,7 +497,9 @@
     "79f5430bec2ccae7fc19b80467d75c705a311301d81a5561c483e90a55729a78",
     "3dff9e67f4a451eb4ea7626c51902e7aee528cd14f4071e0493dc191edf392d5",
     "a266ddb397b6b2723c7cb830c2d926f18120cfcdc4e227bd884cce2ec7ec18f0",
-    "1d7c8b36b89653482f051f2d9f1046c07849c76f992b1d5baec3e017bf529805"
+    "1d7c8b36b89653482f051f2d9f1046c07849c76f992b1d5baec3e017bf529805",
+    "8a98565b95cd1380c1a5a696b56a40243b6d99e228fdfd3515b5b49054e20730",
+    "5218aa67da9a7c7723d9965ee673caa7fb00b945e6b3e5987eae51959c19673c"
   ],
   "seen_summaries": [
     "Petrolero sancionado Caroline Bezengi derrama crudo frente a Omán (isla Qibliyah), incidente ambiental sin ataque directo, con implicaciones menores para el riesgo de suministro.",
