@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "efa03e8764018f04cc264fd85dd539fd4f11fa1e74cbb4b97a4eac3fe3c77922",
-    "0c4caaa0faf4a82416d92aed0dde62f3e1d1333fc5bfda625747b642d4dfeda9",
     "08fa9376d96ee330a25f33e8cdb839d355dd20f371a78444d8d5da605db08f66",
     "597ea6b8a3297b9150bfafa8416840d36fa4e8038b5d785829c99ce301f45151",
     "5564e57ef5de5f73f47162e3ebb808099e2e1cb414a8f09e31499dfff87264d3",
@@ -499,7 +497,9 @@
     "8b92081c437bdbfa6f3171f2695dc95e9eb1d90d853ce37a9a1b0d28fe45703e",
     "0e7d4f734f7d6655e91c9741bd1d546a3f7f6488d1425d92b1dfb09ccf906af4",
     "6d7d95279f81a4eea67d1837a801b7dab5ad522e2542f6c3c7fdac0cd19eb73a",
-    "ac560a758e4a718cba392c0d4ff4539d559aabb722e4c66f1fba99bf32588e55"
+    "ac560a758e4a718cba392c0d4ff4539d559aabb722e4c66f1fba99bf32588e55",
+    "d0934ad3e749fad0d4b80358a000e3c6fc47db0d8091a9b6f076e251e70f22a2",
+    "3f36bd514fc704c085f5073f4dcc1a3ec4c8931dd942e34dc956d62e6921923a"
   ],
   "seen_summaries": [
     "Ataque a Abqaiq en julio 2026 expone vulnerabilidad crítica de infraestructura saudí, mercado infravalora riesgo; no hay impacto inmediato en oferta pero incrementa prima de riesgo.",
