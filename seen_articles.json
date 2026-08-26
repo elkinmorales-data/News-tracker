@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "374acfbd66bc567154a449e3894de93906a2dd3c955a654c68430ca601fb3f14",
-    "6f84cffe5e658e9f8f6ec235fcb638f400538d4230738ec13ab99fcad3097770",
-    "eb997b4a45ef7965bab94c9377e0334c2011fe29aa10141f52813d95c4e8f1df",
-    "6c99e13c689743a02b52995045114a13c3a5e4dc4fcd1296e0b9b3796c0ab4df",
     "6a409948d1545f437d3e3dde73d3cd8ed3c8845940b2910ef0d4c5e7a6159652",
     "50be5d197fec6a614a0ae10e4b6a3494bb52368ccc49a7a3daf227455ef1483b",
     "b0deab027fe05068ed60a8c933b8e37433c117e75c29baa5e3b55b2ecd608fe2",
@@ -499,10 +495,13 @@
     "8ef0c3b34c08c520840ecdff15d811c164dfa288547520b6eed61edad59ab1a6",
     "e097800db44ccd649f17b0f70e2329f23dc4e276fc0660f6d59f2d208618fef9",
     "dc4e0e87e9fcdf44263379996a180c683031e4fd66b629b892bd25d90c2c0ec3",
-    "46aa9c204418f60f1d196b4eafee48ae4e3ce7d035da35a0a2f28671851b9e9d"
+    "46aa9c204418f60f1d196b4eafee48ae4e3ce7d035da35a0a2f28671851b9e9d",
+    "79f5430bec2ccae7fc19b80467d75c705a311301d81a5561c483e90a55729a78",
+    "3dff9e67f4a451eb4ea7626c51902e7aee528cd14f4071e0493dc191edf392d5",
+    "a266ddb397b6b2723c7cb830c2d926f18120cfcdc4e227bd884cce2ec7ec18f0",
+    "1d7c8b36b89653482f051f2d9f1046c07849c76f992b1d5baec3e017bf529805"
   ],
   "seen_summaries": [
-    "Irak y Turquía firman acuerdo de 1 año para aumentar exportaciones por oleoducto ante cierre de Ormuz; reduce presión sobre oferta y puede bajar precios.",
     "Petrolero sancionado Caroline Bezengi derrama crudo frente a Omán (isla Qibliyah), incidente ambiental sin ataque directo, con implicaciones menores para el riesgo de suministro.",
     "Trump cancela ataque a Irán y anuncia que se alcanzaron parámetros para acuerdo de paz; Arabia Saudí pide no escalar; prima de riesgo petrolero se reduce.",
     "Trump cancela ataque planeado a Irán tras acuerdo preliminar sobre parámetros de paz, reduciendo riesgo de escalada y bajando prima petrolera.",
@@ -701,6 +700,7 @@
     "26 ago 2026: Japón anunciará plan de diversificación energética con apoyo a oleoductos alternativos a Ormuz y reducción de dependencia de Medio Oriente, señal bajista para petróleo.",
     "26 ago 2026: Qatar pierde $24 mil millones por colapso del 96% en exportaciones de GNL (de 509 a 18 cargamentos) debido al cierre de Ormuz, confirmando disrupción energética masiva y presión alcista en precios.",
     "26 ago 2026: Irán advierte que prohibirá buques militares en Ormuz incluso si se logra acuerdo con Omán para reapertura, manteniendo riesgo militar y presionando precios al alza.",
-    "26 ago 2026: Trump declara que no está apurado por negociar con Irán, sin cronograma para retomar diálogo, manteniendo estatus quo de presión y riesgo de oferta sin escalada nueva."
+    "26 ago 2026: Trump declara que no está apurado por negociar con Irán, sin cronograma para retomar diálogo, manteniendo estatus quo de presión y riesgo de oferta sin escalada nueva.",
+    "26 ago 2026: Aramco usa transbordos de barco a barco fuera de Ormuz para entregar crudo a Asia y ofrece más volumen de septiembre, reduciendo riesgo de oferta y presionando precios a la baja."
   ]
 }
