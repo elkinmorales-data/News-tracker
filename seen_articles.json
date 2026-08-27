@@ -1,19 +1,5 @@
 {
   "seen_hashes": [
-    "f482f61db762a19d9f7c5b292a07a943d5303f8fa5b27f3e1837ecdf13fdef3d",
-    "0b3701aaca02eac64a61bac9655dbda6c57d071406f50845ba4760208e81f557",
-    "b7181d680570a17f0966badec068f6972609bcb7ee49b7307c15bc593ebe1482",
-    "10c678a77af827daaf9a229f0790b2aa55b44e5aabc12f049f43ad75ec88c4a6",
-    "3298d51df51ec4868a20e186c68bcddc73053fd3a26e8dbc8ea718d8d0323c23",
-    "54d934fd13e28f55525b1458349b80baedd9a4d83147d68a7d84f408a7941791",
-    "c1835aa83d3b0e587e1f80682a3896c2bd4cd91b3ebcecdee235aada6b80f64a",
-    "a1a0c3f2558dce96ddcf0c59b607a9175936a011fabfae2b94cea4b57e9f26bf",
-    "9380b20985e03846b2a5cb8c08c5b2c679dc68bd37d0b0a3657129cab9731870",
-    "45c87be25f9776d63cfdf8edabfe5b92848492b43b36e47d77023b420f086f0d",
-    "34115f8b56bc249d13fffb15cc3ea89ce65be5ca6cf297976b652ac8e7a076cc",
-    "0160b2a4910b7a2e10970ff467f6aee60f3ec5f76e510d08f99f54897bbb1dd1",
-    "4dcca983b185e40b08481da6972908c7d17a8cb64ebb4abe512363240d18f9c7",
-    "eff92198b2081b634e25618e034dbbb359e5f295ee101ef2eb2d2ea2b41eafbc",
     "cdd309419e93c582390348de0f80dea6fe83e81cd0401581c6da1542a2b7b8c6",
     "3c565c04f6e389db56640c47b39dc6f6b8701da4b9a237cc1d9b4708d0cd737d",
     "62dbecadbf9932979ff96fabad1b81411c3017b7d91e2592c94e7858aaea390f",
@@ -499,10 +485,23 @@
     "2ec510d94afebd02ad8400ac6b73b45d4e8ede34db8d7d46162734501a9d5108",
     "50be5d197fec6a614a0ae10e4b6a3494bb52368ccc49a7a3daf227455ef1483b",
     "af8165100bde2a512167986f92f0b533b218ba2fd7e6caefe21752e1280fef07",
-    "76beed76bbdffe31c49d502c5bb517a9e90035f612c55dde3583e1a1354bf320"
+    "76beed76bbdffe31c49d502c5bb517a9e90035f612c55dde3583e1a1354bf320",
+    "7e2a1f8db5a4d7b1c296c35ed019d12cdcbd2d182c6324c361b91f44794fa0b3",
+    "c9bcbf47e7cc51560433dc863992c6adfe2f4fcc8b98380c4b79a19831190a94",
+    "b3da112389a594dd41a4c9ec2b26d9ddebf7bf98ef815c53902218b60bbcb44b",
+    "e278d2a527eed35da6000ee3ed265604ae5a249cbc315f8d7593c25ca89965f4",
+    "0646d173b442b6bb9022cc9d890cb16578f54df64f358d4aef0e3722c0b30c0e",
+    "b508531d7fc0d50b44b0b1fdc6193b3d3ecbbb798db97f2feaacc57d5e569e41",
+    "549ddda5c84286c5b8df91433a5dee99cfcd444ecc62078fa261f6d9f922c303",
+    "5e344e166c0ee66febdb4f8fdba06677f0f7932676e1938720e30ce07c2b1db8",
+    "5fbda32ad1d59142c524167fd214eb50733a70cb537eb3bfa5ea08d18d24c071",
+    "f9aa20ae9ce4d5fe6fe4084e2ea40df0de66d1075bf53b603a00acd1513ea6bf",
+    "18f5b7fa197490d9d88bd3300013a962488e221c30e80f7a20afbba3d1aacce1",
+    "b11117e398401afc1b337b1c489a65293fbb9ebe3cf403f9d3c0751432fb9a42",
+    "aa693b8a92b8d5d6e5fd73133c812c1074f4ef16c6f7a76e7f0984f8d36d31c0",
+    "de265a9bc3c8d06533ba2743c37701d238a5ba7b94476f7d57008e6b5bed96e2"
   ],
   "seen_summaries": [
-    "Trump cancela ataque a Irán y anuncia que se alcanzaron parámetros para acuerdo de paz; Arabia Saudí pide no escalar; prima de riesgo petrolero se reduce.",
     "Trump cancela ataque planeado a Irán tras acuerdo preliminar sobre parámetros de paz, reduciendo riesgo de escalada y bajando prima petrolera.",
     "Irán llama a la pausa de Trump 'operación psicológica' sin avance en Ormuz; plan de Rubio para evadir el estrecho tiene limitaciones por oleoductos y amenazas en Mar Rojo, manteniendo riesgo de suministro.",
     "Irán dice que negociaciones con Omán sobre Ormuz están en fase final, mientras Trump mantiene pausa en ataques; posible avance hacia acuerdo que reduciría riesgo de bloqueo.",
@@ -701,6 +700,7 @@
     "26 ago 2026: Irán advierte que prohibirá buques militares en Ormuz incluso si se logra acuerdo con Omán para reapertura, manteniendo riesgo militar y presionando precios al alza.",
     "26 ago 2026: Trump declara que no está apurado por negociar con Irán, sin cronograma para retomar diálogo, manteniendo estatus quo de presión y riesgo de oferta sin escalada nueva.",
     "26 ago 2026: Aramco usa transbordos de barco a barco fuera de Ormuz para entregar crudo a Asia y ofrece más volumen de septiembre, reduciendo riesgo de oferta y presionando precios a la baja.",
-    "27 ago 2026: Nuevo ataque a petrolero en Ormuz; Catar anuncia visita de su PM a Teherán para mediar en diálogo Irán-EE.UU., señales mixtas en riesgo de oferta."
+    "27 ago 2026: Nuevo ataque a petrolero en Ormuz; Catar anuncia visita de su PM a Teherán para mediar en diálogo Irán-EE.UU., señales mixtas en riesgo de oferta.",
+    "Qatar y Kuwait restauran 70% de exportaciones petroleras vía Ormuz con transbordos; tráfico de buques sube a 10/día en medio de esfuerzos diplomáticos, reduciendo riesgo de oferta y presionando precios a la baja."
   ]
 }
