@@ -1,13 +1,5 @@
 {
   "seen_hashes": [
-    "cdd309419e93c582390348de0f80dea6fe83e81cd0401581c6da1542a2b7b8c6",
-    "3c565c04f6e389db56640c47b39dc6f6b8701da4b9a237cc1d9b4708d0cd737d",
-    "62dbecadbf9932979ff96fabad1b81411c3017b7d91e2592c94e7858aaea390f",
-    "09454a520c2a83695b3cd38c2b0348070a23e0a10bffddf903a6de4ad0ad6993",
-    "30ba71f4ce61dd973b340629751a19abac6a4ee455843b23bb5eeb8b5220b391",
-    "0b88437e8527e7f8d8fede9a1fd5086b08dd5391fc54323ad3d039155fead52c",
-    "b399b0f3801494388f77c15b00f1850f7a9f678ec38d065671c428ffdfa68aee",
-    "71c795704de6a354f54462a98fb9f7f5b5b7b388f2dc09001541b4e09694f8e6",
     "3f4b8561b3674ab508b90ee899718b4f1d0b401f3fa35dc0d0178dbecd94705b",
     "5cc640b341161e1cf74356c81cab4fd8e8b8e98ba3ddccd4cbb5a67fb0747271",
     "0445c1107a768855d7e8dcdb0a14d2a76b1f9f4ba56ed6f1bb6c9453adcdd31e",
@@ -499,10 +491,17 @@
     "18f5b7fa197490d9d88bd3300013a962488e221c30e80f7a20afbba3d1aacce1",
     "b11117e398401afc1b337b1c489a65293fbb9ebe3cf403f9d3c0751432fb9a42",
     "aa693b8a92b8d5d6e5fd73133c812c1074f4ef16c6f7a76e7f0984f8d36d31c0",
-    "de265a9bc3c8d06533ba2743c37701d238a5ba7b94476f7d57008e6b5bed96e2"
+    "de265a9bc3c8d06533ba2743c37701d238a5ba7b94476f7d57008e6b5bed96e2",
+    "cce9b31fdb2cc3077d1b5a17a7027ccb14b3cf2dfb6581799fe5d585d8da4427",
+    "0bb2e2dd222df1420994d42ef97a573cad9233dc03c506c9eb14b0a20f78d7c6",
+    "dc229d77d6979be9d0c247529feb3aea7c83d46658dbfc810ab86565e284b541",
+    "9c19e7c5aefd9b5072e960a273faf06d0eba9dcc6a165c646428518b2e85b908",
+    "31e01bd23f67a3843b5cfe988a9f934d70e6e4ca171708b4c50b0565aff99027",
+    "c78d091a241e52ae83276e8b4c37a1cd5f378f9a558c1fe619f9bee98cc2e191",
+    "d7132d2c25adc2dd231b146cd6d35db17972dab70776c79ae76431bae071463d",
+    "ad8774a66fce1ece503e3a2146d4d7278007a69a436ac14a634e88df09717015"
   ],
   "seen_summaries": [
-    "Trump cancela ataque planeado a Irán tras acuerdo preliminar sobre parámetros de paz, reduciendo riesgo de escalada y bajando prima petrolera.",
     "Irán llama a la pausa de Trump 'operación psicológica' sin avance en Ormuz; plan de Rubio para evadir el estrecho tiene limitaciones por oleoductos y amenazas en Mar Rojo, manteniendo riesgo de suministro.",
     "Irán dice que negociaciones con Omán sobre Ormuz están en fase final, mientras Trump mantiene pausa en ataques; posible avance hacia acuerdo que reduciría riesgo de bloqueo.",
     "Trump cancela ataque a Irán y anuncia nueva ronda de conversaciones para el lunes, reduciendo prima de riesgo y bajando el petróleo más de 4%.",
@@ -701,6 +700,7 @@
     "26 ago 2026: Trump declara que no está apurado por negociar con Irán, sin cronograma para retomar diálogo, manteniendo estatus quo de presión y riesgo de oferta sin escalada nueva.",
     "26 ago 2026: Aramco usa transbordos de barco a barco fuera de Ormuz para entregar crudo a Asia y ofrece más volumen de septiembre, reduciendo riesgo de oferta y presionando precios a la baja.",
     "27 ago 2026: Nuevo ataque a petrolero en Ormuz; Catar anuncia visita de su PM a Teherán para mediar en diálogo Irán-EE.UU., señales mixtas en riesgo de oferta.",
-    "Qatar y Kuwait restauran 70% de exportaciones petroleras vía Ormuz con transbordos; tráfico de buques sube a 10/día en medio de esfuerzos diplomáticos, reduciendo riesgo de oferta y presionando precios a la baja."
+    "Qatar y Kuwait restauran 70% de exportaciones petroleras vía Ormuz con transbordos; tráfico de buques sube a 10/día en medio de esfuerzos diplomáticos, reduciendo riesgo de oferta y presionando precios a la baja.",
+    "28 ago 2026: Irán anuncia que emitirá condiciones para reabrir Ormuz; mediadores viajan a Teherán, señal de posible desescalada que presiona precios a la baja."
   ]
 }
