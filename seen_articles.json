@@ -1,16 +1,5 @@
 {
   "seen_hashes": [
-    "7149d21dd71f5759a9682dbd98bb5d56034c56303a2b9323c7c6d047ebb360fb",
-    "de8690e7a34a8544da30ff29e8da2431eb9eaea40cf18d74743cfd8a76892516",
-    "815f7123f9e7f5a4f390eae73de1854e04b13ec77c38e7de0ec840a8030ab0e5",
-    "a236d22c5ee7978f55ebb3769a35db216dfc198bb06eecd736a3d878878fc0f9",
-    "3d6264f3bb36d4db21f6101d9991f15bba0d2ffd59ce5a32e0a772e2a91b3007",
-    "ca4284a537c222e8b56c5e9aa2cecd0ffec416745491d78b37852afccf8343ac",
-    "1fa571ab123758f40884c68be4ede7e60d0067507236ec41bec8a79918b681f4",
-    "5490e9820fcc7a9e1bed76bdb9f4988a54d31d00d9f4036f6963e47492bf53d8",
-    "43dd14d2650c6eb14114077d728d0a4fab854e95f3301103b5de894853353365",
-    "d120adf212b59c1ef1312ff4bd51e65ab72c2dadf1b5364137925d86999b9ba7",
-    "1cca865ad4385d9b275afb061e7f043cd0bc95f1d77de80c3df4dab610b79f3a",
     "de92dc0d24b8603541915fc6ff8600a6cb10cbe0a45ccd4e391ff83c4aee4529",
     "15588352eeb34a8084768dc545f68430bb85a76d4f2f22d498f52b326f35bd82",
     "0a794b5b6e03d5e6c1d541383d97681f90039acbcffaa92bc400e6be8926551d",
@@ -499,10 +488,20 @@
     "7b08911713c134365c4316d7ed3c4d36f4ae7e0773bf1c20aea999cea66d5145",
     "b4510eac8572c8bbba083e361ffb37466588b1885f06dc91e77282b660ede4cb",
     "9317c29c2938159813d7116f59d45e122db444daaff58020f8f1cf5faa385c9c",
-    "110876cec757cfbdbeb8e331feef7e4b7611e45b90022817e369a98d1e1e6073"
+    "110876cec757cfbdbeb8e331feef7e4b7611e45b90022817e369a98d1e1e6073",
+    "48112ac9cb16e10f1ac12d3716b907112423faf05df6f33e6c3f3eb1340558c6",
+    "d5b30bed29d3ee3d78b9fb3145a69879532ab88d42c99fc163a720cab8894568",
+    "138fae5ac79fd7aa29f1cd15be054a76899e2af4a3a8b62c659c71e56fcc82ef",
+    "48dc7d9372559ffec4e7899c4f99c92952b6461e7b10efcd85cc7e5e10d8345b",
+    "8f2a058ec6afe24c1585853939cc428712f68c6f1335205dde181d486c1417d1",
+    "c50e4ac77d4901288d4f573b278f48a0c0650d7c73fe93857de16bb2d1ee973a",
+    "b9aea91d3bc8eee9fd908a7464c70f0ff9f36555fafbab2bbb3388a24e4312fd",
+    "6b937e780ab47319d240dc1c00220f52427195164bcfeedcbf51113371680e15",
+    "00945f82e12eecd50d0ec6e1a8de8053d38428607e61a88a9ff79c70ccc9e3c5",
+    "b54b65894398fb14c1855a323244149ac17ca64961b46bfbd8eae263957fb10a",
+    "9f74f31e9debf9b6eac40d9396c1a1b71fb184f486f1336469ad5ca975383b8f"
   ],
   "seen_summaries": [
-    "Irán llama a la pausa de Trump 'operación psicológica' sin avance en Ormuz; plan de Rubio para evadir el estrecho tiene limitaciones por oleoductos y amenazas en Mar Rojo, manteniendo riesgo de suministro.",
     "Irán dice que negociaciones con Omán sobre Ormuz están en fase final, mientras Trump mantiene pausa en ataques; posible avance hacia acuerdo que reduciría riesgo de bloqueo.",
     "Trump cancela ataque a Irán y anuncia nueva ronda de conversaciones para el lunes, reduciendo prima de riesgo y bajando el petróleo más de 4%.",
     "Trump pausa ataque masivo a Irán y anuncia negociaciones para el lunes; Irán insta a EE.UU. a honrar el MoU, reduciendo prima de riesgo petrolero.",
@@ -701,6 +700,7 @@
     "26 ago 2026: Aramco usa transbordos de barco a barco fuera de Ormuz para entregar crudo a Asia y ofrece más volumen de septiembre, reduciendo riesgo de oferta y presionando precios a la baja.",
     "27 ago 2026: Nuevo ataque a petrolero en Ormuz; Catar anuncia visita de su PM a Teherán para mediar en diálogo Irán-EE.UU., señales mixtas en riesgo de oferta.",
     "Qatar y Kuwait restauran 70% de exportaciones petroleras vía Ormuz con transbordos; tráfico de buques sube a 10/día en medio de esfuerzos diplomáticos, reduciendo riesgo de oferta y presionando precios a la baja.",
-    "28 ago 2026: Irán anuncia que emitirá condiciones para reabrir Ormuz; mediadores viajan a Teherán, señal de posible desescalada que presiona precios a la baja."
+    "28 ago 2026: Irán anuncia que emitirá condiciones para reabrir Ormuz; mediadores viajan a Teherán, señal de posible desescalada que presiona precios a la baja.",
+    "28 ago 2026: Qatar extiende fuerza mayor en GNL hasta noviembre por bloqueo en Ormuz, suben precios de gas; EEUU sanciona a Banque Misr UAE por $1.8 mil millones en vínculos con Irán, escalando presión financiera."
   ]
 }
