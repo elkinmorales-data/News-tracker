@@ -221,7 +221,11 @@
     "843a474672849ed75c743e6dff74f2d40df95874e6d32402789e569366b2dc71",
     "1664cd831e4a9947f33c14206ca6ce8b8667477e1d27352175e95b0b1697fccd",
     "d97e2042f74e50326bd8f2c680d9f93bf3bb23870869dbfaf05b42b1b7ec75fa",
-    "813b2744f5891a39da6b185ac79b54b50e15589a6b3072460ed5ff0937317569"
+    "813b2744f5891a39da6b185ac79b54b50e15589a6b3072460ed5ff0937317569",
+    "18c32092bc8010dff361dfab4b58b7f69acee0816b975aa0f6f4b7d801e46250",
+    "42529e4ba7213f56074c7360b7e635b91dd6cc25639fc6d150da771a05dab024",
+    "246c2b69927b7a2bf6089c52f2647b37e0e494665888d85237da8ce2cf64df09",
+    "26c9c295c244f488c1d650556e02a758a1445a7b41dfa93cba03a5f3d3cddae2"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -263,6 +267,7 @@
     "Grok Build para proyectos DS end-to-end | Kimi K3 modelo 2.8T MoE abierto | Integración de agentic AI con pipelines ML clásicos",
     "Rol Forward Deployed Engineer (FDE) para entrega de código IA en producción en clientes | Kimi Agent como familia de agentes interconectados y plataforma unificada con arquitectura compleja",
     "Python Data Classes avanzadas: validación, atributos computados, inmutabilidad y optimización de memoria | Técnicas de dataclasses más allá del boilerplate para pipelines de datos",
-    "10 reglas operativas para agentes de codificación AI | Preguntas de liderazgo para escalar IA empresarial | Pensamiento vectorizado en Python para eficiencia computacional"
+    "10 reglas operativas para agentes de codificación AI | Preguntas de liderazgo para escalar IA empresarial | Pensamiento vectorizado en Python para eficiencia computacional",
+    "vLLM como estándar en PyTorch Conference 2026 con KV cache y serving disaggregado | Stack local completo para SLMs productivos con selección de herramientas por capa | 5 técnicas de quantización y pruning para reducción de costos en LLMs en producción | Interpretabilidad de embeddings con Scikit-LLM usando probing, UMAP y SHAP para clasificación de texto"
   ]
 }
