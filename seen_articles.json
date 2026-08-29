@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "b85e3949703b405203d6147f74d7161be7c11029566d64ceb59d57306f0a7d72",
-    "0f4410f3be077db1b69a09107cdf40b8223d2d76d5529357ebe8c6b946746b8f",
-    "3817c148ed3d2141a70cf816892c53d19dc84b6b414a1aa011e0f15f8d64f6d1",
-    "4d156b1b74537b78702e0fc3ea657b9bdbc4cb8960cf595e5e4640b265368d0d",
     "19ee7fff2c051221c10d7857cacb678a77de8f91293a68201e569e230090014d",
     "5564454f71e7d4471a8f62ebe643c2b21338bff68b87e8b41b1e01bc08d863f6",
     "574d0c8289c0aa79825a9169da397fe840d642ff3660c8b22396c5216ef44bc6",
@@ -499,10 +495,13 @@
     "5eafa3bb5760cb637e8ae34c4b54131a49adde3b9516ec92e5d8cfdf7c40745c",
     "b4b882f12c3570bd9a72d568d4e99820c88c16fd4f22d8cf8c9056c65bdfe6f9",
     "a953635b92139e91de42f77d668abc844451032d0252a32d3d1dc2aac10a76ad",
-    "434f7be863adb19b6f95d29e90696f3d19653018c921180bd5783af9ea406876"
+    "434f7be863adb19b6f95d29e90696f3d19653018c921180bd5783af9ea406876",
+    "cc95a054e45b569f28378626055cdb078593f95df879331ccb11b6b32995e957",
+    "4700f7fe22298ebb1b5875fdcb647c7bd605460fcaaa8d3e2b6b1154059e2b24",
+    "d06a58c51929cdda1ee512c0e12834dfd0ebc190693373ff83798a2311c32ba3",
+    "c351129a645c29881d0a9cefaac1335c2cc386f593e9a5b3c657bbe0eb349b5c"
   ],
   "seen_summaries": [
-    "Trump pausa ataque masivo a Irán y anuncia negociaciones para el lunes; Irán insta a EE.UU. a honrar el MoU, reduciendo prima de riesgo petrolero.",
     "Incidente no especificado con buque GNL griego en Ormuz sin daños; Trump suspende otra ronda de ataques a Irán, petróleo cae 5% y aumentan esperanzas de acuerdo.",
     "Dos petroleros saudíes (Lesvos y Desh Vaibhav) transitaron Bab el-Mandeb en modo oscuro el 3 de agosto de 2026, confirmando persistencia de amenaza hutí y elevando riesgo de suministro en Mar Rojo.",
     "Trump acusa a Irán de duplicidad y exige rendición total en medio de bloqueo naval en Ormuz, incrementando riesgo de escalada y presión alcista sobre el crudo.",
@@ -701,6 +700,7 @@
     "28 ago 2026: Irán anuncia que emitirá condiciones para reabrir Ormuz; mediadores viajan a Teherán, señal de posible desescalada que presiona precios a la baja.",
     "28 ago 2026: Qatar extiende fuerza mayor en GNL hasta noviembre por bloqueo en Ormuz, suben precios de gas; EEUU sanciona a Banque Misr UAE por $1.8 mil millones en vínculos con Irán, escalando presión financiera.",
     "29 ago 2026: IRGC afirma control decisivo del Estrecho de Ormuz y EE.UU. mantiene bloqueo naval, confirmando cierre total del estrecho y elevando riesgo de oferta y presión alcista en petróleo.",
-    "29 ago 2026: Irán reconoce caída del 35% en exportaciones/importaciones por sanciones y bloqueo de EE.UU., pero promete diplomacia y defensa, indicando posible desescalada y presión bajista en petróleo."
+    "29 ago 2026: Irán reconoce caída del 35% en exportaciones/importaciones por sanciones y bloqueo de EE.UU., pero promete diplomacia y defensa, indicando posible desescalada y presión bajista en petróleo.",
+    "29 ago 2026: Irán reporta caída en comercio por sanciones y Khamenei pide reducir dependencia del dólar, presionando pero sin escalada nueva."
   ]
 }
