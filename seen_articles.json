@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "3d319163ddcf686aa148d3dae69fb1ed699ab114787e724205bca9ed72052c8e",
-    "1a72a03fca39839e1c5d4a5e74d67d6ba383936d505a8e3266842fa50ca42d99",
-    "ac6f49ff9a5ab66376295ab88d63cedd39fefb1af286b14c2661bbd3ce501faf",
     "14d7df75f1087ee59e8cb77e83c7926a57a0eeff168e0137cf896b0e4a566736",
     "5f7dbd03d38f31387268bfdf5fac5a28ee5b0f45d1f2465fab4dfbc50ae4f323",
     "1596cf27929396a09dd604f7a20081157bbe5eb9543196c3ea50f885123c70b8",
@@ -499,10 +496,12 @@
     "271d43359ed6559c192f1778038e348defaff86672b9d2923df2309d38c0be5c",
     "319ded4db2f112b1c03b3b8bf7df4d28d282adf9ee4395a88ee6007c0ed69acd",
     "371916dc33de50b1203399576742eb474723b4c34d7387f0a0131665b74fc148",
-    "5d73acdd6d4852ab72aeac48774f1d5e883c416518afff98d91e74158d7f9587"
+    "5d73acdd6d4852ab72aeac48774f1d5e883c416518afff98d91e74158d7f9587",
+    "9ba52023dfd86cc4d3b78ffa1ddf75d02847de32fb175f7dfcb40a4f0ef0a809",
+    "bd4076fa5eb41a98f3362da9b99db77f28464ee0c97c01232c2bced4be4d6e0d",
+    "9931d5e21a87c594a2b7859e9e2a4d3db3cbfbb7dce74a8a043ea8a360c8c385"
   ],
   "seen_summaries": [
-    "Trump acusa a Irán de duplicidad y exige rendición total en medio de bloqueo naval en Ormuz, incrementando riesgo de escalada y presión alcista sobre el crudo.",
     "Ucrania expande ataques con drones a infraestructura petrolera rusa, refinación en julio cae a mínimo de 24 años (3.6 mbpd), elevando riesgo de oferta y precio.",
     "Trump llama a conversaciones con Irán 'última oportunidad' para acuerdo, sin romper pausa militar; riesgo geopolítico sigue incierto.",
     "Buque de carga atacado en Ormuz el 4 de agosto de 2026; EE.UU. e Irán divergen en narrativa sobre negociaciones, elevando riesgo de escalada y prima de petróleo.",
@@ -701,6 +700,7 @@
     "29 ago 2026: Irán reconoce caída del 35% en exportaciones/importaciones por sanciones y bloqueo de EE.UU., pero promete diplomacia y defensa, indicando posible desescalada y presión bajista en petróleo.",
     "29 ago 2026: Irán reporta caída en comercio por sanciones y Khamenei pide reducir dependencia del dólar, presionando pero sin escalada nueva.",
     "29 ago 2026: EE.UU. estudia aplicar ley de presas (siglo XVIII) para incautar y vender petróleo iraní capturado en bloqueo, escalando presión sobre exportaciones de Irán y elevando riesgo de oferta.",
-    "30 ago 2026: EE.UU. sanciona a Banque Misr de Egipto por vínculos con Irán, ampliando presión financiera secundaria y elevando riesgo de oferta petrolera."
+    "30 ago 2026: EE.UU. sanciona a Banque Misr de Egipto por vínculos con Irán, ampliando presión financiera secundaria y elevando riesgo de oferta petrolera.",
+    "30 ago 2026: EE.UU. ataca lanzacohetes del IRGC en isla Larak, Ormuz, primer choque militar en semanas; riesgo de oferta al alza."
   ]
 }
