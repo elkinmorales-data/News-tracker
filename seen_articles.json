@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "f8f9fe7fb82aa9b0b7e765cb6b7cba7a1cf341fcb800da297a72c94600e5f2f3",
-    "e1663191c84dc83af76b102822a9346e54d6b8165d74e5fc1c06e299db70f559",
-    "b3b732f2bf345736ce3b391833019f42c3b8febf97fcc1ee58f5d7b2040dcc45",
-    "d1764471eed8d1ad50c9da5eeb86002821d3d9dd65a484bf49ed413ffdee6065",
     "3d319163ddcf686aa148d3dae69fb1ed699ab114787e724205bca9ed72052c8e",
     "1a72a03fca39839e1c5d4a5e74d67d6ba383936d505a8e3266842fa50ca42d99",
     "ac6f49ff9a5ab66376295ab88d63cedd39fefb1af286b14c2661bbd3ce501faf",
@@ -499,10 +495,13 @@
     "498cdd70afa92b5bb7431c9c82b9343706f72781260212f88a1bb6d0def3bf2d",
     "5addf6cab208afbbce1a0661b1d56814653dfafa90683e642dbeb51802550e3d",
     "cf940820a7e0377a534748e58bc366f1b00ef2e4a57a1b94f449b9248f10c024",
-    "a5fa30c2e3c1bca24681f67600330c320523c7820f588ee2fb67e68697e5749f"
+    "a5fa30c2e3c1bca24681f67600330c320523c7820f588ee2fb67e68697e5749f",
+    "271d43359ed6559c192f1778038e348defaff86672b9d2923df2309d38c0be5c",
+    "319ded4db2f112b1c03b3b8bf7df4d28d282adf9ee4395a88ee6007c0ed69acd",
+    "371916dc33de50b1203399576742eb474723b4c34d7387f0a0131665b74fc148",
+    "5d73acdd6d4852ab72aeac48774f1d5e883c416518afff98d91e74158d7f9587"
   ],
   "seen_summaries": [
-    "Dos petroleros saudíes (Lesvos y Desh Vaibhav) transitaron Bab el-Mandeb en modo oscuro el 3 de agosto de 2026, confirmando persistencia de amenaza hutí y elevando riesgo de suministro en Mar Rojo.",
     "Trump acusa a Irán de duplicidad y exige rendición total en medio de bloqueo naval en Ormuz, incrementando riesgo de escalada y presión alcista sobre el crudo.",
     "Ucrania expande ataques con drones a infraestructura petrolera rusa, refinación en julio cae a mínimo de 24 años (3.6 mbpd), elevando riesgo de oferta y precio.",
     "Trump llama a conversaciones con Irán 'última oportunidad' para acuerdo, sin romper pausa militar; riesgo geopolítico sigue incierto.",
@@ -701,6 +700,7 @@
     "29 ago 2026: IRGC afirma control decisivo del Estrecho de Ormuz y EE.UU. mantiene bloqueo naval, confirmando cierre total del estrecho y elevando riesgo de oferta y presión alcista en petróleo.",
     "29 ago 2026: Irán reconoce caída del 35% en exportaciones/importaciones por sanciones y bloqueo de EE.UU., pero promete diplomacia y defensa, indicando posible desescalada y presión bajista en petróleo.",
     "29 ago 2026: Irán reporta caída en comercio por sanciones y Khamenei pide reducir dependencia del dólar, presionando pero sin escalada nueva.",
-    "29 ago 2026: EE.UU. estudia aplicar ley de presas (siglo XVIII) para incautar y vender petróleo iraní capturado en bloqueo, escalando presión sobre exportaciones de Irán y elevando riesgo de oferta."
+    "29 ago 2026: EE.UU. estudia aplicar ley de presas (siglo XVIII) para incautar y vender petróleo iraní capturado en bloqueo, escalando presión sobre exportaciones de Irán y elevando riesgo de oferta.",
+    "30 ago 2026: EE.UU. sanciona a Banque Misr de Egipto por vínculos con Irán, ampliando presión financiera secundaria y elevando riesgo de oferta petrolera."
   ]
 }
