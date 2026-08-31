@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "bace1650096c2a51e88cc2be3dfd4f2cf55b9b38cce3189a21dee6d1eeb53c71",
-    "3374908d044f6744fd163771e655c4921aa067567226fa0cdcdc934ad3556fda",
-    "c9e214abc9f5c22c30b330b503d04af602e4126a3ab853f7282111c0be92dd59",
-    "7e5b777cc4da0a579330acd98b20f1f8e12a26e3d787013dfd5ef94e8f3476d0",
     "7d0c537fb6cb7683d07083c62c3b6e6e57d15affccbd4d5359469000cb91d9fa",
     "2f99d66cdfe4d8e064191f9f44b96c2c9120e04e2bf5b7831e8de7c3251f3a94",
     "d17c8152b199f2ae21ac626f118dc665f5d0385a711017e09316f6971cef8e54",
@@ -499,10 +495,13 @@
     "dee9b9a45fcd109716740c2a5a097e6af88f47d38d824c8756f61778190c0935",
     "8bad946c2badb321d7d5209e67b6b81ddd40bc9b1698056cd6bbf992d6beefb2",
     "585612f07d477b6998a858108c77d5cff46182d0c6dd1a1a5c5c31e512e77c37",
-    "392ada49ef540f95167097c2e6c26f7835d0549953b0cae265ec386cad8ede0f"
+    "392ada49ef540f95167097c2e6c26f7835d0549953b0cae265ec386cad8ede0f",
+    "0cb609f6c107495f97fc1a1405bbf1574888bf0c7594ddf2df829b6d3a201cbb",
+    "814351eb14e60847af057a2e8334406eaebd800013137b1b30337908ff6529d9",
+    "c790ceffacbcb5ef9e6976b31239f484c187bca87972e43fc077a4fe1ec6cdb7",
+    "1af84a5dd970db519e0fc788a9f611f80390f64e152b0ad4f5386a78471cc05e"
   ],
   "seen_summaries": [
-    "Bessent dice que posible acuerdo con Irán para abrir Ormuz con libertad de navegación el martes o miércoles, reduciendo riesgo de bloqueo y prima de petróleo.",
     "Tráfico en Ormuz cae a mínimo de dos meses por ataques; India compra crudo nigeriano para evitar el estrecho, confirmando disrupción persistente pese a narrativas de acuerdo.",
     "Nuevo desarrollo: EE.UU. y Catar señalan avances concretos en acuerdo preliminar con Irán para reabrir Ormuz (no solo retórica); Brent cae a ~$80 y aumenta expectativa de desescalada.",
     "Rubio confirma avances en negociaciones para reabrir Ormuz; petróleo cae fuerte por expectativas de acuerdo, mientras Irán acelera producción de misiles durante cese.",
@@ -701,6 +700,7 @@
     "31 ago 2026: EE.UU. bombardea lanzacohetes del IRGC en Larak y el IRGC ataca bases de EE.UU. en Jordania, escalada militar directa que eleva riesgo de oferta y presión alcista en petróleo.",
     "31 ago 2026: EE.UU. ataca lanzacohetes del IRGC en Larak y el IRGC ataca bases de EE.UU. en Jordania, escalada militar directa que eleva el riesgo de oferta y presiona precios al alza.",
     "31 ago 2026: Irán ataca supertanque con minas en Ormuz y lanza drones contra Jordania y Emiratos tras bombardeo de EE.UU. en Larak; escalada militar directa eleva riesgo de oferta.",
-    "31 ago 2026: EE.UU. bombardea Irán y Trump amenaza con represalias; Irán niega ataque a Kharg, pero reanudación de hostilidades directas y advertencia de colapso económico elevan riesgo de oferta y precios al alza."
+    "31 ago 2026: EE.UU. bombardea Irán y Trump amenaza con represalias; Irán niega ataque a Kharg, pero reanudación de hostilidades directas y advertencia de colapso económico elevan riesgo de oferta y precios al alza.",
+    "31 ago 2026: Trump anuncia control mayoritario de campos venezolanos con 65 mil millones de barriles, aumentando oferta potencial de crudo a EE.UU. y presionando precios a la baja."
   ]
 }
