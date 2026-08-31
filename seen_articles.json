@@ -1,20 +1,5 @@
 {
   "seen_hashes": [
-    "2c2ddec93a60f1dcfa5950407532b65db86c75ab58c4b7ff8e52f97fba85e3e4",
-    "95806d22c8733da888f2f1939bdf2c2b1d300676f657cc45d735ce090d6221d5",
-    "26ebad24a15aef94116371daf587236261b4a746c9930ac8b4a22c875a80f3a4",
-    "57400ee6b9845b30fb04a21e5a570e155aa2b190d37b67dfc8dca5ab2abdc893",
-    "1f2d3d4b4fbe3e9fd0fdf4aaf19bc14f873acd4e86c14ec20e8d1dd8afcb0201",
-    "314a15ef265e66f6dcaa8220a10e2689a03dca01a2f04be571884d82423f20a6",
-    "b0513315fc75d83b78c59415f2957185cb8292244fd3e7c8417ff12f33155a83",
-    "f3dd1325bf4e79941745ff6180e5f3a9b8aaa14740f1c35c315248fa20eb2e18",
-    "d43154393391afc88eb469c7248f30cee75ba4562c25ca4af2378dae7a3a8e59",
-    "7064257f7b712315e6193a99285d14243d8ef446242abbcc55f6fafed17697ff",
-    "0082bde8f3711c45a5657a458e6d229550686e26a5410607828162e6e0b385b0",
-    "36895293df6c56b18a1efc64c02c07113080f446f7fc83ea7df1670d92376f43",
-    "36c66ca4dc6fe6d6eaaf7eb2c613428c9f3f5088abd3472996aa4b88c0cbff9f",
-    "9a017a9e1bd77ae0c38bc4d09c3d0d25b0c4af71dacbe9c8d93b1998825bc67e",
-    "3ea7d90f42f4da9c2d32a5731e19d9f28ae25a96dad7a2e1ccfd4dd7b99d1fda",
     "bace1650096c2a51e88cc2be3dfd4f2cf55b9b38cce3189a21dee6d1eeb53c71",
     "3374908d044f6744fd163771e655c4921aa067567226fa0cdcdc934ad3556fda",
     "c9e214abc9f5c22c30b330b503d04af602e4126a3ab853f7282111c0be92dd59",
@@ -499,10 +484,24 @@
     "516ca5b224d284a20f5de6943387f5c4e6b5d005e04dc518dce3c0628376d12b",
     "9d318c8bc82e73562fce21d1479eeda7a6819277b7171755f6c6c639ca8e1746",
     "b58b1fa1ca8a8a570342947d18c7fda67c652aaa21c7f711f92537281a9cae24",
-    "8dfb18ed1f703da618b3b4c3d55baa1e32c1478df4a5757ea7dcf85c551b6941"
+    "8dfb18ed1f703da618b3b4c3d55baa1e32c1478df4a5757ea7dcf85c551b6941",
+    "a5e7abf8bc89e49dea8bba4df521a4b78c4c5a37142d9cee8d35f6b154ce6427",
+    "2d9947102a44127ed3d677d5f9f0276ed435bf91531158af16fc9c822d06f56d",
+    "86a14e9d723fa9686e09819e2df5dad1484f130a7dd531687dd8fcbf33e3d49e",
+    "758e92144ad31f0cb317314204d970e51e820cf57f916652d376155103ccf2a0",
+    "59e886d30fdc07a677bce9a3bef58d10e33009dedecffea2d7dedddf010812f1",
+    "226f804ed3116b63872733c5bde75e3e86071a12e0cf4a15d7ca97e934c15ada",
+    "d22d6d03f7472395d7b56bfcfb0ee3ddbe95bf8f435d873675ae25bcd2a9ef95",
+    "163aefd514a8f40f6fc5a9bfcd3a6dfe224c67218321f1a6c533169df2209c52",
+    "d9b887003bdb6bca749d7949e44550e8891cb7168f360f2e76faf2f90be9bb3a",
+    "6311b7f637109dbfb56ba55b2828d08bf728199d43c38f384e090292c7e5121a",
+    "8a1e3e10a151ac4be40ec44a4457d4ee1013695126fbf1350f6693c8a3c6ab50",
+    "dee9b9a45fcd109716740c2a5a097e6af88f47d38d824c8756f61778190c0935",
+    "8bad946c2badb321d7d5209e67b6b81ddd40bc9b1698056cd6bbf992d6beefb2",
+    "585612f07d477b6998a858108c77d5cff46182d0c6dd1a1a5c5c31e512e77c37",
+    "392ada49ef540f95167097c2e6c26f7835d0549953b0cae265ec386cad8ede0f"
   ],
   "seen_summaries": [
-    "Trump advierte que negociaciones con Irán son 'última oportunidad' mientras tráfico de petroleros en Ormuz sigue débil (solo 3 cruces el lunes), manteniendo incertidumbre sobre acuerdo o escalada.",
     "Bessent dice que posible acuerdo con Irán para abrir Ormuz con libertad de navegación el martes o miércoles, reduciendo riesgo de bloqueo y prima de petróleo.",
     "Tráfico en Ormuz cae a mínimo de dos meses por ataques; India compra crudo nigeriano para evitar el estrecho, confirmando disrupción persistente pese a narrativas de acuerdo.",
     "Nuevo desarrollo: EE.UU. y Catar señalan avances concretos en acuerdo preliminar con Irán para reabrir Ormuz (no solo retórica); Brent cae a ~$80 y aumenta expectativa de desescalada.",
@@ -701,6 +700,7 @@
     "30 ago 2026: EE.UU. ataca lanzacohetes del IRGC en isla Larak, Ormuz, primer choque militar en semanas; riesgo de oferta al alza.",
     "31 ago 2026: EE.UU. bombardea lanzacohetes del IRGC en Larak y el IRGC ataca bases de EE.UU. en Jordania, escalada militar directa que eleva riesgo de oferta y presión alcista en petróleo.",
     "31 ago 2026: EE.UU. ataca lanzacohetes del IRGC en Larak y el IRGC ataca bases de EE.UU. en Jordania, escalada militar directa que eleva el riesgo de oferta y presiona precios al alza.",
-    "31 ago 2026: Irán ataca supertanque con minas en Ormuz y lanza drones contra Jordania y Emiratos tras bombardeo de EE.UU. en Larak; escalada militar directa eleva riesgo de oferta."
+    "31 ago 2026: Irán ataca supertanque con minas en Ormuz y lanza drones contra Jordania y Emiratos tras bombardeo de EE.UU. en Larak; escalada militar directa eleva riesgo de oferta.",
+    "31 ago 2026: EE.UU. bombardea Irán y Trump amenaza con represalias; Irán niega ataque a Kharg, pero reanudación de hostilidades directas y advertencia de colapso económico elevan riesgo de oferta y precios al alza."
   ]
 }
