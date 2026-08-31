@@ -1,14 +1,5 @@
 {
   "seen_hashes": [
-    "1596cf27929396a09dd604f7a20081157bbe5eb9543196c3ea50f885123c70b8",
-    "aec57c15264fe197fa113645794ef01602dfee0bd201c528aff901f78c24fdac",
-    "3a9b4e94dfb32a88b6acfba9bdd25256c34d6d557c09457a9375cacef2689b9b",
-    "a4c30cf7978366cf0253ab76926ae483547b9a72aa715d5fb7e1160388dd5250",
-    "bca5bbe738e527760da593696d62dacbdc6d9280d01fb73ab51e66b2878c9e94",
-    "daff4ddbc026f6fee52aebb4873d2f2ed7b979e47789561f590f8d0f7ca7332a",
-    "d3ae7d86a6316b995b6a955e0c2182b6e5c47b7fcec90ebed022a7a64d72a992",
-    "fdfb74c2f2b351ab84cc59c3700fb15610a07f5b35b76443b70fffa7f497157f",
-    "8dfb18ed1f703da618b3b4c3d55baa1e32c1478df4a5757ea7dcf85c551b6941",
     "6602ed7ef7ecb618d0dbf579f4d2d4d56404893aeec89157c900ce38decd9256",
     "a1fcd8827cae339d15343089619191383bbcf85134c1e477f1a4e4cf20e4b36e",
     "b26f511985f43a140ecf6cb0ab56722787607da650456328e816cca2dc89f1a9",
@@ -499,10 +490,18 @@
     "bd4076fa5eb41a98f3362da9b99db77f28464ee0c97c01232c2bced4be4d6e0d",
     "9931d5e21a87c594a2b7859e9e2a4d3db3cbfbb7dce74a8a043ea8a360c8c385",
     "1d19d6836ab0dab9d815aef21d8cc05521176b0ad375c10461e86ea9b08ee081",
-    "ed535dd7653efc713e4ed40fdbe1c700bb7908984ed3f85a109b220890bfdea1"
+    "ed535dd7653efc713e4ed40fdbe1c700bb7908984ed3f85a109b220890bfdea1",
+    "cea17e260c95cc119be6a7d5d0a6fc2b433e83f79baa6b876f824356261e07e3",
+    "0990d2a52e13e36a36b9dc05c30ce536d6874787a49dd50ce91eaffa682f7205",
+    "b4c6ea12f30957334b331fe8d30c04f8aabda6d1319ff76328c7162db3c949b3",
+    "ad5af75e45fc0924a09b5e2b0b60dd9e1e46b9affd74563febbe14dbb00332b0",
+    "bc9294cbf46bbb4996e36e55c93eb01efc67e7cd3fc0dc52927939790fec0f83",
+    "2415bd6eedecfb95b7ffb6c98055928412248d8ac366717588f51756600fcd1b",
+    "58d85be6eed1bc37c49da3eceaaaecd24e20c8c25a8280743ca00c8baae5bd59",
+    "1561993e19dadf73a74bf1d0a6bd3fdf7551990250e889362d22fe5d801ddc1a",
+    "295a877f1ede6350184c81a8eb6196d7a35c20357860be270880cc4e41fe48fc"
   ],
   "seen_summaries": [
-    "Trump llama a conversaciones con Irán 'última oportunidad' para acuerdo, sin romper pausa militar; riesgo geopolítico sigue incierto.",
     "Buque de carga atacado en Ormuz el 4 de agosto de 2026; EE.UU. e Irán divergen en narrativa sobre negociaciones, elevando riesgo de escalada y prima de petróleo.",
     "Trump advierte que negociaciones con Irán son 'última oportunidad' mientras tráfico de petroleros en Ormuz sigue débil (solo 3 cruces el lunes), manteniendo incertidumbre sobre acuerdo o escalada.",
     "Bessent dice que posible acuerdo con Irán para abrir Ormuz con libertad de navegación el martes o miércoles, reduciendo riesgo de bloqueo y prima de petróleo.",
@@ -701,6 +700,7 @@
     "29 ago 2026: EE.UU. estudia aplicar ley de presas (siglo XVIII) para incautar y vender petróleo iraní capturado en bloqueo, escalando presión sobre exportaciones de Irán y elevando riesgo de oferta.",
     "30 ago 2026: EE.UU. sanciona a Banque Misr de Egipto por vínculos con Irán, ampliando presión financiera secundaria y elevando riesgo de oferta petrolera.",
     "30 ago 2026: EE.UU. ataca lanzacohetes del IRGC en isla Larak, Ormuz, primer choque militar en semanas; riesgo de oferta al alza.",
-    "31 ago 2026: EE.UU. bombardea lanzacohetes del IRGC en Larak y el IRGC ataca bases de EE.UU. en Jordania, escalada militar directa que eleva riesgo de oferta y presión alcista en petróleo."
+    "31 ago 2026: EE.UU. bombardea lanzacohetes del IRGC en Larak y el IRGC ataca bases de EE.UU. en Jordania, escalada militar directa que eleva riesgo de oferta y presión alcista en petróleo.",
+    "31 ago 2026: EE.UU. ataca lanzacohetes del IRGC en Larak y el IRGC ataca bases de EE.UU. en Jordania, escalada militar directa que eleva el riesgo de oferta y presiona precios al alza."
   ]
 }
