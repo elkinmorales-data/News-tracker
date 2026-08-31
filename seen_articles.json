@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "14d7df75f1087ee59e8cb77e83c7926a57a0eeff168e0137cf896b0e4a566736",
-    "5f7dbd03d38f31387268bfdf5fac5a28ee5b0f45d1f2465fab4dfbc50ae4f323",
     "1596cf27929396a09dd604f7a20081157bbe5eb9543196c3ea50f885123c70b8",
     "aec57c15264fe197fa113645794ef01602dfee0bd201c528aff901f78c24fdac",
     "3a9b4e94dfb32a88b6acfba9bdd25256c34d6d557c09457a9375cacef2689b9b",
@@ -499,10 +497,11 @@
     "5d73acdd6d4852ab72aeac48774f1d5e883c416518afff98d91e74158d7f9587",
     "9ba52023dfd86cc4d3b78ffa1ddf75d02847de32fb175f7dfcb40a4f0ef0a809",
     "bd4076fa5eb41a98f3362da9b99db77f28464ee0c97c01232c2bced4be4d6e0d",
-    "9931d5e21a87c594a2b7859e9e2a4d3db3cbfbb7dce74a8a043ea8a360c8c385"
+    "9931d5e21a87c594a2b7859e9e2a4d3db3cbfbb7dce74a8a043ea8a360c8c385",
+    "1d19d6836ab0dab9d815aef21d8cc05521176b0ad375c10461e86ea9b08ee081",
+    "ed535dd7653efc713e4ed40fdbe1c700bb7908984ed3f85a109b220890bfdea1"
   ],
   "seen_summaries": [
-    "Ucrania expande ataques con drones a infraestructura petrolera rusa, refinación en julio cae a mínimo de 24 años (3.6 mbpd), elevando riesgo de oferta y precio.",
     "Trump llama a conversaciones con Irán 'última oportunidad' para acuerdo, sin romper pausa militar; riesgo geopolítico sigue incierto.",
     "Buque de carga atacado en Ormuz el 4 de agosto de 2026; EE.UU. e Irán divergen en narrativa sobre negociaciones, elevando riesgo de escalada y prima de petróleo.",
     "Trump advierte que negociaciones con Irán son 'última oportunidad' mientras tráfico de petroleros en Ormuz sigue débil (solo 3 cruces el lunes), manteniendo incertidumbre sobre acuerdo o escalada.",
@@ -701,6 +700,7 @@
     "29 ago 2026: Irán reporta caída en comercio por sanciones y Khamenei pide reducir dependencia del dólar, presionando pero sin escalada nueva.",
     "29 ago 2026: EE.UU. estudia aplicar ley de presas (siglo XVIII) para incautar y vender petróleo iraní capturado en bloqueo, escalando presión sobre exportaciones de Irán y elevando riesgo de oferta.",
     "30 ago 2026: EE.UU. sanciona a Banque Misr de Egipto por vínculos con Irán, ampliando presión financiera secundaria y elevando riesgo de oferta petrolera.",
-    "30 ago 2026: EE.UU. ataca lanzacohetes del IRGC en isla Larak, Ormuz, primer choque militar en semanas; riesgo de oferta al alza."
+    "30 ago 2026: EE.UU. ataca lanzacohetes del IRGC en isla Larak, Ormuz, primer choque militar en semanas; riesgo de oferta al alza.",
+    "31 ago 2026: EE.UU. bombardea lanzacohetes del IRGC en Larak y el IRGC ataca bases de EE.UU. en Jordania, escalada militar directa que eleva riesgo de oferta y presión alcista en petróleo."
   ]
 }
