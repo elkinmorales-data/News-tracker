@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "bc3ba199fc0d136b6d69a5ca57f3ed8acfece573ec0b2ca98e5b1458c4df6c6f",
     "02300f0437888a722604cbc7813c05a2486a0a1987d069e0d0dccc5349869d68",
     "61975a4ad88d0fa1f373cb6715aef6e938830a60c786a23d21445d2c0c35914e",
     "605494544a4ec7a3de5ee3a6fbe8fca41d23554cc69ac2d8a306db663d02fed5",
@@ -499,10 +498,10 @@
     "198f084af90012b7b60e42ce913eb2f933d88d1b5ee9fa9c27c3a7db39039305",
     "37ebc79c0ddc26fb18f1181a6a22e6ed1ecebb659b3357c7a5f2b307325f36bc",
     "7e5b655e3fc17b48154ef0bb95bdfe3975cb80898717375c617c7863f52d45c3",
-    "bd70fe80d6ae12d57350ea66cd13b79f661e4581fb545ddd24d83005e754b083"
+    "bd70fe80d6ae12d57350ea66cd13b79f661e4581fb545ddd24d83005e754b083",
+    "82d89628f13afac699bfcd37d990e9270b9bb9f4b55485feafa2653b6438bad1"
   ],
   "seen_summaries": [
-    "EE.UU. dice que acuerdo para reabrir Ormuz está cerca; Irán y Omán sostienen conversaciones positivas, reduciendo prima de riesgo y presionando precios a la baja.",
     "Irán dice que conversaciones con Omán sobre Ormuz son 'positivas' y un buque es atacado en el Mar Rojo; avance hacia acuerdo reduce prima de riesgo.",
     "Trump dice que acuerdo sobre Ormuz podría cerrarse el miércoles, pero tráfico de petroleros sigue muy bajo (5 cruces), señalando que la desescalada aún no se refleja en flujos reales.",
     "Hutíes hunden petrolero con crudo saudí en el Mar Rojo (4 ago 2026) y Trump advierte de 'golpe duro' si no hay acuerdo con Irán, elevando riesgo de suministro.",
@@ -701,6 +700,7 @@
     "31 ago 2026: Trump anuncia control mayoritario de campos venezolanos con 65 mil millones de barriles, aumentando oferta potencial de crudo a EE.UU. y presionando precios a la baja.",
     "1 sep 2026: Irán ataca bases de EE.UU. en Jordania y Trump amenaza con nuevos ataques; escalada militar directa eleva riesgo de oferta y precios del petróleo al alza.",
     "Dos supertanqueros atacados por proyectiles en Ormuz, incluyendo uno de Bahri, elevando riesgo de disrupción de oferta y presión alcista.",
-    "1 sep 2026: EE.UU. lanza nuevos ataques contra Irán tras ataques iraníes a bases en Jordania; escalada militar directa presiona precios al alza."
+    "1 sep 2026: EE.UU. lanza nuevos ataques contra Irán tras ataques iraníes a bases en Jordania; escalada militar directa presiona precios al alza.",
+    "1 sep 2026: CENTCOM confirma inicio de ataques militares de EE.UU. contra objetivos en Irán, escalada directa que eleva riesgo de oferta en Ormuz y presiona precios al alza."
   ]
 }
