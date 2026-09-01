@@ -1,15 +1,5 @@
 {
   "seen_hashes": [
-    "3f67fa41bf6b24d56a4e3fb4dec6cdf1c8a24aa930a736f7c0f4c385fb45335e",
-    "a3fbcec28491047cce2eaeb654b2fedb72b16232ad13d470cca6cfbe734c2ccb",
-    "d2c738ce58a43eedfe3461cfc899cf90a7091faafb74ca4e9482098f04122ab9",
-    "aa507fca68deb39b5629ef24f54aec824fd2da36f718455c6a5993426e6b6f9f",
-    "85490b270dfdfd37d720ccab46aceb000729a87b0c1f3609db93cdd8f95bd5c4",
-    "990b04717939f926fc400f433e54b87f3711c633d6185a1b4670d7c0c7dc5097",
-    "bdf2c9cb37637f394e1236918705d0eb7aad764149f5a8371d07c02413d6d9c0",
-    "1b73b3a64f8e67b451c56c6d8e22dadcf376758fdce29a4ba825b47fd2b91018",
-    "4e11ce09c743d8e3556a843cb45344f747922c2fa283e3e73256f7383420bb73",
-    "f08b9693d423c843a6a75bf172015ba839587cbda7fe5e5bd61571c720353f64",
     "dba828bbf4888f934ef320c9e5c09fa51528ca29e9c92c74b34f5955587d0bb9",
     "6af5c83cb2012fa987afefc74043087b086ecae5ced9003d4dbac395626bc68d",
     "42af6d1d33ed2af2e4ab4f3f01574a52065832722fbd963d2ab938fc3e52b242",
@@ -499,10 +489,19 @@
     "2f99d66cdfe4d8e064191f9f44b96c2c9120e04e2bf5b7831e8de7c3251f3a94",
     "bb395e4bb5917ddd4f8864dc43ce090848427dadb6227535c0595781f758ff81",
     "1d1ec7304de78e9d6e4357c09ecb9d2c8e14ef18ed25c4dca8c7f27e63671b13",
-    "acf1c467744d62351699df87c250d92087ec3171c9e863723d902f367798c647"
+    "acf1c467744d62351699df87c250d92087ec3171c9e863723d902f367798c647",
+    "ccb1eb7689b52b4213ae463574993ac9d9ce12950f72ac44cb59b69ddc892037",
+    "2b8cf3da717ab56f290bc18d5029fc3114e01fe4dbac645cf3cba1bf5a1c6a19",
+    "dbf063eb8efa8f938bd4d2251d619afa43cd88993f9b0db6cd4160c5432e0039",
+    "9f2120e049cad48b10a6b44d80784cfae6f48eefe7be6c547bc6a8b1272cb040",
+    "66b85a720d74c4d55d95456743ddf3d83599574ee8f54be5ab8d864ed3fc899b",
+    "eb9d8ab59add7dbea3e056aaed7720a27e6f524784ce353734f817bc785f6bbe",
+    "2da35617599bc0387f577eb9f80bab38dcf3790f21015ccba1eaee16e365ed91",
+    "658bc0fe0d50590f101fe297a25cc4a00c70c42baecf6994fea46c9288cad989",
+    "ea5547997aeaf70d5b94a653c5bf1e3e56d1da64d99288b24a83b2576bf7286f",
+    "f6876f5f1db6486ecb9d4a0f7ce9df566bb57f08c286b7129872df6124d175fb"
   ],
   "seen_summaries": [
-    "Nuevo desarrollo: EE.UU. y Catar señalan avances concretos en acuerdo preliminar con Irán para reabrir Ormuz (no solo retórica); Brent cae a ~$80 y aumenta expectativa de desescalada.",
     "Rubio confirma avances en negociaciones para reabrir Ormuz; petróleo cae fuerte por expectativas de acuerdo, mientras Irán acelera producción de misiles durante cese.",
     "EE.UU. dice que acuerdo para reabrir Ormuz está cerca; Irán y Omán sostienen conversaciones positivas, reduciendo prima de riesgo y presionando precios a la baja.",
     "Irán dice que conversaciones con Omán sobre Ormuz son 'positivas' y un buque es atacado en el Mar Rojo; avance hacia acuerdo reduce prima de riesgo.",
@@ -701,6 +700,7 @@
     "31 ago 2026: Irán ataca supertanque con minas en Ormuz y lanza drones contra Jordania y Emiratos tras bombardeo de EE.UU. en Larak; escalada militar directa eleva riesgo de oferta.",
     "31 ago 2026: EE.UU. bombardea Irán y Trump amenaza con represalias; Irán niega ataque a Kharg, pero reanudación de hostilidades directas y advertencia de colapso económico elevan riesgo de oferta y precios al alza.",
     "31 ago 2026: Trump anuncia control mayoritario de campos venezolanos con 65 mil millones de barriles, aumentando oferta potencial de crudo a EE.UU. y presionando precios a la baja.",
-    "1 sep 2026: Irán ataca bases de EE.UU. en Jordania y Trump amenaza con nuevos ataques; escalada militar directa eleva riesgo de oferta y precios del petróleo al alza."
+    "1 sep 2026: Irán ataca bases de EE.UU. en Jordania y Trump amenaza con nuevos ataques; escalada militar directa eleva riesgo de oferta y precios del petróleo al alza.",
+    "Dos supertanqueros atacados por proyectiles en Ormuz, incluyendo uno de Bahri, elevando riesgo de disrupción de oferta y presión alcista."
   ]
 }
