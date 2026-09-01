@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "64dcc7e6fefd25d4e3794fb3309eade246dbf330510975a039e0ed8b8d9f1bd7",
-    "cad2196e9dab22c764f6eedcc13f78e0dc2472948740af6ef3cae6510cb7e062",
-    "229b56d7b570425488fa1191b46c0bb2f93c5c01228fed00b49a85f34180cba8",
-    "851a0be624bc2c2ef85c0bddf1f69112c21bf0840300b692a300f0df13936d01",
-    "8c668411e9a0d0c30f00cc3075421a69af23b20489301aa0e7e66a73bccefd1d",
-    "a5e9ebae11d820b622a3776bfc9af3854204fe2b0b2e1196dc23ec622812279a",
-    "64f5ae8eebf920210b777555a412f1dea7468c3c7872034513bb841bcafac73a",
     "3f67fa41bf6b24d56a4e3fb4dec6cdf1c8a24aa930a736f7c0f4c385fb45335e",
     "a3fbcec28491047cce2eaeb654b2fedb72b16232ad13d470cca6cfbe734c2ccb",
     "d2c738ce58a43eedfe3461cfc899cf90a7091faafb74ca4e9482098f04122ab9",
@@ -499,10 +492,16 @@
     "1af84a5dd970db519e0fc788a9f611f80390f64e152b0ad4f5386a78471cc05e",
     "675bc1c9963138e7eefb36c4e826eb791b856eb88e8b50ee917c1bad1ab15ba8",
     "009c6396aa1bece295c4b285728ab412dcd9603d188e3485b4ea7d970a08f649",
-    "4cb82ac8c95f42914f68d9c0b89cb04d99c4897f2710f41fcb7680fb8470fcbf"
+    "4cb82ac8c95f42914f68d9c0b89cb04d99c4897f2710f41fcb7680fb8470fcbf",
+    "b79569a4775b20378cc153c96b820f93b54781c58cf84d65ebaf932f11627a3e",
+    "c7d0f662476c08aaec27e4c2e65cecc3c0e21307b00e286c4c746d3908831b14",
+    "6e60b7cc42c44fa3bb7a8cb02617d81a9c21345acd7ba6349f82358f41fa78a7",
+    "2f99d66cdfe4d8e064191f9f44b96c2c9120e04e2bf5b7831e8de7c3251f3a94",
+    "bb395e4bb5917ddd4f8864dc43ce090848427dadb6227535c0595781f758ff81",
+    "1d1ec7304de78e9d6e4357c09ecb9d2c8e14ef18ed25c4dca8c7f27e63671b13",
+    "acf1c467744d62351699df87c250d92087ec3171c9e863723d902f367798c647"
   ],
   "seen_summaries": [
-    "Tráfico en Ormuz cae a mínimo de dos meses por ataques; India compra crudo nigeriano para evitar el estrecho, confirmando disrupción persistente pese a narrativas de acuerdo.",
     "Nuevo desarrollo: EE.UU. y Catar señalan avances concretos en acuerdo preliminar con Irán para reabrir Ormuz (no solo retórica); Brent cae a ~$80 y aumenta expectativa de desescalada.",
     "Rubio confirma avances en negociaciones para reabrir Ormuz; petróleo cae fuerte por expectativas de acuerdo, mientras Irán acelera producción de misiles durante cese.",
     "EE.UU. dice que acuerdo para reabrir Ormuz está cerca; Irán y Omán sostienen conversaciones positivas, reduciendo prima de riesgo y presionando precios a la baja.",
@@ -701,6 +700,7 @@
     "31 ago 2026: EE.UU. ataca lanzacohetes del IRGC en Larak y el IRGC ataca bases de EE.UU. en Jordania, escalada militar directa que eleva el riesgo de oferta y presiona precios al alza.",
     "31 ago 2026: Irán ataca supertanque con minas en Ormuz y lanza drones contra Jordania y Emiratos tras bombardeo de EE.UU. en Larak; escalada militar directa eleva riesgo de oferta.",
     "31 ago 2026: EE.UU. bombardea Irán y Trump amenaza con represalias; Irán niega ataque a Kharg, pero reanudación de hostilidades directas y advertencia de colapso económico elevan riesgo de oferta y precios al alza.",
-    "31 ago 2026: Trump anuncia control mayoritario de campos venezolanos con 65 mil millones de barriles, aumentando oferta potencial de crudo a EE.UU. y presionando precios a la baja."
+    "31 ago 2026: Trump anuncia control mayoritario de campos venezolanos con 65 mil millones de barriles, aumentando oferta potencial de crudo a EE.UU. y presionando precios a la baja.",
+    "1 sep 2026: Irán ataca bases de EE.UU. en Jordania y Trump amenaza con nuevos ataques; escalada militar directa eleva riesgo de oferta y precios del petróleo al alza."
   ]
 }
