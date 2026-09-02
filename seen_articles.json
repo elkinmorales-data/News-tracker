@@ -1,17 +1,5 @@
 {
   "seen_hashes": [
-    "f49cc5ced24e539c9e4f7e223a8ff54159a24367200f7330fd17bc93b4f4f0e2",
-    "8e38c7fc142c68ec11b6b0398e5576695a6dcc6de4474adb5d9a145a6db50022",
-    "0268c2719c0e2cf6c0d4a08eb0bff05ca59fd4e6c50ed719f5b954783643d24d",
-    "2ee2f4f8e93166ccaba22ab71c5273816e590cd830a0f816ba4d4d57813889ed",
-    "1080bf98f89e409d999eea49656e4033bc6a3705bf536612c67f47d7a00fcaaa",
-    "4fb4960bc46d5bc875cd2a0a21e4f435c3d3a0710bba03b908b65d11af8ba793",
-    "c4a551218b6a2cd848376df42d5701a525a04ffb8f9b7bc020713303cff29abe",
-    "879d841e91a904693b3272255c7ba1e1d294ca29abb3c39cc50bc528ef47b683",
-    "01ee1f4ae7c5c3158c0db640dd6f7a4fcf95925f0f3552570b5d17d93fc6a765",
-    "40e53d41d0b1625c37322a1ab4d56d55dcebb6c64670e8f24744287d89192bda",
-    "6c15c76f2cff32cd5eb20c73754e32bcd45e6a7bac790d6fa979ac5b47ea0dfa",
-    "5896acb5a4872a2e744ce26b583a299f5f0f27efd35035e01036985538521116",
     "185900087f68d7c926a793154912448d076686ce57570a11b46021e9715fdc00",
     "b500deee8597b50b9c41615401a7eec4ff5d28ab5c4d7a8009e5aa07379c96f8",
     "62c853ec1f89e34473b1393c803ef25baffb19f57bae0e141fd61c0602c69ea0",
@@ -499,10 +487,21 @@
     "e464946c4def6b90552a92e3311aa2418d058704cc4d8886d30fabcb1184e7ed",
     "364d496b9373c9174ac6bb056e6f84a40ad9bdb58b437bcc9df958c55fd689c9",
     "38a665b9f95c489bb275e45119eaaff7713a17b7b5ca109d8bf5c3bc98c61a11",
-    "c5887ce618c57df04439b204c432a7e214683867976ad02ad1774d250bb4af4d"
+    "c5887ce618c57df04439b204c432a7e214683867976ad02ad1774d250bb4af4d",
+    "0d03a414b596c4440b519829339e1c0b7ad7792dd8c744a54fa6ab72acf8929b",
+    "7f621672b2b581c34741727cd06a1fb5a9f82ac78340319fe74dbba8965ab2f3",
+    "4379c44ed1d4baec0b10dc5766ffbfbe95fb7191eff9d9dcd87ba9c9cff6498d",
+    "63d56600cc74c1efe4631da62fc3adbb58131e43b550f2180f988e03eab4dd5d",
+    "c3f7796fcecbaf8880021c4bdc897d5fb7583876eee4bf9b38b00bfe6adf668c",
+    "311692bdf2972982373179588e51275b3885793212b7cbbd0fc03d8393291bcf",
+    "fa5b24268bb11e1f3f4a2b6feeae33465823c192ff40bc69bea5da63a83794e6",
+    "66ee448aced2f610c22e021098e5b64c5add4df652e9f6ddc036691e1146ed97",
+    "3c3f65a8fd7ebc8f1f9e2adcea34e384184ac9f20b2bfee2ef7f556bcadf305d",
+    "d1abf83e7a45d2db3e1e4423c83877f6fd0dba162dd9f2aff35ef186d0fde5d4",
+    "e62f9ba51af53f5bace6d4ec5f1e3c795c1373fdeb4cad1aef5d5c7ffc43020c",
+    "d275e4cb11b272df6db345f07c45887b2b6e56f5cc6316c7bb484406bb63b422"
   ],
   "seen_summaries": [
-    "Trump dice que acuerdo sobre Ormuz podría cerrarse el miércoles, pero tráfico de petroleros sigue muy bajo (5 cruces), señalando que la desescalada aún no se refleja en flujos reales.",
     "Hutíes hunden petrolero con crudo saudí en el Mar Rojo (4 ago 2026) y Trump advierte de 'golpe duro' si no hay acuerdo con Irán, elevando riesgo de suministro.",
     "Hutíes afirman haber alcanzado con misiles balísticos al petrolero saudí 'Wafaa' en el Mar Rojo el 5 de agosto de 2026, confirmando amenaza activa a la navegación en Bab el-Mandeb y elevando riesgo de suministro.",
     "Borrador de acuerdo para reabrir Ormuz completado por Irán y Omán, pendiente de aprobación de Jamenei; posible firma en 48 horas según EE.UU.",
@@ -701,6 +700,7 @@
     "Dos supertanqueros atacados por proyectiles en Ormuz, incluyendo uno de Bahri, elevando riesgo de disrupción de oferta y presión alcista.",
     "1 sep 2026: EE.UU. lanza nuevos ataques contra Irán tras ataques iraníes a bases en Jordania; escalada militar directa presiona precios al alza.",
     "1 sep 2026: CENTCOM confirma inicio de ataques militares de EE.UU. contra objetivos en Irán, escalada directa que eleva riesgo de oferta en Ormuz y presiona precios al alza.",
-    "1 sep 2026: EE.UU. enviará a su secretario de Energía a Venezuela para presentar acuerdo petrolero de 65 mil millones de barriles, respaldado por el parlamento venezolano, señal de mayor oferta y presión bajista en precios."
+    "1 sep 2026: EE.UU. enviará a su secretario de Energía a Venezuela para presentar acuerdo petrolero de 65 mil millones de barriles, respaldado por el parlamento venezolano, señal de mayor oferta y presión bajista en precios.",
+    "2 sep 2026: EE.UU. lanza nueva ola de ataques contra sitios del IRGC en Irán (incluyendo ataque con víctimas civiles en Sirik); Irán reivindica ataques a bases de EE.UU. en Bahréin, Jordania e Irak y promete represalias; petróleo sube, Brent >$95."
   ]
 }
