@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "362c6ed89cc4964f1e07dcb0265fe4f934c53db25c6a94a05876ca9536ccc170",
-    "6b21a4544e2a482531c9eb76ede1b9c9f4d682aadedf2da4b780dd274596ecaa",
-    "d715a71bb592c837125869c369d87b706c8ae6d7b974a3e47ba346ce048f6db3",
-    "c4c51cad8a958a660ba6313af0f2f354b0199d1554fc76f7689abc364d79d491",
-    "010a4b1403f72a2033af036004d8a32b95c0001b14d719c6c7e12b7675cf8b8c",
     "14e11e085e7d5fb2fef900eadf7585364ddc11586f3b54f68b15c6d4a8966743",
     "433fcd5a364944820274c0c662bf5838fd985f827fece71d48860a3f858ce34c",
     "368f474e216b2a6bbc3f9e0420968176838c76e18fc7a690cce97cf7ae0e016b",
@@ -499,10 +494,14 @@
     "e091b7be0fb9ab778bf04f1fdd24c8f12713f908d67abc49550198ded7d51d40",
     "879649b38f2052d17fc5ca3f0ad57dd602965e9b5df7461fad6a530d2da85276",
     "c5aa5d27103228454123fc9222fe5c7585d3ff29f5627ff034f05b8b8c7aa0f8",
-    "d3512383b6091b362e3a50f435b6f1396b5723669b740b759b83764cb980a5c6"
+    "d3512383b6091b362e3a50f435b6f1396b5723669b740b759b83764cb980a5c6",
+    "b0f674c5f5c101bd767aed0f21b805ec2167ea2b5b666afed9821ae93c6e8f03",
+    "6e7c4dc39a8c16efe58a52a1f74ce83341104230e8ba6b87e5bbb8a481cbf409",
+    "8c35f4626163e4b444a9c263e30162065df71a890a064306b5fbd3dd77f52ddb",
+    "bbc3c5e540fbce98d3d24ca2b24bed2dc184b8e9f182c030ddcb79685e7c3afe",
+    "31ee4d19bd94731e630cce3ded3ef667f3ea966d232adbced4c645ef8352122e"
   ],
   "seen_summaries": [
-    "Irán confirma que conversaciones con Omán sobre Ormuz están en fase final y que se acordaron coordenadas de ruta, acercando un acuerdo para reabrir el estrecho.",
     "Irán dice que EE.UU. está listo para retomar compromisos y Trump afirma que acuerdo está cerca, pese a negativa iraní de negociar directamente; refuerza expectativa de desescalada y baja precios.",
     "Irán y Omán cerca de acuerdo final para gestión conjunta de Ormuz, con Brent bajo $80; avance concreto reduce prima de riesgo.",
     "UAE mantiene exportaciones de crudo a niveles pre-crisis usando oleoductos, transbordos y modo oscuro para evadir bloqueo de Ormuz; reduce presión sobre oferta y riesgo de suministro.",
@@ -701,6 +700,7 @@
     "2 sep 2026: EE.UU. lanza nueva ola de ataques contra sitios del IRGC en Irán (incluyendo ataque con víctimas civiles en Sirik); Irán reivindica ataques a bases de EE.UU. en Bahréin, Jordania e Irak y promete represalias; petróleo sube, Brent >$95.",
     "2 sep 2026: Irán ataca bases de EE.UU. en Bahréin, Jordania e Irak pese a amenazas de Trump; tráfico de petroleros en Ormuz cae a 4/día y varios buques usan modo oscuro, escalada militar activa y riesgo de oferta alto.",
     "2 sep 2026: EE.UU. bombardea boda en Sirik (Irán) con víctimas civiles; Irán ataca bases de EE.UU. en Kuwait, Baréin y Jordania, escalada militar directa que eleva riesgo de oferta y presiona precios al alza.",
-    "2 sep 2026: Tráfico en Ormuz cae a 4 buques/día, Arabia Saudita confirma 2 muertos en ataque iraní al Sidr; Xi propone marco de seguridad regional en Egipto, señales mixtas al alza (escalada) y a la baja (diplomacia)."
+    "2 sep 2026: Tráfico en Ormuz cae a 4 buques/día, Arabia Saudita confirma 2 muertos en ataque iraní al Sidr; Xi propone marco de seguridad regional en Egipto, señales mixtas al alza (escalada) y a la baja (diplomacia).",
+    "2 sep 2026: Netanyahu declara que Israel trabaja para derrocar al gobierno iraní, sumando un nuevo actor militar contra Irán; Trump sugiere renombrar Ormuz y afirma que está bajo control de EE.UU. pese a ataques diarios, manteniendo escalada y riesgo de oferta al alza."
   ]
 }
