@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "1a75c330ba7af176503d447cc2d4b83c5ea036141e493b9f48445e870e67c487",
-    "48e2821b7d842889c5b0d9a7b26d1aaf4dfe498ed3f8ba7021304a3392c03375",
     "f49cc5ced24e539c9e4f7e223a8ff54159a24367200f7330fd17bc93b4f4f0e2",
     "8e38c7fc142c68ec11b6b0398e5576695a6dcc6de4474adb5d9a145a6db50022",
     "0268c2719c0e2cf6c0d4a08eb0bff05ca59fd4e6c50ed719f5b954783643d24d",
@@ -499,7 +497,9 @@
     "c78152a405acb0b6f5f29fe9525432b79c025ed150896667ca657bc9a828bc0d",
     "e0da6630b1a9c05ebb8407bb6c6de3064c47b53d88ce5123010a79addfebce92",
     "e464946c4def6b90552a92e3311aa2418d058704cc4d8886d30fabcb1184e7ed",
-    "364d496b9373c9174ac6bb056e6f84a40ad9bdb58b437bcc9df958c55fd689c9"
+    "364d496b9373c9174ac6bb056e6f84a40ad9bdb58b437bcc9df958c55fd689c9",
+    "38a665b9f95c489bb275e45119eaaff7713a17b7b5ca109d8bf5c3bc98c61a11",
+    "c5887ce618c57df04439b204c432a7e214683867976ad02ad1774d250bb4af4d"
   ],
   "seen_summaries": [
     "Trump dice que acuerdo sobre Ormuz podría cerrarse el miércoles, pero tráfico de petroleros sigue muy bajo (5 cruces), señalando que la desescalada aún no se refleja en flujos reales.",
