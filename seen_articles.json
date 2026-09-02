@@ -1,15 +1,5 @@
 {
   "seen_hashes": [
-    "185900087f68d7c926a793154912448d076686ce57570a11b46021e9715fdc00",
-    "b500deee8597b50b9c41615401a7eec4ff5d28ab5c4d7a8009e5aa07379c96f8",
-    "62c853ec1f89e34473b1393c803ef25baffb19f57bae0e141fd61c0602c69ea0",
-    "053faf30baa5ddd572bb1df87b1921e848933a0416c8faaf0695e6819921040d",
-    "7639fc85c2a7c935f3c22641b207dc523f89841afda633a5ab614e7fdf6cb4cc",
-    "423a58d8b08911ddd617a021cc3cfa479d7064ee97a0412706f5feae2213b634",
-    "65db4253dd05287faa67225fc1cf0370b2084f2223dd6d09ebb9a886b434228c",
-    "83695d6ed02d20ea810d9b8162f380fd9d9b75a5e139c08368dc1cf2552d7e02",
-    "8c83bd68bca248c270adf4be321449e3dadfdf4c275bf6e8ec15604258561b3e",
-    "903e845b69b03209781e89fc0863b526b00bc85a6ac816251e3ffa6613bf95af",
     "e7cb68a91f163fc5c32ac610cd660e877c35c3eda68f793c6b86fbbcf79d1044",
     "4e3067d13cd2a9a6b22e4dac175bff356f59f07e1b556f3eaa331579d98f232b",
     "f21eaf3f673f83725f30a4d55a767015a28c11e080282321458e1f207e5d7f03",
@@ -499,10 +489,19 @@
     "3c3f65a8fd7ebc8f1f9e2adcea34e384184ac9f20b2bfee2ef7f556bcadf305d",
     "d1abf83e7a45d2db3e1e4423c83877f6fd0dba162dd9f2aff35ef186d0fde5d4",
     "e62f9ba51af53f5bace6d4ec5f1e3c795c1373fdeb4cad1aef5d5c7ffc43020c",
-    "d275e4cb11b272df6db345f07c45887b2b6e56f5cc6316c7bb484406bb63b422"
+    "d275e4cb11b272df6db345f07c45887b2b6e56f5cc6316c7bb484406bb63b422",
+    "8eec50abd35f667261de0f931af1431599fb2eb05e80b861893a952c9ea9345f",
+    "488d621ea0a6dba53e42fb66e1f7ce718ad892f26e5e31deeb73d77c0cbeb8fb",
+    "64c5e19eef149967a1988d78ca45c6f631b1e85e5faa0e4dfb89a887217040db",
+    "545b9b72d4a78ca10c8a9112bcb7270b20b33f2fb550ca7038bad54fde35ea54",
+    "04ff144c15d706e524f4f0485dc252a0ff44e127fb706c844fea231596eff180",
+    "8c3c777803c54eaebf978b559b9c0c827a04d69cae499a4572f83b660ec91928",
+    "f6464ac921452f0800d428a3b139fff90808303a2bbf73a9942d3eabf07b428e",
+    "9a75cb7a8660f63ff200cabcd84c98e40078c55c761f3ae99bc4e98ed505e6c3",
+    "995b17bf27c76d2629a7bddf404998f801edf235cc5c96535c290ae85d02116c",
+    "d1cb15806c93cd9e40a9eb1243dd4c389fff8a14d0f75b18ce952340c715dda6"
   ],
   "seen_summaries": [
-    "Hutíes hunden petrolero con crudo saudí en el Mar Rojo (4 ago 2026) y Trump advierte de 'golpe duro' si no hay acuerdo con Irán, elevando riesgo de suministro.",
     "Hutíes afirman haber alcanzado con misiles balísticos al petrolero saudí 'Wafaa' en el Mar Rojo el 5 de agosto de 2026, confirmando amenaza activa a la navegación en Bab el-Mandeb y elevando riesgo de suministro.",
     "Borrador de acuerdo para reabrir Ormuz completado por Irán y Omán, pendiente de aprobación de Jamenei; posible firma en 48 horas según EE.UU.",
     "Irán confirma que conversaciones con Omán sobre Ormuz están en fase final y que se acordaron coordenadas de ruta, acercando un acuerdo para reabrir el estrecho.",
@@ -701,6 +700,7 @@
     "1 sep 2026: EE.UU. lanza nuevos ataques contra Irán tras ataques iraníes a bases en Jordania; escalada militar directa presiona precios al alza.",
     "1 sep 2026: CENTCOM confirma inicio de ataques militares de EE.UU. contra objetivos en Irán, escalada directa que eleva riesgo de oferta en Ormuz y presiona precios al alza.",
     "1 sep 2026: EE.UU. enviará a su secretario de Energía a Venezuela para presentar acuerdo petrolero de 65 mil millones de barriles, respaldado por el parlamento venezolano, señal de mayor oferta y presión bajista en precios.",
-    "2 sep 2026: EE.UU. lanza nueva ola de ataques contra sitios del IRGC en Irán (incluyendo ataque con víctimas civiles en Sirik); Irán reivindica ataques a bases de EE.UU. en Bahréin, Jordania e Irak y promete represalias; petróleo sube, Brent >$95."
+    "2 sep 2026: EE.UU. lanza nueva ola de ataques contra sitios del IRGC en Irán (incluyendo ataque con víctimas civiles en Sirik); Irán reivindica ataques a bases de EE.UU. en Bahréin, Jordania e Irak y promete represalias; petróleo sube, Brent >$95.",
+    "2 sep 2026: Irán ataca bases de EE.UU. en Bahréin, Jordania e Irak pese a amenazas de Trump; tráfico de petroleros en Ormuz cae a 4/día y varios buques usan modo oscuro, escalada militar activa y riesgo de oferta alto."
   ]
 }
