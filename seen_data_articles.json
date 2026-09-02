@@ -233,7 +233,12 @@
     "74a46efb9efe82c27d6da22f1becc758699cc1a453fb672f84175464696f862d",
     "41bc42288a8d77c770eef81510b70bcd198acb09aac94833abcc148f1ab2489c",
     "e9033e14ef39d55c4ca13e713cd5e5d99a15a3d7b6fde60333bc047570bbef8a",
-    "da26de7db5c6afd74351b81a074a6b519aee4954f089baad9067dfd495934640"
+    "da26de7db5c6afd74351b81a074a6b519aee4954f089baad9067dfd495934640",
+    "f8e3c4dfb1bf258ef60bc2691eff25434126500bc83ebf25d8a9b7ff32898586",
+    "75e43dc4ec699fcef0a3c8051baa7d473584af820be5a0739d08913982b68527",
+    "63b6d4430875de3ee2a02bc404c465502024c55faf0d8ed89f846af1d3a210a0",
+    "71d029bf29d9be0cb82823f52c564199b38c7ba32e73e2caf10f6d002b5491ce",
+    "248b821cd632ba7a9a963caa0cc945c0545e4d42b36641a9471694ea57c9fb9b"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -277,6 +282,7 @@
     "Python Data Classes avanzadas: validación, atributos computados, inmutabilidad y optimización de memoria | Técnicas de dataclasses más allá del boilerplate para pipelines de datos",
     "10 reglas operativas para agentes de codificación AI | Preguntas de liderazgo para escalar IA empresarial | Pensamiento vectorizado en Python para eficiencia computacional",
     "vLLM como estándar en PyTorch Conference 2026 con KV cache y serving disaggregado | Stack local completo para SLMs productivos con selección de herramientas por capa | 5 técnicas de quantización y pruning para reducción de costos en LLMs en producción | Interpretabilidad de embeddings con Scikit-LLM usando probing, UMAP y SHAP para clasificación de texto",
-    "DSpark speculative decoding para acelerar inferencia LLM local con llama.cpp y CUDA | Pipeline unificado en scikit-learn combinando embeddings de LLM con features tabulares"
+    "DSpark speculative decoding para acelerar inferencia LLM local con llama.cpp y CUDA | Pipeline unificado en scikit-learn combinando embeddings de LLM con features tabulares",
+    "FireDucks librería pandas acelerada 20x con ejecución lazy y compilación | Patrones prácticos de memoria para agentes AI: qué funciona y que falla en implementaciones reales | Casos de uso de agentic AI empresarial en SRE, finanzas y seguridad con restricciones deterministas | Guía para decodificar nomenclatura de modelos LLM open-source (tamaño, cuantización, fecha) | PyTorch Conference 2026 con sesiones de agentes en producción y agentes que construyen PyTorch"
   ]
 }
