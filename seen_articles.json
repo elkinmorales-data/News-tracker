@@ -1,14 +1,5 @@
 {
   "seen_hashes": [
-    "b5b14cfd097b644bc54cdb8e65d4f098b65d24b9fe954429cb696d552d030720",
-    "fa9a469ffb080f130ed33db787565a88aaa1b31a4e59494f2c6c612739ff1723",
-    "d50f47bfb5566bff9e54ee85aca573cdcdde483b692f83977481f34028bce9de",
-    "e8f76919d1ebf96f6a8f58c0b6dadf600f2ace1563ef035aa5ea07c6778347b9",
-    "5556e0c3100be2725539cf5406a3beac10cee7b10344828cc48c5bf1349549d0",
-    "d76f17ccdfea02eec51a98147e2bb3a4d3be4103b594706c9086b2fcc96efa2f",
-    "36f057ec1ddeede0a91d5199f0d05ef003cc068c8096720c133d3cb251d400b6",
-    "4f3cbda7637f6cdc738457bcfe9c6ced40554dbd3d7c31c5e2331fbfb64421f7",
-    "bc24714ad111c8332402e6af953a9476eb6835c7ee2322e8f3ae07d860e5477d",
     "b972477fc0123572e26e2b9d768ffdc34b58970fcfba3f0988360f9a314f6005",
     "110e85ac86c82a0632382843aaa14c91cdaf2a47d6165a322daa32089da6aa20",
     "c21c60cab0533b5533c91b33758f8a278bdb6b373f58b27549a8484d1c76e858",
@@ -499,10 +490,18 @@
     "781ccaa8e21f8ed04060a9933601f44c9df2e0aad670f5a640cc222991353603",
     "3bc6af587693d4b6a90a06cd290d96677d3ab072d2b3ff2f8a2ed3ac24049a52",
     "42e5c54f1cf35d4088e7513e0307b31ffd2065dc0d60b09153de4fcc1b44e88e",
-    "acfcbbebb1d3c962bb96b592885aab32f2cf5418d27c6beb6df2e72baff8a656"
+    "acfcbbebb1d3c962bb96b592885aab32f2cf5418d27c6beb6df2e72baff8a656",
+    "4c28cad2dee99a3ae0e84a262266d88e8c90ad154692a536fa15e1b8947f886a",
+    "eb0e87ae00a7beda5d0a5009a198fa3c5c490716a5b4af6765d09e9bad645799",
+    "2197e8bcdc9f66183036cc377b1568c39e7212c62c8e102900919a8fc3c594b0",
+    "fe7d1580c491c5d9311605c994328ebf83e4878e70948daaab4d3fdd26908ced",
+    "4a0d03534debe664c02feb8e9c003837edba9651000dd235eba11fa53697cb8e",
+    "0a1cb35e032b16ecde0dc6750226ab4a334e0f18c31fb1445188ebe6208d3e41",
+    "3c5a5c91ffd8c7324de2dba5a807b942d35329738d4e1711a17b2956d1b3f978",
+    "8665463c8f2106cb244fc5b39aa95e898e46402812cdf5fc5fb44a7d5286697f",
+    "4477975114d718729dd93344ba333e85b906dda013ad71e7e0ba2a6ef22b64fb"
   ],
   "seen_summaries": [
-    "Borrador de acuerdo para reabrir Ormuz completado por Irán y Omán, pendiente de aprobación de Jamenei; posible firma en 48 horas según EE.UU.",
     "Irán confirma que conversaciones con Omán sobre Ormuz están en fase final y que se acordaron coordenadas de ruta, acercando un acuerdo para reabrir el estrecho.",
     "Irán dice que EE.UU. está listo para retomar compromisos y Trump afirma que acuerdo está cerca, pese a negativa iraní de negociar directamente; refuerza expectativa de desescalada y baja precios.",
     "Irán y Omán cerca de acuerdo final para gestión conjunta de Ormuz, con Brent bajo $80; avance concreto reduce prima de riesgo.",
@@ -701,6 +700,7 @@
     "1 sep 2026: EE.UU. enviará a su secretario de Energía a Venezuela para presentar acuerdo petrolero de 65 mil millones de barriles, respaldado por el parlamento venezolano, señal de mayor oferta y presión bajista en precios.",
     "2 sep 2026: EE.UU. lanza nueva ola de ataques contra sitios del IRGC en Irán (incluyendo ataque con víctimas civiles en Sirik); Irán reivindica ataques a bases de EE.UU. en Bahréin, Jordania e Irak y promete represalias; petróleo sube, Brent >$95.",
     "2 sep 2026: Irán ataca bases de EE.UU. en Bahréin, Jordania e Irak pese a amenazas de Trump; tráfico de petroleros en Ormuz cae a 4/día y varios buques usan modo oscuro, escalada militar activa y riesgo de oferta alto.",
-    "2 sep 2026: EE.UU. bombardea boda en Sirik (Irán) con víctimas civiles; Irán ataca bases de EE.UU. en Kuwait, Baréin y Jordania, escalada militar directa que eleva riesgo de oferta y presiona precios al alza."
+    "2 sep 2026: EE.UU. bombardea boda en Sirik (Irán) con víctimas civiles; Irán ataca bases de EE.UU. en Kuwait, Baréin y Jordania, escalada militar directa que eleva riesgo de oferta y presiona precios al alza.",
+    "2 sep 2026: Tráfico en Ormuz cae a 4 buques/día, Arabia Saudita confirma 2 muertos en ataque iraní al Sidr; Xi propone marco de seguridad regional en Egipto, señales mixtas al alza (escalada) y a la baja (diplomacia)."
   ]
 }
