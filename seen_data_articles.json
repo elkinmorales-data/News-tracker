@@ -238,7 +238,12 @@
     "75e43dc4ec699fcef0a3c8051baa7d473584af820be5a0739d08913982b68527",
     "63b6d4430875de3ee2a02bc404c465502024c55faf0d8ed89f846af1d3a210a0",
     "71d029bf29d9be0cb82823f52c564199b38c7ba32e73e2caf10f6d002b5491ce",
-    "248b821cd632ba7a9a963caa0cc945c0545e4d42b36641a9471694ea57c9fb9b"
+    "248b821cd632ba7a9a963caa0cc945c0545e4d42b36641a9471694ea57c9fb9b",
+    "31173b8b30380d9ff76b1248aeab62769b89d26639842cb98e0da14b217a736e",
+    "81434a39e38d4ab3fe0f86fadb41a16369547c523500402ad8e3bbea84d8ebd0",
+    "426e83f3e8d27954ee4cee87e3773eb0ce8f5245977613b04cc7490a4a273682",
+    "30055d0ceb88d06c899140cd08573a403f7a1589a8f2c00c947200e265edca5f",
+    "a842708995f8cf7ed5fc7d3a0e279d684e9650aef0e8a2d50f231567b92aa42a"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -283,6 +288,7 @@
     "10 reglas operativas para agentes de codificación AI | Preguntas de liderazgo para escalar IA empresarial | Pensamiento vectorizado en Python para eficiencia computacional",
     "vLLM como estándar en PyTorch Conference 2026 con KV cache y serving disaggregado | Stack local completo para SLMs productivos con selección de herramientas por capa | 5 técnicas de quantización y pruning para reducción de costos en LLMs en producción | Interpretabilidad de embeddings con Scikit-LLM usando probing, UMAP y SHAP para clasificación de texto",
     "DSpark speculative decoding para acelerar inferencia LLM local con llama.cpp y CUDA | Pipeline unificado en scikit-learn combinando embeddings de LLM con features tabulares",
-    "FireDucks librería pandas acelerada 20x con ejecución lazy y compilación | Patrones prácticos de memoria para agentes AI: qué funciona y que falla en implementaciones reales | Casos de uso de agentic AI empresarial en SRE, finanzas y seguridad con restricciones deterministas | Guía para decodificar nomenclatura de modelos LLM open-source (tamaño, cuantización, fecha) | PyTorch Conference 2026 con sesiones de agentes en producción y agentes que construyen PyTorch"
+    "FireDucks librería pandas acelerada 20x con ejecución lazy y compilación | Patrones prácticos de memoria para agentes AI: qué funciona y que falla en implementaciones reales | Casos de uso de agentic AI empresarial en SRE, finanzas y seguridad con restricciones deterministas | Guía para decodificar nomenclatura de modelos LLM open-source (tamaño, cuantización, fecha) | PyTorch Conference 2026 con sesiones de agentes en producción y agentes que construyen PyTorch",
+    "OpenCode arquitectura interna y trade-offs versus Claude Code | PyTorch 2.14 NVGEMM integración CuTeDSL CUTLASS kernels en Inductor con epilogue fusion | Errores sistemáticos de LLMs en análisis de datos con ChatGPT en 3 datasets y necesidad de validación humana | Guía Single-Agent vs Multi-Agent para decidir cuándo la complejidad vale la pena en sistemas agentic"
   ]
 }
