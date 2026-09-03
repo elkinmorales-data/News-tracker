@@ -1,14 +1,5 @@
 {
   "seen_hashes": [
-    "04f0ec094a51362ca7dda6f7650a8b7c08eb3bae668e7367ba4a524c020e8865",
-    "3172e069a352017fe9b18bfedc281e172a25d9d5c4151b494defe65edaae81b9",
-    "3f6bbd04ad5b5d1c0c91038ba9d1bbde33d92775a132a665d0c91cdba72da564",
-    "aaf23203a12ccee538cb0e82b79ac7ed458985a43ca1e21967a44ea7e0a6a98b",
-    "cd58b0d789c883f527d4edad75bb35349bcd465d936d6b1d225110fc0720c083",
-    "fd276681e59401d4e8c09380ce81bb73a0714ff2ab786de30539e6e30309c233",
-    "c9d3fb30c5cd0885c16e25f47e03033eb3dc291ff5603d37cfbeb4affcde9b78",
-    "cba44a0ec37bbab84ba10526bbbf4ac5a70cc1aebcf095e9dd739f5066c66307",
-    "9be713c91cbbaf7d349ab1e59115049fdb7a6257863a3f54635da1235aa62284",
     "112c8705aa75234d13fbffdb797a27eb211b64312d88e31c1459d9a21c21a420",
     "79b95bd7e7f0c0d65684d098e8f146a6d78cb95ddfad4145e461c905e450095f",
     "c1d62747c21c48c6d1e8de5751ef98b387d7ed65fe52f7efed7ceac7f5b962da",
@@ -499,10 +490,18 @@
     "f5a8986ae69f568cd38aa6d16da86944bd20dabf154530ec06e7763cb8024bd2",
     "0a55f52632a1845d2e2f73aaeb5ecf25ac2b0c530f95538eb21541548eafe24f",
     "a06b015f5b90306e80508568c59bb7fae4733f699b14353a6aba516f311380ae",
-    "ac3a597da49d0920a37b7d2ce329800d1c4334f6163a18d1295753e350b75ee1"
+    "ac3a597da49d0920a37b7d2ce329800d1c4334f6163a18d1295753e350b75ee1",
+    "f5b9cee0cf1d974fee620eea867a126b07249e20279b53ec2f4c8d358e0ebaec",
+    "75f7b8de667a8f56d847362f219d962ec98af6bf370c6905463f2b39c5d6bba0",
+    "4256582254287d7bc41840e28b1826df4ad85a8ead4b7b26ef40848981ebb724",
+    "50083213f11d6986a174877b20fd01132fd6e8cd740667ebb58606a06166ba47",
+    "8cd39a6d726d11f184d17027fa0774af7683fd077771566f0e26369fbc2c5297",
+    "d5bfb3480e03b1cc998542bec68dd111881f81492ee7fb016208faeda8738556",
+    "30f8cef7b2985e9158ca1650dd33de585fac584cf74458393c1541d91b8e6638",
+    "4de0c424f66e3839e01761fc72dc99792d7a16780607285b28bc6bb04511ab8f",
+    "d9a134ecb09f15634cd907fd930a17b806f9484c177ba117eb8ab604cbb97d28"
   ],
   "seen_summaries": [
-    "UAE mantiene exportaciones de crudo a niveles pre-crisis usando oleoductos, transbordos y modo oscuro para evadir bloqueo de Ormuz; reduce presión sobre oferta y riesgo de suministro.",
     "Tráfico marítimo en Ormuz colapsa a 2 cruces y Bab el-Mandeb a 1 tras ataque hutí a petrolero saudí; Irán y Omán acuerdan coordenadas para reapertura pero flujos aún no se recuperan, manteniendo riesgo de oferta.",
     "Irán publica plan restrictivo para Ormuz (6 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste.",
     "Irán publica plan restrictivo para Ormuz (7 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste.",
@@ -701,6 +700,7 @@
     "2 sep 2026: Tráfico en Ormuz cae a 4 buques/día, Arabia Saudita confirma 2 muertos en ataque iraní al Sidr; Xi propone marco de seguridad regional en Egipto, señales mixtas al alza (escalada) y a la baja (diplomacia).",
     "2 sep 2026: Netanyahu declara que Israel trabaja para derrocar al gobierno iraní, sumando un nuevo actor militar contra Irán; Trump sugiere renombrar Ormuz y afirma que está bajo control de EE.UU. pese a ataques diarios, manteniendo escalada y riesgo de oferta al alza.",
     "3 sep 2026: Trump dice que choques con Irán no durarán 'demasiado' y mantiene control de Ormuz; senador Tillis pide destituir a Hegseth por gestión militar, señales mixtas de desescalada y turbulencia política en EE.UU.",
-    "3 sep 2026: Irán ataca Kuwait con misiles y drones; Trump amenaza con más ataques y muertos en Irán suben a 18; escalada militar se expande a Kuwait, elevando riesgo de oferta."
+    "3 sep 2026: Irán ataca Kuwait con misiles y drones; Trump amenaza con más ataques y muertos en Irán suben a 18; escalada militar se expande a Kuwait, elevando riesgo de oferta.",
+    "3 sep 2026: Irán ataca Kuwait con misiles y drones; Trump amenaza con más ataques; petróleo y LNG suben por escalada en Ormuz."
   ]
 }
