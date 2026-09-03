@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "2718b4b51988da49d971e243260b0f6a1c1d93dddc309af63025698b5af6074b",
-    "8ec4a50a96a082f85cae2f6b772c05ad6a9bc027457e69061906fcedd85e6ef8",
-    "c8392820754e33190152a5ff307927bede3781aed39fb31993698995ab192470",
-    "1c99efa710fb545e5803dd43271b5d7af5b04e1a146c0910a7d5933acadc2cd2",
-    "5215da8374e71360f8aed84f893b0895bf2d46c1450c66ea4cd541d599f81033",
-    "f427ede6399c2ab0c6a4d4f6cf860feeb4c2a894812fb0b88cf555418356f698",
     "6169b00a1c5c1bc946ed46267644931376c7d8bd38f3e755695a6403fbef9321",
     "3b1df3d64e8df75fcedb580a7a98b2b4a123539b813639008d16d121c0a2adb1",
     "7ddc4db33e0336495ef7c88e80fb6daa10c6ba809a0542a5a85289a5e7a36689",
@@ -499,10 +493,15 @@
     "7dccbe9b04d734b88febfe98e4ffc412f4c5ef797596d92a8447ebf0fe5706b4",
     "76e0a06d5a406ebb473a0a90be0de7626860167cb20fb1992c817a0511f0c51d",
     "f3511bcc4da11a79171497c609ebb64182d1e6140c1917d3cb968832bf7d4dd9",
-    "3e131957f4971a402a3f1873e084afa057bfb775956e7064082c927ffea94b8e"
+    "3e131957f4971a402a3f1873e084afa057bfb775956e7064082c927ffea94b8e",
+    "c62cad3ddc361b920d3472b33c83bff7edec561585aa9cd1dc1fe85f97309af2",
+    "70864c4a1d47064bb9da7b2efae4b19a0ee50e82c8b6e1e0d25d1e9e5e1d337d",
+    "0b48429adef1be657e12a001a761f4cab3e861df2d2faa4bd9036bc2aec4f31a",
+    "c94eb615858e7c7660fa2093bdac9299308b32ea6b1a3ec894825e820c340806",
+    "2b9dfe518ae4f672c96db5d231e4ccd91edf6ac804ed513d21cc00c29f3bd6aa",
+    "e59973b4ff9a9dfc26c4b29553fa313ee8150c8008dc3b4075b08aabec488f4f"
   ],
   "seen_summaries": [
-    "Tráfico marítimo en Ormuz colapsa a 2 cruces y Bab el-Mandeb a 1 tras ataque hutí a petrolero saudí; Irán y Omán acuerdan coordenadas para reapertura pero flujos aún no se recuperan, manteniendo riesgo de oferta.",
     "Irán publica plan restrictivo para Ormuz (6 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste.",
     "Irán publica plan restrictivo para Ormuz (7 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste.",
     "AP reporta que acuerdo sobre Ormuz requeriría concesiones de Trump, añadiendo incertidumbre sobre desenlace y prima de riesgo petrolero.",
@@ -701,6 +700,7 @@
     "2 sep 2026: Netanyahu declara que Israel trabaja para derrocar al gobierno iraní, sumando un nuevo actor militar contra Irán; Trump sugiere renombrar Ormuz y afirma que está bajo control de EE.UU. pese a ataques diarios, manteniendo escalada y riesgo de oferta al alza.",
     "3 sep 2026: Trump dice que choques con Irán no durarán 'demasiado' y mantiene control de Ormuz; senador Tillis pide destituir a Hegseth por gestión militar, señales mixtas de desescalada y turbulencia política en EE.UU.",
     "3 sep 2026: Irán ataca Kuwait con misiles y drones; Trump amenaza con más ataques y muertos en Irán suben a 18; escalada militar se expande a Kuwait, elevando riesgo de oferta.",
-    "3 sep 2026: Irán ataca Kuwait con misiles y drones; Trump amenaza con más ataques; petróleo y LNG suben por escalada en Ormuz."
+    "3 sep 2026: Irán ataca Kuwait con misiles y drones; Trump amenaza con más ataques; petróleo y LNG suben por escalada en Ormuz.",
+    "3 sep 2026: Dron iraní daña edificio en Kuwait City; datos contradicen afirmación de EE.UU. sobre 30 barcos/día en Ormuz, confirmando restricción mayor a la oficial y elevando riesgo de oferta."
   ]
 }
