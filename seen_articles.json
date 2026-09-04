@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "71ad8c19dd1a5551e42ab1cfcc833a4eae39ff5097f3b91bdffff7d44de0e4f3",
-    "44705ee02e8387547e64cb85d81880c7b9292d8919896140d3aabfe2a08e79b4",
-    "9c9a31bec2ff4ea5e6bce98c974431b1cca87c1680b1e3e0d083a6afd6f268c8",
-    "6bf5d2646aaef5424b5c9d04eadf7727ffedbbedcabbad985004fdfa0c67e1ef",
     "6ac2475320a6cbad349b6ce362ea3279428f98d434f19f41de104c570b46a619",
     "1f31369e2dd5e40baabdd50d5a29e34c8cfb622070b30ee679907f7d9bfef913",
     "04131e59d8d4f13a31e7b00b6c092b88163f2ae959bbe501954ffa4c2857225d",
@@ -499,10 +495,13 @@
     "3f571c4c8e0edff508c967d14f69c4cf654ec1c749e64cf1f50f41b67e64a5e3",
     "d3d81272095743c7afe804df920e699d6fd558a84bd1696a205e97251cd77dd7",
     "67327dd9cd8d652f2c34f9f0d9ab02f9f3a4f94f7370e3b1c83c9856c0f556c1",
-    "247d41b5ddc302e61355ab930eabcfe796f3a18c54d171fbba533653365bb884"
+    "247d41b5ddc302e61355ab930eabcfe796f3a18c54d171fbba533653365bb884",
+    "d559f9bb2acec6c5e61ee99c291240ded201df1c2b0bb72cc7d2de40e0f37156",
+    "fee0332927fc415dee10e6bbb3f460debe00aa3f49576939e7112f8a8fa0647d",
+    "74ba33d13a860ef7551edafec1b3b5580bc5baca3dde0ffa206b3292476a85f5",
+    "3fe98a19166d4ebeba9ee4e6d6e686a99b4f57728e78e9549a4e7278225120fb"
   ],
   "seen_summaries": [
-    "Hutíes atacan Najran (11 muertos) e Irán estudia prohibir buques hostiles en Ormuz con multas, elevando riesgo de suministro y precios.",
     "Rusia importó 30,000 toneladas de combustibles de Corea del Sur en julio por caída de refinación a mínimo de 24 años tras ataques ucranianos, confirmando disrupción de oferta rusa.",
     "Tráfico en Ormuz cae drásticamente: 33 buques en cuatro días (vs 50 la semana previa), 4 el jueves, confirmando disrupción persistente pese a conversaciones.",
     "Europa duda en sumarse a coalición naval en Ormuz por temor a confrontación con Irán, debilitando presión militar y manteniendo incertidumbre sobre reapertura del estrecho.",
@@ -701,6 +700,7 @@
     "3 sep 2026: Dron iraní daña edificio en Kuwait City; datos contradicen afirmación de EE.UU. sobre 30 barcos/día en Ormuz, confirmando restricción mayor a la oficial y elevando riesgo de oferta.",
     "4 sep 2026: EE.UU. descarta negociar con Irán hasta que cesen ataques a buques; UE amplía sanciones contra Irán y Corea del Sur evalúa despliegue en Ormuz, mientras Vance minimiza conflicto, elevando riesgo de oferta y presión alcista en petróleo.",
     "4 sep 2026: Milei amenaza con sanciones a petroleras en Malvinas y Trump cuestiona apoyo a Reino Unido, nuevo foco geopolítico secundario (no Oriente Medio).",
-    "4 sep 2026: Corea del Sur evalúa contribuciones militares en Ormuz y precios del petróleo suben (WTI >$91) por reescalada EE.UU.-Irán con ataques a Kuwait y supertanqueros, elevando riesgo de oferta."
+    "4 sep 2026: Corea del Sur evalúa contribuciones militares en Ormuz y precios del petróleo suben (WTI >$91) por reescalada EE.UU.-Irán con ataques a Kuwait y supertanqueros, elevando riesgo de oferta.",
+    "OIEA redacta resolución para reportar a Irán al Consejo de Seguridad de la ONU, incrementando presión diplomática y riesgo de nuevas sanciones, lo que eleva riesgo de oferta petrolera."
   ]
 }
