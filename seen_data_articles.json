@@ -243,7 +243,10 @@
     "81434a39e38d4ab3fe0f86fadb41a16369547c523500402ad8e3bbea84d8ebd0",
     "426e83f3e8d27954ee4cee87e3773eb0ce8f5245977613b04cc7490a4a273682",
     "30055d0ceb88d06c899140cd08573a403f7a1589a8f2c00c947200e265edca5f",
-    "a842708995f8cf7ed5fc7d3a0e279d684e9650aef0e8a2d50f231567b92aa42a"
+    "a842708995f8cf7ed5fc7d3a0e279d684e9650aef0e8a2d50f231567b92aa42a",
+    "86e1b9d0344c0e8e4e2d1070395f1b28563dc307af5359ddbfb4cedc91150bae",
+    "877eea7317cf86df3d3febb8b8669ce99bf70863eac4cf0b351661678e3db848",
+    "a01c17d83b7695d24af66b7311769aee3fcd684c21b346fc0c19e1bd9f218184"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -289,6 +292,7 @@
     "vLLM como estándar en PyTorch Conference 2026 con KV cache y serving disaggregado | Stack local completo para SLMs productivos con selección de herramientas por capa | 5 técnicas de quantización y pruning para reducción de costos en LLMs en producción | Interpretabilidad de embeddings con Scikit-LLM usando probing, UMAP y SHAP para clasificación de texto",
     "DSpark speculative decoding para acelerar inferencia LLM local con llama.cpp y CUDA | Pipeline unificado en scikit-learn combinando embeddings de LLM con features tabulares",
     "FireDucks librería pandas acelerada 20x con ejecución lazy y compilación | Patrones prácticos de memoria para agentes AI: qué funciona y que falla en implementaciones reales | Casos de uso de agentic AI empresarial en SRE, finanzas y seguridad con restricciones deterministas | Guía para decodificar nomenclatura de modelos LLM open-source (tamaño, cuantización, fecha) | PyTorch Conference 2026 con sesiones de agentes en producción y agentes que construyen PyTorch",
-    "OpenCode arquitectura interna y trade-offs versus Claude Code | PyTorch 2.14 NVGEMM integración CuTeDSL CUTLASS kernels en Inductor con epilogue fusion | Errores sistemáticos de LLMs en análisis de datos con ChatGPT en 3 datasets y necesidad de validación humana | Guía Single-Agent vs Multi-Agent para decidir cuándo la complejidad vale la pena en sistemas agentic"
+    "OpenCode arquitectura interna y trade-offs versus Claude Code | PyTorch 2.14 NVGEMM integración CuTeDSL CUTLASS kernels en Inductor con epilogue fusion | Errores sistemáticos de LLMs en análisis de datos con ChatGPT en 3 datasets y necesidad de validación humana | Guía Single-Agent vs Multi-Agent para decidir cuándo la complejidad vale la pena en sistemas agentic",
+    "Switchyard librería de NVIDIA para enrutamiento inteligente de modelos LLM reduciendo costos y latencia | Tendencia en GitHub repositorios dominados por herramienta de agentes y desarrollo de tooling, no modelos"
   ]
 }
