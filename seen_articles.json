@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "b9530e07b845058a26a36a454d863cf2558a2abc387159019eb05bdc1e0b8408",
-    "a75624033e67155fc5a5b658e9ef72d45ee5cd848a20157b28552e1198f683a7",
-    "b28129391e4413045448782b61533b67be1571e23f6556c9341faed41009453c",
-    "c221358ee64b43d45280d1af8f723860c1c3d8c6a64072b1edc23704be6699f5",
-    "7c07c384ede2a37a23b389a8b8cb296ac276195268f522febcb292b38d57e5f9",
-    "b50194afe387ad93e960b228226041e28a964f7781313332e17b25de899725f8",
-    "ae46aae59a4446737efe4298ce0753c04b41f2eb0b90f6f883cb58a3230919ba",
     "14ff5e5e379963e34047f369ef1189fb553ada546ebe015c50b3ae2f88e5b657",
     "ca086db2514d63f77752aafbf1027ae944e4cc35a2836a1e569600304c858f58",
     "1a604d44c66ac5d7ce08289e0bab91668047cf8a8eef997d838bd44377b2406a",
@@ -499,10 +492,16 @@
     "2308a65a810c7831681aa2e6ac29159d0a9772d2e6a430f8245647216ac5c68d",
     "62de5a9533fd1076e25449d57ad99e6cbe8bf40cab099ce00dad048bad72140f",
     "3f80348ba6d0b973f060cc6db9555dcee87612b1fd005903ce97c17df63475ac",
-    "1e6e96fe5c8b090c16bbbd1c00ac35cb0decf43ac321b988fb30b4befec3449c"
+    "1e6e96fe5c8b090c16bbbd1c00ac35cb0decf43ac321b988fb30b4befec3449c",
+    "6e225d8f83bdc4d353ea30ac3c9f0a6ec3fbf5335a1af12fdd8ed21f4d8d444e",
+    "74f83b7c6d1f0825cee3086820f1740c6a71fd387fd4d9fb45a6b3127c13a98f",
+    "0704715b23096aa0039c2dfe890ae2319964cd202be730a7b995b11a0a4d9e49",
+    "7a5d0e42ed170747055682c748ad37752c3a7ee09f96a5891b0ee457b6f3a2d8",
+    "70fb8414545dd74725a41c59e96459c3a27d292e098e7f14f390249877106b53",
+    "1ecdd987baa638963021b55883bfdb7e85ac17cf86f2cb2cac5730223ba92667",
+    "270b80f6a34d5c27357f32a55e26fe9f25e263317046441e14c40c57c9a4f9fe"
   ],
   "seen_summaries": [
-    "Irán publica plan restrictivo para Ormuz (7 ago 2026), elevando precios del petróleo y contradiciendo avances hacia acuerdo amplio; riesgo de suministro persiste.",
     "AP reporta que acuerdo sobre Ormuz requeriría concesiones de Trump, añadiendo incertidumbre sobre desenlace y prima de riesgo petrolero.",
     "Hutíes atacan Najran (11 muertos) e Irán estudia prohibir buques hostiles en Ormuz con multas, elevando riesgo de suministro y precios.",
     "Rusia importó 30,000 toneladas de combustibles de Corea del Sur en julio por caída de refinación a mínimo de 24 años tras ataques ucranianos, confirmando disrupción de oferta rusa.",
@@ -701,6 +700,7 @@
     "3 sep 2026: Irán ataca Kuwait con misiles y drones; Trump amenaza con más ataques y muertos en Irán suben a 18; escalada militar se expande a Kuwait, elevando riesgo de oferta.",
     "3 sep 2026: Irán ataca Kuwait con misiles y drones; Trump amenaza con más ataques; petróleo y LNG suben por escalada en Ormuz.",
     "3 sep 2026: Dron iraní daña edificio en Kuwait City; datos contradicen afirmación de EE.UU. sobre 30 barcos/día en Ormuz, confirmando restricción mayor a la oficial y elevando riesgo de oferta.",
-    "4 sep 2026: EE.UU. descarta negociar con Irán hasta que cesen ataques a buques; UE amplía sanciones contra Irán y Corea del Sur evalúa despliegue en Ormuz, mientras Vance minimiza conflicto, elevando riesgo de oferta y presión alcista en petróleo."
+    "4 sep 2026: EE.UU. descarta negociar con Irán hasta que cesen ataques a buques; UE amplía sanciones contra Irán y Corea del Sur evalúa despliegue en Ormuz, mientras Vance minimiza conflicto, elevando riesgo de oferta y presión alcista en petróleo.",
+    "4 sep 2026: Milei amenaza con sanciones a petroleras en Malvinas y Trump cuestiona apoyo a Reino Unido, nuevo foco geopolítico secundario (no Oriente Medio)."
   ]
 }
