@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "98b4080fb7621f35804eb4ad97d0c9bb64bd03638680156ef8384aaca99fc778",
-    "dcbaa0b358f54c3a9eb079351f20d3e47464811f7b93209100fad7401fce18c4",
-    "408b78ba751f297dd49a062e821c7c3809287c61377c0e405b7ad886a66f6aae",
-    "242f5c340c6c459da502f39c8b9102b9cdddd48b1b1592d06ecf2acc64c56e42",
     "9fa5782fcc9384c1abadfdbd3c4c4b1ffdfdcf6e3c71c854f58ae7860a27b049",
     "0da3fa7805d095150fccdf084adb1a8b83c09a7a937c0cd652e9dd5905602df3",
     "0fddbd7f375adabd1c742e06a8853326e7caa73021d7956dfa811dd3b5751be4",
@@ -499,10 +495,13 @@
     "0b64039ecc2ac68aab13e734dc8d14f685100741e23fdbcbf10aad7daf989dff",
     "9ce4b53ac43932c0bada1763808069753edb34e4c7fb9d9be95a528961119bed",
     "53d55e8323365098894443c8f299deff41dfc7db8f91191ab5ada07c68f3af70",
-    "a34ceb882d14da419743e5ea72e6cab13d9a7fa267c49ac16e07c7913ab7ac6b"
+    "a34ceb882d14da419743e5ea72e6cab13d9a7fa267c49ac16e07c7913ab7ac6b",
+    "cf16d4a022d85f95bfe17c52f49859d4aac98102389e20ff7ab320afa4695c73",
+    "aded0424b0f9b54b4905339da2d6069e3aaf7eb4ffe4d81efba8f810ff356636",
+    "efd2f07519ea39a4c02e33e42a7b5c3c22dba0aa203c6e86fc4b94bc9a451b04",
+    "1f515f6863a88d3fd1a4fe8c8bbcb2d113fed4f76e39f45c8f45f73f035d0b1d"
   ],
   "seen_summaries": [
-    "Tráfico en Ormuz cae drásticamente: 33 buques en cuatro días (vs 50 la semana previa), 4 el jueves, confirmando disrupción persistente pese a conversaciones.",
     "Europa duda en sumarse a coalición naval en Ormuz por temor a confrontación con Irán, debilitando presión militar y manteniendo incertidumbre sobre reapertura del estrecho.",
     "Irán considera ley que prohíbe buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada.",
     "Arabia Saudita emplea ruta alternativa Yanbu-SUMED-Cabo de Buena Esperanza para exportar a Asia, añadiendo $5/bbl por costos extra, confirmando disrupción persistente en Ormuz y Mar Rojo pese a negociaciones de acuerdo.",
@@ -701,6 +700,7 @@
     "4 sep 2026: Milei amenaza con sanciones a petroleras en Malvinas y Trump cuestiona apoyo a Reino Unido, nuevo foco geopolítico secundario (no Oriente Medio).",
     "4 sep 2026: Corea del Sur evalúa contribuciones militares en Ormuz y precios del petróleo suben (WTI >$91) por reescalada EE.UU.-Irán con ataques a Kuwait y supertanqueros, elevando riesgo de oferta.",
     "OIEA redacta resolución para reportar a Irán al Consejo de Seguridad de la ONU, incrementando presión diplomática y riesgo de nuevas sanciones, lo que eleva riesgo de oferta petrolera.",
-    "5 sep 2026: EE.UU. sanciona a banco turco por presuntos vínculos con el IRGC, ampliando presión financiera sobre Irán en contexto de conflicto en Ormuz, lo que eleva riesgo de oferta."
+    "5 sep 2026: EE.UU. sanciona a banco turco por presuntos vínculos con el IRGC, ampliando presión financiera sobre Irán en contexto de conflicto en Ormuz, lo que eleva riesgo de oferta.",
+    "5 sep 2026: Irán acusa a EE.UU. de atacar petrolero cerca de Kharg y Trump amenaza con atacar Pickaxe Mountain (nuclear), escalada que eleva riesgo de oferta."
   ]
 }
