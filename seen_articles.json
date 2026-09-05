@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "ef1bd0be7a8a1c5b7abe4c9457b1d2458a2aa3d1fa3134edeb9de4c71bdbc4fe",
-    "2659df263e6f473a179c660299ea2171d0d6763033bbfe153dd81ae46f570cea",
-    "5ccb092035f50d5543d63b25e16900c1ab3b6642f6a14d9b12b89155f14495b3",
-    "8d4e26a5c07ca5ef8e462e2c8d2e5aca6ded7b6afddb1a30e313a7bdde30a092",
     "98b4080fb7621f35804eb4ad97d0c9bb64bd03638680156ef8384aaca99fc778",
     "dcbaa0b358f54c3a9eb079351f20d3e47464811f7b93209100fad7401fce18c4",
     "408b78ba751f297dd49a062e821c7c3809287c61377c0e405b7ad886a66f6aae",
@@ -499,10 +495,13 @@
     "780f50f772b85d00aa58cf084d3b0c00b0eaadd4ec5d04e9cf32aa2dcc33ff2f",
     "fc83ddae3bf404580e470422f0ffa6e8a63efca236f7bf91d0cc836a1025098a",
     "8101da91933d6f12889c51b0de3b61575045c2e5f67d799cf6e0103b8cd17d08",
-    "10e754d5270775669f386a0778b668abd0e09c7109424887a9679a6ab9ee1632"
+    "10e754d5270775669f386a0778b668abd0e09c7109424887a9679a6ab9ee1632",
+    "0b64039ecc2ac68aab13e734dc8d14f685100741e23fdbcbf10aad7daf989dff",
+    "9ce4b53ac43932c0bada1763808069753edb34e4c7fb9d9be95a528961119bed",
+    "53d55e8323365098894443c8f299deff41dfc7db8f91191ab5ada07c68f3af70",
+    "a34ceb882d14da419743e5ea72e6cab13d9a7fa267c49ac16e07c7913ab7ac6b"
   ],
   "seen_summaries": [
-    "Rusia importó 30,000 toneladas de combustibles de Corea del Sur en julio por caída de refinación a mínimo de 24 años tras ataques ucranianos, confirmando disrupción de oferta rusa.",
     "Tráfico en Ormuz cae drásticamente: 33 buques en cuatro días (vs 50 la semana previa), 4 el jueves, confirmando disrupción persistente pese a conversaciones.",
     "Europa duda en sumarse a coalición naval en Ormuz por temor a confrontación con Irán, debilitando presión militar y manteniendo incertidumbre sobre reapertura del estrecho.",
     "Irán considera ley que prohíbe buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada.",
@@ -701,6 +700,7 @@
     "4 sep 2026: EE.UU. descarta negociar con Irán hasta que cesen ataques a buques; UE amplía sanciones contra Irán y Corea del Sur evalúa despliegue en Ormuz, mientras Vance minimiza conflicto, elevando riesgo de oferta y presión alcista en petróleo.",
     "4 sep 2026: Milei amenaza con sanciones a petroleras en Malvinas y Trump cuestiona apoyo a Reino Unido, nuevo foco geopolítico secundario (no Oriente Medio).",
     "4 sep 2026: Corea del Sur evalúa contribuciones militares en Ormuz y precios del petróleo suben (WTI >$91) por reescalada EE.UU.-Irán con ataques a Kuwait y supertanqueros, elevando riesgo de oferta.",
-    "OIEA redacta resolución para reportar a Irán al Consejo de Seguridad de la ONU, incrementando presión diplomática y riesgo de nuevas sanciones, lo que eleva riesgo de oferta petrolera."
+    "OIEA redacta resolución para reportar a Irán al Consejo de Seguridad de la ONU, incrementando presión diplomática y riesgo de nuevas sanciones, lo que eleva riesgo de oferta petrolera.",
+    "5 sep 2026: EE.UU. sanciona a banco turco por presuntos vínculos con el IRGC, ampliando presión financiera sobre Irán en contexto de conflicto en Ormuz, lo que eleva riesgo de oferta."
   ]
 }
