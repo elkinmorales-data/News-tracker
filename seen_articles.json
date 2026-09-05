@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "9fa5782fcc9384c1abadfdbd3c4c4b1ffdfdcf6e3c71c854f58ae7860a27b049",
-    "0da3fa7805d095150fccdf084adb1a8b83c09a7a937c0cd652e9dd5905602df3",
-    "0fddbd7f375adabd1c742e06a8853326e7caa73021d7956dfa811dd3b5751be4",
-    "38410e671a5c9d09595947dec8374320595f00f31dace8887b8f8141626a82cf",
-    "3a0c8e12620c981646ed9d18f20942c0f642be164cd66a688164acb29a8b6353",
-    "3c648cc9eef945dc424eca7ca295c0801dd77aa48752c37cb408d977c3f3b713",
     "81b2b5d8b29f14e9097dbbf389659b17364832fa4ee1732616fcbef4b1fb740e",
     "1275009607166b8f022db392cbb656fef253053201f0c9202133c5c11555fa7f",
     "f94f3913e857b8edaac3ad2a9454f2a017be57d745f5033f34952f42113ee1ee",
@@ -499,10 +493,15 @@
     "cf16d4a022d85f95bfe17c52f49859d4aac98102389e20ff7ab320afa4695c73",
     "aded0424b0f9b54b4905339da2d6069e3aaf7eb4ffe4d81efba8f810ff356636",
     "efd2f07519ea39a4c02e33e42a7b5c3c22dba0aa203c6e86fc4b94bc9a451b04",
-    "1f515f6863a88d3fd1a4fe8c8bbcb2d113fed4f76e39f45c8f45f73f035d0b1d"
+    "1f515f6863a88d3fd1a4fe8c8bbcb2d113fed4f76e39f45c8f45f73f035d0b1d",
+    "2826a636a901b417c3b3c7d7695dc92a1519daa95a6e6f1f47760ba4a60d13ac",
+    "d60d9d74f86caa4e75c9191a132b79d9b503329ab6af767ef3a7db86b281fab1",
+    "d447d4be9c01095a298efaeaba6efd98542d432c83dd1eaf7aa5ee970f36ba80",
+    "ea4d07a47d839898c2bfdaf3e386444435e029aa1c3b70eed695909b30e8ab51",
+    "93abc300132de039e7330358596b7cb6e2b9fb48668a237e12c0ced299b01fd4",
+    "ed6ae9fb62e40c36d0b366fb87cacba608661d13a106416068c8de0d89b7955e"
   ],
   "seen_summaries": [
-    "Europa duda en sumarse a coalición naval en Ormuz por temor a confrontación con Irán, debilitando presión militar y manteniendo incertidumbre sobre reapertura del estrecho.",
     "Irán considera ley que prohíbe buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada.",
     "Arabia Saudita emplea ruta alternativa Yanbu-SUMED-Cabo de Buena Esperanza para exportar a Asia, añadiendo $5/bbl por costos extra, confirmando disrupción persistente en Ormuz y Mar Rojo pese a negociaciones de acuerdo.",
     "Irán considera ley para prohibir permanentemente buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada.",
@@ -701,6 +700,7 @@
     "4 sep 2026: Corea del Sur evalúa contribuciones militares en Ormuz y precios del petróleo suben (WTI >$91) por reescalada EE.UU.-Irán con ataques a Kuwait y supertanqueros, elevando riesgo de oferta.",
     "OIEA redacta resolución para reportar a Irán al Consejo de Seguridad de la ONU, incrementando presión diplomática y riesgo de nuevas sanciones, lo que eleva riesgo de oferta petrolera.",
     "5 sep 2026: EE.UU. sanciona a banco turco por presuntos vínculos con el IRGC, ampliando presión financiera sobre Irán en contexto de conflicto en Ormuz, lo que eleva riesgo de oferta.",
-    "5 sep 2026: Irán acusa a EE.UU. de atacar petrolero cerca de Kharg y Trump amenaza con atacar Pickaxe Mountain (nuclear), escalada que eleva riesgo de oferta."
+    "5 sep 2026: Irán acusa a EE.UU. de atacar petrolero cerca de Kharg y Trump amenaza con atacar Pickaxe Mountain (nuclear), escalada que eleva riesgo de oferta.",
+    "5 sep 2026: EE.UU. ataca tres petroleros iraníes en el Golfo de Omán y cerca de Kharg, tras misiles contra buques de guerra estadounidenses; escalada directa sobre infraestructura petrolera eleva riesgo de oferta."
   ]
 }
