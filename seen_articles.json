@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "705e9a5ebf9292cf5e1c42ba01a0703d53098f28f29f6f10779acf58ff80f790",
-    "2c41c26d54cd1bf0b73e3f27f3f83e7a6f82f747bba638dddaa91f729ea222c4",
-    "ea2b4aeb990d6e1f3e398f53a22f8bb33217dc59eca35f94d0c96d5c178a8136",
-    "32761be22a705eb368a8dc46cb3540b515956d7b490b687a7dbbb626d1c50738",
-    "8630472b44fa5fe6aef9e8516a432671859afd083b03b4c78668136796c8d808",
-    "9ecbf22b9654242c743eee7eff4599de70bd705e7962dd360286954660c0443a",
     "1fbde2243413aadf666dd732ee7a88cd0375806e16adc9fee5340098aa1410ec",
     "10e998c58c73c9ea09c24b51748f2c92b0953545db6b5f7364e035dd4038d588",
     "a0cf6426c095f3fefaf23ec76cfdb820f519857d3fe4f747ef48c6ea8e459beb",
@@ -499,10 +493,15 @@
     "0b1bfdfb8d996b3a7d96db6a6a2886db9250fcbe5c0d7c41f0abaff2876751fe",
     "8b2a228a91c3477e42a793955a0d170c3efe39d68fa0faf3d198777c19a10077",
     "afafaf63d0afeaa72ce705c322c776e04fd06c738752c31ac4c25144c98aa88f",
-    "de088660f52143dc1e2f39e5db28b883eaa1309f58054e2be5aa3a26986369ec"
+    "de088660f52143dc1e2f39e5db28b883eaa1309f58054e2be5aa3a26986369ec",
+    "525936c212f6089a770820eb13f426d34634b6a25d905663dbda03cab5e76ed8",
+    "033a8d954c64d876feaea3c1e648ea41c0be3e95a5b07eb7f280c333e65aba10",
+    "c4c464f4d54f5923b5c4506391a749c28ff24445139435eec757632fe1a4bcce",
+    "aa3eecb4e3f8be933edb5fec3d7aa3fa53e3ffd8846aa10974f262f01d1c519a",
+    "b6b05afc77c8044d98035440cafc108c619ae778e2fab688460fc6ba3e4c219f",
+    "01780bee4cadee36bf7c61370a731e9ac9177936c8149f67d704efc7597b4e5d"
   ],
   "seen_summaries": [
-    "Arabia Saudita emplea ruta alternativa Yanbu-SUMED-Cabo de Buena Esperanza para exportar a Asia, añadiendo $5/bbl por costos extra, confirmando disrupción persistente en Ormuz y Mar Rojo pese a negociaciones de acuerdo.",
     "Irán considera ley para prohibir permanentemente buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada.",
     "Senado de EE.UU. aprueba sanciones energéticas integrales a Rusia (arancel 100% a importadores) y Arabia Saudita, Turquía y Pakistán firman pacto de defensa en La Meca, elevando riesgo geopolítico y presión alcista sobre el crudo.",
     "Senado de EE.UU. aprueba sanciones integrales a exportaciones energéticas de Rusia con arancel del 100% a importadores (8 ago 2026), afectando a India y China y elevando riesgo de oferta y precios.",
@@ -701,6 +700,7 @@
     "5 sep 2026: EE.UU. sanciona a banco turco por presuntos vínculos con el IRGC, ampliando presión financiera sobre Irán en contexto de conflicto en Ormuz, lo que eleva riesgo de oferta.",
     "5 sep 2026: Irán acusa a EE.UU. de atacar petrolero cerca de Kharg y Trump amenaza con atacar Pickaxe Mountain (nuclear), escalada que eleva riesgo de oferta.",
     "5 sep 2026: EE.UU. ataca tres petroleros iraníes en el Golfo de Omán y cerca de Kharg, tras misiles contra buques de guerra estadounidenses; escalada directa sobre infraestructura petrolera eleva riesgo de oferta.",
-    "6 sep 2026: Irán ataca buque no tripulado de EE.UU. en Ormuz, escalada militar directa que eleva riesgo de oferta y presiona precios al alza."
+    "6 sep 2026: Irán ataca buque no tripulado de EE.UU. en Ormuz, escalada militar directa que eleva riesgo de oferta y presiona precios al alza.",
+    "6 sep 2026: Irán advierte con represalias 'más dolorosas' y rápidas; confirma haber atacado buque no tripulado de EE.UU. esta semana; guerra de tanqueros en Ormuz continúa, elevando riesgo de oferta y presionando petróleo al alza."
   ]
 }
