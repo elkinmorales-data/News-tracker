@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "9840d2240b88fc9938d3d47fa1907a8261c632d161b0a2939eb554b58b548530",
-    "bcc36011adddd08ec9e1afe71348f2356194b3e4c276fa1479220c7cbaa79ec2",
-    "76f6d975788e15b89ec8c2af2c16786be5ce94624fa73f6dd9418332d710e54b",
-    "92f926db651fbda5022826bdc8417bbcedb40fddcacc7ad38176bae7e2896bbd",
     "705e9a5ebf9292cf5e1c42ba01a0703d53098f28f29f6f10779acf58ff80f790",
     "2c41c26d54cd1bf0b73e3f27f3f83e7a6f82f747bba638dddaa91f729ea222c4",
     "ea2b4aeb990d6e1f3e398f53a22f8bb33217dc59eca35f94d0c96d5c178a8136",
@@ -499,10 +495,13 @@
     "8730e4f247a24ad822a49addf1c641d00a8159372dba6999d41ede72f510f2b4",
     "c40c4b7fa162b371254cf7656a375fd690fb5ae4d0c16df44422e7700a5915bd",
     "1a00c8d573c9db1961263b35536351ce0a6090dd6135abf779388590ff03e289",
-    "9291424e5071b14da054ae6cddf852af0f7778f58578ecad7acd8958679d3f61"
+    "9291424e5071b14da054ae6cddf852af0f7778f58578ecad7acd8958679d3f61",
+    "0b1bfdfb8d996b3a7d96db6a6a2886db9250fcbe5c0d7c41f0abaff2876751fe",
+    "8b2a228a91c3477e42a793955a0d170c3efe39d68fa0faf3d198777c19a10077",
+    "afafaf63d0afeaa72ce705c322c776e04fd06c738752c31ac4c25144c98aa88f",
+    "de088660f52143dc1e2f39e5db28b883eaa1309f58054e2be5aa3a26986369ec"
   ],
   "seen_summaries": [
-    "Irán considera ley que prohíbe buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada.",
     "Arabia Saudita emplea ruta alternativa Yanbu-SUMED-Cabo de Buena Esperanza para exportar a Asia, añadiendo $5/bbl por costos extra, confirmando disrupción persistente en Ormuz y Mar Rojo pese a negociaciones de acuerdo.",
     "Irán considera ley para prohibir permanentemente buques de EE.UU. e Israel en Ormuz (7 ago 2026), contradiciendo narrativa de acuerdo y elevando riesgo de escalada.",
     "Senado de EE.UU. aprueba sanciones energéticas integrales a Rusia (arancel 100% a importadores) y Arabia Saudita, Turquía y Pakistán firman pacto de defensa en La Meca, elevando riesgo geopolítico y presión alcista sobre el crudo.",
@@ -701,6 +700,7 @@
     "OIEA redacta resolución para reportar a Irán al Consejo de Seguridad de la ONU, incrementando presión diplomática y riesgo de nuevas sanciones, lo que eleva riesgo de oferta petrolera.",
     "5 sep 2026: EE.UU. sanciona a banco turco por presuntos vínculos con el IRGC, ampliando presión financiera sobre Irán en contexto de conflicto en Ormuz, lo que eleva riesgo de oferta.",
     "5 sep 2026: Irán acusa a EE.UU. de atacar petrolero cerca de Kharg y Trump amenaza con atacar Pickaxe Mountain (nuclear), escalada que eleva riesgo de oferta.",
-    "5 sep 2026: EE.UU. ataca tres petroleros iraníes en el Golfo de Omán y cerca de Kharg, tras misiles contra buques de guerra estadounidenses; escalada directa sobre infraestructura petrolera eleva riesgo de oferta."
+    "5 sep 2026: EE.UU. ataca tres petroleros iraníes en el Golfo de Omán y cerca de Kharg, tras misiles contra buques de guerra estadounidenses; escalada directa sobre infraestructura petrolera eleva riesgo de oferta.",
+    "6 sep 2026: Irán ataca buque no tripulado de EE.UU. en Ormuz, escalada militar directa que eleva riesgo de oferta y presiona precios al alza."
   ]
 }
