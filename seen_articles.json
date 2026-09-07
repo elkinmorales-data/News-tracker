@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "69a9e91d61e534894baaa78292e6721c448e3118b9fae8527c16209406586a5e",
-    "6c7fd8dd1102637160a3357195377711cd36997b422c17ea4735b52a14050584",
-    "462fbca136755c8aa272b1ce5700c6dd7ef79e34c00a5350218b71ea02f83445",
     "7862d9b3703ab31eb3380ac97034448f28c2bb872299b55cf24f100a3e13af74",
     "bc4ae216b31067c6d8eaf1581d607e5ab69c67135ad9f8e8845a9afd3200fdc8",
     "a9f63272e557641956ff5a4b2454cf1e49e61f8042e423142f8fe26a879d0a5a",
@@ -499,10 +496,12 @@
     "62dc393011e611678f5bfd8ac56e1e76a3e6ee066e6c478771784ed4dded99b7",
     "556bad73d50f960abb1e0df4b59cf7f08d76873a5e6147cdd0fa09278d648f57",
     "9dd6e75bbac133af6131c7a38f3022dd97beaa0ecb3baf4bcaf868bab102641d",
-    "b3d88d81a88ae5644f66af8998f8657c508c47b11ce8ec15f893d1220c780e11"
+    "b3d88d81a88ae5644f66af8998f8657c508c47b11ce8ec15f893d1220c780e11",
+    "bf3f3234e39d0460ac5e289f0d3fc48d49553976044c39b69a0d5d51fd23ce1a",
+    "64fe0ede03a1a9121678f82c0012fef52e773571abfa7a107c764f557c4937cd",
+    "b80a505ba04fe5121ce4e61b7ef4ee40c94d7c0c7ea0d301b089867ec8fa0fba"
   ],
   "seen_summaries": [
-    "Senado de EE.UU. aprueba sanciones energéticas integrales a Rusia (arancel 100% a importadores) y Arabia Saudita, Turquía y Pakistán firman pacto de defensa en La Meca, elevando riesgo geopolítico y presión alcista sobre el crudo.",
     "Senado de EE.UU. aprueba sanciones integrales a exportaciones energéticas de Rusia con arancel del 100% a importadores (8 ago 2026), afectando a India y China y elevando riesgo de oferta y precios.",
     "UAE reporta ataque con misil a buque propio el 8 ago 2026 en medio de tensiones por Ormuz; Irán condiciona reapertura a aceptación de sus demandas, elevando riesgo de suministro y precios.",
     "Irán y Omán acuerdan coordenadas de rutas para Ormuz, pero Teherán aún delibera y no hay aprobación final; avance concreto hacia reapertura reduce prima de riesgo.",
@@ -701,6 +700,7 @@
     "5 sep 2026: EE.UU. ataca tres petroleros iraníes en el Golfo de Omán y cerca de Kharg, tras misiles contra buques de guerra estadounidenses; escalada directa sobre infraestructura petrolera eleva riesgo de oferta.",
     "6 sep 2026: Irán ataca buque no tripulado de EE.UU. en Ormuz, escalada militar directa que eleva riesgo de oferta y presiona precios al alza.",
     "6 sep 2026: Irán advierte con represalias 'más dolorosas' y rápidas; confirma haber atacado buque no tripulado de EE.UU. esta semana; guerra de tanqueros en Ormuz continúa, elevando riesgo de oferta y presionando petróleo al alza.",
-    "EE.UU. ataca tres petroleros iraníes en el Golfo de Omán y cerca de Kharg tras misiles a buques de guerra, elevando riesgo de oferta y precios al alza."
+    "EE.UU. ataca tres petroleros iraníes en el Golfo de Omán y cerca de Kharg tras misiles a buques de guerra, elevando riesgo de oferta y precios al alza.",
+    "7 sep 2026: Irán anuncia zona restringida y nueva ruta marítima en Ormuz en respuesta a ataques de EE.UU. a petroleros, generando incertidumbre sobre flujo de buques."
   ]
 }
