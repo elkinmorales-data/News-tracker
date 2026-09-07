@@ -1,15 +1,5 @@
 {
   "seen_hashes": [
-    "1725705dd90faa379de3eba68a0b64573bf10e05ea2a50f77dbcfaff8e1763e2",
-    "b47e8eab50217418f1e49b1e85dbd50d40403272c002d8bd3a851cd1ac4824b9",
-    "cfd90393c6941f512c43bff0edc596b8909b756c43f39a665ce57ef99277c8c1",
-    "4a6495423e9702901d0c8116db5b1eb18f8871ee024735d1267b0db7ffdd6f26",
-    "9b37dfeb12c91c7959bbf39d26a60b87b5ae9f3af4a0f1249e786ab07b6ebca9",
-    "d917c807f5618b3eb3c7ebe77c90cdaf85d20cc865fbfd4f8a00dd86b42667dc",
-    "fcbfed281726f0b50bbab1e7905d3f8279b346ad8ba49d598e77b1ac89ce37f9",
-    "01968d5eb9102000d93169f03ae79488837c838d8ef26efcd24f81d6d6c8ba11",
-    "954196df947e25be1ed99c43bd79808ffb06cf2f3ec061d2c9d3751816d40ed9",
-    "e0a42bbea0adf02121b0b1f6f6dae5f8a364eb4e9e1c048b4799c2abe235fd4b",
     "b3c78a3dd9fccf503dbe0652aa498a35391219a65c06966dbe21ea804438f264",
     "6079b9423940da8b04e9af855ee195bba76b9ba2be3b66dcd4d7ef73ae2d3c01",
     "d30850e3a31e097d9b692938784d1451af396d179e1fed7a67e4c5cb32313c17",
@@ -499,10 +489,19 @@
     "e5e7aa5c1ef8e9a7852192f5e70ee8cda21165c11fe636124980a31e3adc1da0",
     "2d7996e2f20a551ab1f4b19f5f866fbbb29d4a9eabaaf3067c8d89bbacf1bb87",
     "f5e8e276df059a44ef6c9be4243bdd7986b9084677cef985a98191d04733da49",
-    "c6e1c85ac16ee034554d4bfdc8b78033eda31155b28402c0e4d1fe38dabcba43"
+    "c6e1c85ac16ee034554d4bfdc8b78033eda31155b28402c0e4d1fe38dabcba43",
+    "5e034d21aa8ae319422a13c21e8c08b6a95066481e419a06d51f8e0b21e2fe29",
+    "bedbd1673aaa092c27bedbdec0b5d3cf1b672f3819c682a81c0899789b816fa4",
+    "dcbb211040cd755db097662ea9ffc9967ae94e9578bf3fbcd5e882b6cc27efd3",
+    "a893acd56ed1ab7508b328f7a6c258ba447a32580f7a2c95698b040e59bb5923",
+    "044493eb3ddca50ab85691b5810b78626370de434118f621f1b6aae0831f4c1e",
+    "450d51f8923137b216a11269f717ee463443bf2f198e6b1f9a8eba3f264fd83a",
+    "3ef5d566f96e0ace287d47c5b778cf23efbf15de0a1791e524c0b33919b7a88a",
+    "e5755c85f2c50effa3e6ef27b68fd61f61645d9716dbd7fe9538e7c1b2784dbb",
+    "39b210de4ff662cdb9ccddd344bac4fc2eeb41b697aa267223372ea5f8a4fd70",
+    "5888c5b2c8bfdaea0391fa4dc9aa81766bcaadd36bdfa8708b2f1ad272b68175"
   ],
   "seen_summaries": [
-    "Senado de EE.UU. aprueba sanciones integrales a exportaciones energéticas de Rusia con arancel del 100% a importadores (8 ago 2026), afectando a India y China y elevando riesgo de oferta y precios.",
     "UAE reporta ataque con misil a buque propio el 8 ago 2026 en medio de tensiones por Ormuz; Irán condiciona reapertura a aceptación de sus demandas, elevando riesgo de suministro y precios.",
     "Irán y Omán acuerdan coordenadas de rutas para Ormuz, pero Teherán aún delibera y no hay aprobación final; avance concreto hacia reapertura reduce prima de riesgo.",
     "Al Jazeera informa día 28 de 'guerra contra Irán': pacto Saudi-Pakistán-Turquía genera reacciones mixtas y se confirma acuerdo de seguridad sobre Ormuz entre Irán y Omán.",
@@ -701,6 +700,7 @@
     "6 sep 2026: Irán ataca buque no tripulado de EE.UU. en Ormuz, escalada militar directa que eleva riesgo de oferta y presiona precios al alza.",
     "6 sep 2026: Irán advierte con represalias 'más dolorosas' y rápidas; confirma haber atacado buque no tripulado de EE.UU. esta semana; guerra de tanqueros en Ormuz continúa, elevando riesgo de oferta y presionando petróleo al alza.",
     "EE.UU. ataca tres petroleros iraníes en el Golfo de Omán y cerca de Kharg tras misiles a buques de guerra, elevando riesgo de oferta y precios al alza.",
-    "7 sep 2026: Irán anuncia zona restringida y nueva ruta marítima en Ormuz en respuesta a ataques de EE.UU. a petroleros, generando incertidumbre sobre flujo de buques."
+    "7 sep 2026: Irán anuncia zona restringida y nueva ruta marítima en Ormuz en respuesta a ataques de EE.UU. a petroleros, generando incertidumbre sobre flujo de buques.",
+    "7 sep 2026: Nuevo ataque a refinería Jizan de Aramco (400 mil bpd) en Mar Rojo; Irán anuncia control de nuevo corredor en Ormuz con Omán; petróleo sube a máximos de 6 semanas."
   ]
 }
