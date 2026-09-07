@@ -1,13 +1,5 @@
 {
   "seen_hashes": [
-    "6079b9423940da8b04e9af855ee195bba76b9ba2be3b66dcd4d7ef73ae2d3c01",
-    "d30850e3a31e097d9b692938784d1451af396d179e1fed7a67e4c5cb32313c17",
-    "e0fd9bc889d3c5509acb96b522a5730d92b845d62cf2fe645a6016d452a3d927",
-    "6cf055e470f05727c3bfb2fdf220c7b3a5f3e1d5f548513ace680abaf421197c",
-    "dd84824942eee90206f98d46bd319e1cc6084cc20f5d3cc9f1d9f3eee01d5ebd",
-    "dc36ffcf9be9de112ae1a00712981ad239c3e173c92da68eb2c5bb45efe937f1",
-    "f012c7d4e35467f2f9489d0570468ad004c2ee7f165be40fe0993d1d9176b2b4",
-    "16b388bc3a86af49ba8be94faef6dfd79bd4a864e8c692e3b0ff113cdb31422f",
     "43ec458bf554501d40f5eedc05c738d304a5552b8a9228bb7246fdd44b13631a",
     "86ff2aec28ddf51587c104d52e5f7a084e1304a4b3dd391d05a17bd3daf3fcb5",
     "6a4fe9eb57ecf8af4411af9cdd838f521c09808f5ee39c31c92257336dcb20dd",
@@ -499,10 +491,17 @@
     "e5755c85f2c50effa3e6ef27b68fd61f61645d9716dbd7fe9538e7c1b2784dbb",
     "39b210de4ff662cdb9ccddd344bac4fc2eeb41b697aa267223372ea5f8a4fd70",
     "5888c5b2c8bfdaea0391fa4dc9aa81766bcaadd36bdfa8708b2f1ad272b68175",
-    "8073ca6ee95a683fa4d1f496fde812463b6ea4f52c25392cd075dafed48c882a"
+    "8073ca6ee95a683fa4d1f496fde812463b6ea4f52c25392cd075dafed48c882a",
+    "773811b00ed4f5986cae325e8f58bb7ace0c101f2e389286f03a8b155300b52c",
+    "78ef9facfcd11fcccfdb9aef5b0279095c6b3c13ed309a172ac08cdb1a877556",
+    "89d3c1c376e5ca81c2d3bbd0131ef3ee8c5129d86053a8c4ac11e5ad844843e2",
+    "4de39d88dc34907ea8a72c87226ec69e574b9e1878a17d9f37335aa41f09e5a3",
+    "8519be7e40ffdd4c7ba2d2a066cd87c0ddc8fd66eac3f4f104a054d9869702d1",
+    "bbd06c7a5e9337b664e72e98be21599064a8da151e7d4508215053d1a8a2661e",
+    "ec3a7ee1d1ae3e32863f6d7777576a33f2544585a462ed1aa2f7d8759ceb373d",
+    "b9064a0b061fe679cc677bfe9fd401210b34c3c95579af5ef6c031c008781fc0"
   ],
   "seen_summaries": [
-    "UAE reporta ataque con misil a buque propio el 8 ago 2026 en medio de tensiones por Ormuz; Irán condiciona reapertura a aceptación de sus demandas, elevando riesgo de suministro y precios.",
     "Irán y Omán acuerdan coordenadas de rutas para Ormuz, pero Teherán aún delibera y no hay aprobación final; avance concreto hacia reapertura reduce prima de riesgo.",
     "Al Jazeera informa día 28 de 'guerra contra Irán': pacto Saudi-Pakistán-Turquía genera reacciones mixtas y se confirma acuerdo de seguridad sobre Ormuz entre Irán y Omán.",
     "Irán atacó un petrolero de ADNOC en Ormuz el 8 ago 2026, contradiciendo narrativa de acuerdo; gobiernos árabes condenan, elevando riesgo y precios.",
@@ -701,6 +700,7 @@
     "6 sep 2026: Irán advierte con represalias 'más dolorosas' y rápidas; confirma haber atacado buque no tripulado de EE.UU. esta semana; guerra de tanqueros en Ormuz continúa, elevando riesgo de oferta y presionando petróleo al alza.",
     "EE.UU. ataca tres petroleros iraníes en el Golfo de Omán y cerca de Kharg tras misiles a buques de guerra, elevando riesgo de oferta y precios al alza.",
     "7 sep 2026: Irán anuncia zona restringida y nueva ruta marítima en Ormuz en respuesta a ataques de EE.UU. a petroleros, generando incertidumbre sobre flujo de buques.",
-    "7 sep 2026: Nuevo ataque a refinería Jizan de Aramco (400 mil bpd) en Mar Rojo; Irán anuncia control de nuevo corredor en Ormuz con Omán; petróleo sube a máximos de 6 semanas."
+    "7 sep 2026: Nuevo ataque a refinería Jizan de Aramco (400 mil bpd) en Mar Rojo; Irán anuncia control de nuevo corredor en Ormuz con Omán; petróleo sube a máximos de 6 semanas.",
+    "7 sep 2026: Irán revela misil balístico mejorado y declara que tomará acción preventiva contra amenazas, mientras aumenta precio de gasolina por crisis bélica; escalada verbal y militar eleva riesgo de oferta."
   ]
 }
