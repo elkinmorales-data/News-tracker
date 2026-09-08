@@ -1,14 +1,5 @@
 {
   "seen_hashes": [
-    "09084b0f061e956613628e9cb0b2222205baf584d3310c644232d380c5b7ce46",
-    "da7ed21b811c35f6b1aebb9a5c70b697f626e02dd92de4d14fd45d98e35fefba",
-    "3f16f974ea9e81a61840e836ac6ef1774a74ee5cfa49a0c1fe801cdb28ef9619",
-    "ece245cd379ef6f21e2a243db44ef3d8c7cabfc336fdeac0e43dda52d3eeaa8a",
-    "4727ee06b93a7f733993fc3ad6d72fb01ce92351470bc70943c7fdfe86d4319e",
-    "59ebb8e2059a2f1aa3d2ba9b6bf4a1efd015afa98e1208ce701cf6a4224d7191",
-    "30f3fc2ac8ebdcae2b40a9a2497da17a5cf21e41203d395f1372c0ad144223aa",
-    "6760f81238b43a300823879d60b1d8e02e17e3478486eb815434c2ddc2ac7ea6",
-    "8c28f8202a1ecb5851a6d91237ee92cc41efe00764832e4a3423e455ec06e61a",
     "cb71bb31dec02f4eddc73382c2483955168fd1314f79760907ca2f92ddc9713c",
     "7a665e4abe9a975dfb94cb42669d50b4f4bc319a58671c34c94c9236370aae04",
     "182259ebf1733ebcfbb9e5e2847bf681c36dded48e882aa063b5092dfcf8d2e1",
@@ -499,10 +490,18 @@
     "1a5144734eb71ab77632c4a771807e0746f639cd0c9a4e0fb8a96b45ae36d83c",
     "ec4963b226ca27f2fba5ee7601e275dab4f9cc614db5727f58cc2410478e1dd4",
     "8e14a9d69f689aeeb7020ef7ede30d392ff9bd401f3eb6a8c079811477e8a667",
-    "b8d5116b252eb9546652f2de9ab030daf477fc9215625d4d6ccef5765ed93cbf"
+    "b8d5116b252eb9546652f2de9ab030daf477fc9215625d4d6ccef5765ed93cbf",
+    "30bbc36ea1d673c9c014c2effa695b3423794e396896a3865bdd2321cb43816b",
+    "06ef017742ccbbbcc3f4af681419219f1ae4df14ea2460014fe4ff45c5a97c7e",
+    "979df42849a4374fd0b938a4c00e5e1dfd9f32eb2be121e40243d7b503000d8a",
+    "bd73ea313fb6d1038a201bb29ee8e4f50b38bb3c6b11d625b65fdac875a033d7",
+    "74e945da30b8c046418046f7682aefa81929058ac3ead93bb0d5bf0cb09b1e7c",
+    "d7eb1695a8672bf0828f26d4d66d41008bbf08f76cde03f97b2e9ac21b31905c",
+    "a1bca4d086b92da26fb760fac7cf9b0c922c0985e7155ad3094a6298506f371d",
+    "f39cd18c79e3f8ebe5e8beacfe8bf720f69105fd23a796ae9eee52e33d0b4d33",
+    "7c1b4cdd096a65a91f590ec89c57faad64f795b8bff32ec1d4af114b390ff2b8"
   ],
   "seen_summaries": [
-    "El vicepresidente de EE.UU., Vance, afirmó que el programa nuclear de Irán fue 'destruido' por Washington, señalando una degradación militar que reduce la prima de riesgo y presiona los precios del petróleo a la baja.",
     "Hutíes reivindican ataque a instalación petrolera de Aramco en Arabia Saudita (9 ago 2026), elevando riesgo de suministro y precios.",
     "Hutíes reivindican ataque a refinería de Aramco (9 ago 2026); incendio extinguido, y canciller iraní dice que no hay negociación directa con EE.UU., solo intercambio de mensajes, elevando riesgo de suministro.",
     "Irán condiciona la reapertura de Ormuz al cumplimiento de demandas de EE.UU., manteniendo el riesgo de suministro del petróleo.",
@@ -701,6 +700,8 @@
     "8 sep 2026: Catar advierte de catástrofe industrial si continúa la guerra; tráfico en Ormuz cae a 10 buques/día promedio, mínimo desde mayo según Kpler; nuevo dato confirma disrupción severa de oferta.",
     "8 sep 2026: OIEA advierte sobre acceso nuclear de Irán y potencias occidentales impulsan remisión al Consejo de Seguridad de la ONU, elevando presión diplomática y riesgo de sanciones; presiona precios al alza.",
     "8 sep 2026: Irán dispara misil avanzado a buques de EE.UU. y amenaza con 'guerra económica'; ataques saudíes a Jizan y otras instalaciones energéticas dañan producción, Brent ~$97.7.",
-    "8 sep 2026: Catar pide reapertura incondicional de Ormuz como prioridad diplomática; Kuwait logra exportar ~1 mbd vía transferencias STS fuera del estrecho, señal de mitigación parcial pero persistencia de la crisis."
-  ]
+    "8 sep 2026: Catar pide reapertura incondicional de Ormuz como prioridad diplomática; Kuwait logra exportar ~1 mbd vía transferencias STS fuera del estrecho, señal de mitigación parcial pero persistencia de la crisis.",
+    "8 sep 2026: China anuncia mayor coordinación con Catar para desescalar tensiones regionales en guerra contra Irán, primer movimiento diplomático conjunto de actores clave; posible presión bajista en precios por expectativa de mediación."
+  ],
+  "last_direction": "baja"
 }
