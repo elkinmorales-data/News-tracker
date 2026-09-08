@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "43ec458bf554501d40f5eedc05c738d304a5552b8a9228bb7246fdd44b13631a",
     "86ff2aec28ddf51587c104d52e5f7a084e1304a4b3dd391d05a17bd3daf3fcb5",
     "6a4fe9eb57ecf8af4411af9cdd838f521c09808f5ee39c31c92257336dcb20dd",
     "8d2cce54076c36d4fc162e2df5cbdb9f9a1099cadcf7d8380bc0fd8511c96cef",
@@ -499,10 +498,10 @@
     "8519be7e40ffdd4c7ba2d2a066cd87c0ddc8fd66eac3f4f104a054d9869702d1",
     "bbd06c7a5e9337b664e72e98be21599064a8da151e7d4508215053d1a8a2661e",
     "ec3a7ee1d1ae3e32863f6d7777576a33f2544585a462ed1aa2f7d8759ceb373d",
-    "b9064a0b061fe679cc677bfe9fd401210b34c3c95579af5ef6c031c008781fc0"
+    "b9064a0b061fe679cc677bfe9fd401210b34c3c95579af5ef6c031c008781fc0",
+    "b19b697a134bdaebfe43296c030a345f91cf6f2d410f85ee3a2afa6b3c6d12f1"
   ],
   "seen_summaries": [
-    "Irán y Omán acuerdan coordenadas de rutas para Ormuz, pero Teherán aún delibera y no hay aprobación final; avance concreto hacia reapertura reduce prima de riesgo.",
     "Al Jazeera informa día 28 de 'guerra contra Irán': pacto Saudi-Pakistán-Turquía genera reacciones mixtas y se confirma acuerdo de seguridad sobre Ormuz entre Irán y Omán.",
     "Irán atacó un petrolero de ADNOC en Ormuz el 8 ago 2026, contradiciendo narrativa de acuerdo; gobiernos árabes condenan, elevando riesgo y precios.",
     "Irán fija como condición para reabrir Ormuz el cumplimiento de seis demandas amplias a EE.UU., incluyendo fin de hostilidad y retiro naval, contradiciendo narrativa de acuerdo inminente y elevando riesgo de suministro.",
@@ -701,6 +700,7 @@
     "EE.UU. ataca tres petroleros iraníes en el Golfo de Omán y cerca de Kharg tras misiles a buques de guerra, elevando riesgo de oferta y precios al alza.",
     "7 sep 2026: Irán anuncia zona restringida y nueva ruta marítima en Ormuz en respuesta a ataques de EE.UU. a petroleros, generando incertidumbre sobre flujo de buques.",
     "7 sep 2026: Nuevo ataque a refinería Jizan de Aramco (400 mil bpd) en Mar Rojo; Irán anuncia control de nuevo corredor en Ormuz con Omán; petróleo sube a máximos de 6 semanas.",
-    "7 sep 2026: Irán revela misil balístico mejorado y declara que tomará acción preventiva contra amenazas, mientras aumenta precio de gasolina por crisis bélica; escalada verbal y militar eleva riesgo de oferta."
+    "7 sep 2026: Irán revela misil balístico mejorado y declara que tomará acción preventiva contra amenazas, mientras aumenta precio de gasolina por crisis bélica; escalada verbal y militar eleva riesgo de oferta.",
+    "8 sep 2026: Catar advierte de catástrofe industrial si continúa la guerra; tráfico en Ormuz cae a 10 buques/día promedio, mínimo desde mayo según Kpler; nuevo dato confirma disrupción severa de oferta."
   ]
 }
