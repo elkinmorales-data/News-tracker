@@ -60,28 +60,42 @@ KEYWORDS = [
     "us military", "pentagon", "irgc", "revolutionary guard",
 ]
 
-CRITERIA_MODERADO = """
-Criterio de relevancia (nivel MODERADO):
-Marca como RELEVANTE (debe enviarse correo) si la noticia trata de:
-1. Cierre, bloqueo, o amenaza creíble de cierre del Estrecho de Ormuz.
-2. Ataques militares directos entre EEUU e Irán (o proxies directos: IRGC,
-   milicias respaldadas por Irán atacando activos de EEUU o viceversa).
-3. Ataques a petroleros, infraestructura petrolera o refinerías en Medio Oriente.
-4. Sanciones NUEVAS y significativas de EEUU/UE/ONU sobre exportaciones
-   petroleras de Irán, Rusia, Venezuela, etc. (no renovaciones menores).
-5. Anuncios de tregua, alto el fuego, o acuerdo de paz formal que
-   razonablemente reduzca el riesgo geopolítico sobre el petróleo.
-6. Decisiones grandes de la OPEP+ (recortes/aumentos de producción
-   significativos, salida de un miembro, etc.)
-7. Movimientos militares mayores (despliegue de portaaviones, movilización
-   de tropas) directamente relacionados con Irán/Golfo Pérsico.
+CRITERIA_ESTRICTO = """
+Criterio de relevancia (ESTRICTO):
+Solo marca como RELEVANTE si la noticia cumple AL MENOS UNA de estas 3 condiciones:
+
+1. DETERMINISTA: Es un hecho concreto y verificado (no especulación, no análisis,
+   no predicciones). Debe ser una acción, decisión o evento que YA OCURRIÓ,
+   reportado por al menos 2 fuentes confiables. No incluir:
+   - Opiniones de analistas
+   - "Podría pasar" / "se espera que"
+   - Rumores sin confirmar
+   - Declaraciones ambiguas sin acción concreta
+
+2. INESPERADA: Es un evento que NO se podía prever con la información pública
+   disponible 24h antes. No es continuación de una tendencia conocida.
+   Ejemplo de NO inesperada: "OPEP+ recorta producción como se esperaba"
+   Ejemplo de SÍ inesperada: "Ataque sorpresa a petroleros en el Golfo"
+
+3. CAMBIO DE DIRECCIÓN: La dirección del impacto sobre el precio del petróleo
+   CAMBIA vs. el último correo enviado. El historial indica "last_direction".
+   Si el último fue ALZA y este es BAJA (o viceversa), es relevante.
+   Si el último fue "incierto" y este es ALZA o BAJA, también es relevante.
+
+DIRECCIONES:
+- ALZA: noticia que probablemente SUBA el precio del petróleo
+  (cierre de Ormuz, ataques, sanciones fuertes, recortes OPEP)
+- BAJA: noticia que probablemente BAJE el precio del petróleo
+  (acuerdos de paz, aumento de producción, reducción de tensiones)
+- INCIERTO: no se puede determinar dirección clara
+
+CONTEXTO DE DIRECCIÓN ANTERIOR: {last_direction}
 
 NO es relevante (no enviar correo) si es:
 - Opinión/análisis especulativo sin hecho nuevo.
 - Repetición de una noticia ya cubierta antes (aunque la redacción cambie).
 - Fluctuaciones normales de precio sin causa geopolítica nueva.
-- Declaraciones retóricas sin acción concreta (a menos que sea de muy alto
-  nivel: presidente, líder supremo, secretario de Defensa/Estado).
+- Declaraciones retóricas sin acción concreta.
 - Sanciones menores, rutinarias o renovaciones automáticas.
 """
 
@@ -102,7 +116,7 @@ def load_state():
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
-    return {"seen_hashes": [], "seen_summaries": []}
+    return {"seen_hashes": [], "seen_summaries": [], "last_direction": "incierto"}
 
 
 def save_state(state):
@@ -163,6 +177,7 @@ def ask_deepseek_to_reason(candidates, state):
     if not candidates:
         return {"relevant": False}
 
+    last_dir = state.get("last_direction", "incierto")
     prior_context = "\n".join(f"- {s}" for s in state["seen_summaries"][-30:]) or "(sin historial previo)"
 
     articles_block = "\n\n".join(
@@ -170,30 +185,34 @@ def ask_deepseek_to_reason(candidates, state):
         for c in candidates
     )
 
-    prompt = f"""Eres un analista senior de riesgo geopolítico y mercado petrolero.
+    prompt = f"""Eres un analista senior de riesgo geopolitico y mercado petrolero.
 
-{CRITERIA_MODERADO}
+{CRITERIA_ESTRICTO.format(last_direction=last_dir)}
 
 CONTEXTO DE NOTICIAS YA REPORTADAS ANTERIORMENTE (no repitas esto, es solo para
-que sepas qué ya se cubrió y evites duplicados o "info vieja disfrazada"):
+que sepas que ya se cubrio y evites duplicados o "info vieja disfrazada"):
 {prior_context}
 
 NOTICIAS NUEVAS DETECTADAS EN ESTA RONDA (candidatas, filtradas por keywords):
 {articles_block}
 
 Tu tarea:
-1. Evalúa si alguna de estas noticias es GENUINAMENTE NUEVA (no es solo
-   una reformulación de algo ya reportado arriba) Y cumple el criterio de
-   relevancia MODERADO.
-2. Si NINGUNA califica, responde exactamente con este JSON (nada más):
+1. Evalua si alguna de estas noticias es GENUINAMENTE NUEVA (no es solo
+   una reformulacion de algo ya reportado arriba) Y cumple el criterio de
+   relevancia ESTRICTO.
+2. Para cada noticia relevante, indica si es DETERMINISTA (hecho concreto verificado)
+   y/o INESPERADA (evento impredecible).
+3. Si NINGUNA califica, responde exactamente con este JSON (nada mas):
 {{"relevant": false}}
-3. Si UNA O MÁS califican, responde con este JSON (nada más, sin markdown,
+4. Si UNA O MAS califican, responde con este JSON (nada mas, sin markdown,
    sin backticks):
 {{
   "relevant": true,
-  "headline": "Titular corto y directo en español para el asunto del correo",
+  "headline": "Titular corto y directo en espanol para el asunto del correo",
   "impact_direction": "alza" | "baja" | "incierto",
-  "summary_es": "2-4 frases explicando qué pasó y por qué afecta el precio del petróleo",
+  "is_deterministic": true | false,
+  "is_unexpected": true | false,
+  "summary_es": "2-4 frases explicando que paso y por que afecta el precio del petroleo",
   "sources": ["lista de links de las noticias usadas"],
   "new_summary_for_memory": "1 frase resumen para guardar en el historial y evitar duplicados futuros"
 }}
@@ -277,7 +296,6 @@ def main():
 
     print(f"[INFO] {len(candidates)} candidatos nuevos tras filtro de keywords.")
 
-    # Marcar como vistos de una vez (aunque no sean relevantes, ya los "leímos")
     for c in candidates:
         state["seen_hashes"].append(c["hash"])
 
@@ -293,19 +311,41 @@ def main():
 
     decision = ask_deepseek_to_reason(candidates, state)
 
-    if decision.get("relevant"):
+    if not decision.get("relevant"):
+        print("[INFO] DeepSeek determino que no hay nada suficientemente relevante/nuevo.")
+        save_state(state)
+        return
+
+    direction = decision.get("impact_direction", "incierto")
+    last_dir = state.get("last_direction", "incierto")
+
+    is_deterministic = decision.get("is_deterministic", False)
+    is_unexpected = decision.get("is_unexpected", False)
+    direction_changed = (
+        last_dir in ("alza", "baja") and direction in ("alza", "baja") and direction != last_dir
+    ) or (
+        last_dir == "incierto" and direction in ("alza", "baja")
+    )
+
+    should_send = is_deterministic or is_unexpected or direction_changed
+
+    if should_send:
         if GMAIL_USER and GMAIL_APP_PASSWORD:
             try:
                 send_email(decision)
+                state["last_direction"] = direction
             except Exception as e:
                 print(f"[ERROR] No se pudo enviar email: {e}")
         else:
-            print("[WARN] Decisión relevante pero faltan credenciales de email.")
-        summary = decision.get("new_summary_for_memory")
-        if summary:
-            state["seen_summaries"].append(summary)
+            print("[WARN] Criterios cumplidos pero faltan credenciales de email.")
     else:
-        print("[INFO] DeepSeek determinó que no hay nada suficientemente relevante/nuevo.")
+        print(f"[INFO] Noticia relevante pero no cumple criterios de envio "
+              f"(determinista={is_deterministic}, inesperada={is_unexpected}, "
+              f"cambio_dir={direction_changed}). Se guarda en historial sin notificar.")
+
+    summary = decision.get("new_summary_for_memory")
+    if summary:
+        state["seen_summaries"].append(summary)
 
     save_state(state)
 
