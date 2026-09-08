@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "499fc9ffc209e7b15121439aa1e5d5dd6e88073f0c7e9d2f1abed6040f18d456",
-    "be12d58168b0c18182249ae6f16091e184f9de9a4b06a2ec6ea3f55eb693d190",
-    "5eff722676e684593366a7704b44a323a70ded1dca2728577a812fb1148426c2",
-    "062414625aad811db3f6846b8bb713bd04c377afa2874f3ca5a5c9a6172cd3cf",
-    "1990b0ffbdee44e5d483809e9551f0bf7fc550b5eb9c84782b7775d292e08bbd",
     "7cb7474437e941607bcb4bd177d7289d5563dea7a445ee928d6d82b1529f2ffd",
     "3cfe2e5681cd99e38b988c25aa3b3b20c984ed095327b84a65c93d73b089e893",
     "7e65210b9943230c8513143dffbcb378c1848418ebd53acf4a549ba8e303afd7",
@@ -499,10 +494,14 @@
     "75484a4d663931d0e3eb16cd56259053f81d8ed06e3227de336ba68d01672ea6",
     "d85523c5563e930e96ba3731898661f56e4420390ff60321145995248dc6bce0",
     "7c95bd79df78dc0056c3b61e7788f60f8467e3eb2eb5e13e4b3e13ff67d5e02f",
-    "26193448eae6b9efaf8767a312b3bff2c0c5ced13b4026787c0b02f5f278d541"
+    "26193448eae6b9efaf8767a312b3bff2c0c5ced13b4026787c0b02f5f278d541",
+    "8919d200a58e47ccefbb1a837d9c7e3f9ad98aaa8c1e50f6432670355abda772",
+    "8df1d6ff5435700421eac86d71e8aec43c5ec84ea3328f253304914da479f2e8",
+    "1204441dfc3673cae2031eafb1d0decbc44e2f440cb5bfb825eea536274a90fd",
+    "e417e6de295bcde34bf8b5851865d0daf71891aca7c6196bd89860a4f9731e7c",
+    "83cc652034dbb441dfc628f79136a84e19d7cd232fac3d2fdaf42409e8c4d0b6"
   ],
   "seen_summaries": [
-    "Irán atacó un petrolero de ADNOC en Ormuz el 8 ago 2026, contradiciendo narrativa de acuerdo; gobiernos árabes condenan, elevando riesgo y precios.",
     "Irán fija como condición para reabrir Ormuz el cumplimiento de seis demandas amplias a EE.UU., incluyendo fin de hostilidad y retiro naval, contradiciendo narrativa de acuerdo inminente y elevando riesgo de suministro.",
     "El vicepresidente de EE.UU., Vance, afirmó que el programa nuclear de Irán fue 'destruido' por Washington, señalando una degradación militar que reduce la prima de riesgo y presiona los precios del petróleo a la baja.",
     "Hutíes reivindican ataque a instalación petrolera de Aramco en Arabia Saudita (9 ago 2026), elevando riesgo de suministro y precios.",
@@ -701,6 +700,7 @@
     "7 sep 2026: Nuevo ataque a refinería Jizan de Aramco (400 mil bpd) en Mar Rojo; Irán anuncia control de nuevo corredor en Ormuz con Omán; petróleo sube a máximos de 6 semanas.",
     "7 sep 2026: Irán revela misil balístico mejorado y declara que tomará acción preventiva contra amenazas, mientras aumenta precio de gasolina por crisis bélica; escalada verbal y militar eleva riesgo de oferta.",
     "8 sep 2026: Catar advierte de catástrofe industrial si continúa la guerra; tráfico en Ormuz cae a 10 buques/día promedio, mínimo desde mayo según Kpler; nuevo dato confirma disrupción severa de oferta.",
-    "8 sep 2026: OIEA advierte sobre acceso nuclear de Irán y potencias occidentales impulsan remisión al Consejo de Seguridad de la ONU, elevando presión diplomática y riesgo de sanciones; presiona precios al alza."
+    "8 sep 2026: OIEA advierte sobre acceso nuclear de Irán y potencias occidentales impulsan remisión al Consejo de Seguridad de la ONU, elevando presión diplomática y riesgo de sanciones; presiona precios al alza.",
+    "8 sep 2026: Irán dispara misil avanzado a buques de EE.UU. y amenaza con 'guerra económica'; ataques saudíes a Jizan y otras instalaciones energéticas dañan producción, Brent ~$97.7."
   ]
 }
