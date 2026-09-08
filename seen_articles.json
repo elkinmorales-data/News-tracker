@@ -1,14 +1,5 @@
 {
   "seen_hashes": [
-    "7cb7474437e941607bcb4bd177d7289d5563dea7a445ee928d6d82b1529f2ffd",
-    "3cfe2e5681cd99e38b988c25aa3b3b20c984ed095327b84a65c93d73b089e893",
-    "7e65210b9943230c8513143dffbcb378c1848418ebd53acf4a549ba8e303afd7",
-    "67266f7d7cecdbbbd218b98c15ba81f26446697ff8d964210deb317e0a748a8b",
-    "5720f52e7120d8b0624e36edcd9782355703597a79e823a00b7e7d13791debdd",
-    "9325898e542de8d6f8de4a4733ce03112dbad81e1fcff0edaa56958f3c8c12dc",
-    "da32c4e81cbfebb1b61f1954a16042eb4eec2080749939f5e4de94f1d67c0978",
-    "704268577651ad6f5400bbde41a2a35d2346dffe44fc7d1e3a1b0f3eb5923ef7",
-    "c51601bb4bd35d9d3215f47ebc6e90e539e061d95f604cb06f036fcde23e4714",
     "e0102f2d682c18b1115df6658748a2dd730a5e736681edd2491605c4221debec",
     "e3be521dd51561362010863c1f61a061e01e489615b908e08f1d5894329f7831",
     "5ca4d6e5a0598ad1eb9fe46d62968fc87f3460e82116ea4b4c2d304d96975ec5",
@@ -499,10 +490,18 @@
     "8df1d6ff5435700421eac86d71e8aec43c5ec84ea3328f253304914da479f2e8",
     "1204441dfc3673cae2031eafb1d0decbc44e2f440cb5bfb825eea536274a90fd",
     "e417e6de295bcde34bf8b5851865d0daf71891aca7c6196bd89860a4f9731e7c",
-    "83cc652034dbb441dfc628f79136a84e19d7cd232fac3d2fdaf42409e8c4d0b6"
+    "83cc652034dbb441dfc628f79136a84e19d7cd232fac3d2fdaf42409e8c4d0b6",
+    "49ad7df4d0e5f92633b684600297a82b1e9c59a4679d6b540465db0f32c71aa2",
+    "dd1952d60341affd214f7b281b9faba07a80775b41915cf7e498b116090069fd",
+    "21f2f0c6b063ab43ec20f7b6230d6729110c49eafc6f9fc47fc5320ef919998a",
+    "38f4d4a73b2de9d0b2b5149df064dd79456c5f225282d7d222cc77826ee156a1",
+    "44519ae885c6ec88cbb17e38cf73b03865afa408bc89d12c420b3630cb802106",
+    "90e298da63205902bea50507f79be3da6d280b6ccef7523b79de4432992c699f",
+    "0ca04d60bebf349fb99dca89dc57a6f129d8f4f2a5a2b7628b5e13247f5180fa",
+    "170232d3e477e4003bc0194f43022ee1cfa9e54e1703ddf084fbf9b62cc6b4f1",
+    "db152e3d5edd56206094f71fb16f2089665baeb6fee623210b60eeb9dd62046a"
   ],
   "seen_summaries": [
-    "Irán fija como condición para reabrir Ormuz el cumplimiento de seis demandas amplias a EE.UU., incluyendo fin de hostilidad y retiro naval, contradiciendo narrativa de acuerdo inminente y elevando riesgo de suministro.",
     "El vicepresidente de EE.UU., Vance, afirmó que el programa nuclear de Irán fue 'destruido' por Washington, señalando una degradación militar que reduce la prima de riesgo y presiona los precios del petróleo a la baja.",
     "Hutíes reivindican ataque a instalación petrolera de Aramco en Arabia Saudita (9 ago 2026), elevando riesgo de suministro y precios.",
     "Hutíes reivindican ataque a refinería de Aramco (9 ago 2026); incendio extinguido, y canciller iraní dice que no hay negociación directa con EE.UU., solo intercambio de mensajes, elevando riesgo de suministro.",
@@ -701,6 +700,7 @@
     "7 sep 2026: Irán revela misil balístico mejorado y declara que tomará acción preventiva contra amenazas, mientras aumenta precio de gasolina por crisis bélica; escalada verbal y militar eleva riesgo de oferta.",
     "8 sep 2026: Catar advierte de catástrofe industrial si continúa la guerra; tráfico en Ormuz cae a 10 buques/día promedio, mínimo desde mayo según Kpler; nuevo dato confirma disrupción severa de oferta.",
     "8 sep 2026: OIEA advierte sobre acceso nuclear de Irán y potencias occidentales impulsan remisión al Consejo de Seguridad de la ONU, elevando presión diplomática y riesgo de sanciones; presiona precios al alza.",
-    "8 sep 2026: Irán dispara misil avanzado a buques de EE.UU. y amenaza con 'guerra económica'; ataques saudíes a Jizan y otras instalaciones energéticas dañan producción, Brent ~$97.7."
+    "8 sep 2026: Irán dispara misil avanzado a buques de EE.UU. y amenaza con 'guerra económica'; ataques saudíes a Jizan y otras instalaciones energéticas dañan producción, Brent ~$97.7.",
+    "8 sep 2026: Catar pide reapertura incondicional de Ormuz como prioridad diplomática; Kuwait logra exportar ~1 mbd vía transferencias STS fuera del estrecho, señal de mitigación parcial pero persistencia de la crisis."
   ]
 }
