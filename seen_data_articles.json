@@ -250,7 +250,15 @@
     "2341422b80dceddb719fa390ec727eb91118bc3e5debe7e884aa271c364a2031",
     "2dbf808b8846c7f77cace48ce0b902e6d48315da3fc6dccab61b3ff0fa8e2eb2",
     "3eab9f1fb462f7e78d9316d44da949412e70fc007d8f5ccb4b7a31e78cda422e",
-    "37333ca40a197e1da578f78337a96df19659da19ab1734a266b3dab12e30168d"
+    "37333ca40a197e1da578f78337a96df19659da19ab1734a266b3dab12e30168d",
+    "55ab74781bab6cb11b12fd9f35fe71bc7106228de56118ce990b635775024f6a",
+    "6146019f8fcec6b3c47f20cbdfa4b56af0b86cd574bd1b2353b927cdc7838a98",
+    "6add1ba0b51f62ccd74c8023e466ab061d2eac7728c148fa64874bd37371e085",
+    "62e310747896a7cc0dee8fe983a879b9a4cf8cb4ab50219f8b095e92981117c9",
+    "f7facb9799dd7acb90ee48edf625707c751c14972ac816ca819fe8c41b72afab",
+    "1849bf614ebb758798fcff8ad07059cbb884d191ba86eedd99cea728fe2f3b51",
+    "18bd32c44897a882b189c0f57ad99b042100abb117bb704a42a5f3b8ff954aff",
+    "2b92195d13ec5ba15033d4c4a13065ef55e2dad98c0dd93788e77c6861a94d5f"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -298,6 +306,7 @@
     "FireDucks librería pandas acelerada 20x con ejecución lazy y compilación | Patrones prácticos de memoria para agentes AI: qué funciona y que falla en implementaciones reales | Casos de uso de agentic AI empresarial en SRE, finanzas y seguridad con restricciones deterministas | Guía para decodificar nomenclatura de modelos LLM open-source (tamaño, cuantización, fecha) | PyTorch Conference 2026 con sesiones de agentes en producción y agentes que construyen PyTorch",
     "OpenCode arquitectura interna y trade-offs versus Claude Code | PyTorch 2.14 NVGEMM integración CuTeDSL CUTLASS kernels en Inductor con epilogue fusion | Errores sistemáticos de LLMs en análisis de datos con ChatGPT en 3 datasets y necesidad de validación humana | Guía Single-Agent vs Multi-Agent para decidir cuándo la complejidad vale la pena en sistemas agentic",
     "Switchyard librería de NVIDIA para enrutamiento inteligente de modelos LLM reduciendo costos y latencia | Tendencia en GitHub repositorios dominados por herramienta de agentes y desarrollo de tooling, no modelos",
-    "GPT-6 Astra modelo frontera orientado a ejecución de tareas y uso de herramientas más que solo generación de texto | Guía oficial PyTorch Conference 2026 para aceleración por hardware en silicio diverso con foco en portabilidad y rendimiento"
+    "GPT-6 Astra modelo frontera orientado a ejecución de tareas y uso de herramientas más que solo generación de texto | Guía oficial PyTorch Conference 2026 para aceleración por hardware en silicio diverso con foco en portabilidad y rendimiento",
+    "Cuatro caches en LLM serving como marco de optimización de costos/latencia | ArrowJS como librería de UI para la era agentica | Trayectoria de RAG a agentic AI en sistemas empresariales y lecciones de diseño | Acceso gratuito a coding models (no novedoso, descartado) | Chain of Thought vs Tree of Thoughts para agentes (contenido genérico, descartado) | Grok Bot tutorial básico (descartado) | PyTorch Conference China con nuevos miembros platinum (noticia de negocio, descartada)"
   ]
 }
