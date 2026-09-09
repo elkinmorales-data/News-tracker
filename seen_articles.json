@@ -1,15 +1,5 @@
 {
   "seen_hashes": [
-    "46b4f034c5af6781c88b6c1ba3f2824de32ea2a75416250924519d05910f3190",
-    "b72d5b5fad1b81c898194a45328d444aa40b07d444fc071b18e50ca0699dc929",
-    "5882769a6a91ed5e894c1af77a733cc74ffe6b97b3f334c294f2e616a54baaac",
-    "0d3f0f75c2e4ef79ceb85ab734503265d9578d06fc26cfe73da8daa79b868b23",
-    "119b5f785e73aba1ed741292fb983bf7c5e997fc1c9ac10febba7e27177b647e",
-    "cb7b8e91f609587918aa6d0c15d87f2dc7e118e9a849e2dc7b677b367ef34634",
-    "185a087b7b346e2ba3d297d9f6da1fd876694a57dd7f12c115ede311f9216518",
-    "8bb9b0575470c30fec43dec5243c4d7ddd33c13964f4cb40d0eebf862b347955",
-    "00348f636ded19e6044df098c2b2f883a43bdb87ea8e4ed0634f0be26347a8fe",
-    "5f963717cac8c81d7a8bd9e6f57841491a87d6a937c0bfa9b3de77bb73c047c8",
     "7c7d157c6d213f2ef58dda45687fc9b9f5c1bfc524e6711970dda072ac6a647d",
     "810dbcd9f1efb7fa96b9a4bbb4d199b54c461e86aea6e8ecfdd47b2b6f08d5c4",
     "a676d1c59d59d687c9fa9fcfb90c22686148a6416e2d7c6f6dd40438ad7a5ace",
@@ -499,10 +489,19 @@
     "e95edbd6e4289dcaae62baab42414272f6d3237d476ed2d96fcd32669449ceec",
     "f684c372c8411403a4ea97b22066b9b66b2f2c0c4d5532039806cc50d50469fb",
     "25744b0810ef5af1f097b2eab4c4e0d165bcc41b0d6e4e08e4009f48380bba82",
-    "8a1ba3310545427bcdced5021e0526b0fea6c5c936dc579b33fd6c46d9ef5c4d"
+    "8a1ba3310545427bcdced5021e0526b0fea6c5c936dc579b33fd6c46d9ef5c4d",
+    "89ec3c37ccb245ccc6ae824b9e15d3aa6d5b1511ffd8651e54905fc5a6972aa5",
+    "b0a072b7fcb687a933e5977270fa6138fa5fd47e08ab3d9769430de773e72ee9",
+    "fef4d8cb994f6bf2caf36e30f09be4f94e7f0dd629a2687b69128f6a55d90fb7",
+    "707423af86647e220b39290fb4ad81cb7e8cf2833c4b5e8fac75259b8f35cc26",
+    "cba47655e5869ccbd837ba9bd78810a4f9b503ecb4d8cb0c7c628b3c8242acf0",
+    "c56221d4083d5f6b74166bb94599717e905067bc7be073d485dc4d64715c5b1d",
+    "39320de297cb47a222bbdfb22d55feee3e92741f7ff41fe27c46a3327c968572",
+    "d7b04d630260716bc17531508165b0e4511d5e4dec60702999d0a113a2529eef",
+    "e33261ff10314acfb078b267bf9ef8a4c2c62844434f46ea5eaba1f5a23550c6",
+    "7e196de30180c350ad33f60d1430dfff5f30f875e3121d5e1a7d07ad04df0f12"
   ],
   "seen_summaries": [
-    "Hutíes reivindican ataque a refinería de Aramco (9 ago 2026); incendio extinguido, y canciller iraní dice que no hay negociación directa con EE.UU., solo intercambio de mensajes, elevando riesgo de suministro.",
     "Irán condiciona la reapertura de Ormuz al cumplimiento de demandas de EE.UU., manteniendo el riesgo de suministro del petróleo.",
     "Hutíes atacan puerto de al-Makha en Yemen (10 ago 2026) con misiles y drones, confirmando amenaza activa en Mar Rojo y elevando riesgo de suministro; sin noticias de avance en acuerdo de Ormuz.",
     "10 ago 2026: Reportes no verificados de un nuevo ataque iraní a petrolero frente a Omán; se suma al ataque confirmado a ADNOC del 8 ago, elevando riesgo de suministro y precios.",
@@ -701,7 +700,8 @@
     "8 sep 2026: Irán dispara misil avanzado a buques de EE.UU. y amenaza con 'guerra económica'; ataques saudíes a Jizan y otras instalaciones energéticas dañan producción, Brent ~$97.7.",
     "8 sep 2026: Catar pide reapertura incondicional de Ormuz como prioridad diplomática; Kuwait logra exportar ~1 mbd vía transferencias STS fuera del estrecho, señal de mitigación parcial pero persistencia de la crisis.",
     "8 sep 2026: China anuncia mayor coordinación con Catar para desescalar tensiones regionales en guerra contra Irán, primer movimiento diplomático conjunto de actores clave; posible presión bajista en precios por expectativa de mediación.",
-    "9 sep 2026: EE.UU. destruye cinco petroleros iraníes; Irán ataca base de EE.UU. en Jordania y amenaza a tanqueros en Kuwait y Bahréin; Brent se acerca a $100, escalada directa sobre infraestructura petrolera que eleva riesgo de oferta."
+    "9 sep 2026: EE.UU. destruye cinco petroleros iraníes; Irán ataca base de EE.UU. en Jordania y amenaza a tanqueros en Kuwait y Bahréin; Brent se acerca a $100, escalada directa sobre infraestructura petrolera que eleva riesgo de oferta.",
+    "Trump dice que guerra con Irán terminará tras elecciones de medio término; Brent supera $100 por ataques a petroleros y nucleares; señal de desescalada futura pero incierta."
   ],
-  "last_direction": "alza"
+  "last_direction": "incierto"
 }
