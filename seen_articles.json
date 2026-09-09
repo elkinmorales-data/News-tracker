@@ -1,15 +1,5 @@
 {
   "seen_hashes": [
-    "cb71bb31dec02f4eddc73382c2483955168fd1314f79760907ca2f92ddc9713c",
-    "7a665e4abe9a975dfb94cb42669d50b4f4bc319a58671c34c94c9236370aae04",
-    "182259ebf1733ebcfbb9e5e2847bf681c36dded48e882aa063b5092dfcf8d2e1",
-    "0421b2577120244200d216318c7023581f33d679dd54d21b15db38f5d297548e",
-    "176437243ba59ae6ffd0ad33bb0b5c9c235ca6861167763613b08ad8daf994cf",
-    "69632898f8bdcd9ca49895a7cd3a7ba0ac84e739016c0d342be517e9ea16f105",
-    "c17ec712a94cb803234c053c5870e9abebf6794ea81b77f9f672f95b30d4eadd",
-    "40f3690eb8a6656c2c742da2bc99588c7ee9c7961ad73a402af5a204c2d9dcac",
-    "42f49b5b11d6d4e6ad1040377e858edc184bde29da105eb5e980643e1a67f1da",
-    "ad7a5eb45d201c8e71adda5b654e0bf094394dd49fa81da22bc72c67ab9d9cc3",
     "46b4f034c5af6781c88b6c1ba3f2824de32ea2a75416250924519d05910f3190",
     "b72d5b5fad1b81c898194a45328d444aa40b07d444fc071b18e50ca0699dc929",
     "5882769a6a91ed5e894c1af77a733cc74ffe6b97b3f334c294f2e616a54baaac",
@@ -499,10 +489,19 @@
     "d7eb1695a8672bf0828f26d4d66d41008bbf08f76cde03f97b2e9ac21b31905c",
     "a1bca4d086b92da26fb760fac7cf9b0c922c0985e7155ad3094a6298506f371d",
     "f39cd18c79e3f8ebe5e8beacfe8bf720f69105fd23a796ae9eee52e33d0b4d33",
-    "7c1b4cdd096a65a91f590ec89c57faad64f795b8bff32ec1d4af114b390ff2b8"
+    "7c1b4cdd096a65a91f590ec89c57faad64f795b8bff32ec1d4af114b390ff2b8",
+    "c3e768c3c4c0c1727774a79eb6b5151d16c527ff7f26a51a06cb431a67d9e197",
+    "111c9154dfd50192df4fba3986b090fef045950141ce0acdac6587915d0e1e64",
+    "b58c03099a037c49cf836ce86317c6c16efe8ec885f38a35c46a432798323ba8",
+    "2dfe006646ad673e9854c32fc71cc7a5fb1991996aa870f58e09ecdad73bdfbe",
+    "43eb5922dbc2f612955c6dd055cdf98a9008b3bcd61f36607cc3c537898d9098",
+    "124ae3c99096f226ad5994a910dc289c50061aebd9d52d8be336c35ead9bf583",
+    "e95edbd6e4289dcaae62baab42414272f6d3237d476ed2d96fcd32669449ceec",
+    "f684c372c8411403a4ea97b22066b9b66b2f2c0c4d5532039806cc50d50469fb",
+    "25744b0810ef5af1f097b2eab4c4e0d165bcc41b0d6e4e08e4009f48380bba82",
+    "8a1ba3310545427bcdced5021e0526b0fea6c5c936dc579b33fd6c46d9ef5c4d"
   ],
   "seen_summaries": [
-    "Hutíes reivindican ataque a instalación petrolera de Aramco en Arabia Saudita (9 ago 2026), elevando riesgo de suministro y precios.",
     "Hutíes reivindican ataque a refinería de Aramco (9 ago 2026); incendio extinguido, y canciller iraní dice que no hay negociación directa con EE.UU., solo intercambio de mensajes, elevando riesgo de suministro.",
     "Irán condiciona la reapertura de Ormuz al cumplimiento de demandas de EE.UU., manteniendo el riesgo de suministro del petróleo.",
     "Hutíes atacan puerto de al-Makha en Yemen (10 ago 2026) con misiles y drones, confirmando amenaza activa en Mar Rojo y elevando riesgo de suministro; sin noticias de avance en acuerdo de Ormuz.",
@@ -701,7 +700,8 @@
     "8 sep 2026: OIEA advierte sobre acceso nuclear de Irán y potencias occidentales impulsan remisión al Consejo de Seguridad de la ONU, elevando presión diplomática y riesgo de sanciones; presiona precios al alza.",
     "8 sep 2026: Irán dispara misil avanzado a buques de EE.UU. y amenaza con 'guerra económica'; ataques saudíes a Jizan y otras instalaciones energéticas dañan producción, Brent ~$97.7.",
     "8 sep 2026: Catar pide reapertura incondicional de Ormuz como prioridad diplomática; Kuwait logra exportar ~1 mbd vía transferencias STS fuera del estrecho, señal de mitigación parcial pero persistencia de la crisis.",
-    "8 sep 2026: China anuncia mayor coordinación con Catar para desescalar tensiones regionales en guerra contra Irán, primer movimiento diplomático conjunto de actores clave; posible presión bajista en precios por expectativa de mediación."
+    "8 sep 2026: China anuncia mayor coordinación con Catar para desescalar tensiones regionales en guerra contra Irán, primer movimiento diplomático conjunto de actores clave; posible presión bajista en precios por expectativa de mediación.",
+    "9 sep 2026: EE.UU. destruye cinco petroleros iraníes; Irán ataca base de EE.UU. en Jordania y amenaza a tanqueros en Kuwait y Bahréin; Brent se acerca a $100, escalada directa sobre infraestructura petrolera que eleva riesgo de oferta."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
