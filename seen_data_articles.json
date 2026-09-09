@@ -258,7 +258,10 @@
     "f7facb9799dd7acb90ee48edf625707c751c14972ac816ca819fe8c41b72afab",
     "1849bf614ebb758798fcff8ad07059cbb884d191ba86eedd99cea728fe2f3b51",
     "18bd32c44897a882b189c0f57ad99b042100abb117bb704a42a5f3b8ff954aff",
-    "2b92195d13ec5ba15033d4c4a13065ef55e2dad98c0dd93788e77c6861a94d5f"
+    "2b92195d13ec5ba15033d4c4a13065ef55e2dad98c0dd93788e77c6861a94d5f",
+    "f9d98436c865bf55616d77d72adcb64b5e6fe2cc0601c208132cb5eabf4cbd69",
+    "b72d156f94539a0e6a3fb6d95eff099baed8b37b886511a29db989157c14d9d3",
+    "b2222ffca4339a3d60431b1bee036ca7904cec642c1ec7ada2d7e36ee08b530d"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -307,6 +310,7 @@
     "OpenCode arquitectura interna y trade-offs versus Claude Code | PyTorch 2.14 NVGEMM integración CuTeDSL CUTLASS kernels en Inductor con epilogue fusion | Errores sistemáticos de LLMs en análisis de datos con ChatGPT en 3 datasets y necesidad de validación humana | Guía Single-Agent vs Multi-Agent para decidir cuándo la complejidad vale la pena en sistemas agentic",
     "Switchyard librería de NVIDIA para enrutamiento inteligente de modelos LLM reduciendo costos y latencia | Tendencia en GitHub repositorios dominados por herramienta de agentes y desarrollo de tooling, no modelos",
     "GPT-6 Astra modelo frontera orientado a ejecución de tareas y uso de herramientas más que solo generación de texto | Guía oficial PyTorch Conference 2026 para aceleración por hardware en silicio diverso con foco en portabilidad y rendimiento",
-    "Cuatro caches en LLM serving como marco de optimización de costos/latencia | ArrowJS como librería de UI para la era agentica | Trayectoria de RAG a agentic AI en sistemas empresariales y lecciones de diseño | Acceso gratuito a coding models (no novedoso, descartado) | Chain of Thought vs Tree of Thoughts para agentes (contenido genérico, descartado) | Grok Bot tutorial básico (descartado) | PyTorch Conference China con nuevos miembros platinum (noticia de negocio, descartada)"
+    "Cuatro caches en LLM serving como marco de optimización de costos/latencia | ArrowJS como librería de UI para la era agentica | Trayectoria de RAG a agentic AI en sistemas empresariales y lecciones de diseño | Acceso gratuito a coding models (no novedoso, descartado) | Chain of Thought vs Tree of Thoughts para agentes (contenido genérico, descartado) | Grok Bot tutorial básico (descartado) | PyTorch Conference China con nuevos miembros platinum (noticia de negocio, descartada)",
+    "Pipeline de agente analista de datos de seis etapas con verificación numérica | Siete técnicas de ingeniería para entrenamiento eficiente de LLMs en hardware limitado | Versionado y seguimiento de experimentos Scikit-LLM con MLflow para pipelines LLM integrados"
   ]
 }
