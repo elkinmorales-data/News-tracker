@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "7c7d157c6d213f2ef58dda45687fc9b9f5c1bfc524e6711970dda072ac6a647d",
-    "810dbcd9f1efb7fa96b9a4bbb4d199b54c461e86aea6e8ecfdd47b2b6f08d5c4",
-    "a676d1c59d59d687c9fa9fcfb90c22686148a6416e2d7c6f6dd40438ad7a5ace",
-    "23385ecad81816fcf8931488032c86f8cd8b0d95dca3220ec564e1628e45b6f9",
-    "0c58487446a28a825da701c59823fb010568694ed7db2d3e661b99878da59843",
-    "b0ed54d86b16aa808beba09e032efa8d840d0cbde868636b7eb6453c51932c20",
-    "d5f401a5cf8dbdb256f6d888760fe2557e5b2a369cc28a2d6e52a99c54aff81f",
     "ebb8210a62692c93a9042a8371a0ab14d47535ce9d0f44453d79070d6b79ff1a",
     "efbe6f185756621719c526350d2fc085041cb46976835d9bf799715b0ebe4ac8",
     "2394afc808acc655346c33dbdeab3b63b62c4b2b5708b01fb00f00fb6a54f600",
@@ -499,10 +492,16 @@
     "39320de297cb47a222bbdfb22d55feee3e92741f7ff41fe27c46a3327c968572",
     "d7b04d630260716bc17531508165b0e4511d5e4dec60702999d0a113a2529eef",
     "e33261ff10314acfb078b267bf9ef8a4c2c62844434f46ea5eaba1f5a23550c6",
-    "7e196de30180c350ad33f60d1430dfff5f30f875e3121d5e1a7d07ad04df0f12"
+    "7e196de30180c350ad33f60d1430dfff5f30f875e3121d5e1a7d07ad04df0f12",
+    "a420788f02186a6f908d56eb76ec4f48ab8e768c34716d20528e59ddb19d25a9",
+    "c25cef1e90d645415b8384b30392c6c4268fe63b7be3f7604ceb61a9e398bb2d",
+    "73b197cb9fbf4ac7825981db0c45fedefacc100e0f7215d6a214c2cf99cccd89",
+    "23c82341eb079ead7503266ffebe8bc67794e434ca902b40eaa4088366841dd8",
+    "6e17bbbddd03bc6ca0fa458cef08da4c6c7feb231a1b5f543b8da59081a5282d",
+    "6c8be8cf784a87175b466fc5ed76ae161ad73ff9c48e8c3ba1224fabcb8011ba",
+    "a6048dc2f69b789331b64c5da0d543ea3d9ab2e6ed96171f31e2b11c2d322523"
   ],
   "seen_summaries": [
-    "Irán condiciona la reapertura de Ormuz al cumplimiento de demandas de EE.UU., manteniendo el riesgo de suministro del petróleo.",
     "Hutíes atacan puerto de al-Makha en Yemen (10 ago 2026) con misiles y drones, confirmando amenaza activa en Mar Rojo y elevando riesgo de suministro; sin noticias de avance en acuerdo de Ormuz.",
     "10 ago 2026: Reportes no verificados de un nuevo ataque iraní a petrolero frente a Omán; se suma al ataque confirmado a ADNOC del 8 ago, elevando riesgo de suministro y precios.",
     "Irán condiciona reapertura de Ormuz a concesiones de EE.UU. y designa a excomandante del IRGC Rezaei como secretario del Consejo de Seguridad, aumentando incertidumbre sin ataque nuevo.",
@@ -701,7 +700,8 @@
     "8 sep 2026: Catar pide reapertura incondicional de Ormuz como prioridad diplomática; Kuwait logra exportar ~1 mbd vía transferencias STS fuera del estrecho, señal de mitigación parcial pero persistencia de la crisis.",
     "8 sep 2026: China anuncia mayor coordinación con Catar para desescalar tensiones regionales en guerra contra Irán, primer movimiento diplomático conjunto de actores clave; posible presión bajista en precios por expectativa de mediación.",
     "9 sep 2026: EE.UU. destruye cinco petroleros iraníes; Irán ataca base de EE.UU. en Jordania y amenaza a tanqueros en Kuwait y Bahréin; Brent se acerca a $100, escalada directa sobre infraestructura petrolera que eleva riesgo de oferta.",
-    "Trump dice que guerra con Irán terminará tras elecciones de medio término; Brent supera $100 por ataques a petroleros y nucleares; señal de desescalada futura pero incierta."
+    "Trump dice que guerra con Irán terminará tras elecciones de medio término; Brent supera $100 por ataques a petroleros y nucleares; señal de desescalada futura pero incierta.",
+    "10 sep 2026: Irán intensifica ataques contra base aérea de EE.UU. en Al-Azraq (Jordania) y proyectiles impactan Sirik; Brent supera $101 tras destrucción de petroleros iraníes, escalada alcista con oferta restringida."
   ],
-  "last_direction": "incierto"
+  "last_direction": "alza"
 }
