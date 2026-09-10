@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "8b92081c437bdbfa6f3171f2695dc95e9eb1d90d853ce37a9a1b0d28fe45703e",
-    "0e7d4f734f7d6655e91c9741bd1d546a3f7f6488d1425d92b1dfb09ccf906af4",
     "6d7d95279f81a4eea67d1837a801b7dab5ad522e2542f6c3c7fdac0cd19eb73a",
     "ac560a758e4a718cba392c0d4ff4539d559aabb722e4c66f1fba99bf32588e55",
     "d0934ad3e749fad0d4b80358a000e3c6fc47db0d8091a9b6f076e251e70f22a2",
@@ -499,10 +497,11 @@
     "f7b0c82ddd612bbc7fdb505c56bd124e07c0c6b78fe38bb01d47f36e83da1fbb",
     "e2c1b19a104e338cfee4d500bd1d12b1e0ff903cd80a7d882cdfef2a64dafc06",
     "e11f8cf71e4feea6185ff6be4313f827bf5a8a0606796748cf96da9a9b9646d5",
-    "3ca1bd1030e8a3faacc183ddd7c0f3ef4af0e03dc50ce74cb63accf7a9ea1160"
+    "3ca1bd1030e8a3faacc183ddd7c0f3ef4af0e03dc50ce74cb63accf7a9ea1160",
+    "123dc85387e52f3d03121b86976dde069c3c35f1de0d8e2422e305e1585b5458",
+    "57b4241b9e83985be11b979852d94f08973b49f87e5bcaa5ef2bbdb9b6637c26"
   ],
   "seen_summaries": [
-    "10 ago 2026: Reportes no verificados de un nuevo ataque iraní a petrolero frente a Omán; se suma al ataque confirmado a ADNOC del 8 ago, elevando riesgo de suministro y precios.",
     "Irán condiciona reapertura de Ormuz a concesiones de EE.UU. y designa a excomandante del IRGC Rezaei como secretario del Consejo de Seguridad, aumentando incertidumbre sin ataque nuevo.",
     "Trump cambia a presión económica sobre Irán (no militar) y Kazajistán estudia rutas alternas vía BTC/Baku-Supsa por ataques a Novorossiysk; ambos hechos nuevos afectan oferta y riesgo.",
     "Derrame extenso de petróleo de petrolero ruso (flota sombra) frente a Omán, en contenedón, sin impacto directo en oferta pero con riesgo ambiental y de navegación.",
@@ -701,7 +700,8 @@
     "9 sep 2026: EE.UU. destruye cinco petroleros iraníes; Irán ataca base de EE.UU. en Jordania y amenaza a tanqueros en Kuwait y Bahréin; Brent se acerca a $100, escalada directa sobre infraestructura petrolera que eleva riesgo de oferta.",
     "Trump dice que guerra con Irán terminará tras elecciones de medio término; Brent supera $100 por ataques a petroleros y nucleares; señal de desescalada futura pero incierta.",
     "10 sep 2026: Irán intensifica ataques contra base aérea de EE.UU. en Al-Azraq (Jordania) y proyectiles impactan Sirik; Brent supera $101 tras destrucción de petroleros iraníes, escalada alcista con oferta restringida.",
-    "10 sep 2026: Brent supera $105 por guerra de tanqueros EE.UU.-Irán; fletes de crudo en máximos históricos, inventarios EIA caen 400 mil barriles y demanda récord de carbón por bloqueo de LNG en Ormuz, elevando riesgo de oferta y presión alcista."
+    "10 sep 2026: Brent supera $105 por guerra de tanqueros EE.UU.-Irán; fletes de crudo en máximos históricos, inventarios EIA caen 400 mil barriles y demanda récord de carbón por bloqueo de LNG en Ormuz, elevando riesgo de oferta y presión alcista.",
+    "10 sep 2026: México recorta 70% apoyo financiero a Pemex confiando en superávit de ~$5.6 mil M por rally petrolero derivado de guerra EE.UU.-Irán; efecto sobre precio del crudo incierto."
   ],
-  "last_direction": "alza"
+  "last_direction": "incierto"
 }
