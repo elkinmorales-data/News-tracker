@@ -267,7 +267,11 @@
     "37595b361b384ac49a7044c51a5d8884662fa3c3bfbd2941d666b7093f705309",
     "7c13515bbcaaa12037873684447b59d4789d18fa0806dc74efe7d27dc3d2670e",
     "982f340f136be76f11a9ae08d1b5e1b615967e3b8ffd90b41edc3ad1d3e29558",
-    "da565860ef3255477d0819568a4addd32cbc5354aa86442af9a77f7a39d0d51b"
+    "da565860ef3255477d0819568a4addd32cbc5354aa86442af9a77f7a39d0d51b",
+    "587de6ef89ab3caa9b4fbeadf1d1a7eb2d355ef75234ce3043ddd8719711e495",
+    "85032ad70849b6f39836345e5522e4002eff8a1d33193f7d828d00aa61ecdbac",
+    "0761e5baa72dcef7eadacc63ada407cbded765168253f42e37ac0bbe301c7211",
+    "f56fa191ab141e18861b64dacbcd1bfedeb11d4006185427375b44d72c46ade9"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -318,6 +322,7 @@
     "GPT-6 Astra modelo frontera orientado a ejecución de tareas y uso de herramientas más que solo generación de texto | Guía oficial PyTorch Conference 2026 para aceleración por hardware en silicio diverso con foco en portabilidad y rendimiento",
     "Cuatro caches en LLM serving como marco de optimización de costos/latencia | ArrowJS como librería de UI para la era agentica | Trayectoria de RAG a agentic AI en sistemas empresariales y lecciones de diseño | Acceso gratuito a coding models (no novedoso, descartado) | Chain of Thought vs Tree of Thoughts para agentes (contenido genérico, descartado) | Grok Bot tutorial básico (descartado) | PyTorch Conference China con nuevos miembros platinum (noticia de negocio, descartada)",
     "Pipeline de agente analista de datos de seis etapas con verificación numérica | Siete técnicas de ingeniería para entrenamiento eficiente de LLMs en hardware limitado | Versionado y seguimiento de experimentos Scikit-LLM con MLflow para pipelines LLM integrados",
-    "Bodhan AI y AI4Bharat lanzan cuatro modelos Indic multimodales para OCR, traducción, ASR y TTS con soporte de texto mixto y manuscrito | Patrón híbrido de ML clásico combinado con razonamiento agéntico para manejar ambigüedad y contexto en producción | PyTorch Conference China 2026 consolida convergencia entre stack PyTorch, KubeCon/OpenInfra y despliegue cloud-native en hardware diverso"
+    "Bodhan AI y AI4Bharat lanzan cuatro modelos Indic multimodales para OCR, traducción, ASR y TTS con soporte de texto mixto y manuscrito | Patrón híbrido de ML clásico combinado con razonamiento agéntico para manejar ambigüedad y contexto en producción | PyTorch Conference China 2026 consolida convergencia entre stack PyTorch, KubeCon/OpenInfra y despliegue cloud-native en hardware diverso",
+    "Orquestación eficiente de recursos en Python 3.11+ con 5 técnicas modernas (incluye una específica de 3.14) | Fine-tuning holístico de agentes AI con cuatro diales acoplados: datos, PEFT, hiperparámetros runtime y ajuste integral"
   ]
 }
