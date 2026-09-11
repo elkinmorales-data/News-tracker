@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "8ef0c3b34c08c520840ecdff15d811c164dfa288547520b6eed61edad59ab1a6",
-    "e097800db44ccd649f17b0f70e2329f23dc4e276fc0660f6d59f2d208618fef9",
     "dc4e0e87e9fcdf44263379996a180c683031e4fd66b629b892bd25d90c2c0ec3",
     "46aa9c204418f60f1d196b4eafee48ae4e3ce7d035da35a0a2f28671851b9e9d",
     "79f5430bec2ccae7fc19b80467d75c705a311301d81a5561c483e90a55729a78",
@@ -499,10 +497,11 @@
     "85fa441a3db05203e066557c9132d7bc82693901e712e6837a9c3ec664d1e863",
     "b05cad36c67298ff6614d101acd93c66f36a83295dc9849419002de9d0a3956e",
     "80599e5deac1751ead13e65f2b5e64de1edcc1e74fa05f52a72fa042cb72ef00",
-    "fca0e0918b819636ba3e9490bf03bf7e37cd2401466c6824cdbf83b24a49e85a"
+    "fca0e0918b819636ba3e9490bf03bf7e37cd2401466c6824cdbf83b24a49e85a",
+    "fea2014f274b0f506e4c4f512ae81e92b104d1e4d9be2f9df154bd0c9a4399e8",
+    "0db32250397d7d6fc370d9ed9cc92e0c29128fd01f14c3348b87e172e3b2b545"
   ],
   "seen_summaries": [
-    "Derrame extenso de petróleo de petrolero ruso (flota sombra) frente a Omán, en contenedón, sin impacto directo en oferta pero con riesgo ambiental y de navegación.",
     "Trump extiende exención de Jones Act el 10 ago 2026 para asegurar flujo de crudo en EE.UU. ante falta de acuerdo sobre Ormuz; refleja disrupción logística y sin avance en negociaciones.",
     "Reabre el oleoducto iraquí Kirkuk-Ceyhan como ruta alternativa para exportaciones de Iraq ante el bloqueo de Ormuz, reduciendo presión sobre la oferta.",
     "Escasez global de diésel se agrava por tensiones en el Golfo y ataques a refinerías rusas, con exportaciones récord de EE.UU. y déficits en Asia, elevando riesgo de precios.",
@@ -701,7 +700,8 @@
     "10 sep 2026: Brent supera $105 por guerra de tanqueros EE.UU.-Irán; fletes de crudo en máximos históricos, inventarios EIA caen 400 mil barriles y demanda récord de carbón por bloqueo de LNG en Ormuz, elevando riesgo de oferta y presión alcista.",
     "10 sep 2026: México recorta 70% apoyo financiero a Pemex confiando en superávit de ~$5.6 mil M por rally petrolero derivado de guerra EE.UU.-Irán; efecto sobre precio del crudo incierto.",
     "11 sep 2026: Trump declara no arrepentirse de iniciar guerra con Irán y EE.UU. intensifica presión económica; Brent supera $107 (máximo 4 meses, +13% semanal), Irán captura dron naval de EE.UU. en Ormuz y proyectiles impactan dos buques frente a Omán; ruptura de republicanos jóvenes con Trump y Putin en cumbre BRICS India con agenda Irán.",
-    "11 sep 2026: Hutíes toman Mocha y la costa del Mar Rojo amenazando Bab al-Mandeb, mientras drones impactan el oleoducto Este-Oeste saudí (3-4 mbd) y Arabia Saudita lo cierra; escalada alcista severa sobre oferta."
+    "11 sep 2026: Hutíes toman Mocha y la costa del Mar Rojo amenazando Bab al-Mandeb, mientras drones impactan el oleoducto Este-Oeste saudí (3-4 mbd) y Arabia Saudita lo cierra; escalada alcista severa sobre oferta.",
+    "11 sep 2026: Casa Blanca evalua invocar Ley de Produccion para Defensa para ampliar refinacion en EE.UU. (refinerias al 98%, diesel >$6/galon); sin decision tomada, impacto direccional incierto."
   ],
-  "last_direction": "alza"
+  "last_direction": "incierto"
 }
