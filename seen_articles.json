@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "6d7d95279f81a4eea67d1837a801b7dab5ad522e2542f6c3c7fdac0cd19eb73a",
-    "ac560a758e4a718cba392c0d4ff4539d559aabb722e4c66f1fba99bf32588e55",
-    "d0934ad3e749fad0d4b80358a000e3c6fc47db0d8091a9b6f076e251e70f22a2",
-    "3f36bd514fc704c085f5073f4dcc1a3ec4c8931dd942e34dc956d62e6921923a",
-    "7d8865d8f0c6885a082a2dd763f767413d1b118adc08bdba1160efd32e9c52ae",
-    "dbd835ee9fcb9f95bf3479ec7b7fc278a7f2acd09dc6cfaf3f3bd2d5f548f00f",
     "950d8153c59ce11418a7b608bdf849d24c0942767990b8cf05deed3fed023bf0",
     "b1056084402e950c5ded3d9c1887031573d17af3d536ed895d88fa9bea0c750a",
     "dfc758fc0bc2425de659474b236a1b027eb56c4ede44ecbb6089a1f0c506edbb",
@@ -499,10 +493,15 @@
     "e11f8cf71e4feea6185ff6be4313f827bf5a8a0606796748cf96da9a9b9646d5",
     "3ca1bd1030e8a3faacc183ddd7c0f3ef4af0e03dc50ce74cb63accf7a9ea1160",
     "123dc85387e52f3d03121b86976dde069c3c35f1de0d8e2422e305e1585b5458",
-    "57b4241b9e83985be11b979852d94f08973b49f87e5bcaa5ef2bbdb9b6637c26"
+    "57b4241b9e83985be11b979852d94f08973b49f87e5bcaa5ef2bbdb9b6637c26",
+    "bbcae7a88b4bb3dfdbf1efd0c90e23b0e0126946be5dc8c48e93f5ea9bad5667",
+    "faaa604baed7850b3d066cd9c32718b457a07a0495447732beff85e3a2d00079",
+    "bd572bdc31f13453a8771154a68dc798874e8cf6dd6d4feecc332fe3bad616ef",
+    "eb41c8edf340ca16a7af27402923e4c80894cd5d67957e39071515790f6c1a8f",
+    "3046c2c732607e031ca2ca10db2a56557ae52c33826aa54d9ee574da9628c6ed",
+    "5e45fb58a731fe5d3a354ce319cea9f8eb4788c00624ed2ea23091c6d88b0482"
   ],
   "seen_summaries": [
-    "Irán condiciona reapertura de Ormuz a concesiones de EE.UU. y designa a excomandante del IRGC Rezaei como secretario del Consejo de Seguridad, aumentando incertidumbre sin ataque nuevo.",
     "Trump cambia a presión económica sobre Irán (no militar) y Kazajistán estudia rutas alternas vía BTC/Baku-Supsa por ataques a Novorossiysk; ambos hechos nuevos afectan oferta y riesgo.",
     "Derrame extenso de petróleo de petrolero ruso (flota sombra) frente a Omán, en contenedón, sin impacto directo en oferta pero con riesgo ambiental y de navegación.",
     "Trump extiende exención de Jones Act el 10 ago 2026 para asegurar flujo de crudo en EE.UU. ante falta de acuerdo sobre Ormuz; refleja disrupción logística y sin avance en negociaciones.",
@@ -701,7 +700,8 @@
     "Trump dice que guerra con Irán terminará tras elecciones de medio término; Brent supera $100 por ataques a petroleros y nucleares; señal de desescalada futura pero incierta.",
     "10 sep 2026: Irán intensifica ataques contra base aérea de EE.UU. en Al-Azraq (Jordania) y proyectiles impactan Sirik; Brent supera $101 tras destrucción de petroleros iraníes, escalada alcista con oferta restringida.",
     "10 sep 2026: Brent supera $105 por guerra de tanqueros EE.UU.-Irán; fletes de crudo en máximos históricos, inventarios EIA caen 400 mil barriles y demanda récord de carbón por bloqueo de LNG en Ormuz, elevando riesgo de oferta y presión alcista.",
-    "10 sep 2026: México recorta 70% apoyo financiero a Pemex confiando en superávit de ~$5.6 mil M por rally petrolero derivado de guerra EE.UU.-Irán; efecto sobre precio del crudo incierto."
+    "10 sep 2026: México recorta 70% apoyo financiero a Pemex confiando en superávit de ~$5.6 mil M por rally petrolero derivado de guerra EE.UU.-Irán; efecto sobre precio del crudo incierto.",
+    "11 sep 2026: Trump declara no arrepentirse de iniciar guerra con Irán y EE.UU. intensifica presión económica; Brent supera $107 (máximo 4 meses, +13% semanal), Irán captura dron naval de EE.UU. en Ormuz y proyectiles impactan dos buques frente a Omán; ruptura de republicanos jóvenes con Trump y Putin en cumbre BRICS India con agenda Irán."
   ],
-  "last_direction": "incierto"
+  "last_direction": "alza"
 }
