@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "b9c1643cfc32d60bd0f04b28c804e2acbba0df809bb020f850467489d939a037",
-    "3942c98d550d9798a0d41591a8129b9d69f3427e80253c1070b90b15837e38f3",
-    "a988e35b2f8ead7702ccbd9dd568bb7df5e8c5e72b455eaba22bfda57cba93a8",
     "2ec510d94afebd02ad8400ac6b73b45d4e8ede34db8d7d46162734501a9d5108",
     "50be5d197fec6a614a0ae10e4b6a3494bb52368ccc49a7a3daf227455ef1483b",
     "af8165100bde2a512167986f92f0b533b218ba2fd7e6caefe21752e1280fef07",
@@ -499,10 +496,12 @@
     "ffe60cbfa229874d8feaa55cbf980008dbf10560851c2d24a617ef3d63272341",
     "b3bf9aca2045aab8fa1edf197ab46ddcbddb681c1255bf29c684c4989d7d6f7b",
     "b695e0205de27307874bf1431426f05197d1a26fbb33426922a7f7c2efd5c03a",
-    "d710038ef6b0f966c97d4cc54df3ad454b7d64ed2ce6a1e36df10b2c9cccc1e5"
+    "d710038ef6b0f966c97d4cc54df3ad454b7d64ed2ce6a1e36df10b2c9cccc1e5",
+    "413c6516f2f89f0d370a3aa23c4eb3fc607766dc08aa1f137bbce66c7a7a6f9d",
+    "671c4571fa76d6a1a2ed7ae3dcca8b600d8e4d33d19ed89c8ffd90c27ea88bb8",
+    "211ad546e3163fef03f82a57a53069b8005792f3a855ad370ce8689ebfe160da"
   ],
   "seen_summaries": [
-    "Reabre el oleoducto iraquí Kirkuk-Ceyhan como ruta alternativa para exportaciones de Iraq ante el bloqueo de Ormuz, reduciendo presión sobre la oferta.",
     "Escasez global de diésel se agrava por tensiones en el Golfo y ataques a refinerías rusas, con exportaciones récord de EE.UU. y déficits en Asia, elevando riesgo de precios.",
     "Libia evalúa fuerza mayor en terminal Zawiya tras ataques con drones que destruyeron tanque de almacenamiento; riesgo de oferta adicional (120-300 mil bpd) eleva presión alcista.",
     "11 ago 2026: China reanuda compras de crudo iraní (teapots) y el petróleo supera $84 por desvanecimiento de acuerdo sobre Ormuz; riesgo de suministro elevado.",
@@ -701,7 +700,8 @@
     "11 sep 2026: Trump declara no arrepentirse de iniciar guerra con Irán y EE.UU. intensifica presión económica; Brent supera $107 (máximo 4 meses, +13% semanal), Irán captura dron naval de EE.UU. en Ormuz y proyectiles impactan dos buques frente a Omán; ruptura de republicanos jóvenes con Trump y Putin en cumbre BRICS India con agenda Irán.",
     "11 sep 2026: Hutíes toman Mocha y la costa del Mar Rojo amenazando Bab al-Mandeb, mientras drones impactan el oleoducto Este-Oeste saudí (3-4 mbd) y Arabia Saudita lo cierra; escalada alcista severa sobre oferta.",
     "11 sep 2026: Casa Blanca evalua invocar Ley de Produccion para Defensa para ampliar refinacion en EE.UU. (refinerias al 98%, diesel >$6/galon); sin decision tomada, impacto direccional incierto.",
-    "12 sep 2026: Hutíes respaldados por Irán capturan la isla estratégica de Mayun y consolidan el control de la costa del Mar Rojo; Irán lo celebra, agravando el riesgo sobre Bab al-Mandeb y la oferta petrolera."
+    "12 sep 2026: Hutíes respaldados por Irán capturan la isla estratégica de Mayun y consolidan el control de la costa del Mar Rojo; Irán lo celebra, agravando el riesgo sobre Bab al-Mandeb y la oferta petrolera.",
+    "12 sep 2026: Irán y Emiratos celebran primeras conversaciones de alto nivel en la cumbre BRICS, posible señal de desescalada en el Golfo con presión bajista sobre el crudo."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
