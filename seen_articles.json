@@ -1,13 +1,5 @@
 {
   "seen_hashes": [
-    "79f5430bec2ccae7fc19b80467d75c705a311301d81a5561c483e90a55729a78",
-    "3dff9e67f4a451eb4ea7626c51902e7aee528cd14f4071e0493dc191edf392d5",
-    "a266ddb397b6b2723c7cb830c2d926f18120cfcdc4e227bd884cce2ec7ec18f0",
-    "1d7c8b36b89653482f051f2d9f1046c07849c76f992b1d5baec3e017bf529805",
-    "8a98565b95cd1380c1a5a696b56a40243b6d99e228fdfd3515b5b49054e20730",
-    "5218aa67da9a7c7723d9965ee673caa7fb00b945e6b3e5987eae51959c19673c",
-    "3ca39907f920191fa7541319bb17d2bd63d9eb2e230b92acc37beb5f0d9db595",
-    "100afbd6ec634c2b59be95c041b83269f04bcb3b8d36ad4378b6f4309406f92c",
     "b9c1643cfc32d60bd0f04b28c804e2acbba0df809bb020f850467489d939a037",
     "3942c98d550d9798a0d41591a8129b9d69f3427e80253c1070b90b15837e38f3",
     "a988e35b2f8ead7702ccbd9dd568bb7df5e8c5e72b455eaba22bfda57cba93a8",
@@ -499,10 +491,17 @@
     "fea2014f274b0f506e4c4f512ae81e92b104d1e4d9be2f9df154bd0c9a4399e8",
     "0db32250397d7d6fc370d9ed9cc92e0c29128fd01f14c3348b87e172e3b2b545",
     "20360f99fe1338131525215ce534f3ddc73671007caa1850fb514948d2c10645",
-    "dda5d9a05e35dc4435583471a039c423e2a3562a501471e539c335f55a22c224"
+    "dda5d9a05e35dc4435583471a039c423e2a3562a501471e539c335f55a22c224",
+    "c97454fff788495881f964fccfe63b242de7b26748119e91d0ff4bbf827d67db",
+    "7b828412f3bee8e91f171789d67d59b2f7b4b0e51f4e41cbbf5ca1cba3a80816",
+    "6e958e449f06f0e7cd25a1c470acf8daeeae68f51446ac882e54560d053503d8",
+    "da90744835d737e166f24b07e72df332ab42bcb012d90d2e04764d413dedbc2f",
+    "ffe60cbfa229874d8feaa55cbf980008dbf10560851c2d24a617ef3d63272341",
+    "b3bf9aca2045aab8fa1edf197ab46ddcbddb681c1255bf29c684c4989d7d6f7b",
+    "b695e0205de27307874bf1431426f05197d1a26fbb33426922a7f7c2efd5c03a",
+    "d710038ef6b0f966c97d4cc54df3ad454b7d64ed2ce6a1e36df10b2c9cccc1e5"
   ],
   "seen_summaries": [
-    "Trump extiende exención de Jones Act el 10 ago 2026 para asegurar flujo de crudo en EE.UU. ante falta de acuerdo sobre Ormuz; refleja disrupción logística y sin avance en negociaciones.",
     "Reabre el oleoducto iraquí Kirkuk-Ceyhan como ruta alternativa para exportaciones de Iraq ante el bloqueo de Ormuz, reduciendo presión sobre la oferta.",
     "Escasez global de diésel se agrava por tensiones en el Golfo y ataques a refinerías rusas, con exportaciones récord de EE.UU. y déficits en Asia, elevando riesgo de precios.",
     "Libia evalúa fuerza mayor en terminal Zawiya tras ataques con drones que destruyeron tanque de almacenamiento; riesgo de oferta adicional (120-300 mil bpd) eleva presión alcista.",
@@ -701,7 +700,8 @@
     "10 sep 2026: México recorta 70% apoyo financiero a Pemex confiando en superávit de ~$5.6 mil M por rally petrolero derivado de guerra EE.UU.-Irán; efecto sobre precio del crudo incierto.",
     "11 sep 2026: Trump declara no arrepentirse de iniciar guerra con Irán y EE.UU. intensifica presión económica; Brent supera $107 (máximo 4 meses, +13% semanal), Irán captura dron naval de EE.UU. en Ormuz y proyectiles impactan dos buques frente a Omán; ruptura de republicanos jóvenes con Trump y Putin en cumbre BRICS India con agenda Irán.",
     "11 sep 2026: Hutíes toman Mocha y la costa del Mar Rojo amenazando Bab al-Mandeb, mientras drones impactan el oleoducto Este-Oeste saudí (3-4 mbd) y Arabia Saudita lo cierra; escalada alcista severa sobre oferta.",
-    "11 sep 2026: Casa Blanca evalua invocar Ley de Produccion para Defensa para ampliar refinacion en EE.UU. (refinerias al 98%, diesel >$6/galon); sin decision tomada, impacto direccional incierto."
+    "11 sep 2026: Casa Blanca evalua invocar Ley de Produccion para Defensa para ampliar refinacion en EE.UU. (refinerias al 98%, diesel >$6/galon); sin decision tomada, impacto direccional incierto.",
+    "12 sep 2026: Hutíes respaldados por Irán capturan la isla estratégica de Mayun y consolidan el control de la costa del Mar Rojo; Irán lo celebra, agravando el riesgo sobre Bab al-Mandeb y la oferta petrolera."
   ],
-  "last_direction": "incierto"
+  "last_direction": "alza"
 }
