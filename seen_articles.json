@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "76beed76bbdffe31c49d502c5bb517a9e90035f612c55dde3583e1a1354bf320",
-    "7e2a1f8db5a4d7b1c296c35ed019d12cdcbd2d182c6324c361b91f44794fa0b3",
-    "c9bcbf47e7cc51560433dc863992c6adfe2f4fcc8b98380c4b79a19831190a94",
-    "b3da112389a594dd41a4c9ec2b26d9ddebf7bf98ef815c53902218b60bbcb44b",
     "e278d2a527eed35da6000ee3ed265604ae5a249cbc315f8d7593c25ca89965f4",
     "0646d173b442b6bb9022cc9d890cb16578f54df64f358d4aef0e3722c0b30c0e",
     "b508531d7fc0d50b44b0b1fdc6193b3d3ecbbb798db97f2feaacc57d5e569e41",
@@ -499,10 +495,13 @@
     "211ad546e3163fef03f82a57a53069b8005792f3a855ad370ce8689ebfe160da",
     "06bb97d9254249eb7e0f0246bbdabf12326a5f9467f70aa16558f1be9ce6ea86",
     "1e91458e5160c9939b386621631da2eb1cb1ddb89321d172bbe43310fa7de87c",
-    "d6945e8b961b7b0a62ec61ff79b2e23180df8eb44e418303a5ce17f88cf045d0"
+    "d6945e8b961b7b0a62ec61ff79b2e23180df8eb44e418303a5ce17f88cf045d0",
+    "62eaa2f4a3f47ceb416bf1a0875b84ae2eb1ec026b355c6ccebb746d0b65d38e",
+    "7356c53541f6aaf8ce1ad4f4596c716c0e4c6279fd30d838e37963d286662020",
+    "f2d493a1a08e3b6b6dfda17629c6f53944a18aa695e959e06140f56c6e1e3a64",
+    "16805e5beb06101e1c72a49cc34c072ba59a6b79a60564457aaf8affe69c63c8"
   ],
   "seen_summaries": [
-    "Libia evalúa fuerza mayor en terminal Zawiya tras ataques con drones que destruyeron tanque de almacenamiento; riesgo de oferta adicional (120-300 mil bpd) eleva presión alcista.",
     "11 ago 2026: China reanuda compras de crudo iraní (teapots) y el petróleo supera $84 por desvanecimiento de acuerdo sobre Ormuz; riesgo de suministro elevado.",
     "La Cámara de Representantes de EE.UU. avanza con paquete de sanciones integrales a Rusia e Irán (arancel 100% a importadores de energía rusa) el 11 ago 2026, elevando presión alcista sobre precios del petróleo.",
     "OilPrice reporta que las tensiones en Ormuz se reavivan con colapso de exportaciones iraníes, empujando el Brent hacia $87 y con riesgo de $100; China reanuda compras de crudo iraní mientras el acuerdo no avanza.",
@@ -701,7 +700,8 @@
     "11 sep 2026: Casa Blanca evalua invocar Ley de Produccion para Defensa para ampliar refinacion en EE.UU. (refinerias al 98%, diesel >$6/galon); sin decision tomada, impacto direccional incierto.",
     "12 sep 2026: Hutíes respaldados por Irán capturan la isla estratégica de Mayun y consolidan el control de la costa del Mar Rojo; Irán lo celebra, agravando el riesgo sobre Bab al-Mandeb y la oferta petrolera.",
     "12 sep 2026: Irán y Emiratos celebran primeras conversaciones de alto nivel en la cumbre BRICS, posible señal de desescalada en el Golfo con presión bajista sobre el crudo.",
-    "12 sep 2026: Irak investiga ataques con drones a Arabia Saudita, destituye comandante y cierra tres cruces con Iran, primer freno concreto al uso de su territorio contra infraestructura saudita; direccion sobre crudo incierta."
+    "12 sep 2026: Irak investiga ataques con drones a Arabia Saudita, destituye comandante y cierra tres cruces con Iran, primer freno concreto al uso de su territorio contra infraestructura saudita; direccion sobre crudo incierta.",
+    "13 sep 2026: Irak incauta plataforma de drones proiraní en Maysan usada contra el oleoducto saudí Este-Oeste, primer freno concreto de Bagdad; efecto direccional sobre crudo aún incierto."
   ],
   "last_direction": "incierto"
 }
