@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "cce9b31fdb2cc3077d1b5a17a7027ccb14b3cf2dfb6581799fe5d585d8da4427",
-    "0bb2e2dd222df1420994d42ef97a573cad9233dc03c506c9eb14b0a20f78d7c6",
-    "dc229d77d6979be9d0c247529feb3aea7c83d46658dbfc810ab86565e284b541",
-    "9c19e7c5aefd9b5072e960a273faf06d0eba9dcc6a165c646428518b2e85b908",
     "31e01bd23f67a3843b5cfe988a9f934d70e6e4ca171708b4c50b0565aff99027",
     "c78d091a241e52ae83276e8b4c37a1cd5f378f9a558c1fe619f9bee98cc2e191",
     "d7132d2c25adc2dd231b146cd6d35db17972dab70776c79ae76431bae071463d",
@@ -499,10 +495,13 @@
     "a4794ab1a4337c166d48624d02eaa8bb4ad1bbc21b9d9459e7b4cdde9c090323",
     "aaa01db52c25cf8e65cefc707acc7d6954980baa6c8d5e1b65ce87133df24fa7",
     "0e11d3a05327d506dfa9f41015e50f36443715b75d2abb97af8ef869974b1f30",
-    "d2eb72ebf1920736b43d44a0fe1b73b3f4c250360261900c2b29df24e47f53ba"
+    "d2eb72ebf1920736b43d44a0fe1b73b3f4c250360261900c2b29df24e47f53ba",
+    "b359e3c19b2150080d787362b507fb91990fa1521a1843efab3c7c608c383767",
+    "ab83a390b297f95eb12b464b21664a7e7d97b78866e156526885b5fe6d24db77",
+    "02b9d71fbbeb36852fb011e50ee67651a3e9f5d6520dddbc4224c61c33057cdf",
+    "03b444c85f494ffb71373ed65aaf2bc4a177738463eced3c4f9a6b2bd0f4334c"
   ],
   "seen_summaries": [
-    "La Cámara de Representantes de EE.UU. avanza con paquete de sanciones integrales a Rusia e Irán (arancel 100% a importadores de energía rusa) el 11 ago 2026, elevando presión alcista sobre precios del petróleo.",
     "OilPrice reporta que las tensiones en Ormuz se reavivan con colapso de exportaciones iraníes, empujando el Brent hacia $87 y con riesgo de $100; China reanuda compras de crudo iraní mientras el acuerdo no avanza.",
     "Irán confirma el 11 ago 2026 que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones (fin guerra, liberar fondos), elevando riesgo de oferta y precios.",
     "11 ago 2026: Tráfico en Ormuz cae a solo 6 buques el lunes, mínimo histórico, confirmando colapso de suministro y desvanecimiento de acuerdo, elevando riesgo de precios.",
@@ -701,7 +700,8 @@
     "12 sep 2026: Irán y Emiratos celebran primeras conversaciones de alto nivel en la cumbre BRICS, posible señal de desescalada en el Golfo con presión bajista sobre el crudo.",
     "12 sep 2026: Irak investiga ataques con drones a Arabia Saudita, destituye comandante y cierra tres cruces con Iran, primer freno concreto al uso de su territorio contra infraestructura saudita; direccion sobre crudo incierta.",
     "13 sep 2026: Irak incauta plataforma de drones proiraní en Maysan usada contra el oleoducto saudí Este-Oeste, primer freno concreto de Bagdad; efecto direccional sobre crudo aún incierto.",
-    "13 sep 2026: Nuevo ataque a un buque en Ormuz confirmado por UKMTO antes de reunion Iran-Golfo en Oman, persistencia de riesgo de oferta con presion alcista."
+    "13 sep 2026: Nuevo ataque a un buque en Ormuz confirmado por UKMTO antes de reunion Iran-Golfo en Oman, persistencia de riesgo de oferta con presion alcista.",
+    "13 sep 2026: Irán y Omán aplazan conversaciones de desescalada en Ormuz, eliminando expectativa de mediación y reforzando presión alcista sobre el crudo."
   ],
   "last_direction": "alza"
 }
