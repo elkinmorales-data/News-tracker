@@ -1,15 +1,5 @@
 {
   "seen_hashes": [
-    "e278d2a527eed35da6000ee3ed265604ae5a249cbc315f8d7593c25ca89965f4",
-    "0646d173b442b6bb9022cc9d890cb16578f54df64f358d4aef0e3722c0b30c0e",
-    "b508531d7fc0d50b44b0b1fdc6193b3d3ecbbb798db97f2feaacc57d5e569e41",
-    "549ddda5c84286c5b8df91433a5dee99cfcd444ecc62078fa261f6d9f922c303",
-    "5e344e166c0ee66febdb4f8fdba06677f0f7932676e1938720e30ce07c2b1db8",
-    "5fbda32ad1d59142c524167fd214eb50733a70cb537eb3bfa5ea08d18d24c071",
-    "f9aa20ae9ce4d5fe6fe4084e2ea40df0de66d1075bf53b603a00acd1513ea6bf",
-    "18f5b7fa197490d9d88bd3300013a962488e221c30e80f7a20afbba3d1aacce1",
-    "b11117e398401afc1b337b1c489a65293fbb9ebe3cf403f9d3c0751432fb9a42",
-    "aa693b8a92b8d5d6e5fd73133c812c1074f4ef16c6f7a76e7f0984f8d36d31c0",
     "de265a9bc3c8d06533ba2743c37701d238a5ba7b94476f7d57008e6b5bed96e2",
     "cce9b31fdb2cc3077d1b5a17a7027ccb14b3cf2dfb6581799fe5d585d8da4427",
     "0bb2e2dd222df1420994d42ef97a573cad9233dc03c506c9eb14b0a20f78d7c6",
@@ -499,10 +489,19 @@
     "62eaa2f4a3f47ceb416bf1a0875b84ae2eb1ec026b355c6ccebb746d0b65d38e",
     "7356c53541f6aaf8ce1ad4f4596c716c0e4c6279fd30d838e37963d286662020",
     "f2d493a1a08e3b6b6dfda17629c6f53944a18aa695e959e06140f56c6e1e3a64",
-    "16805e5beb06101e1c72a49cc34c072ba59a6b79a60564457aaf8affe69c63c8"
+    "16805e5beb06101e1c72a49cc34c072ba59a6b79a60564457aaf8affe69c63c8",
+    "b5ba9d41c96cefd55a0d60fb5049d93673b6b1aa69bd9dadf7568a7853aa3487",
+    "d2178051a65139e6e493efcebd4637d5d4da3a62aa7e887bba5c0790c864df22",
+    "40a6ee84bcde539ed04464180aa113cba25edf9eeb05897648537bcc1a07702f",
+    "4578648677aceb3958bc048582c60633c787d0ee089781dfb64cb84158e5865c",
+    "7e98ba0d5c9222f6bfc814530b8c7ef9ec6a7e68b58c4df9523cb35de2df85d7",
+    "ed46b41627a76a10e95016fe124d1c7096d6d6d027246430b830f04832ff6926",
+    "31e30c35effe73b5b2f6f1f60b577448947505e26cdd23dfdf623d56871eff42",
+    "a4794ab1a4337c166d48624d02eaa8bb4ad1bbc21b9d9459e7b4cdde9c090323",
+    "aaa01db52c25cf8e65cefc707acc7d6954980baa6c8d5e1b65ce87133df24fa7",
+    "0e11d3a05327d506dfa9f41015e50f36443715b75d2abb97af8ef869974b1f30"
   ],
   "seen_summaries": [
-    "11 ago 2026: China reanuda compras de crudo iraní (teapots) y el petróleo supera $84 por desvanecimiento de acuerdo sobre Ormuz; riesgo de suministro elevado.",
     "La Cámara de Representantes de EE.UU. avanza con paquete de sanciones integrales a Rusia e Irán (arancel 100% a importadores de energía rusa) el 11 ago 2026, elevando presión alcista sobre precios del petróleo.",
     "OilPrice reporta que las tensiones en Ormuz se reavivan con colapso de exportaciones iraníes, empujando el Brent hacia $87 y con riesgo de $100; China reanuda compras de crudo iraní mientras el acuerdo no avanza.",
     "Irán confirma el 11 ago 2026 que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones (fin guerra, liberar fondos), elevando riesgo de oferta y precios.",
@@ -701,7 +700,8 @@
     "12 sep 2026: Hutíes respaldados por Irán capturan la isla estratégica de Mayun y consolidan el control de la costa del Mar Rojo; Irán lo celebra, agravando el riesgo sobre Bab al-Mandeb y la oferta petrolera.",
     "12 sep 2026: Irán y Emiratos celebran primeras conversaciones de alto nivel en la cumbre BRICS, posible señal de desescalada en el Golfo con presión bajista sobre el crudo.",
     "12 sep 2026: Irak investiga ataques con drones a Arabia Saudita, destituye comandante y cierra tres cruces con Iran, primer freno concreto al uso de su territorio contra infraestructura saudita; direccion sobre crudo incierta.",
-    "13 sep 2026: Irak incauta plataforma de drones proiraní en Maysan usada contra el oleoducto saudí Este-Oeste, primer freno concreto de Bagdad; efecto direccional sobre crudo aún incierto."
+    "13 sep 2026: Irak incauta plataforma de drones proiraní en Maysan usada contra el oleoducto saudí Este-Oeste, primer freno concreto de Bagdad; efecto direccional sobre crudo aún incierto.",
+    "13 sep 2026: Nuevo ataque a un buque en Ormuz confirmado por UKMTO antes de reunion Iran-Golfo en Oman, persistencia de riesgo de oferta con presion alcista."
   ],
-  "last_direction": "incierto"
+  "last_direction": "alza"
 }
