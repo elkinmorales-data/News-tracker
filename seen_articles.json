@@ -1,22 +1,5 @@
 {
   "seen_hashes": [
-    "c8bfbcd162d8085a57bfe08d1b111c31b87eaec15d250ca6985d2e7c6f2c8ff6",
-    "66e5be2d83c077bc2e78a4baf5947c23bcfac1ce99fa2c645e2378247113f33c",
-    "28b88beed780906b122b32b901749ddd7cdfd43b63e0bc398f6e766f53832d7d",
-    "f863b36abf614ba3a1c6ec64795dcc33a7d773b74441edbf2fa2597801cdf106",
-    "ddb57354f64548b1cd2b6c1fa668893c8dad766f1bb0f8db1fce68662c2949fd",
-    "fa9ef8c38de4a1ead95f9fb5eb234935d015834863be64c37f99548fb98e1452",
-    "4fdc1ef5d9ffcf8927fbdb370440517995d1366bab009e243b113b9a66713e85",
-    "9188e81fdf6a9f3b09b904ee0513189bfcc6ac458a1329ebc5eef711407b2aa4",
-    "12f57dd9faebce52a7ddc36f07e1652473b1668648828684eb0c5eddf2fc508e",
-    "7b08911713c134365c4316d7ed3c4d36f4ae7e0773bf1c20aea999cea66d5145",
-    "b4510eac8572c8bbba083e361ffb37466588b1885f06dc91e77282b660ede4cb",
-    "9317c29c2938159813d7116f59d45e122db444daaff58020f8f1cf5faa385c9c",
-    "110876cec757cfbdbeb8e331feef7e4b7611e45b90022817e369a98d1e1e6073",
-    "48112ac9cb16e10f1ac12d3716b907112423faf05df6f33e6c3f3eb1340558c6",
-    "d5b30bed29d3ee3d78b9fb3145a69879532ab88d42c99fc163a720cab8894568",
-    "138fae5ac79fd7aa29f1cd15be054a76899e2af4a3a8b62c659c71e56fcc82ef",
-    "48dc7d9372559ffec4e7899c4f99c92952b6461e7b10efcd85cc7e5e10d8345b",
     "8f2a058ec6afe24c1585853939cc428712f68c6f1335205dde181d486c1417d1",
     "c50e4ac77d4901288d4f573b278f48a0c0650d7c73fe93857de16bb2d1ee973a",
     "b9aea91d3bc8eee9fd908a7464c70f0ff9f36555fafbab2bbb3388a24e4312fd",
@@ -499,10 +482,26 @@
     "3160594906cbc1e0bf4ef8afa29c8fb6769e7fff53df135bf9522e33d92dd560",
     "be013919d3de04ab6a18d70a3769a606c8a530a25893afd8103a62fee859fa58",
     "045d083b14b259b77c6141ba31c79befd3c7d42d75d190b51efc77b1a9b6bc2f",
-    "fc0300f031b9857df8c941fa5dbe1ba1cde2ce6e3ebf04d49a96c0c1f3ad8fdf"
+    "fc0300f031b9857df8c941fa5dbe1ba1cde2ce6e3ebf04d49a96c0c1f3ad8fdf",
+    "72adce655567de4dae6d54cd86d2437933c4c4ea035f502d44442e3a110d8f5e",
+    "7102468b5763591f34c5af23c44d4fbd0a93da15bfae07dbb44649b810ef9e41",
+    "3f17e3a04ba0cfb944bfca0346087521c7971a6a4e828db1d954c736e50a6001",
+    "6fe2ef048a6e740e44f2b164501a9b164d892dba289bebe478b4ccb704327b1d",
+    "7aca4fc228a49bb42e5543d9acec0a60f661e1dadac1dc326b18bf3fcf0a2054",
+    "a375e2292c8fdd50c2d00b65704acec0bab428b97ee9a47c79d2989e4f120697",
+    "63de17e2779313579798ac484efe4bc14c09d6ec342900bf3722d1beb926d3a5",
+    "a9240740477c843741e28be59c7cd8f55b0cf64ed2e670909b0a4ba1e04ea7a1",
+    "aad4e0c1da1f09722a3665d210db26f79d7a776809423f6b7aebbc3541e09d90",
+    "1c1c54674cd6b328b469604aa8523d2c2e8a6f54a215fc93c5e73283be1b787c",
+    "3a14a91a66b79a93e8cbe8bf76c0c9d43a6183ef5ff216b2623c9aa83211cfa4",
+    "ae64d67896d8b541b23669a072c8d430345055f06e673f19692a1000fd9ed129",
+    "411223dbfb1f0324c9200cce74a9cd48828b403d5dc4db87aba51c3cccc6dc96",
+    "dc84a2f0f18efa000d21ed5a8a8962b216a18a71c64a29ab0ea22f33489641a8",
+    "8ac04fab598050b2f4b464da33414cfddcff8b7cfa9549092100c5c5d9fd03ae",
+    "c0285c5a10df62ff37955469319e88fad4b1e47f12ce9dc4aa6329c96afc17d1",
+    "ab2f26d6e6a3526d658fe54a53a7ae2c254c8760b9632ca148514c87805212a1"
   ],
   "seen_summaries": [
-    "Irán confirma el 11 ago 2026 que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones (fin guerra, liberar fondos), elevando riesgo de oferta y precios.",
     "11 ago 2026: Tráfico en Ormuz cae a solo 6 buques el lunes, mínimo histórico, confirmando colapso de suministro y desvanecimiento de acuerdo, elevando riesgo de precios.",
     "11 ago 2026: CENTCOM dispara contra buque Vela Nova que intentó romper bloqueo iraní en Ormuz; riesgo de escalada militar y presión alcista sobre petróleo.",
     "12 ago 2026: Ataque hutí en Bab el-Mandeb mata a seis (primeras muertes en navegación) e Irán reitera que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones; se mantiene riesgo de suministro y presión alcista.",
@@ -701,7 +700,8 @@
     "13 sep 2026: Irak incauta plataforma de drones proiraní en Maysan usada contra el oleoducto saudí Este-Oeste, primer freno concreto de Bagdad; efecto direccional sobre crudo aún incierto.",
     "13 sep 2026: Nuevo ataque a un buque en Ormuz confirmado por UKMTO antes de reunion Iran-Golfo en Oman, persistencia de riesgo de oferta con presion alcista.",
     "13 sep 2026: Irán y Omán aplazan conversaciones de desescalada en Ormuz, eliminando expectativa de mediación y reforzando presión alcista sobre el crudo.",
-    "14 sep 2026: Trump plantea confiscar petroleo irani estilo Venezuela y se posponen conversaciones Golfo-Iran en Ormuz; Brent supera $108, escalada alcista con riesgo de oferta."
+    "14 sep 2026: Trump plantea confiscar petroleo irani estilo Venezuela y se posponen conversaciones Golfo-Iran en Ormuz; Brent supera $108, escalada alcista con riesgo de oferta.",
+    "14 sep 2026: Arabia Saudita cierra oleoducto Este-Oeste por ataque con drones desde Irak; Hutíes atacan base King Khalid; conversaciones Golfo-Irán suspendidas; Ormuz a tráfico de un dígito diario; Brent >$108 y gas europeo +6% a máximos desde 2022."
   ],
   "last_direction": "alza"
 }
