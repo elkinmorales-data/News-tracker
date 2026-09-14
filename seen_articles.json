@@ -1,13 +1,5 @@
 {
   "seen_hashes": [
-    "8f2a058ec6afe24c1585853939cc428712f68c6f1335205dde181d486c1417d1",
-    "c50e4ac77d4901288d4f573b278f48a0c0650d7c73fe93857de16bb2d1ee973a",
-    "b9aea91d3bc8eee9fd908a7464c70f0ff9f36555fafbab2bbb3388a24e4312fd",
-    "6b937e780ab47319d240dc1c00220f52427195164bcfeedcbf51113371680e15",
-    "00945f82e12eecd50d0ec6e1a8de8053d38428607e61a88a9ff79c70ccc9e3c5",
-    "b54b65894398fb14c1855a323244149ac17ca64961b46bfbd8eae263957fb10a",
-    "9f74f31e9debf9b6eac40d9396c1a1b71fb184f486f1336469ad5ca975383b8f",
-    "ab1a63cd15848f9b06281f3e14abc522a4fb5df57c86205763bc083ce67e18a3",
     "221cbbf78caa24d25ccc64ee6e6fe17c632db2691ecc328ae825869bb7bca805",
     "5eafa3bb5760cb637e8ae34c4b54131a49adde3b9516ec92e5d8cfdf7c40745c",
     "b4b882f12c3570bd9a72d568d4e99820c88c16fd4f22d8cf8c9056c65bdfe6f9",
@@ -499,10 +491,17 @@
     "dc84a2f0f18efa000d21ed5a8a8962b216a18a71c64a29ab0ea22f33489641a8",
     "8ac04fab598050b2f4b464da33414cfddcff8b7cfa9549092100c5c5d9fd03ae",
     "c0285c5a10df62ff37955469319e88fad4b1e47f12ce9dc4aa6329c96afc17d1",
-    "ab2f26d6e6a3526d658fe54a53a7ae2c254c8760b9632ca148514c87805212a1"
+    "ab2f26d6e6a3526d658fe54a53a7ae2c254c8760b9632ca148514c87805212a1",
+    "8db55d644aea4228e85342b5d7f7c2a613f0bf3dc18dad4f2ff744cb13828a56",
+    "091787bb9090be953a1506883ddded605018a97282c3cbcfde06dba03e353805",
+    "d9f08459fbd8b630a8c6c339b4febf06e60339d3418dee49d53753c1110475a6",
+    "12eebaa4a382477ddbd931cd21c53d1fc937715664eab604cbfcec32b25c9da1",
+    "f11fcea17a52bc615d4b9bb8cc651cc48cf7a4cd2aef748eeb657ef627336d01",
+    "77453a6f980b025e1dda7c0e0c5da769949cea6bf75d1692b653578d669f409d",
+    "9ce843c66e671231368a5dec40fc7c4e877c4606c38fe5e1290e0faf3ecab946",
+    "8019546c1e063f2db9ba1c2a6c1e272b361700db786a65f627a5e384c3829215"
   ],
   "seen_summaries": [
-    "11 ago 2026: Tráfico en Ormuz cae a solo 6 buques el lunes, mínimo histórico, confirmando colapso de suministro y desvanecimiento de acuerdo, elevando riesgo de precios.",
     "11 ago 2026: CENTCOM dispara contra buque Vela Nova que intentó romper bloqueo iraní en Ormuz; riesgo de escalada militar y presión alcista sobre petróleo.",
     "12 ago 2026: Ataque hutí en Bab el-Mandeb mata a seis (primeras muertes en navegación) e Irán reitera que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones; se mantiene riesgo de suministro y presión alcista.",
     "12 ago 2026: Ataques mortales en Mar Rojo y Golfo de Omán elevan precios del crudo y confirman riesgo persistente en rutas de navegación, sin avance en reapertura de Ormuz.",
@@ -701,7 +700,8 @@
     "13 sep 2026: Nuevo ataque a un buque en Ormuz confirmado por UKMTO antes de reunion Iran-Golfo en Oman, persistencia de riesgo de oferta con presion alcista.",
     "13 sep 2026: Irán y Omán aplazan conversaciones de desescalada en Ormuz, eliminando expectativa de mediación y reforzando presión alcista sobre el crudo.",
     "14 sep 2026: Trump plantea confiscar petroleo irani estilo Venezuela y se posponen conversaciones Golfo-Iran en Ormuz; Brent supera $108, escalada alcista con riesgo de oferta.",
-    "14 sep 2026: Arabia Saudita cierra oleoducto Este-Oeste por ataque con drones desde Irak; Hutíes atacan base King Khalid; conversaciones Golfo-Irán suspendidas; Ormuz a tráfico de un dígito diario; Brent >$108 y gas europeo +6% a máximos desde 2022."
+    "14 sep 2026: Arabia Saudita cierra oleoducto Este-Oeste por ataque con drones desde Irak; Hutíes atacan base King Khalid; conversaciones Golfo-Irán suspendidas; Ormuz a tráfico de un dígito diario; Brent >$108 y gas europeo +6% a máximos desde 2022.",
+    "14 sep 2026: EE.UU. presiona a Austria para negar visa a Mohammad Eslami (jefe nuclear iraní), bloqueando su asistencia a conferencia OIEA en Viena; Irán denuncia violación de derechos, endureciendo aislamiento diplomático y presión alcista sobre crudo."
   ],
   "last_direction": "alza"
 }
