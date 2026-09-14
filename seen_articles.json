@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "31e01bd23f67a3843b5cfe988a9f934d70e6e4ca171708b4c50b0565aff99027",
-    "c78d091a241e52ae83276e8b4c37a1cd5f378f9a558c1fe619f9bee98cc2e191",
-    "d7132d2c25adc2dd231b146cd6d35db17972dab70776c79ae76431bae071463d",
-    "ad8774a66fce1ece503e3a2146d4d7278007a69a436ac14a634e88df09717015",
-    "2cbfe7c9cf9ea2b66b8749fc367bc151aa1473046b8ce5192513ef140343a1cb",
-    "638c2f3997fed0370f61ace8d597e62a24c630bd1acbcef441ec58918f1bfd8f",
     "c8bfbcd162d8085a57bfe08d1b111c31b87eaec15d250ca6985d2e7c6f2c8ff6",
     "66e5be2d83c077bc2e78a4baf5947c23bcfac1ce99fa2c645e2378247113f33c",
     "28b88beed780906b122b32b901749ddd7cdfd43b63e0bc398f6e766f53832d7d",
@@ -499,10 +493,15 @@
     "b359e3c19b2150080d787362b507fb91990fa1521a1843efab3c7c608c383767",
     "ab83a390b297f95eb12b464b21664a7e7d97b78866e156526885b5fe6d24db77",
     "02b9d71fbbeb36852fb011e50ee67651a3e9f5d6520dddbc4224c61c33057cdf",
-    "03b444c85f494ffb71373ed65aaf2bc4a177738463eced3c4f9a6b2bd0f4334c"
+    "03b444c85f494ffb71373ed65aaf2bc4a177738463eced3c4f9a6b2bd0f4334c",
+    "c98f9f4853ad8347f03e566767e515e2229b5ef131ab3cd01eccbc6b215e09c1",
+    "0f7ddf4fbb89c032dac79838033c189982efedc53e44d52c5b30065618874944",
+    "3160594906cbc1e0bf4ef8afa29c8fb6769e7fff53df135bf9522e33d92dd560",
+    "be013919d3de04ab6a18d70a3769a606c8a530a25893afd8103a62fee859fa58",
+    "045d083b14b259b77c6141ba31c79befd3c7d42d75d190b51efc77b1a9b6bc2f",
+    "fc0300f031b9857df8c941fa5dbe1ba1cde2ce6e3ebf04d49a96c0c1f3ad8fdf"
   ],
   "seen_summaries": [
-    "OilPrice reporta que las tensiones en Ormuz se reavivan con colapso de exportaciones iraníes, empujando el Brent hacia $87 y con riesgo de $100; China reanuda compras de crudo iraní mientras el acuerdo no avanza.",
     "Irán confirma el 11 ago 2026 que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones (fin guerra, liberar fondos), elevando riesgo de oferta y precios.",
     "11 ago 2026: Tráfico en Ormuz cae a solo 6 buques el lunes, mínimo histórico, confirmando colapso de suministro y desvanecimiento de acuerdo, elevando riesgo de precios.",
     "11 ago 2026: CENTCOM dispara contra buque Vela Nova que intentó romper bloqueo iraní en Ormuz; riesgo de escalada militar y presión alcista sobre petróleo.",
@@ -701,7 +700,8 @@
     "12 sep 2026: Irak investiga ataques con drones a Arabia Saudita, destituye comandante y cierra tres cruces con Iran, primer freno concreto al uso de su territorio contra infraestructura saudita; direccion sobre crudo incierta.",
     "13 sep 2026: Irak incauta plataforma de drones proiraní en Maysan usada contra el oleoducto saudí Este-Oeste, primer freno concreto de Bagdad; efecto direccional sobre crudo aún incierto.",
     "13 sep 2026: Nuevo ataque a un buque en Ormuz confirmado por UKMTO antes de reunion Iran-Golfo en Oman, persistencia de riesgo de oferta con presion alcista.",
-    "13 sep 2026: Irán y Omán aplazan conversaciones de desescalada en Ormuz, eliminando expectativa de mediación y reforzando presión alcista sobre el crudo."
+    "13 sep 2026: Irán y Omán aplazan conversaciones de desescalada en Ormuz, eliminando expectativa de mediación y reforzando presión alcista sobre el crudo.",
+    "14 sep 2026: Trump plantea confiscar petroleo irani estilo Venezuela y se posponen conversaciones Golfo-Iran en Ormuz; Brent supera $108, escalada alcista con riesgo de oferta."
   ],
   "last_direction": "alza"
 }
