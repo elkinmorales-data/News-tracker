@@ -1,13 +1,5 @@
 {
   "seen_hashes": [
-    "798dd9c4593805bb15e258866a5939289eb6123cd0a4a6b7704ddbe2ef5b945e",
-    "18d1dc6cfff664401e2c8d240f2a13fbddbdee88bbc8d2fdb71b16bbfcbc5842",
-    "1ccef4d3af3a6b4697d24a76cd695471e293a968c65722762106c0b388fcb1ad",
-    "00bfeb44017a80ed0b2cf05e25fe938c3c2ba84aa6b73a527ea0148892774c49",
-    "651ad0feab9079812d581671f2e7f560bd19770b92ded077d9756cabe2f3e805",
-    "f0cdc313e8fbc94e1e6f49e7be819964655bacd04d746c70a9d701d013d3e49c",
-    "1be61059332a3baeda21e98ec197f6dacd962f18f3f6a9e00d16a41ebc049fac",
-    "498cdd70afa92b5bb7431c9c82b9343706f72781260212f88a1bb6d0def3bf2d",
     "5addf6cab208afbbce1a0661b1d56814653dfafa90683e642dbeb51802550e3d",
     "cf940820a7e0377a534748e58bc366f1b00ef2e4a57a1b94f449b9248f10c024",
     "a5fa30c2e3c1bca24681f67600330c320523c7820f588ee2fb67e68697e5749f",
@@ -499,10 +491,17 @@
     "1ed1bce244b74fc879b086f018d4eaf3d06e0f618a18ec1b051c5a31932186b7",
     "5fdfcb8fdf33f5981abade60962de3ca089d9a7799362aeb6bdee20e6b6dba48",
     "6594dab27da28a9834f629eabf134093951e41b4d917697baadba0b95829513d",
-    "19246e6c7a7e413b739d4b9f9e5821437e2d608d03be1945b51fc6f14b640d8d"
+    "19246e6c7a7e413b739d4b9f9e5821437e2d608d03be1945b51fc6f14b640d8d",
+    "1e45c221ac5b37840114b57b05b5dedb4b37384960c57ac9ef351845dbe11256",
+    "2955703fb4eab2e3763166d2142876d99dbda8ed622fb9d937b6d5bb5295daae",
+    "ddace442bfbbb4cab4900e3ce7045b5b51117566e970a301db038cab3ecc6543",
+    "5b9f923030bb1652d41992b2b2cbb3b04574826f894e34f86099236e3b26fa86",
+    "08b55b3314a65acaeece599b7e3b937ed3279604ed833cbd342d3ed9937a3daf",
+    "a0bfa53332b577e973dd00d729d8633ade2e56c67b9229959c43cdd6408933b4",
+    "18838d3ac1ef3f01e3f751eba77df76861949300e608d7a65c5a4052e32cf96b",
+    "4481d428795e3b9429df5cdb443666d61cee6d958b085195e035df48a7620e99"
   ],
   "seen_summaries": [
-    "12 ago 2026: Ataques mortales en Mar Rojo y Golfo de Omán elevan precios del crudo y confirman riesgo persistente en rutas de navegación, sin avance en reapertura de Ormuz.",
     "Trump afirma que su avión señuelo enfrentó riesgo de ataque iraní en vuelo secreto, confirmando amenaza militar activa y elevando riesgo de escalada.",
     "IEA ve caída de demanda de 1,6M bpd en 2026 por cierre de Ormuz; datos de tankers contradicen a Wright sobre normalización de flujos – riesgo de suministro sigue alto.",
     "12 ago 2026: Brent supera $89 por estancamiento EE.UU.-Irán sobre Ormuz (Irán mantiene cierre) y Pakistán confirma 3 ciudadanos muertos en ataque hutí a buque frente a Bab el-Mandeb, elevando riesgo de suministro.",
@@ -701,7 +700,8 @@
     "14 sep 2026: Arabia Saudita cierra oleoducto Este-Oeste por ataque con drones desde Irak; Hutíes atacan base King Khalid; conversaciones Golfo-Irán suspendidas; Ormuz a tráfico de un dígito diario; Brent >$108 y gas europeo +6% a máximos desde 2022.",
     "14 sep 2026: EE.UU. presiona a Austria para negar visa a Mohammad Eslami (jefe nuclear iraní), bloqueando su asistencia a conferencia OIEA en Viena; Irán denuncia violación de derechos, endureciendo aislamiento diplomático y presión alcista sobre crudo.",
     "15 sep 2026: CENTCOM desmiente la versión del IRGC sobre ataque con minas al superpetrolero panameño El Gaia en Ormuz, generando incertidumbre sobre un nuevo incidente sin confirmación independiente de daño.",
-    "15 sep 2026: Aramco suspende cargas en Yanbu y cancela entregas de crudo a refinerías europeas por cierre del oleoducto Este-Oeste (reparación de semanas); Brent vuelve a $108 y futuros chinos marcan récord de $138.5, profundizando disrupción de oferta saudí con presión alcista."
+    "15 sep 2026: Aramco suspende cargas en Yanbu y cancela entregas de crudo a refinerías europeas por cierre del oleoducto Este-Oeste (reparación de semanas); Brent vuelve a $108 y futuros chinos marcan récord de $138.5, profundizando disrupción de oferta saudí con presión alcista.",
+    "15 sep 2026: Secretario de Energia de EE.UU. afirma que el oleoducto Este-Oeste saudita (4-5 mbd) volveria en dias, primera estimacion oficial de reparacion, señal de posible alivio de oferta con presion bajista sobre el crudo."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
