@@ -1,14 +1,5 @@
 {
   "seen_hashes": [
-    "434f7be863adb19b6f95d29e90696f3d19653018c921180bd5783af9ea406876",
-    "cc95a054e45b569f28378626055cdb078593f95df879331ccb11b6b32995e957",
-    "4700f7fe22298ebb1b5875fdcb647c7bd605460fcaaa8d3e2b6b1154059e2b24",
-    "d06a58c51929cdda1ee512c0e12834dfd0ebc190693373ff83798a2311c32ba3",
-    "c351129a645c29881d0a9cefaac1335c2cc386f593e9a5b3c657bbe0eb349b5c",
-    "84e23a80ccec1b8371afa9a5179e5d789648cbd14715e1ac50d3ba2e65097ca0",
-    "aed0bdc10d18a68b6f462451a4c670d5ffc292cac95f7ff650bad1fcf84473d8",
-    "db200ce1a7ff81344a3f88952fcc74d97c12792feeb1d6b91c58a50c35983727",
-    "17e819b5024d8df01cbbfeea9ec00d5b19e4be9ca825d8eb9ca96dc0a8df8a2c",
     "798dd9c4593805bb15e258866a5939289eb6123cd0a4a6b7704ddbe2ef5b945e",
     "18d1dc6cfff664401e2c8d240f2a13fbddbdee88bbc8d2fdb71b16bbfcbc5842",
     "1ccef4d3af3a6b4697d24a76cd695471e293a968c65722762106c0b388fcb1ad",
@@ -499,10 +490,18 @@
     "1d98d18187797f8e4a8fa0f3768084c6b4d973ba5878c64c963e53e09503ee6a",
     "69301507ae79e2394bfdfac6bbabcc88a28a593523e3cc240c0b1d77ad8041f1",
     "e9fb80e53db7123016b20d3ce527d54454e049a1c5392997fea6fe8e316bf410",
-    "ea64c3dab51a80b15a0f657520ae6777fbc9c4086f4436cf1416d11e9ab03364"
+    "ea64c3dab51a80b15a0f657520ae6777fbc9c4086f4436cf1416d11e9ab03364",
+    "aa1afd823af98cffe636666b33233bf0f5f04680eb961b272d7d792883613f54",
+    "81c7b93540564a07b35dbcdad9156a2bb6ce87074a1ebcb2bf55662cbc059492",
+    "1fd8e87e3a2c107969ac9a303c8d14fbb9900dc2699851f540e0fb513547bb10",
+    "e524422d273de6a20ade42089bb725f93e83e9d6af2e207b32d89702480a3ced",
+    "e01418e783486d1ad427b7020570ecb4678790b28ca87734e7b20884cd05c666",
+    "1ed1bce244b74fc879b086f018d4eaf3d06e0f618a18ec1b051c5a31932186b7",
+    "5fdfcb8fdf33f5981abade60962de3ca089d9a7799362aeb6bdee20e6b6dba48",
+    "6594dab27da28a9834f629eabf134093951e41b4d917697baadba0b95829513d",
+    "19246e6c7a7e413b739d4b9f9e5821437e2d608d03be1945b51fc6f14b640d8d"
   ],
   "seen_summaries": [
-    "12 ago 2026: Ataque hutí en Bab el-Mandeb mata a seis (primeras muertes en navegación) e Irán reitera que Ormuz seguirá cerrado hasta que EE.UU. cumpla condiciones; se mantiene riesgo de suministro y presión alcista.",
     "12 ago 2026: Ataques mortales en Mar Rojo y Golfo de Omán elevan precios del crudo y confirman riesgo persistente en rutas de navegación, sin avance en reapertura de Ormuz.",
     "Trump afirma que su avión señuelo enfrentó riesgo de ataque iraní en vuelo secreto, confirmando amenaza militar activa y elevando riesgo de escalada.",
     "IEA ve caída de demanda de 1,6M bpd en 2026 por cierre de Ormuz; datos de tankers contradicen a Wright sobre normalización de flujos – riesgo de suministro sigue alto.",
@@ -701,7 +700,8 @@
     "14 sep 2026: Trump plantea confiscar petroleo irani estilo Venezuela y se posponen conversaciones Golfo-Iran en Ormuz; Brent supera $108, escalada alcista con riesgo de oferta.",
     "14 sep 2026: Arabia Saudita cierra oleoducto Este-Oeste por ataque con drones desde Irak; Hutíes atacan base King Khalid; conversaciones Golfo-Irán suspendidas; Ormuz a tráfico de un dígito diario; Brent >$108 y gas europeo +6% a máximos desde 2022.",
     "14 sep 2026: EE.UU. presiona a Austria para negar visa a Mohammad Eslami (jefe nuclear iraní), bloqueando su asistencia a conferencia OIEA en Viena; Irán denuncia violación de derechos, endureciendo aislamiento diplomático y presión alcista sobre crudo.",
-    "15 sep 2026: CENTCOM desmiente la versión del IRGC sobre ataque con minas al superpetrolero panameño El Gaia en Ormuz, generando incertidumbre sobre un nuevo incidente sin confirmación independiente de daño."
+    "15 sep 2026: CENTCOM desmiente la versión del IRGC sobre ataque con minas al superpetrolero panameño El Gaia en Ormuz, generando incertidumbre sobre un nuevo incidente sin confirmación independiente de daño.",
+    "15 sep 2026: Aramco suspende cargas en Yanbu y cancela entregas de crudo a refinerías europeas por cierre del oleoducto Este-Oeste (reparación de semanas); Brent vuelve a $108 y futuros chinos marcan récord de $138.5, profundizando disrupción de oferta saudí con presión alcista."
   ],
-  "last_direction": "incierto"
+  "last_direction": "alza"
 }
