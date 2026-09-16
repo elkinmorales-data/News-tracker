@@ -1,21 +1,5 @@
 {
   "seen_hashes": [
-    "371916dc33de50b1203399576742eb474723b4c34d7387f0a0131665b74fc148",
-    "5d73acdd6d4852ab72aeac48774f1d5e883c416518afff98d91e74158d7f9587",
-    "9ba52023dfd86cc4d3b78ffa1ddf75d02847de32fb175f7dfcb40a4f0ef0a809",
-    "bd4076fa5eb41a98f3362da9b99db77f28464ee0c97c01232c2bced4be4d6e0d",
-    "9931d5e21a87c594a2b7859e9e2a4d3db3cbfbb7dce74a8a043ea8a360c8c385",
-    "1d19d6836ab0dab9d815aef21d8cc05521176b0ad375c10461e86ea9b08ee081",
-    "ed535dd7653efc713e4ed40fdbe1c700bb7908984ed3f85a109b220890bfdea1",
-    "cea17e260c95cc119be6a7d5d0a6fc2b433e83f79baa6b876f824356261e07e3",
-    "0990d2a52e13e36a36b9dc05c30ce536d6874787a49dd50ce91eaffa682f7205",
-    "b4c6ea12f30957334b331fe8d30c04f8aabda6d1319ff76328c7162db3c949b3",
-    "ad5af75e45fc0924a09b5e2b0b60dd9e1e46b9affd74563febbe14dbb00332b0",
-    "bc9294cbf46bbb4996e36e55c93eb01efc67e7cd3fc0dc52927939790fec0f83",
-    "2415bd6eedecfb95b7ffb6c98055928412248d8ac366717588f51756600fcd1b",
-    "58d85be6eed1bc37c49da3eceaaaecd24e20c8c25a8280743ca00c8baae5bd59",
-    "1561993e19dadf73a74bf1d0a6bd3fdf7551990250e889362d22fe5d801ddc1a",
-    "295a877f1ede6350184c81a8eb6196d7a35c20357860be270880cc4e41fe48fc",
     "e3446fa040504170739378c2b9646d2ab7aedb2a17ed1ac332be85f387e57008",
     "30c364d6e994514165773fa356f2e06172607558bf09b4d6653a02f9566dfef7",
     "91b75dbaafb462f9fd74edbf97b21e66d34dfe2f1db713dcc2f7302dd9ee2b55",
@@ -499,10 +483,25 @@
     "ad7eb115046a85fd5c519927fe45ede1845754167a903264b8347146f3aaf50f",
     "87bd1dce9da0c2a86178e4172156a7da3cb67e82aa0d648e7847a59caa21d860",
     "0cc3a3616582d7b15167a560862dc496535e222c988e3f16a6daae8b802715be",
-    "ab44a80119711388cea047b303e154a7c100a8a32b22e5d939a1e7ff135461c9"
+    "ab44a80119711388cea047b303e154a7c100a8a32b22e5d939a1e7ff135461c9",
+    "6b052d22e77bb33fb7d446ba27984d3e26357279ed49807d012004a66d07395e",
+    "6f8f81388659f8c4a2fefb0d1131328149e6308be539678e43d88f99c6354856",
+    "a54bdd4a458330376d07f16060fa4a80952cffda26250f1bbf3081592017e8fc",
+    "2d60e635426dce873784863970e5cee9a1c530215766655b37a496e0cff322d7",
+    "abd0f17d09c60a41da39f3f23a4a462ac9ef439c3dcbed29d65f66a2fef88d2e",
+    "bb03e35a63b33d86a1d06da3d07aee8a8c8de96f1f9d63a573f38fd9d6903761",
+    "e71eefdc53589433b0ad8bd78ce8fd204fe5790618ecd4ec6708d598ff9b544c",
+    "d58bdf511189d2dc8e2716192a072610b6f7725a9c5ee6b28fb1780d0a74e24f",
+    "35ab3c23035d59c5da7e5d1a7783a64ebb3ddda92333c64914b29f3e7a490788",
+    "e35c5b73b02b7d93b1f00f51f266ca01c827a99a771f9acd44e99c1a36521b2f",
+    "9978a27bf192d906259ba5e509a589b41e48ad8a7fb67ea69d7d1d2a5c675c0d",
+    "1334aa2d688a3c29139263ec45930b0c78e6e5fe5a7e0a6449258ddfbecfe5bb",
+    "d9c29aa6df631d7c19e42cd24da6be347d799ada8483686bc1854dd9efcd0cae",
+    "9d730b0c5b93ef91bc49c8389302268fdcd4134d1c4017cf44fb99857c6b000d",
+    "38bf2e1f76996e82a8ecbe4a7ebfc8d38ef65ea83bdf054e6a2d35b582817441",
+    "7e8d17f910229fc2363b8ab81c44f19b588c2dbeeab99b8e16d3b99b518f6016"
   ],
   "seen_summaries": [
-    "IEA ve caída de demanda de 1,6M bpd en 2026 por cierre de Ormuz; datos de tankers contradicen a Wright sobre normalización de flujos – riesgo de suministro sigue alto.",
     "12 ago 2026: Brent supera $89 por estancamiento EE.UU.-Irán sobre Ormuz (Irán mantiene cierre) y Pakistán confirma 3 ciudadanos muertos en ataque hutí a buque frente a Bab el-Mandeb, elevando riesgo de suministro.",
     "12 ago 2026: IEA proyecta déficit global de 1,8M bpd en Q3 2026 por cierre de Ormuz y caída de oferta de 4,3M bpd; refinerías indias buscan 6M barriles spot, confirmando escasez y presión alcista.",
     "Ucrania suspende ataques a petroleros en Novorossiysk por petición de Vance, reduciendo riesgo de oferta rusa y presión bajista sobre precios.",
@@ -701,7 +700,8 @@
     "15 sep 2026: CENTCOM desmiente la versión del IRGC sobre ataque con minas al superpetrolero panameño El Gaia en Ormuz, generando incertidumbre sobre un nuevo incidente sin confirmación independiente de daño.",
     "15 sep 2026: Aramco suspende cargas en Yanbu y cancela entregas de crudo a refinerías europeas por cierre del oleoducto Este-Oeste (reparación de semanas); Brent vuelve a $108 y futuros chinos marcan récord de $138.5, profundizando disrupción de oferta saudí con presión alcista.",
     "15 sep 2026: Secretario de Energia de EE.UU. afirma que el oleoducto Este-Oeste saudita (4-5 mbd) volveria en dias, primera estimacion oficial de reparacion, señal de posible alivio de oferta con presion bajista sobre el crudo.",
-    "16 sep 2026: Inventarios de crudo en EE.UU. suben inesperadamente y el petróleo cae, contrarrestando el impacto alcista del cierre del oleoducto Este-Oeste saudí y marcando un posible cambio de dirección a la baja."
+    "16 sep 2026: Inventarios de crudo en EE.UU. suben inesperadamente y el petróleo cae, contrarrestando el impacto alcista del cierre del oleoducto Este-Oeste saudí y marcando un posible cambio de dirección a la baja.",
+    "16 sep 2026: Continental Resources anuncia desarrollo de 126.000 acres y 30.000 millones de barriles en la Faja del Orinoco venezolana, señal bajista de largo plazo por nueva oferta."
   ],
   "last_direction": "baja"
 }
