@@ -1,14 +1,5 @@
 {
   "seen_hashes": [
-    "e3446fa040504170739378c2b9646d2ab7aedb2a17ed1ac332be85f387e57008",
-    "30c364d6e994514165773fa356f2e06172607558bf09b4d6653a02f9566dfef7",
-    "91b75dbaafb462f9fd74edbf97b21e66d34dfe2f1db713dcc2f7302dd9ee2b55",
-    "01ef0ddcd41ba730dca27e4ed72e8d460755bdf9f83219257a918208ef9fe848",
-    "b4336ce456b16fd534774c50a2372c0306be02d1292b54b24472a12d344d4f0d",
-    "97c4bb9652ff35ff4a25c96af460433c4e0fb8e60c99a060889de09120a564c9",
-    "745b5afa807966bca53f05cc07b0478a56be47cced65688198f63c6d71614e18",
-    "66711a42a9da5e36db699c9322ff1677fdb9c6c14a01ea7cc7c8fd343ebcc214",
-    "59746149befe22752cc6abe8c9cbb3ba825d7f300a362bc06f09dd91a71eefc7",
     "516ca5b224d284a20f5de6943387f5c4e6b5d005e04dc518dce3c0628376d12b",
     "9d318c8bc82e73562fce21d1479eeda7a6819277b7171755f6c6c639ca8e1746",
     "b58b1fa1ca8a8a570342947d18c7fda67c652aaa21c7f711f92537281a9cae24",
@@ -499,10 +490,18 @@
     "d9c29aa6df631d7c19e42cd24da6be347d799ada8483686bc1854dd9efcd0cae",
     "9d730b0c5b93ef91bc49c8389302268fdcd4134d1c4017cf44fb99857c6b000d",
     "38bf2e1f76996e82a8ecbe4a7ebfc8d38ef65ea83bdf054e6a2d35b582817441",
-    "7e8d17f910229fc2363b8ab81c44f19b588c2dbeeab99b8e16d3b99b518f6016"
+    "7e8d17f910229fc2363b8ab81c44f19b588c2dbeeab99b8e16d3b99b518f6016",
+    "80ab4c2d0149d3beec692f41ce8ba75865b11852d0db7c603b8dc836f8885a4d",
+    "5f32bd2c18c19f94fa3c71e0cb66027f613f5506dbe2cac30a52f6b2238c1e58",
+    "44fb7283c138dbef1ee81403f58284e02173f0de3a1d22346a37a56a6ad8ffde",
+    "983d3aa87f243f2a6cff7c0ed19d93de246f4abf6f68d5d99e5dcceb4353386e",
+    "114a9d18fa69f7bde5f3aa9016572eb821a0cece1b0797c9ad40c8075466428b",
+    "7d63cb4df7140d1c558eef46de11445996092062d8a7fa199ac5580f4892e9b8",
+    "27fc4c4113987569663233d4c6d0f651379beb375ba2a3c5cc31677c069b3910",
+    "8b83e2eacf1fee1aaa870fc00f34798be51fbbbff72d12f0f1346ae33363238d",
+    "8d2d2c16927ba6a6e7c6f33c7e57c027bd8cae8ba5cf9263966841486984275e"
   ],
   "seen_summaries": [
-    "12 ago 2026: Brent supera $89 por estancamiento EE.UU.-Irán sobre Ormuz (Irán mantiene cierre) y Pakistán confirma 3 ciudadanos muertos en ataque hutí a buque frente a Bab el-Mandeb, elevando riesgo de suministro.",
     "12 ago 2026: IEA proyecta déficit global de 1,8M bpd en Q3 2026 por cierre de Ormuz y caída de oferta de 4,3M bpd; refinerías indias buscan 6M barriles spot, confirmando escasez y presión alcista.",
     "Ucrania suspende ataques a petroleros en Novorossiysk por petición de Vance, reduciendo riesgo de oferta rusa y presión bajista sobre precios.",
     "12 ago 2026: Tránsito en Ormuz cae a 8 buques (mínimo histórico) mientras Trump afirma tener 'control'; ataque hutí mata a 6 en Bab el-Mandeb, sin avance en negociaciones y persistente riesgo de suministro.",
@@ -701,7 +700,8 @@
     "15 sep 2026: Aramco suspende cargas en Yanbu y cancela entregas de crudo a refinerías europeas por cierre del oleoducto Este-Oeste (reparación de semanas); Brent vuelve a $108 y futuros chinos marcan récord de $138.5, profundizando disrupción de oferta saudí con presión alcista.",
     "15 sep 2026: Secretario de Energia de EE.UU. afirma que el oleoducto Este-Oeste saudita (4-5 mbd) volveria en dias, primera estimacion oficial de reparacion, señal de posible alivio de oferta con presion bajista sobre el crudo.",
     "16 sep 2026: Inventarios de crudo en EE.UU. suben inesperadamente y el petróleo cae, contrarrestando el impacto alcista del cierre del oleoducto Este-Oeste saudí y marcando un posible cambio de dirección a la baja.",
-    "16 sep 2026: Continental Resources anuncia desarrollo de 126.000 acres y 30.000 millones de barriles en la Faja del Orinoco venezolana, señal bajista de largo plazo por nueva oferta."
+    "16 sep 2026: Continental Resources anuncia desarrollo de 126.000 acres y 30.000 millones de barriles en la Faja del Orinoco venezolana, señal bajista de largo plazo por nueva oferta.",
+    "16 sep 2026: Fletes de petroleros superan $1 millón/día por primera vez en la historia ante escasez de buques dispuestos a cruzar Ormuz, agravando costos logísticos y presión alcista sobre el crudo."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
