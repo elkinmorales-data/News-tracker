@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "5addf6cab208afbbce1a0661b1d56814653dfafa90683e642dbeb51802550e3d",
-    "cf940820a7e0377a534748e58bc366f1b00ef2e4a57a1b94f449b9248f10c024",
-    "a5fa30c2e3c1bca24681f67600330c320523c7820f588ee2fb67e68697e5749f",
-    "271d43359ed6559c192f1778038e348defaff86672b9d2923df2309d38c0be5c",
-    "319ded4db2f112b1c03b3b8bf7df4d28d282adf9ee4395a88ee6007c0ed69acd",
     "371916dc33de50b1203399576742eb474723b4c34d7387f0a0131665b74fc148",
     "5d73acdd6d4852ab72aeac48774f1d5e883c416518afff98d91e74158d7f9587",
     "9ba52023dfd86cc4d3b78ffa1ddf75d02847de32fb175f7dfcb40a4f0ef0a809",
@@ -499,10 +494,14 @@
     "08b55b3314a65acaeece599b7e3b937ed3279604ed833cbd342d3ed9937a3daf",
     "a0bfa53332b577e973dd00d729d8633ade2e56c67b9229959c43cdd6408933b4",
     "18838d3ac1ef3f01e3f751eba77df76861949300e608d7a65c5a4052e32cf96b",
-    "4481d428795e3b9429df5cdb443666d61cee6d958b085195e035df48a7620e99"
+    "4481d428795e3b9429df5cdb443666d61cee6d958b085195e035df48a7620e99",
+    "eccbb305e13d2a7220762bb44e5441e35390de4b2ebe32c7fa05d35ddaad6295",
+    "ad7eb115046a85fd5c519927fe45ede1845754167a903264b8347146f3aaf50f",
+    "87bd1dce9da0c2a86178e4172156a7da3cb67e82aa0d648e7847a59caa21d860",
+    "0cc3a3616582d7b15167a560862dc496535e222c988e3f16a6daae8b802715be",
+    "ab44a80119711388cea047b303e154a7c100a8a32b22e5d939a1e7ff135461c9"
   ],
   "seen_summaries": [
-    "Trump afirma que su avión señuelo enfrentó riesgo de ataque iraní en vuelo secreto, confirmando amenaza militar activa y elevando riesgo de escalada.",
     "IEA ve caída de demanda de 1,6M bpd en 2026 por cierre de Ormuz; datos de tankers contradicen a Wright sobre normalización de flujos – riesgo de suministro sigue alto.",
     "12 ago 2026: Brent supera $89 por estancamiento EE.UU.-Irán sobre Ormuz (Irán mantiene cierre) y Pakistán confirma 3 ciudadanos muertos en ataque hutí a buque frente a Bab el-Mandeb, elevando riesgo de suministro.",
     "12 ago 2026: IEA proyecta déficit global de 1,8M bpd en Q3 2026 por cierre de Ormuz y caída de oferta de 4,3M bpd; refinerías indias buscan 6M barriles spot, confirmando escasez y presión alcista.",
@@ -701,7 +700,8 @@
     "14 sep 2026: EE.UU. presiona a Austria para negar visa a Mohammad Eslami (jefe nuclear iraní), bloqueando su asistencia a conferencia OIEA en Viena; Irán denuncia violación de derechos, endureciendo aislamiento diplomático y presión alcista sobre crudo.",
     "15 sep 2026: CENTCOM desmiente la versión del IRGC sobre ataque con minas al superpetrolero panameño El Gaia en Ormuz, generando incertidumbre sobre un nuevo incidente sin confirmación independiente de daño.",
     "15 sep 2026: Aramco suspende cargas en Yanbu y cancela entregas de crudo a refinerías europeas por cierre del oleoducto Este-Oeste (reparación de semanas); Brent vuelve a $108 y futuros chinos marcan récord de $138.5, profundizando disrupción de oferta saudí con presión alcista.",
-    "15 sep 2026: Secretario de Energia de EE.UU. afirma que el oleoducto Este-Oeste saudita (4-5 mbd) volveria en dias, primera estimacion oficial de reparacion, señal de posible alivio de oferta con presion bajista sobre el crudo."
+    "15 sep 2026: Secretario de Energia de EE.UU. afirma que el oleoducto Este-Oeste saudita (4-5 mbd) volveria en dias, primera estimacion oficial de reparacion, señal de posible alivio de oferta con presion bajista sobre el crudo.",
+    "16 sep 2026: Inventarios de crudo en EE.UU. suben inesperadamente y el petróleo cae, contrarrestando el impacto alcista del cierre del oleoducto Este-Oeste saudí y marcando un posible cambio de dirección a la baja."
   ],
   "last_direction": "baja"
 }
