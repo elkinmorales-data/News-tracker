@@ -1,19 +1,5 @@
 {
   "seen_hashes": [
-    "758e92144ad31f0cb317314204d970e51e820cf57f916652d376155103ccf2a0",
-    "59e886d30fdc07a677bce9a3bef58d10e33009dedecffea2d7dedddf010812f1",
-    "226f804ed3116b63872733c5bde75e3e86071a12e0cf4a15d7ca97e934c15ada",
-    "d22d6d03f7472395d7b56bfcfb0ee3ddbe95bf8f435d873675ae25bcd2a9ef95",
-    "163aefd514a8f40f6fc5a9bfcd3a6dfe224c67218321f1a6c533169df2209c52",
-    "d9b887003bdb6bca749d7949e44550e8891cb7168f360f2e76faf2f90be9bb3a",
-    "6311b7f637109dbfb56ba55b2828d08bf728199d43c38f384e090292c7e5121a",
-    "8a1e3e10a151ac4be40ec44a4457d4ee1013695126fbf1350f6693c8a3c6ab50",
-    "dee9b9a45fcd109716740c2a5a097e6af88f47d38d824c8756f61778190c0935",
-    "8bad946c2badb321d7d5209e67b6b81ddd40bc9b1698056cd6bbf992d6beefb2",
-    "585612f07d477b6998a858108c77d5cff46182d0c6dd1a1a5c5c31e512e77c37",
-    "392ada49ef540f95167097c2e6c26f7835d0549953b0cae265ec386cad8ede0f",
-    "0cb609f6c107495f97fc1a1405bbf1574888bf0c7594ddf2df829b6d3a201cbb",
-    "814351eb14e60847af057a2e8334406eaebd800013137b1b30337908ff6529d9",
     "c790ceffacbcb5ef9e6976b31239f484c187bca87972e43fc077a4fe1ec6cdb7",
     "1af84a5dd970db519e0fc788a9f611f80390f64e152b0ad4f5386a78471cc05e",
     "675bc1c9963138e7eefb36c4e826eb791b856eb88e8b50ee917c1bad1ab15ba8",
@@ -499,10 +485,23 @@
     "97d7686e3c9eb191e129a9f63bcc4b6cf372284d44a25df16d2c0752bb67faa0",
     "93568fef549a326e1f70ff73757a267f3acc962d15b42a1c8a27640305a18b80",
     "27028ef210dc37a2db479c35751c6d60dfe89791d1ffb9f58b557b8fa3816c9c",
-    "eb00bcc09e0c7e8934487fcc0efc024a43e13f99e8c34328cf513e8826650f27"
+    "eb00bcc09e0c7e8934487fcc0efc024a43e13f99e8c34328cf513e8826650f27",
+    "32648293f5f5ad4cecb99a46b9372ad09854dd7a72b8b9db3d9197247e70cc0f",
+    "82b7b5c425ce8568b2ea63fc47cf55b63e4b7a9cd206ea11e0b51dc6b9dc656a",
+    "ad938f9c6cc1627d4aad52ea908aae531ee3afdabbb702db078632839abfcb31",
+    "2549e3f36148f010627a212d6e473ff35a7046481c318a6557b1662fc66ea7ef",
+    "009b3922af68ebd2636573e6092366eb98dfda19335ea65fff1b8c7a43d3169c",
+    "5f7a6bb1c4d6c185c80ca6eeb818cbb2cbf8cc322e2bcecf796776e7fe82b4e6",
+    "27d5a52ff61340c8554789ae9cfb049cf7ec235eab32a0f4b1be9ee939dada0c",
+    "a061330277def75cfa7daf9c35858c7a0a41f091b5753b72516ef5e2876b9612",
+    "74fd361303652e2dd59ed58a704faad796de1880b5a57df34684014912117434",
+    "5c8c46513a4b290a483e0c31b651f4b19681726316ed57ec553f6132671acb04",
+    "4e3b6c568c55f3b92445c3c91ff10ce4832c079b853d3626990492f716cbd498",
+    "cee53dd89b369be30376e01b5703611b33ca0a156ec37d03c6dd342e89e79a8c",
+    "66759125fe3562efd93669778aacfcf69c621cf601d97b09dd8a3d6830ff7af7",
+    "8dfb18ed1f703da618b3b4c3d55baa1e32c1478df4a5757ea7dcf85c551b6941"
   ],
   "seen_summaries": [
-    "Ucrania suspende ataques a petroleros en Novorossiysk por petición de Vance, reduciendo riesgo de oferta rusa y presión bajista sobre precios.",
     "12 ago 2026: Tránsito en Ormuz cae a 8 buques (mínimo histórico) mientras Trump afirma tener 'control'; ataque hutí mata a 6 en Bab el-Mandeb, sin avance en negociaciones y persistente riesgo de suministro.",
     "Putin amenaza con apoderarse de buques de la UE en represalia por medidas contra la flota sombra rusa, elevando el riesgo de interrupción de exportaciones y sumando presión alcista al petróleo.",
     "12 ago 2026: Ataques iraníes en primavera dañaron Ras Laffan LNG Trains 4&6 y Pearl GTL Train 2 en Qatar, eliminando 12,8M t/a de capacidad de LNG por 3-5 años, elevando riesgo de oferta y precios energéticos.",
@@ -701,7 +700,8 @@
     "16 sep 2026: Inventarios de crudo en EE.UU. suben inesperadamente y el petróleo cae, contrarrestando el impacto alcista del cierre del oleoducto Este-Oeste saudí y marcando un posible cambio de dirección a la baja.",
     "16 sep 2026: Continental Resources anuncia desarrollo de 126.000 acres y 30.000 millones de barriles en la Faja del Orinoco venezolana, señal bajista de largo plazo por nueva oferta.",
     "16 sep 2026: Fletes de petroleros superan $1 millón/día por primera vez en la historia ante escasez de buques dispuestos a cruzar Ormuz, agravando costos logísticos y presión alcista sobre el crudo.",
-    "17 sep 2026: Arabia Saudita redirige crudo vía Omán con transferencias STS para sortear el cierre del oleoducto Este-Oeste; Brent cae a ~$106 y WTI a ~$102, primer alivio bajista concreto tras el rally a $108."
+    "17 sep 2026: Arabia Saudita redirige crudo vía Omán con transferencias STS para sortear el cierre del oleoducto Este-Oeste; Brent cae a ~$106 y WTI a ~$102, primer alivio bajista concreto tras el rally a $108.",
+    "17 sep 2026: Congreso de EE.UU. aprueba ley de sanciones a Rusia e Iran (262-159) que restringe exportaciones rusas a China e India, presionando al alza el crudo por menor oferta global."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
