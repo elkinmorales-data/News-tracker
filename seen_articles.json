@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "516ca5b224d284a20f5de6943387f5c4e6b5d005e04dc518dce3c0628376d12b",
-    "9d318c8bc82e73562fce21d1479eeda7a6819277b7171755f6c6c639ca8e1746",
-    "b58b1fa1ca8a8a570342947d18c7fda67c652aaa21c7f711f92537281a9cae24",
-    "8dfb18ed1f703da618b3b4c3d55baa1e32c1478df4a5757ea7dcf85c551b6941",
-    "a5e7abf8bc89e49dea8bba4df521a4b78c4c5a37142d9cee8d35f6b154ce6427",
-    "2d9947102a44127ed3d677d5f9f0276ed435bf91531158af16fc9c822d06f56d",
-    "86a14e9d723fa9686e09819e2df5dad1484f130a7dd531687dd8fcbf33e3d49e",
     "758e92144ad31f0cb317314204d970e51e820cf57f916652d376155103ccf2a0",
     "59e886d30fdc07a677bce9a3bef58d10e33009dedecffea2d7dedddf010812f1",
     "226f804ed3116b63872733c5bde75e3e86071a12e0cf4a15d7ca97e934c15ada",
@@ -499,10 +492,16 @@
     "7d63cb4df7140d1c558eef46de11445996092062d8a7fa199ac5580f4892e9b8",
     "27fc4c4113987569663233d4c6d0f651379beb375ba2a3c5cc31677c069b3910",
     "8b83e2eacf1fee1aaa870fc00f34798be51fbbbff72d12f0f1346ae33363238d",
-    "8d2d2c16927ba6a6e7c6f33c7e57c027bd8cae8ba5cf9263966841486984275e"
+    "8d2d2c16927ba6a6e7c6f33c7e57c027bd8cae8ba5cf9263966841486984275e",
+    "c62956ce484408715e3fcd7d1945529e7b9c228df455c9e970f799a4dd46c93b",
+    "936cc5205071fe5d408eb27d5502d85360d3e4acd6bf3d3404fb6e293fec94e7",
+    "2821b8ff7ad6766a080088c07b703791b07f008f8d985098c76556cff0fccd42",
+    "97d7686e3c9eb191e129a9f63bcc4b6cf372284d44a25df16d2c0752bb67faa0",
+    "93568fef549a326e1f70ff73757a267f3acc962d15b42a1c8a27640305a18b80",
+    "27028ef210dc37a2db479c35751c6d60dfe89791d1ffb9f58b557b8fa3816c9c",
+    "eb00bcc09e0c7e8934487fcc0efc024a43e13f99e8c34328cf513e8826650f27"
   ],
   "seen_summaries": [
-    "12 ago 2026: IEA proyecta déficit global de 1,8M bpd en Q3 2026 por cierre de Ormuz y caída de oferta de 4,3M bpd; refinerías indias buscan 6M barriles spot, confirmando escasez y presión alcista.",
     "Ucrania suspende ataques a petroleros en Novorossiysk por petición de Vance, reduciendo riesgo de oferta rusa y presión bajista sobre precios.",
     "12 ago 2026: Tránsito en Ormuz cae a 8 buques (mínimo histórico) mientras Trump afirma tener 'control'; ataque hutí mata a 6 en Bab el-Mandeb, sin avance en negociaciones y persistente riesgo de suministro.",
     "Putin amenaza con apoderarse de buques de la UE en represalia por medidas contra la flota sombra rusa, elevando el riesgo de interrupción de exportaciones y sumando presión alcista al petróleo.",
@@ -701,7 +700,8 @@
     "15 sep 2026: Secretario de Energia de EE.UU. afirma que el oleoducto Este-Oeste saudita (4-5 mbd) volveria en dias, primera estimacion oficial de reparacion, señal de posible alivio de oferta con presion bajista sobre el crudo.",
     "16 sep 2026: Inventarios de crudo en EE.UU. suben inesperadamente y el petróleo cae, contrarrestando el impacto alcista del cierre del oleoducto Este-Oeste saudí y marcando un posible cambio de dirección a la baja.",
     "16 sep 2026: Continental Resources anuncia desarrollo de 126.000 acres y 30.000 millones de barriles en la Faja del Orinoco venezolana, señal bajista de largo plazo por nueva oferta.",
-    "16 sep 2026: Fletes de petroleros superan $1 millón/día por primera vez en la historia ante escasez de buques dispuestos a cruzar Ormuz, agravando costos logísticos y presión alcista sobre el crudo."
+    "16 sep 2026: Fletes de petroleros superan $1 millón/día por primera vez en la historia ante escasez de buques dispuestos a cruzar Ormuz, agravando costos logísticos y presión alcista sobre el crudo.",
+    "17 sep 2026: Arabia Saudita redirige crudo vía Omán con transferencias STS para sortear el cierre del oleoducto Este-Oeste; Brent cae a ~$106 y WTI a ~$102, primer alivio bajista concreto tras el rally a $108."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
