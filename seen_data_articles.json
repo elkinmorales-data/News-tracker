@@ -284,7 +284,11 @@
     "078a14c91abaf9cd5a434a2a16d1c417a5101b1a49906fab1803fbd8b813a1e6",
     "e66f6ffc6090c673442a54ae91b77041b3c9a9650c243b50f97c668a513a80b9",
     "6b90cdbb93e6366796de857d0e222f8e55e1293d328ed4fdcd0f79371947f0d7",
-    "5db94f12ecfbeef5564b8379065de3a4fc204d0ef1e6cee52b36afdfdb841c6d"
+    "5db94f12ecfbeef5564b8379065de3a4fc204d0ef1e6cee52b36afdfdb841c6d",
+    "87813d2fe0405d84209e98671ca457719e0779cdd73d31ca86069cfbd1a8bd33",
+    "cee1ebd3192da6d7f882dfd93d2e7fa47a7034bfb8b0c007baaf465144bc3ccb",
+    "b901905c172b750c69a03918889824b7e05261d99a8a9984942d83e09e7e14b0",
+    "4d71e19879d3b3a9bb51cf5decd4f0eb110ab12597c9d4e375898f0c99236060"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -338,6 +342,7 @@
     "Bodhan AI y AI4Bharat lanzan cuatro modelos Indic multimodales para OCR, traducción, ASR y TTS con soporte de texto mixto y manuscrito | Patrón híbrido de ML clásico combinado con razonamiento agéntico para manejar ambigüedad y contexto en producción | PyTorch Conference China 2026 consolida convergencia entre stack PyTorch, KubeCon/OpenInfra y despliegue cloud-native en hardware diverso",
     "Orquestación eficiente de recursos en Python 3.11+ con 5 técnicas modernas (incluye una específica de 3.14) | Fine-tuning holístico de agentes AI con cuatro diales acoplados: datos, PEFT, hiperparámetros runtime y ajuste integral",
     "Prompt templates como hiperparámetros tuneables en Scikit-LLM con GridSearchCV para optimización reproducible de prompts | CLIs de coding agéntico 2026 como runtimes completos de agente con inspección, planificación, edición, tests y verificación en terminal",
-    "DeepSeek-V4.1-Flash con arquitectura Causal Encoder-Decoder, MoE, KV cache compression y CSA2 para eficiencia de prefill/decoding | JONI con orquestación de agentes basada en runtimes persistentes, multi-model routing y ejecución confiable | Google Opal y framework Breadboard para mini-apps de IA no-code desde lenguaje natural"
+    "DeepSeek-V4.1-Flash con arquitectura Causal Encoder-Decoder, MoE, KV cache compression y CSA2 para eficiencia de prefill/decoding | JONI con orquestación de agentes basada en runtimes persistentes, multi-model routing y ejecución confiable | Google Opal y framework Breadboard para mini-apps de IA no-code desde lenguaje natural",
+    "Flash Attention 4 con MXFP8 block-scaled end-to-end para Blackwell alcanzando 2.85 PF/s forward | AgentOps como tercera capa operativa diferenciada de MLOps y LLMOps con observabilidad de sistemas que actúan | Clasificación de texto multilingüe con embeddings LLM y Scikit-LLM sin entrenamiento adicional"
   ]
 }
