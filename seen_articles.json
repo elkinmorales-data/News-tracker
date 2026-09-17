@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "c790ceffacbcb5ef9e6976b31239f484c187bca87972e43fc077a4fe1ec6cdb7",
-    "1af84a5dd970db519e0fc788a9f611f80390f64e152b0ad4f5386a78471cc05e",
-    "675bc1c9963138e7eefb36c4e826eb791b856eb88e8b50ee917c1bad1ab15ba8",
-    "009c6396aa1bece295c4b285728ab412dcd9603d188e3485b4ea7d970a08f649",
-    "4cb82ac8c95f42914f68d9c0b89cb04d99c4897f2710f41fcb7680fb8470fcbf",
-    "b79569a4775b20378cc153c96b820f93b54781c58cf84d65ebaf932f11627a3e",
-    "c7d0f662476c08aaec27e4c2e65cecc3c0e21307b00e286c4c746d3908831b14",
     "6e60b7cc42c44fa3bb7a8cb02617d81a9c21345acd7ba6349f82358f41fa78a7",
     "2f99d66cdfe4d8e064191f9f44b96c2c9120e04e2bf5b7831e8de7c3251f3a94",
     "bb395e4bb5917ddd4f8864dc43ce090848427dadb6227535c0595781f758ff81",
@@ -499,10 +492,16 @@
     "4e3b6c568c55f3b92445c3c91ff10ce4832c079b853d3626990492f716cbd498",
     "cee53dd89b369be30376e01b5703611b33ca0a156ec37d03c6dd342e89e79a8c",
     "66759125fe3562efd93669778aacfcf69c621cf601d97b09dd8a3d6830ff7af7",
-    "8dfb18ed1f703da618b3b4c3d55baa1e32c1478df4a5757ea7dcf85c551b6941"
+    "8dfb18ed1f703da618b3b4c3d55baa1e32c1478df4a5757ea7dcf85c551b6941",
+    "6ea217c93b42ed4f34ce41b259f8b56fbbcfb4dcf37f2192443a04a55a1ced25",
+    "407f46e46e11eb7844dde0fc72c8070a794e30a184c8207022f6099d7065fce5",
+    "18f445bfeeb4ff98dba9bf709625f02cb5048ef8946baef00144f9c198b06b1e",
+    "12cb06ecf47353b53d5f1aa21e72a1a7590fa1fb4e52b08c3bffc50d57be9fcd",
+    "4adecc20f088b21ff67ce74699952aae6e4f2122453048c121b79d1b6b94bf56",
+    "82414aac5f66a89446bb16d5fe7bf5d4ea609fbb499c8052e1310b34303fb484",
+    "120e87136275ca1b5839f0d7e83ef53106895969f006d6f47de3732c32b2ec01"
   ],
   "seen_summaries": [
-    "12 ago 2026: Tránsito en Ormuz cae a 8 buques (mínimo histórico) mientras Trump afirma tener 'control'; ataque hutí mata a 6 en Bab el-Mandeb, sin avance en negociaciones y persistente riesgo de suministro.",
     "Putin amenaza con apoderarse de buques de la UE en represalia por medidas contra la flota sombra rusa, elevando el riesgo de interrupción de exportaciones y sumando presión alcista al petróleo.",
     "12 ago 2026: Ataques iraníes en primavera dañaron Ras Laffan LNG Trains 4&6 y Pearl GTL Train 2 en Qatar, eliminando 12,8M t/a de capacidad de LNG por 3-5 años, elevando riesgo de oferta y precios energéticos.",
     "12 ago 2026: Derrame de petrolero ruso Caroline Bezengi alcanza costa de Omán, confirmando impacto ambiental y riesgo de navegación en zona crítica; sin efecto directo en oferta.",
@@ -701,7 +700,8 @@
     "16 sep 2026: Continental Resources anuncia desarrollo de 126.000 acres y 30.000 millones de barriles en la Faja del Orinoco venezolana, señal bajista de largo plazo por nueva oferta.",
     "16 sep 2026: Fletes de petroleros superan $1 millón/día por primera vez en la historia ante escasez de buques dispuestos a cruzar Ormuz, agravando costos logísticos y presión alcista sobre el crudo.",
     "17 sep 2026: Arabia Saudita redirige crudo vía Omán con transferencias STS para sortear el cierre del oleoducto Este-Oeste; Brent cae a ~$106 y WTI a ~$102, primer alivio bajista concreto tras el rally a $108.",
-    "17 sep 2026: Congreso de EE.UU. aprueba ley de sanciones a Rusia e Iran (262-159) que restringe exportaciones rusas a China e India, presionando al alza el crudo por menor oferta global."
+    "17 sep 2026: Congreso de EE.UU. aprueba ley de sanciones a Rusia e Iran (262-159) que restringe exportaciones rusas a China e India, presionando al alza el crudo por menor oferta global.",
+    "17 sep 2026: Rusia y China vetaron en el Consejo de Seguridad la renovación del panel de expertos que monitoreaba sanciones a Irán, desmantelando el mecanismo de vigilancia y agravando presión alcista sobre el crudo."
   ],
   "last_direction": "alza"
 }
