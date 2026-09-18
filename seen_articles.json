@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "3814839b563ce24443d3bfee7129018dbd2ddd14c2381ea8fd1c02ee0e6ff246",
-    "3b0d80ff36adb6ba98cbc252d76a7eddc699e3abaaf8d80d48af06bc3c65c99d",
     "941241d165b151fff00c70dcd94ef11d309fd592d7b062adb3902ca55e57245a",
     "9f3e87b5b6142312afaba4630e9bea996779ca3506f2dfae5c3c24a95a23bcfb",
     "b6b589a92c2e45cf0b5798e09aa968fe768048bee59d7dcaf2fb7427addcd453",
@@ -499,10 +497,11 @@
     "064f0744d960476db61cbf60a148c58d7ddf459f3f20eda4e7484bd34760670f",
     "9f29adc29618e833e90e348b9ebb30d01785d5a94efc6910de994548458b1b9d",
     "d948e86cf2497a4729ab5a4675ac9fcb0621c540f9c5532648c72d4094a9b8a9",
-    "95b0ed1aa21f919bb9d9ef69e7039c56be78cb1a1271be33d295f9c99376a870"
+    "95b0ed1aa21f919bb9d9ef69e7039c56be78cb1a1271be33d295f9c99376a870",
+    "5b99871b593d8733b0e831223e93c4f8723daaa34d0655cc4dc2c52d6c861a08",
+    "f4f0293df3950573555f10d34513891df11f5d02401380465bcb01138834c953"
   ],
   "seen_summaries": [
-    "EIA proyecta que 600,000 bpd de producción de Medio Oriente permanecerán offline hasta fin de 2027 debido al cierre prolongado de Ormuz, elevando pronósticos de precios del petróleo.",
     "13 ago 2026: Rubio y Bessent viajaron en vuelo señuelo de Trump ante amenaza iraní, confirmando riesgo de escalada militar y presión alcista sobre precios del petróleo.",
     "13 ago 2026: Derrame del petrolero ruso Caroline Bezengi alcanza costa de Omán con 40 km de litoral afectado; sin impacto directo en oferta pero eleva riesgo ambiental y de navegación en zona crítica.",
     "13 ago 2026: Hutíes chocan con fuerzas yemeníes y derrame de crudo en Qeshm Island (Irán) agrava riesgo en Ormuz, sin avance en negociaciones; presión alcista en petróleo.",
@@ -701,7 +700,8 @@
     "17 sep 2026: Rusia y China vetaron en el Consejo de Seguridad la renovación del panel de expertos que monitoreaba sanciones a Irán, desmantelando el mecanismo de vigilancia y agravando presión alcista sobre el crudo.",
     "18 sep 2026: Brent cae a ~$103.65 y WTI a ~$101 con pérdida semanal, primer cambio bajista tras tres semanas de alzas, por alivio en temores de exportación saudí gracias a transferencias STS en Golfo de Omán.",
     "18 sep 2026: Aramco coloca 60 MMB de crudo desde Ras Tanura vía STS en Sohar fuera de Ormuz; Brent cae por debajo de $105 y WTI a ~$96, profundizando giro bajista pese al cierre del oleoducto Este-Oeste.",
-    "18 sep 2026: Aramco corta todo el crudo de octubre a clientes europeos y reubica ~60 MMB vía STS en Golfo de Omán tras cierre del oleoducto Este-Oeste, consolidando giro bajista del Brent."
+    "18 sep 2026: Aramco corta todo el crudo de octubre a clientes europeos y reubica ~60 MMB vía STS en Golfo de Omán tras cierre del oleoducto Este-Oeste, consolidando giro bajista del Brent.",
+    "18 sep 2026: Macron convoca al G7 para coordinar nueva liberación de reservas estratégicas de petróleo ante pérdida de crudo saudí en Europa y diésel en máximos, primer movimiento bajista de oferta coordinada."
   ],
   "last_direction": "baja"
 }
