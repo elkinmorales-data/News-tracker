@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "6e60b7cc42c44fa3bb7a8cb02617d81a9c21345acd7ba6349f82358f41fa78a7",
-    "2f99d66cdfe4d8e064191f9f44b96c2c9120e04e2bf5b7831e8de7c3251f3a94",
-    "bb395e4bb5917ddd4f8864dc43ce090848427dadb6227535c0595781f758ff81",
-    "1d1ec7304de78e9d6e4357c09ecb9d2c8e14ef18ed25c4dca8c7f27e63671b13",
-    "acf1c467744d62351699df87c250d92087ec3171c9e863723d902f367798c647",
-    "ccb1eb7689b52b4213ae463574993ac9d9ce12950f72ac44cb59b69ddc892037",
     "2b8cf3da717ab56f290bc18d5029fc3114e01fe4dbac645cf3cba1bf5a1c6a19",
     "dbf063eb8efa8f938bd4d2251d619afa43cd88993f9b0db6cd4160c5432e0039",
     "9f2120e049cad48b10a6b44d80784cfae6f48eefe7be6c547bc6a8b1272cb040",
@@ -499,10 +493,15 @@
     "12cb06ecf47353b53d5f1aa21e72a1a7590fa1fb4e52b08c3bffc50d57be9fcd",
     "4adecc20f088b21ff67ce74699952aae6e4f2122453048c121b79d1b6b94bf56",
     "82414aac5f66a89446bb16d5fe7bf5d4ea609fbb499c8052e1310b34303fb484",
-    "120e87136275ca1b5839f0d7e83ef53106895969f006d6f47de3732c32b2ec01"
+    "120e87136275ca1b5839f0d7e83ef53106895969f006d6f47de3732c32b2ec01",
+    "6a57be020cf0d69a1c222ae3e5396dbcc1022c23bf5634cc88e923ac4a8d61e2",
+    "81fdd9d2f318251272c3ea4bdc9da5a0fc425ee16f2cdab3fe8d05ea3254f44d",
+    "f92c66b5ce490a76ed0d56248a62f7d5e84bab9e389b05143b4c17ce79c87ca4",
+    "62afff4b282269c76fdeaf2c31c7ce17facddbd1995bef187438594e60094c4a",
+    "c89900e5a41e63c3f29c409cba531b8c75c95e011270774180b7a80427446538",
+    "687e491bdd172ddf2d78aafd0e55908f9f1ac18af940cd0f40bb144ed2ff7e32"
   ],
   "seen_summaries": [
-    "Putin amenaza con apoderarse de buques de la UE en represalia por medidas contra la flota sombra rusa, elevando el riesgo de interrupción de exportaciones y sumando presión alcista al petróleo.",
     "12 ago 2026: Ataques iraníes en primavera dañaron Ras Laffan LNG Trains 4&6 y Pearl GTL Train 2 en Qatar, eliminando 12,8M t/a de capacidad de LNG por 3-5 años, elevando riesgo de oferta y precios energéticos.",
     "12 ago 2026: Derrame de petrolero ruso Caroline Bezengi alcanza costa de Omán, confirmando impacto ambiental y riesgo de navegación en zona crítica; sin efecto directo en oferta.",
     "EIA proyecta que 600,000 bpd de producción de Medio Oriente permanecerán offline hasta fin de 2027 debido al cierre prolongado de Ormuz, elevando pronósticos de precios del petróleo.",
@@ -701,7 +700,8 @@
     "16 sep 2026: Fletes de petroleros superan $1 millón/día por primera vez en la historia ante escasez de buques dispuestos a cruzar Ormuz, agravando costos logísticos y presión alcista sobre el crudo.",
     "17 sep 2026: Arabia Saudita redirige crudo vía Omán con transferencias STS para sortear el cierre del oleoducto Este-Oeste; Brent cae a ~$106 y WTI a ~$102, primer alivio bajista concreto tras el rally a $108.",
     "17 sep 2026: Congreso de EE.UU. aprueba ley de sanciones a Rusia e Iran (262-159) que restringe exportaciones rusas a China e India, presionando al alza el crudo por menor oferta global.",
-    "17 sep 2026: Rusia y China vetaron en el Consejo de Seguridad la renovación del panel de expertos que monitoreaba sanciones a Irán, desmantelando el mecanismo de vigilancia y agravando presión alcista sobre el crudo."
+    "17 sep 2026: Rusia y China vetaron en el Consejo de Seguridad la renovación del panel de expertos que monitoreaba sanciones a Irán, desmantelando el mecanismo de vigilancia y agravando presión alcista sobre el crudo.",
+    "18 sep 2026: Brent cae a ~$103.65 y WTI a ~$101 con pérdida semanal, primer cambio bajista tras tres semanas de alzas, por alivio en temores de exportación saudí gracias a transferencias STS en Golfo de Omán."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
