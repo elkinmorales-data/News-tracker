@@ -288,7 +288,14 @@
     "87813d2fe0405d84209e98671ca457719e0779cdd73d31ca86069cfbd1a8bd33",
     "cee1ebd3192da6d7f882dfd93d2e7fa47a7034bfb8b0c007baaf465144bc3ccb",
     "b901905c172b750c69a03918889824b7e05261d99a8a9984942d83e09e7e14b0",
-    "4d71e19879d3b3a9bb51cf5decd4f0eb110ab12597c9d4e375898f0c99236060"
+    "4d71e19879d3b3a9bb51cf5decd4f0eb110ab12597c9d4e375898f0c99236060",
+    "920edf5e873b35a7f168a1e1792ad81749cadac0f394d5302a4fc5097ead8ca4",
+    "7226db2c5f9c2dd8489c49be8a87eda21be06608f0fb97ba8d7b10d72985054d",
+    "e886a68bfaad287a60aa1f7b971d06f1534bbf0e82a848e430266e25d086d5fd",
+    "aba8fc73787d51878eccc411afe12ead42609c5e15445837815a78426ced8dc2",
+    "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
+    "4fd5fc22cb4ccf3e1f761bff472009f2b1c1ab495b089e7ebedd72f361069c5b",
+    "97a9489bcc124bb342e2c7154e35b28525f7444789efa5fb761908afae4405aa"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -343,6 +350,7 @@
     "Orquestación eficiente de recursos en Python 3.11+ con 5 técnicas modernas (incluye una específica de 3.14) | Fine-tuning holístico de agentes AI con cuatro diales acoplados: datos, PEFT, hiperparámetros runtime y ajuste integral",
     "Prompt templates como hiperparámetros tuneables en Scikit-LLM con GridSearchCV para optimización reproducible de prompts | CLIs de coding agéntico 2026 como runtimes completos de agente con inspección, planificación, edición, tests y verificación en terminal",
     "DeepSeek-V4.1-Flash con arquitectura Causal Encoder-Decoder, MoE, KV cache compression y CSA2 para eficiencia de prefill/decoding | JONI con orquestación de agentes basada en runtimes persistentes, multi-model routing y ejecución confiable | Google Opal y framework Breadboard para mini-apps de IA no-code desde lenguaje natural",
-    "Flash Attention 4 con MXFP8 block-scaled end-to-end para Blackwell alcanzando 2.85 PF/s forward | AgentOps como tercera capa operativa diferenciada de MLOps y LLMOps con observabilidad de sistemas que actúan | Clasificación de texto multilingüe con embeddings LLM y Scikit-LLM sin entrenamiento adicional"
+    "Flash Attention 4 con MXFP8 block-scaled end-to-end para Blackwell alcanzando 2.85 PF/s forward | AgentOps como tercera capa operativa diferenciada de MLOps y LLMOps con observabilidad de sistemas que actúan | Clasificación de texto multilingüe con embeddings LLM y Scikit-LLM sin entrenamiento adicional",
+    "Recursive Self-Improvement (RSI) como próxima etapa evolutiva de LLM frontera según Altman/Amodei/Musk y paper 'The Last AI Built by Humans' | Desglose field-by-field de los 24.723 tokens típicos en resultados de búsqueda de agentes y metodología de pruning de campos para reducir costos de contexto"
   ]
 }
