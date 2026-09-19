@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "364d496b9373c9174ac6bb056e6f84a40ad9bdb58b437bcc9df958c55fd689c9",
     "38a665b9f95c489bb275e45119eaaff7713a17b7b5ca109d8bf5c3bc98c61a11",
     "c5887ce618c57df04439b204c432a7e214683867976ad02ad1774d250bb4af4d",
     "0d03a414b596c4440b519829339e1c0b7ad7792dd8c744a54fa6ab72acf8929b",
@@ -499,10 +498,10 @@
     "a6dd388b735ca3c0fd8007014e9523902f3d4e522f36c3977860c7ec8a9be81b",
     "9041d88a86a289de2fdc69e6e38cdf5f96c773492e05c6faeebf21f8c7270820",
     "f8cf65176d9b7dae33bafb8f2ffc29484faa0307a7ca73093dad054f5da56f80",
-    "c9e496746bf082564e937a7f3236028d8ce7953a7e07e9ca9403b03f1c57aedd"
+    "c9e496746bf082564e937a7f3236028d8ce7953a7e07e9ca9403b03f1c57aedd",
+    "e3bd1f6e94577c6830f64482dc3d9781096ccf7a247e528cebffa21830aecd47"
   ],
   "seen_summaries": [
-    "13 ago 2026: Hutíes chocan con fuerzas yemeníes y derrame de crudo en Qeshm Island (Irán) agrava riesgo en Ormuz, sin avance en negociaciones; presión alcista en petróleo.",
     "13 ago 2026: Ucrania ataca refinería rusa cerca de Novorossiysk, provocando incendio en infraestructura portuaria; añade presión alcista a oferta de refinados y petróleo.",
     "13 ago 2026: Irán reafirma control total de Ormuz y Ucrania ataca refinería rusa Salavat (200k bpd), elevando riesgo de suministro y precios.",
     "Crew of Yemeni vessel Tihama recounts chaotic rescue after deadly Houthi attack in Bab el-Mandeb (Aug 10, 2026); confirms ongoing navigation risk and bolsters supply concerns.",
@@ -701,7 +700,8 @@
     "18 sep 2026: Aramco corta todo el crudo de octubre a clientes europeos y reubica ~60 MMB vía STS en Golfo de Omán tras cierre del oleoducto Este-Oeste, consolidando giro bajista del Brent.",
     "18 sep 2026: Macron convoca al G7 para coordinar nueva liberación de reservas estratégicas de petróleo ante pérdida de crudo saudí en Europa y diésel en máximos, primer movimiento bajista de oferta coordinada.",
     "19 sep 2026: Trump firma la ley de sanciones a Rusia (aranceles hasta 100% a compradores de crudo ruso, China e India), consolidando la restricción de oferta global con presión alcista sobre el Brent.",
-    "19 sep 2026: Reportan llamas y humo cerca del aeropuerto de Riad tras alertas de defensa civil saudí, nuevo foco de riesgo sobre infraestructura saudí con presión alcista sobre el crudo."
+    "19 sep 2026: Reportan llamas y humo cerca del aeropuerto de Riad tras alertas de defensa civil saudí, nuevo foco de riesgo sobre infraestructura saudí con presión alcista sobre el crudo.",
+    "19 sep 2026: Irán envía vía Catar a EE.UU. sus condiciones para reanudar conversaciones y terminar la guerra, primera señal diplomática concreta que introduce presión bajista sobre el crudo."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
