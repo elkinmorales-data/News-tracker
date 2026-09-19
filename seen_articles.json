@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "941241d165b151fff00c70dcd94ef11d309fd592d7b062adb3902ca55e57245a",
-    "9f3e87b5b6142312afaba4630e9bea996779ca3506f2dfae5c3c24a95a23bcfb",
-    "b6b589a92c2e45cf0b5798e09aa968fe768048bee59d7dcaf2fb7427addcd453",
-    "f09b0d9957cbd61f419f9328f64744338d2eb045d1ea02a11806169dcc379ba2",
     "ce77b2dca0966477f294e61e79dcd092646454f4cf0d2f5333f5b6877226e554",
     "c78152a405acb0b6f5f29fe9525432b79c025ed150896667ca657bc9a828bc0d",
     "e0da6630b1a9c05ebb8407bb6c6de3064c47b53d88ce5123010a79addfebce92",
@@ -499,10 +495,13 @@
     "d948e86cf2497a4729ab5a4675ac9fcb0621c540f9c5532648c72d4094a9b8a9",
     "95b0ed1aa21f919bb9d9ef69e7039c56be78cb1a1271be33d295f9c99376a870",
     "5b99871b593d8733b0e831223e93c4f8723daaa34d0655cc4dc2c52d6c861a08",
-    "f4f0293df3950573555f10d34513891df11f5d02401380465bcb01138834c953"
+    "f4f0293df3950573555f10d34513891df11f5d02401380465bcb01138834c953",
+    "896efe35d36d13deced5b3fdad5ab9c4300693338b5e7f5d8a2c2cfca04b064c",
+    "cf268352700b604fa4c887e06bc6f35b06e8a37064f72f2423e3c0ef67fed141",
+    "66acff471dd69255a810ef3d572a9f7ad80f1b4e7635cdba348c2d2fda389b21",
+    "7bdab27e3c228b5342f65983d0548a2318b4aabdcdeb151200c7b6968710c9d4"
   ],
   "seen_summaries": [
-    "13 ago 2026: Rubio y Bessent viajaron en vuelo señuelo de Trump ante amenaza iraní, confirmando riesgo de escalada militar y presión alcista sobre precios del petróleo.",
     "13 ago 2026: Derrame del petrolero ruso Caroline Bezengi alcanza costa de Omán con 40 km de litoral afectado; sin impacto directo en oferta pero eleva riesgo ambiental y de navegación en zona crítica.",
     "13 ago 2026: Hutíes chocan con fuerzas yemeníes y derrame de crudo en Qeshm Island (Irán) agrava riesgo en Ormuz, sin avance en negociaciones; presión alcista en petróleo.",
     "13 ago 2026: Ucrania ataca refinería rusa cerca de Novorossiysk, provocando incendio en infraestructura portuaria; añade presión alcista a oferta de refinados y petróleo.",
@@ -701,7 +700,8 @@
     "18 sep 2026: Brent cae a ~$103.65 y WTI a ~$101 con pérdida semanal, primer cambio bajista tras tres semanas de alzas, por alivio en temores de exportación saudí gracias a transferencias STS en Golfo de Omán.",
     "18 sep 2026: Aramco coloca 60 MMB de crudo desde Ras Tanura vía STS en Sohar fuera de Ormuz; Brent cae por debajo de $105 y WTI a ~$96, profundizando giro bajista pese al cierre del oleoducto Este-Oeste.",
     "18 sep 2026: Aramco corta todo el crudo de octubre a clientes europeos y reubica ~60 MMB vía STS en Golfo de Omán tras cierre del oleoducto Este-Oeste, consolidando giro bajista del Brent.",
-    "18 sep 2026: Macron convoca al G7 para coordinar nueva liberación de reservas estratégicas de petróleo ante pérdida de crudo saudí en Europa y diésel en máximos, primer movimiento bajista de oferta coordinada."
+    "18 sep 2026: Macron convoca al G7 para coordinar nueva liberación de reservas estratégicas de petróleo ante pérdida de crudo saudí en Europa y diésel en máximos, primer movimiento bajista de oferta coordinada.",
+    "19 sep 2026: Trump firma la ley de sanciones a Rusia (aranceles hasta 100% a compradores de crudo ruso, China e India), consolidando la restricción de oferta global con presión alcista sobre el Brent."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
