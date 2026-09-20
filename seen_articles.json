@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "d1abf83e7a45d2db3e1e4423c83877f6fd0dba162dd9f2aff35ef186d0fde5d4",
-    "e62f9ba51af53f5bace6d4ec5f1e3c795c1373fdeb4cad1aef5d5c7ffc43020c",
-    "d275e4cb11b272df6db345f07c45887b2b6e56f5cc6316c7bb484406bb63b422",
-    "8eec50abd35f667261de0f931af1431599fb2eb05e80b861893a952c9ea9345f",
     "488d621ea0a6dba53e42fb66e1f7ce718ad892f26e5e31deeb73d77c0cbeb8fb",
     "64c5e19eef149967a1988d78ca45c6f631b1e85e5faa0e4dfb89a887217040db",
     "545b9b72d4a78ca10c8a9112bcb7270b20b33f2fb550ca7038bad54fde35ea54",
@@ -499,10 +495,13 @@
     "0d74fff93ba8312ba735c797b835acb2eb2075dcb68d2ea82ba481e55496d4ab",
     "d2b858c7bde6ac6f5d0c8ccb45c7524c19dbb3873b55c02205a7959d53629369",
     "6c03f478b848b286aa42be0976408e7875727aad659b24b9f1af2638e3f7fe0e",
-    "027ccce3e85e6725e9c056d5ac37a72b4ac1dea8f816c2d497217e184e67b50c"
+    "027ccce3e85e6725e9c056d5ac37a72b4ac1dea8f816c2d497217e184e67b50c",
+    "75f2025d9da0bdfab1572b855816696b2d297ff08d93568b91c466f87d603df7",
+    "68b3146e8d915d6d30789fcf66f3d423550fc97b221753c8dc8e136684a57d7c",
+    "d5f520837568c505afad0d9b85dd990b25bc274ded3d75968620ed63a73c37a9",
+    "517bfb771086105fee48cc15274023d0488ac984df446d375d12f51e249d80d3"
   ],
   "seen_summaries": [
-    "Crew of Yemeni vessel Tihama recounts chaotic rescue after deadly Houthi attack in Bab el-Mandeb (Aug 10, 2026); confirms ongoing navigation risk and bolsters supply concerns.",
     "13 ago 2026: nuevo portaaviones USS Germantown se despliega hacia Medio Oriente tras problemas en USS Lincoln; refuerza presencia militar de EE.UU. en zona de tensión con Irán y eleva riesgo de escalada.",
     "13 ago 2026: Exportaciones de diésel ruso caen a mínimo multi anual (80k bpd) por ataques ucranianos a refinerías y restricciones, agravando escasez global de destilados y añadiendo presión alcista.",
     "14 ago 2026: EAU acusa a Irán de atacar dos buques de ADNOC en Ormuz (sin heridos) y Hegseth dice que EE.UU. sostendrá el bloqueo 'indefinidamente'; escalada militar mantiene riesgo de suministro y presión alcista.",
@@ -701,7 +700,8 @@
     "19 sep 2026: Reportan llamas y humo cerca del aeropuerto de Riad tras alertas de defensa civil saudí, nuevo foco de riesgo sobre infraestructura saudí con presión alcista sobre el crudo.",
     "19 sep 2026: Irán envía vía Catar a EE.UU. sus condiciones para reanudar conversaciones y terminar la guerra, primera señal diplomática concreta que introduce presión bajista sobre el crudo.",
     "20 sep 2026: Irán hace públicas sus condiciones para negociar (fin de la guerra y levantamiento del bloqueo naval) y Arabia Saudita frustra un ataque en Riad; la señal diplomática iraní introduce presión bajista sobre el crudo.",
-    "20 sep 2026: EE.UU. emite alerta oficial de viaje a Oriente Medio por ataques hutíes y cierre de Ormuz por Irán, reforzando presión alcista sobre el crudo."
+    "20 sep 2026: EE.UU. emite alerta oficial de viaje a Oriente Medio por ataques hutíes y cierre de Ormuz por Irán, reforzando presión alcista sobre el crudo.",
+    "20 sep 2026: Catar confirma mediación activa para revivir conversaciones Irán-EE.UU. y propone marco de seguridad del Golfo, reforzando señal bajista sobre el crudo."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
