@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "c5887ce618c57df04439b204c432a7e214683867976ad02ad1774d250bb4af4d",
-    "0d03a414b596c4440b519829339e1c0b7ad7792dd8c744a54fa6ab72acf8929b",
-    "7f621672b2b581c34741727cd06a1fb5a9f82ac78340319fe74dbba8965ab2f3",
     "4379c44ed1d4baec0b10dc5766ffbfbe95fb7191eff9d9dcd87ba9c9cff6498d",
     "63d56600cc74c1efe4631da62fc3adbb58131e43b550f2180f988e03eab4dd5d",
     "c3f7796fcecbaf8880021c4bdc897d5fb7583876eee4bf9b38b00bfe6adf668c",
@@ -499,10 +496,12 @@
     "f8cf65176d9b7dae33bafb8f2ffc29484faa0307a7ca73093dad054f5da56f80",
     "c9e496746bf082564e937a7f3236028d8ce7953a7e07e9ca9403b03f1c57aedd",
     "e3bd1f6e94577c6830f64482dc3d9781096ccf7a247e528cebffa21830aecd47",
-    "28bf589d0d438524507e4c3c7c8f31f175f82425efec8854bff6b82f2083c41e"
+    "28bf589d0d438524507e4c3c7c8f31f175f82425efec8854bff6b82f2083c41e",
+    "8c9ad3a9c1cc71269f87dec890adea6d2746551ed876728d133d065c775e584b",
+    "1c57bd248ceb48e036099c80ab79bc080cabebce22cc8757b838bff950c13f3e",
+    "ea8cc30cb2394ed2ba6f22315fd3397fb21417f715fb75292cf17ae4028a4df4"
   ],
   "seen_summaries": [
-    "13 ago 2026: Ucrania ataca refinería rusa cerca de Novorossiysk, provocando incendio en infraestructura portuaria; añade presión alcista a oferta de refinados y petróleo.",
     "13 ago 2026: Irán reafirma control total de Ormuz y Ucrania ataca refinería rusa Salavat (200k bpd), elevando riesgo de suministro y precios.",
     "Crew of Yemeni vessel Tihama recounts chaotic rescue after deadly Houthi attack in Bab el-Mandeb (Aug 10, 2026); confirms ongoing navigation risk and bolsters supply concerns.",
     "13 ago 2026: nuevo portaaviones USS Germantown se despliega hacia Medio Oriente tras problemas en USS Lincoln; refuerza presencia militar de EE.UU. en zona de tensión con Irán y eleva riesgo de escalada.",
@@ -701,7 +700,8 @@
     "18 sep 2026: Macron convoca al G7 para coordinar nueva liberación de reservas estratégicas de petróleo ante pérdida de crudo saudí en Europa y diésel en máximos, primer movimiento bajista de oferta coordinada.",
     "19 sep 2026: Trump firma la ley de sanciones a Rusia (aranceles hasta 100% a compradores de crudo ruso, China e India), consolidando la restricción de oferta global con presión alcista sobre el Brent.",
     "19 sep 2026: Reportan llamas y humo cerca del aeropuerto de Riad tras alertas de defensa civil saudí, nuevo foco de riesgo sobre infraestructura saudí con presión alcista sobre el crudo.",
-    "19 sep 2026: Irán envía vía Catar a EE.UU. sus condiciones para reanudar conversaciones y terminar la guerra, primera señal diplomática concreta que introduce presión bajista sobre el crudo."
+    "19 sep 2026: Irán envía vía Catar a EE.UU. sus condiciones para reanudar conversaciones y terminar la guerra, primera señal diplomática concreta que introduce presión bajista sobre el crudo.",
+    "20 sep 2026: Irán hace públicas sus condiciones para negociar (fin de la guerra y levantamiento del bloqueo naval) y Arabia Saudita frustra un ataque en Riad; la señal diplomática iraní introduce presión bajista sobre el crudo."
   ],
   "last_direction": "baja"
 }
