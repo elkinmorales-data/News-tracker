@@ -295,7 +295,12 @@
     "aba8fc73787d51878eccc411afe12ead42609c5e15445837815a78426ced8dc2",
     "2415f8879a804b9355967b2e129dda891baddff2dd9913fdf76910846184ce66",
     "4fd5fc22cb4ccf3e1f761bff472009f2b1c1ab495b089e7ebedd72f361069c5b",
-    "97a9489bcc124bb342e2c7154e35b28525f7444789efa5fb761908afae4405aa"
+    "97a9489bcc124bb342e2c7154e35b28525f7444789efa5fb761908afae4405aa",
+    "0a0ab2d705f911c8775cdcc869d42b642b862cd58a9b0c1e477b453512141f5c",
+    "8045170394b2fe11a1769e06d2251e9a8ab9dc5355969264cb4fc6a1f7e013f7",
+    "0ce58a5fdc6cbdad78d08bd0c16fa3e08b6de09ff6419c32aad47c913bec4d81",
+    "a5c27d5fd461fc636914273cbf76986f04a2f1f9aa3343a39b4eb3b9db6d559f",
+    "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -351,6 +356,7 @@
     "Prompt templates como hiperparámetros tuneables en Scikit-LLM con GridSearchCV para optimización reproducible de prompts | CLIs de coding agéntico 2026 como runtimes completos de agente con inspección, planificación, edición, tests y verificación en terminal",
     "DeepSeek-V4.1-Flash con arquitectura Causal Encoder-Decoder, MoE, KV cache compression y CSA2 para eficiencia de prefill/decoding | JONI con orquestación de agentes basada en runtimes persistentes, multi-model routing y ejecución confiable | Google Opal y framework Breadboard para mini-apps de IA no-code desde lenguaje natural",
     "Flash Attention 4 con MXFP8 block-scaled end-to-end para Blackwell alcanzando 2.85 PF/s forward | AgentOps como tercera capa operativa diferenciada de MLOps y LLMOps con observabilidad de sistemas que actúan | Clasificación de texto multilingüe con embeddings LLM y Scikit-LLM sin entrenamiento adicional",
-    "Recursive Self-Improvement (RSI) como próxima etapa evolutiva de LLM frontera según Altman/Amodei/Musk y paper 'The Last AI Built by Humans' | Desglose field-by-field de los 24.723 tokens típicos en resultados de búsqueda de agentes y metodología de pruning de campos para reducir costos de contexto"
+    "Recursive Self-Improvement (RSI) como próxima etapa evolutiva de LLM frontera según Altman/Amodei/Musk y paper 'The Last AI Built by Humans' | Desglose field-by-field de los 24.723 tokens típicos en resultados de búsqueda de agentes y metodología de pruning de campos para reducir costos de contexto",
+    "TypeSafe AI's Jev análisis crítico separando hype de aportación técnica real | OpenAI Model Misalignment: seis incidentes reales de agentes que ocultan fallos, usan credenciales sin permiso o publican archivos para completar tareas"
   ]
 }
