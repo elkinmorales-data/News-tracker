@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "42e5c54f1cf35d4088e7513e0307b31ffd2065dc0d60b09153de4fcc1b44e88e",
-    "acfcbbebb1d3c962bb96b592885aab32f2cf5418d27c6beb6df2e72baff8a656",
-    "4c28cad2dee99a3ae0e84a262266d88e8c90ad154692a536fa15e1b8947f886a",
-    "eb0e87ae00a7beda5d0a5009a198fa3c5c490716a5b4af6765d09e9bad645799",
-    "2197e8bcdc9f66183036cc377b1568c39e7212c62c8e102900919a8fc3c594b0",
     "fe7d1580c491c5d9311605c994328ebf83e4878e70948daaab4d3fdd26908ced",
     "4a0d03534debe664c02feb8e9c003837edba9651000dd235eba11fa53697cb8e",
     "0a1cb35e032b16ecde0dc6750226ab4a334e0f18c31fb1445188ebe6208d3e41",
@@ -499,10 +494,14 @@
     "106d31c86e4535715ad84e10460131d0fa0bed508189364b5ae7197edbc3d4e1",
     "af46f180632e595fa00e64fb4709aaf7814cf547961fa2e24f7fbd2ad0321ceb",
     "78e9040c5e2b5ab2f6ddc4340e00043532c1bc684e206ac9d46d9afd520c813b",
-    "1ce15c310174ebd18643e762d8cd89d24c2be0a341b9a590a0f6d847baa98433"
+    "1ce15c310174ebd18643e762d8cd89d24c2be0a341b9a590a0f6d847baa98433",
+    "53f758d99ce03e14f2f1de950c13d1b5c2bd60b5999fdaa6d81398812d2f45c2",
+    "e845fdcc8b63401143e236f500d4c0b2124faa52715d46fca1fe5c8d90451caa",
+    "c1cdaaa1f0fa5b2169a13d335246e1b8a315f7342a9fe6edaf5173e4a066d089",
+    "43aa0d290ad66d3da0dd3dc4544d16b074be727be8a2b32352c96b45995d742b",
+    "8c83bd68bca248c270adf4be321449e3dadfdf4c275bf6e8ec15604258561b3e"
   ],
   "seen_summaries": [
-    "14 ago 2026: EAU acusa a Irán de atacar dos buques de ADNOC en Ormuz (sin heridos) y Hegseth dice que EE.UU. sostendrá el bloqueo 'indefinidamente'; escalada militar mantiene riesgo de suministro y presión alcista.",
     "14 ago 2026: Bessent anuncia aislamiento económico sin precedentes contra Irán y bloqueo indefinido en Ormuz; USS George Washington releva al Lincoln, elevando riesgo de escalada y presión alcista.",
     "Se inician trabajos de salvamento del petrolero Caroline Bezengi en Omán; derrame se expande a 1,300 km², elevando riesgo ambiental/navegación en zona crítica.",
     "Rusia captura récord del 50.83% de importaciones de crudo de India en julio (2.47M bpd), consolidando su oferta a pesar de sanciones, en medio del cierre de Ormuz.",
@@ -701,7 +700,8 @@
     "20 sep 2026: EE.UU. emite alerta oficial de viaje a Oriente Medio por ataques hutíes y cierre de Ormuz por Irán, reforzando presión alcista sobre el crudo.",
     "20 sep 2026: Catar confirma mediación activa para revivir conversaciones Irán-EE.UU. y propone marco de seguridad del Golfo, reforzando señal bajista sobre el crudo.",
     "21 sep 2026: Irán denuncia que EE.UU. prepara nuevos ataques y advierte represalias 'sin límites' mientras Trump amenaza con destruir su economía o liderazgo, escalada bélica directa con presión alcista sobre el crudo.",
-    "21 sep 2026: EE.UU. amenaza con desconectar del sistema del dólar a aeropuertos y empresas que sirvan a aerolíneas iraníes desde el miércoles, nueva sanción concreta que amplía el cerco financiero a Irán y refuerza presión alcista sobre el crudo."
+    "21 sep 2026: EE.UU. amenaza con desconectar del sistema del dólar a aeropuertos y empresas que sirvan a aerolíneas iraníes desde el miércoles, nueva sanción concreta que amplía el cerco financiero a Irán y refuerza presión alcista sobre el crudo.",
+    "21 sep 2026: La ley de sanciones Lindsey Graham se detalla contra India, principal comprador de crudo ruso, con aranceles de hasta 100% a compradores; el mecanismo concreto refuerza el riesgo de retirada de barriles rusos del mercado y la presión alcista sobre el Brent."
   ],
   "last_direction": "alza"
 }
