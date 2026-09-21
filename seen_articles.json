@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "488d621ea0a6dba53e42fb66e1f7ce718ad892f26e5e31deeb73d77c0cbeb8fb",
-    "64c5e19eef149967a1988d78ca45c6f631b1e85e5faa0e4dfb89a887217040db",
-    "545b9b72d4a78ca10c8a9112bcb7270b20b33f2fb550ca7038bad54fde35ea54",
-    "04ff144c15d706e524f4f0485dc252a0ff44e127fb706c844fea231596eff180",
-    "8c3c777803c54eaebf978b559b9c0c827a04d69cae499a4572f83b660ec91928",
-    "f6464ac921452f0800d428a3b139fff90808303a2bbf73a9942d3eabf07b428e",
-    "9a75cb7a8660f63ff200cabcd84c98e40078c55c761f3ae99bc4e98ed505e6c3",
     "995b17bf27c76d2629a7bddf404998f801edf235cc5c96535c290ae85d02116c",
     "d1cb15806c93cd9e40a9eb1243dd4c389fff8a14d0f75b18ce952340c715dda6",
     "44a870cf580cef768b574b60eeb6133ccf68b894e939a4781af2cda45f98cf96",
@@ -499,10 +492,16 @@
     "75f2025d9da0bdfab1572b855816696b2d297ff08d93568b91c466f87d603df7",
     "68b3146e8d915d6d30789fcf66f3d423550fc97b221753c8dc8e136684a57d7c",
     "d5f520837568c505afad0d9b85dd990b25bc274ded3d75968620ed63a73c37a9",
-    "517bfb771086105fee48cc15274023d0488ac984df446d375d12f51e249d80d3"
+    "517bfb771086105fee48cc15274023d0488ac984df446d375d12f51e249d80d3",
+    "2cc2a5ace121aac694e25ec3cddd85b23b4153f36e74c49b64015fb07d447afd",
+    "946eb77f15501a4cafd13576b36e37ebbcb711a6dceda00918240f9aabf90ec6",
+    "0796fb1092323e004d1cdb69d2f051b6fd5b30448dfe5432681e4736a52452d3",
+    "d84a9726b089155594abfc6b0a7bd97f954c505f47eea7146f4051c0f05ecf14",
+    "04534d25ea98aea6555e9d7c21c443e3e4fd7ee1f4eff2b221eb1bd175dbfe2d",
+    "d4c0947bd4cafbe39ce9f56e227298f841c1360f470cb877dc91f9eecbddd7ac",
+    "fb86367274333bbc3a4e29a445c95ada3347dcaf965a4f97624c608e8a537cc5"
   ],
   "seen_summaries": [
-    "13 ago 2026: nuevo portaaviones USS Germantown se despliega hacia Medio Oriente tras problemas en USS Lincoln; refuerza presencia militar de EE.UU. en zona de tensión con Irán y eleva riesgo de escalada.",
     "13 ago 2026: Exportaciones de diésel ruso caen a mínimo multi anual (80k bpd) por ataques ucranianos a refinerías y restricciones, agravando escasez global de destilados y añadiendo presión alcista.",
     "14 ago 2026: EAU acusa a Irán de atacar dos buques de ADNOC en Ormuz (sin heridos) y Hegseth dice que EE.UU. sostendrá el bloqueo 'indefinidamente'; escalada militar mantiene riesgo de suministro y presión alcista.",
     "14 ago 2026: Bessent anuncia aislamiento económico sin precedentes contra Irán y bloqueo indefinido en Ormuz; USS George Washington releva al Lincoln, elevando riesgo de escalada y presión alcista.",
@@ -701,7 +700,8 @@
     "19 sep 2026: Irán envía vía Catar a EE.UU. sus condiciones para reanudar conversaciones y terminar la guerra, primera señal diplomática concreta que introduce presión bajista sobre el crudo.",
     "20 sep 2026: Irán hace públicas sus condiciones para negociar (fin de la guerra y levantamiento del bloqueo naval) y Arabia Saudita frustra un ataque en Riad; la señal diplomática iraní introduce presión bajista sobre el crudo.",
     "20 sep 2026: EE.UU. emite alerta oficial de viaje a Oriente Medio por ataques hutíes y cierre de Ormuz por Irán, reforzando presión alcista sobre el crudo.",
-    "20 sep 2026: Catar confirma mediación activa para revivir conversaciones Irán-EE.UU. y propone marco de seguridad del Golfo, reforzando señal bajista sobre el crudo."
+    "20 sep 2026: Catar confirma mediación activa para revivir conversaciones Irán-EE.UU. y propone marco de seguridad del Golfo, reforzando señal bajista sobre el crudo.",
+    "21 sep 2026: Irán denuncia que EE.UU. prepara nuevos ataques y advierte represalias 'sin límites' mientras Trump amenaza con destruir su economía o liderazgo, escalada bélica directa con presión alcista sobre el crudo."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
