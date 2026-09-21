@@ -1,19 +1,5 @@
 {
   "seen_hashes": [
-    "995b17bf27c76d2629a7bddf404998f801edf235cc5c96535c290ae85d02116c",
-    "d1cb15806c93cd9e40a9eb1243dd4c389fff8a14d0f75b18ce952340c715dda6",
-    "44a870cf580cef768b574b60eeb6133ccf68b894e939a4781af2cda45f98cf96",
-    "8930cd3beaf5a3edfa363c320df2097ba7c8edd462b22fed44ca6797dd55cab6",
-    "5762dbaa1619f95dc457c347f7d13ea85bc64069a512433087567bcbadfd416f",
-    "5bbf6b158a3c49454a87b93b1f74abe85e35b1f8fc417a7d15c85a0e64de59ee",
-    "0fcfff55f1d7320606c42fa7fe4d15ec53f8effdc802c7eb8b2a4161448dbf98",
-    "46f33b57f4bca0af9546edb607a92707ee7761ed36a5f05b70df61f904c497f1",
-    "93b6056ef5c4638a163c3c85a0f3cad0d25808b8dcc2a85dd8f5b51f2fadf6ef",
-    "b66bfa8dfcc8eb898bddeaf3f0c202041621d2a0359c3c9d2e71b921e866759d",
-    "8c83bd68bca248c270adf4be321449e3dadfdf4c275bf6e8ec15604258561b3e",
-    "faa6c55aac5e78416c99b3b1411974089819ac07108bf70bf1c2a5727452440d",
-    "781ccaa8e21f8ed04060a9933601f44c9df2e0aad670f5a640cc222991353603",
-    "3bc6af587693d4b6a90a06cd290d96677d3ab072d2b3ff2f8a2ed3ac24049a52",
     "42e5c54f1cf35d4088e7513e0307b31ffd2065dc0d60b09153de4fcc1b44e88e",
     "acfcbbebb1d3c962bb96b592885aab32f2cf5418d27c6beb6df2e72baff8a656",
     "4c28cad2dee99a3ae0e84a262266d88e8c90ad154692a536fa15e1b8947f886a",
@@ -499,10 +485,23 @@
     "d84a9726b089155594abfc6b0a7bd97f954c505f47eea7146f4051c0f05ecf14",
     "04534d25ea98aea6555e9d7c21c443e3e4fd7ee1f4eff2b221eb1bd175dbfe2d",
     "d4c0947bd4cafbe39ce9f56e227298f841c1360f470cb877dc91f9eecbddd7ac",
-    "fb86367274333bbc3a4e29a445c95ada3347dcaf965a4f97624c608e8a537cc5"
+    "fb86367274333bbc3a4e29a445c95ada3347dcaf965a4f97624c608e8a537cc5",
+    "daa88c9ed4f46233681a16c6eb4d2c839d44ba1701304389323b2f24aad9232b",
+    "cfe1aa4e7608a341995e078ada820fff7db76b08209adb8e076587e3e396ff83",
+    "efa4f4e5720a295b920d34e218388fc640d91b6a9422702ddf197f6cd4e6063f",
+    "498aedf0d324ee90a06d85fab626cbe1ab31ae2c9d8351cebc5872d2ab3756b8",
+    "8780413d143a99abaab82dd3af00fd51bbc51eba924170d432690d3b7671ba24",
+    "6727f77636271ce0bd7b8b4c992bb6209ee6d83a577043059056511a88b5dae7",
+    "b957634e661deb8cecb28539948b734d51898ffe8ea0ee005cd2a909d5f5a3db",
+    "bbee7b91fb9cf727863ae971f45c415fd0d44559064d23b9721c58dab5da742e",
+    "293b8c37121dafb5098eca42ab6cace50aa28be18326ecebbbdadb41e457ffc4",
+    "51fab05fcaf68c3ce9c95a74d01806da106b1b83454263ded214e60ac906c1f3",
+    "106d31c86e4535715ad84e10460131d0fa0bed508189364b5ae7197edbc3d4e1",
+    "af46f180632e595fa00e64fb4709aaf7814cf547961fa2e24f7fbd2ad0321ceb",
+    "78e9040c5e2b5ab2f6ddc4340e00043532c1bc684e206ac9d46d9afd520c813b",
+    "1ce15c310174ebd18643e762d8cd89d24c2be0a341b9a590a0f6d847baa98433"
   ],
   "seen_summaries": [
-    "13 ago 2026: Exportaciones de diésel ruso caen a mínimo multi anual (80k bpd) por ataques ucranianos a refinerías y restricciones, agravando escasez global de destilados y añadiendo presión alcista.",
     "14 ago 2026: EAU acusa a Irán de atacar dos buques de ADNOC en Ormuz (sin heridos) y Hegseth dice que EE.UU. sostendrá el bloqueo 'indefinidamente'; escalada militar mantiene riesgo de suministro y presión alcista.",
     "14 ago 2026: Bessent anuncia aislamiento económico sin precedentes contra Irán y bloqueo indefinido en Ormuz; USS George Washington releva al Lincoln, elevando riesgo de escalada y presión alcista.",
     "Se inician trabajos de salvamento del petrolero Caroline Bezengi en Omán; derrame se expande a 1,300 km², elevando riesgo ambiental/navegación en zona crítica.",
@@ -701,7 +700,8 @@
     "20 sep 2026: Irán hace públicas sus condiciones para negociar (fin de la guerra y levantamiento del bloqueo naval) y Arabia Saudita frustra un ataque en Riad; la señal diplomática iraní introduce presión bajista sobre el crudo.",
     "20 sep 2026: EE.UU. emite alerta oficial de viaje a Oriente Medio por ataques hutíes y cierre de Ormuz por Irán, reforzando presión alcista sobre el crudo.",
     "20 sep 2026: Catar confirma mediación activa para revivir conversaciones Irán-EE.UU. y propone marco de seguridad del Golfo, reforzando señal bajista sobre el crudo.",
-    "21 sep 2026: Irán denuncia que EE.UU. prepara nuevos ataques y advierte represalias 'sin límites' mientras Trump amenaza con destruir su economía o liderazgo, escalada bélica directa con presión alcista sobre el crudo."
+    "21 sep 2026: Irán denuncia que EE.UU. prepara nuevos ataques y advierte represalias 'sin límites' mientras Trump amenaza con destruir su economía o liderazgo, escalada bélica directa con presión alcista sobre el crudo.",
+    "21 sep 2026: EE.UU. amenaza con desconectar del sistema del dólar a aeropuertos y empresas que sirvan a aerolíneas iraníes desde el miércoles, nueva sanción concreta que amplía el cerco financiero a Irán y refuerza presión alcista sobre el crudo."
   ],
   "last_direction": "alza"
 }
