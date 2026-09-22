@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "fe7d1580c491c5d9311605c994328ebf83e4878e70948daaab4d3fdd26908ced",
-    "4a0d03534debe664c02feb8e9c003837edba9651000dd235eba11fa53697cb8e",
-    "0a1cb35e032b16ecde0dc6750226ab4a334e0f18c31fb1445188ebe6208d3e41",
-    "3c5a5c91ffd8c7324de2dba5a807b942d35329738d4e1711a17b2956d1b3f978",
-    "8665463c8f2106cb244fc5b39aa95e898e46402812cdf5fc5fb44a7d5286697f",
-    "4477975114d718729dd93344ba333e85b906dda013ad71e7e0ba2a6ef22b64fb",
-    "c2a71e36697ec6e91a877493c7c47aef6971f12a4e872f61daf88a4553dddc67",
     "9b4999b3e264f10a6b878ba6b4e5cc7ae7d938f044f1f5612f9ab20d04e22ebe",
     "e091b7be0fb9ab778bf04f1fdd24c8f12713f908d67abc49550198ded7d51d40",
     "879649b38f2052d17fc5ca3f0ad57dd602965e9b5df7461fad6a530d2da85276",
@@ -499,10 +492,16 @@
     "e845fdcc8b63401143e236f500d4c0b2124faa52715d46fca1fe5c8d90451caa",
     "c1cdaaa1f0fa5b2169a13d335246e1b8a315f7342a9fe6edaf5173e4a066d089",
     "43aa0d290ad66d3da0dd3dc4544d16b074be727be8a2b32352c96b45995d742b",
-    "8c83bd68bca248c270adf4be321449e3dadfdf4c275bf6e8ec15604258561b3e"
+    "8c83bd68bca248c270adf4be321449e3dadfdf4c275bf6e8ec15604258561b3e",
+    "037f2897d9822f7a6c86bece40b5a8c8a5565f1f7bd7fcc56c08fba40eb6dfcb",
+    "f3d6b4afe5728f649b5bf4849f88db0eb2dbd6ea3c5fe7210e27d496233c99ba",
+    "774d62fc2b4b6b69dc0a981a61d2dc8883fdd80934e21c8c4ce6bd2075cd4f64",
+    "430973b8f561f9a20fc8be17b6e6bc300e24f37b0a625b6a8fd88e8269d6eebf",
+    "cca4ed08b76f2f2fb64fb1aea6437ff7c15bb90c1299a7a2b448a1bdefc36952",
+    "19902556215ea50ad7eb5a60a1ee43f7a3e6b313092948d6947cf56c46051805",
+    "13473a1bbb84e069529102fc668b443d4528fa3119a9788846639544f368094e"
   ],
   "seen_summaries": [
-    "14 ago 2026: Bessent anuncia aislamiento económico sin precedentes contra Irán y bloqueo indefinido en Ormuz; USS George Washington releva al Lincoln, elevando riesgo de escalada y presión alcista.",
     "Se inician trabajos de salvamento del petrolero Caroline Bezengi en Omán; derrame se expande a 1,300 km², elevando riesgo ambiental/navegación en zona crítica.",
     "Rusia captura récord del 50.83% de importaciones de crudo de India en julio (2.47M bpd), consolidando su oferta a pesar de sanciones, en medio del cierre de Ormuz.",
     "14 ago 2026: Tráfico de petroleros en Ormuz cae a mínimo histórico de 5 cruces diarios, confirmando persistencia del bloqueo iraní y presión alcista sobre precios.",
@@ -701,7 +700,8 @@
     "20 sep 2026: Catar confirma mediación activa para revivir conversaciones Irán-EE.UU. y propone marco de seguridad del Golfo, reforzando señal bajista sobre el crudo.",
     "21 sep 2026: Irán denuncia que EE.UU. prepara nuevos ataques y advierte represalias 'sin límites' mientras Trump amenaza con destruir su economía o liderazgo, escalada bélica directa con presión alcista sobre el crudo.",
     "21 sep 2026: EE.UU. amenaza con desconectar del sistema del dólar a aeropuertos y empresas que sirvan a aerolíneas iraníes desde el miércoles, nueva sanción concreta que amplía el cerco financiero a Irán y refuerza presión alcista sobre el crudo.",
-    "21 sep 2026: La ley de sanciones Lindsey Graham se detalla contra India, principal comprador de crudo ruso, con aranceles de hasta 100% a compradores; el mecanismo concreto refuerza el riesgo de retirada de barriles rusos del mercado y la presión alcista sobre el Brent."
+    "21 sep 2026: La ley de sanciones Lindsey Graham se detalla contra India, principal comprador de crudo ruso, con aranceles de hasta 100% a compradores; el mecanismo concreto refuerza el riesgo de retirada de barriles rusos del mercado y la presión alcista sobre el Brent.",
+    "22 sep 2026: Bessent confirma en CNBC el cierre de todas las aerolíneas iraníes desde el miércoles, materializando la amenaza de sanciones financieras del 21-sep y reforzando presión alcista sobre el crudo."
   ],
   "last_direction": "alza"
 }
