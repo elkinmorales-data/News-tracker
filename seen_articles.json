@@ -1,20 +1,5 @@
 {
   "seen_hashes": [
-    "9b4999b3e264f10a6b878ba6b4e5cc7ae7d938f044f1f5612f9ab20d04e22ebe",
-    "e091b7be0fb9ab778bf04f1fdd24c8f12713f908d67abc49550198ded7d51d40",
-    "879649b38f2052d17fc5ca3f0ad57dd602965e9b5df7461fad6a530d2da85276",
-    "c5aa5d27103228454123fc9222fe5c7585d3ff29f5627ff034f05b8b8c7aa0f8",
-    "d3512383b6091b362e3a50f435b6f1396b5723669b740b759b83764cb980a5c6",
-    "b0f674c5f5c101bd767aed0f21b805ec2167ea2b5b666afed9821ae93c6e8f03",
-    "6e7c4dc39a8c16efe58a52a1f74ce83341104230e8ba6b87e5bbb8a481cbf409",
-    "8c35f4626163e4b444a9c263e30162065df71a890a064306b5fbd3dd77f52ddb",
-    "bbc3c5e540fbce98d3d24ca2b24bed2dc184b8e9f182c030ddcb79685e7c3afe",
-    "31ee4d19bd94731e630cce3ded3ef667f3ea966d232adbced4c645ef8352122e",
-    "bc136ca421d099eec764f4741ae2424dbb601990430653da78811f0f29644bd0",
-    "c96dcf2f54fbd438faddf1aa7b6b302cfde44a5561120190a017404447189cb2",
-    "3d7793f9dd54b4abc3c381eeb0dfb5f3890e1492a0e56f2c05fbe9c1a2d1320b",
-    "1f285a63e1548c631543abf9f0b3d142a3923961dac969ff2c1cf1f8a5a7e8ee",
-    "f5a8986ae69f568cd38aa6d16da86944bd20dabf154530ec06e7763cb8024bd2",
     "0a55f52632a1845d2e2f73aaeb5ecf25ac2b0c530f95538eb21541548eafe24f",
     "a06b015f5b90306e80508568c59bb7fae4733f699b14353a6aba516f311380ae",
     "ac3a597da49d0920a37b7d2ce329800d1c4334f6163a18d1295753e350b75ee1",
@@ -499,7 +484,22 @@
     "430973b8f561f9a20fc8be17b6e6bc300e24f37b0a625b6a8fd88e8269d6eebf",
     "cca4ed08b76f2f2fb64fb1aea6437ff7c15bb90c1299a7a2b448a1bdefc36952",
     "19902556215ea50ad7eb5a60a1ee43f7a3e6b313092948d6947cf56c46051805",
-    "13473a1bbb84e069529102fc668b443d4528fa3119a9788846639544f368094e"
+    "13473a1bbb84e069529102fc668b443d4528fa3119a9788846639544f368094e",
+    "3265d9787af861f18a3ac716ca120ff20fb55dd455d0d56f7c7943ef914a1b2f",
+    "bef312fe9947738b6a4880189a4f69d1a7060561adb3c098ed923dba2671f908",
+    "1af146c9f4c7aa09f489e6de0a106b3a21fa23daacb01b077c1213b80d6f1ca0",
+    "325b7bee320808bcb8a7d910c1f44e7082b028ac5cd519dfd80337ca8fa8b9fc",
+    "42786a826cb3c150a09ad751adcb2c4517c534e8f5b3148c2db5dc4c5f156ae9",
+    "9efed94950b76b7709a894d8c6d96bb49c608106fcc0a036bf97fd341d3e97e5",
+    "ea6309ebbe416743dd7c71d27c5fb7fd2156110fbf1e5d4a637011c89308d62b",
+    "e0ec4b8ec7949e3f2f9bb7b4d6f2a1472fe116c697352b4ebfecbdde3f573a95",
+    "e09a628e9d45cd7e4eafc2b5dc8d5274115a4bbf8710520dc227983a290706f1",
+    "5faed8bbe36e0db419f999c41e00f000120bfb8981157e1c30515f0d65e7bff4",
+    "8b2f306943918d45cd297a64a5c018d65df258be4284b753254437340c03f6c4",
+    "8d46a8498feeec580b46aae55cebee2aeb516d7703010d19e21ee0e4ab3ff5b8",
+    "69d7d309d7911309e3b184a06c3bdc0d9e882ba8cb1e6497ee51b57c7449209f",
+    "4df3afc1bbbeb9d3dc65ea547ce1d646d2302cca9f0bad580f5eeb65446ef9d0",
+    "fcdc5fa84a432ec44f7e11a9c7d1422ba1405225ad4bd06921e6d5ad55294e03"
   ],
   "seen_summaries": [
     "Se inician trabajos de salvamento del petrolero Caroline Bezengi en Omán; derrame se expande a 1,300 km², elevando riesgo ambiental/navegación en zona crítica.",
@@ -703,5 +703,5 @@
     "21 sep 2026: La ley de sanciones Lindsey Graham se detalla contra India, principal comprador de crudo ruso, con aranceles de hasta 100% a compradores; el mecanismo concreto refuerza el riesgo de retirada de barriles rusos del mercado y la presión alcista sobre el Brent.",
     "22 sep 2026: Bessent confirma en CNBC el cierre de todas las aerolíneas iraníes desde el miércoles, materializando la amenaza de sanciones financieras del 21-sep y reforzando presión alcista sobre el crudo."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
