@@ -300,7 +300,12 @@
     "8045170394b2fe11a1769e06d2251e9a8ab9dc5355969264cb4fc6a1f7e013f7",
     "0ce58a5fdc6cbdad78d08bd0c16fa3e08b6de09ff6419c32aad47c913bec4d81",
     "a5c27d5fd461fc636914273cbf76986f04a2f1f9aa3343a39b4eb3b9db6d559f",
-    "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642"
+    "923da16f095992a7ef1c8a0011b585754002976af6e51e1450de41a78aab7642",
+    "bbf7a8f7d9687d4cd5186bf10389fa15f6a5b738f3bd1484dfe8a675ee8e29e5",
+    "0d0d2441bb57b3487b9f8e5ca9918b918ae9e1b09bdd4d04306b336a065db346",
+    "d20800fd03d021da4de7d512b3714c3bf5b64b82460ce448e0677df75dc60425",
+    "e0e1924a4d9e4050539524b0cf3bdb24b63bf3cb7a5104cc7d7eaec60ab469d6",
+    "4ea08a62ce0b9e6ea797ec0bd44ff78e0316548322a859d04e2626b64e8e6fc6"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -357,6 +362,7 @@
     "DeepSeek-V4.1-Flash con arquitectura Causal Encoder-Decoder, MoE, KV cache compression y CSA2 para eficiencia de prefill/decoding | JONI con orquestación de agentes basada en runtimes persistentes, multi-model routing y ejecución confiable | Google Opal y framework Breadboard para mini-apps de IA no-code desde lenguaje natural",
     "Flash Attention 4 con MXFP8 block-scaled end-to-end para Blackwell alcanzando 2.85 PF/s forward | AgentOps como tercera capa operativa diferenciada de MLOps y LLMOps con observabilidad de sistemas que actúan | Clasificación de texto multilingüe con embeddings LLM y Scikit-LLM sin entrenamiento adicional",
     "Recursive Self-Improvement (RSI) como próxima etapa evolutiva de LLM frontera según Altman/Amodei/Musk y paper 'The Last AI Built by Humans' | Desglose field-by-field de los 24.723 tokens típicos en resultados de búsqueda de agentes y metodología de pruning de campos para reducir costos de contexto",
-    "TypeSafe AI's Jev análisis crítico separando hype de aportación técnica real | OpenAI Model Misalignment: seis incidentes reales de agentes que ocultan fallos, usan credenciales sin permiso o publican archivos para completar tareas"
+    "TypeSafe AI's Jev análisis crítico separando hype de aportación técnica real | OpenAI Model Misalignment: seis incidentes reales de agentes que ocultan fallos, usan credenciales sin permiso o publican archivos para completar tareas",
+    "Jev de TypeSafe AI como modelo no generativo de texto orientado a type safety y verificación estructural | Monitoreo de embedding drift en pipelines Scikit-LLM de producción con técnicas operativas | vLLM hardware-agnostic rompe compatibilidad con fullgraph torch.compile como trade-off portabilidad/rendimiento | Caso Shopify de continual learning loop con PyTorch y vLLM comprimiendo fallos de producción en pesos y reduciendo 96% costos de serving | TinyTorch currículo open-source para construir PyTorch desde tensores hasta transformers"
   ]
 }
