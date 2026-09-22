@@ -1,16 +1,5 @@
 {
   "seen_hashes": [
-    "0a55f52632a1845d2e2f73aaeb5ecf25ac2b0c530f95538eb21541548eafe24f",
-    "a06b015f5b90306e80508568c59bb7fae4733f699b14353a6aba516f311380ae",
-    "ac3a597da49d0920a37b7d2ce329800d1c4334f6163a18d1295753e350b75ee1",
-    "f5b9cee0cf1d974fee620eea867a126b07249e20279b53ec2f4c8d358e0ebaec",
-    "75f7b8de667a8f56d847362f219d962ec98af6bf370c6905463f2b39c5d6bba0",
-    "4256582254287d7bc41840e28b1826df4ad85a8ead4b7b26ef40848981ebb724",
-    "50083213f11d6986a174877b20fd01132fd6e8cd740667ebb58606a06166ba47",
-    "8cd39a6d726d11f184d17027fa0774af7683fd077771566f0e26369fbc2c5297",
-    "d5bfb3480e03b1cc998542bec68dd111881f81492ee7fb016208faeda8738556",
-    "30f8cef7b2985e9158ca1650dd33de585fac584cf74458393c1541d91b8e6638",
-    "4de0c424f66e3839e01761fc72dc99792d7a16780607285b28bc6bb04511ab8f",
     "d9a134ecb09f15634cd907fd930a17b806f9484c177ba117eb8ab604cbb97d28",
     "b78fc268eb17ce764d7cd7d835fc4b76bc54a098fe585fb9667c22e66f4e34e5",
     "c84cdd2f752f93e58bfb02f82c6c93b8438d70acc003a586a0dbf4af1b2301f8",
@@ -499,10 +488,20 @@
     "8d46a8498feeec580b46aae55cebee2aeb516d7703010d19e21ee0e4ab3ff5b8",
     "69d7d309d7911309e3b184a06c3bdc0d9e882ba8cb1e6497ee51b57c7449209f",
     "4df3afc1bbbeb9d3dc65ea547ce1d646d2302cca9f0bad580f5eeb65446ef9d0",
-    "fcdc5fa84a432ec44f7e11a9c7d1422ba1405225ad4bd06921e6d5ad55294e03"
+    "fcdc5fa84a432ec44f7e11a9c7d1422ba1405225ad4bd06921e6d5ad55294e03",
+    "78b2907ae0dca75a9361be785f218622ac7e74c418fdae91667ccbd217d6a44a",
+    "806c201b6515558d7ec8cd99abc8c57a08dc5f423dd2da78094e67f8ebc4ab3c",
+    "2248aca5708fccc4028aea3647e0bab9008d658de214eb28410929a219501a95",
+    "cb6674065ec2e942f2b0ff268d461ffe89877da389553c6457e69fa176630ec3",
+    "68a662b8234f78801d2f56cb74de14d0a994d6b823bf1069992ca90f935b1835",
+    "bfc8332cc0b0704f02166ab92e2f0def266fc53db3b7f6d4aa79bfa47811760a",
+    "0dd83c1f6e3a58c9b074509ca89bf6fe30a396f92953cb502977d65e736c044b",
+    "10aea961595bb1f3820b267b99a17c4fe9afa57c8c0d46b4fc6e442aa4b0ef48",
+    "69bcf0d5d9e911397c518d2dd6e3d70399b5b92d9a71794b8040034b35361d0e",
+    "26f2e249f04c55ade5569ff72dc3d99286ba02273483de9bd63bb0b50d514934",
+    "c0bf2edee7df8e06de3abeb1e48e6f2ea9f8ffa092aef40f26a323d24a17103e"
   ],
   "seen_summaries": [
-    "Se inician trabajos de salvamento del petrolero Caroline Bezengi en Omán; derrame se expande a 1,300 km², elevando riesgo ambiental/navegación en zona crítica.",
     "Rusia captura récord del 50.83% de importaciones de crudo de India en julio (2.47M bpd), consolidando su oferta a pesar de sanciones, en medio del cierre de Ormuz.",
     "14 ago 2026: Tráfico de petroleros en Ormuz cae a mínimo histórico de 5 cruces diarios, confirmando persistencia del bloqueo iraní y presión alcista sobre precios.",
     "14 ago 2026: Petroleros en Ormuz y Bab el-Mandeb extienden 'modo oscuro' a más de una semana; Vance prioriza gasolina barata pero no ofrece medida concreta; riesgo de oferta sigue alto y refuerza presión alcista.",
@@ -701,7 +700,8 @@
     "21 sep 2026: Irán denuncia que EE.UU. prepara nuevos ataques y advierte represalias 'sin límites' mientras Trump amenaza con destruir su economía o liderazgo, escalada bélica directa con presión alcista sobre el crudo.",
     "21 sep 2026: EE.UU. amenaza con desconectar del sistema del dólar a aeropuertos y empresas que sirvan a aerolíneas iraníes desde el miércoles, nueva sanción concreta que amplía el cerco financiero a Irán y refuerza presión alcista sobre el crudo.",
     "21 sep 2026: La ley de sanciones Lindsey Graham se detalla contra India, principal comprador de crudo ruso, con aranceles de hasta 100% a compradores; el mecanismo concreto refuerza el riesgo de retirada de barriles rusos del mercado y la presión alcista sobre el Brent.",
-    "22 sep 2026: Bessent confirma en CNBC el cierre de todas las aerolíneas iraníes desde el miércoles, materializando la amenaza de sanciones financieras del 21-sep y reforzando presión alcista sobre el crudo."
+    "22 sep 2026: Bessent confirma en CNBC el cierre de todas las aerolíneas iraníes desde el miércoles, materializando la amenaza de sanciones financieras del 21-sep y reforzando presión alcista sobre el crudo.",
+    "22 sep 2026: EE.UU. e Irán sostienen reunión directa de 3 horas en la UNGA calificada como 'muy buena' por Trump, primer contacto diplomático concreto que introduce presión bajista sobre el crudo y revierte el tono alcista previo."
   ],
   "last_direction": "baja"
 }
