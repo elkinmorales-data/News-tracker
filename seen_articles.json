@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "abe45bbd8228bb0837a16c1d6ea04cdd54fd776e810f7cda0e10c074a171038e",
-    "154fe31f75745fc7257c3d82700de20b2c45e61b3d589492e4a51cf8a69e82aa",
-    "b2ee4412452012435b1f622ba69217e85bf9aff64dbc0c1f9953c7ada0d462bc",
-    "2308a65a810c7831681aa2e6ac29159d0a9772d2e6a430f8245647216ac5c68d",
-    "62de5a9533fd1076e25449d57ad99e6cbe8bf40cab099ce00dad048bad72140f",
-    "3f80348ba6d0b973f060cc6db9555dcee87612b1fd005903ce97c17df63475ac",
-    "1e6e96fe5c8b090c16bbbd1c00ac35cb0decf43ac321b988fb30b4befec3449c",
     "6e225d8f83bdc4d353ea30ac3c9f0a6ec3fbf5335a1af12fdd8ed21f4d8d444e",
     "74f83b7c6d1f0825cee3086820f1740c6a71fd387fd4d9fb45a6b3127c13a98f",
     "0704715b23096aa0039c2dfe890ae2319964cd202be730a7b995b11a0a4d9e49",
@@ -499,10 +492,16 @@
     "87b028dad58e6a52a889eb7965be491b92f296f175ba9fc7a88b5c97ecbd5609",
     "a9dc5272b02580c9538663889ebacec82ad0213894ada2b1a4ce993e5aac963e",
     "1c7c3e1b4426a0f1b2bc0624d76eecfa12601fa921f545fe2f1d37f549a7f2e5",
-    "1cdad789b811df501dad30189f8345ecaa054fad9620743e45651daa8e0b3bf2"
+    "1cdad789b811df501dad30189f8345ecaa054fad9620743e45651daa8e0b3bf2",
+    "f04af86ea8c129a05a3b899ee2eb2f069deba05146df75639b478512c4f60c76",
+    "b1b9c97f369364653c22a817dec20693f488c9449b58a9383667a21dd2d44e43",
+    "8e0c63eb44196f6bc71f8509ddbaff5aa322c0e0ed732bb2b2a94991e8b33f21",
+    "599264ab7308da68e221b9bdb13e07d51ed1f4239cb28b9e089055a4b8d961a3",
+    "f887843bac041603d2badde9ae16fb70ee19c00af8dd20b038760e2173c452c6",
+    "c9f909bd5b888b685f780a17568d8523fcd26a82a034981fd215635f1924704b",
+    "9bd3a746b79401b47c8d0cd2927f00ddd218dc9b1b22f4b958878f52df2eb1d2"
   ],
   "seen_summaries": [
-    "14 ago 2026: Petroleros en Ormuz y Bab el-Mandeb extienden 'modo oscuro' a más de una semana; Vance prioriza gasolina barata pero no ofrece medida concreta; riesgo de oferta sigue alto y refuerza presión alcista.",
     "14 ago 2026: Hutíes atacan refinería de Aramco en Jazan (daño menor en tanque) y Hegseth dice que bloqueo en Ormuz será indefinido; nuevos ataques a infraestructura petrolera y postura de EE.UU. refuerzan riesgo de oferta.",
     "14 ago 2026: Refinerías asiáticas (al menos 4) compran crudo de EE.UU. como alternativa al crudo de Oriente Medio bloqueado en Ormuz, confirmando disrupción de oferta y presión alcista en precios.",
     "14 ago 2026: Ataques iraníes en Ormuz y estancamiento de negociaciones empujan al Brent hacia $100 (ganancia semanal del 5%), pese a aumento de 17M bpd de inventarios en EE.UU. Confirma riesgo de oferta y presión alcista.",
@@ -701,7 +700,8 @@
     "22 sep 2026: Bessent confirma en CNBC el cierre de todas las aerolíneas iraníes desde el miércoles, materializando la amenaza de sanciones financieras del 21-sep y reforzando presión alcista sobre el crudo.",
     "22 sep 2026: EE.UU. e Irán sostienen reunión directa de 3 horas en la UNGA calificada como 'muy buena' por Trump, primer contacto diplomático concreto que introduce presión bajista sobre el crudo y revierte el tono alcista previo.",
     "23 sep 2026: EE.UU. e Irán celebran reunión mediada en UNGA sobre fin de guerra y apertura de Ormuz; Teherán condiciona a levantar bloqueo naval y descongelar activos; crudo cae por esperanza diplomática, presión bajista.",
-    "23 sep 2026: Brent perfora $100 a $98.30 y WTI cae bajo $90 ($89.49), sexta jornada bajista consecutiva (mayor racha desde ago-2025), por esperanza de acuerdo EE.UU.-Irán pese a tráfico en Ormuz aún 80% bajo promedio; Irán condiciona reapertura del estrecho."
+    "23 sep 2026: Brent perfora $100 a $98.30 y WTI cae bajo $90 ($89.49), sexta jornada bajista consecutiva (mayor racha desde ago-2025), por esperanza de acuerdo EE.UU.-Irán pese a tráfico en Ormuz aún 80% bajo promedio; Irán condiciona reapertura del estrecho.",
+    "23 sep 2026: Iran amenaza a paises que apliquen las sanciones aereas de EE.UU. con interrumpir sus aeropuertos, escalada tras el cierre del espacio aereo a sus aerolineas; presion alcista sobre el crudo."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
