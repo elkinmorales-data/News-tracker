@@ -1,22 +1,5 @@
 {
   "seen_hashes": [
-    "76e0a06d5a406ebb473a0a90be0de7626860167cb20fb1992c817a0511f0c51d",
-    "f3511bcc4da11a79171497c609ebb64182d1e6140c1917d3cb968832bf7d4dd9",
-    "3e131957f4971a402a3f1873e084afa057bfb775956e7064082c927ffea94b8e",
-    "c62cad3ddc361b920d3472b33c83bff7edec561585aa9cd1dc1fe85f97309af2",
-    "70864c4a1d47064bb9da7b2efae4b19a0ee50e82c8b6e1e0d25d1e9e5e1d337d",
-    "0b48429adef1be657e12a001a761f4cab3e861df2d2faa4bd9036bc2aec4f31a",
-    "c94eb615858e7c7660fa2093bdac9299308b32ea6b1a3ec894825e820c340806",
-    "2b9dfe518ae4f672c96db5d231e4ccd91edf6ac804ed513d21cc00c29f3bd6aa",
-    "e59973b4ff9a9dfc26c4b29553fa313ee8150c8008dc3b4075b08aabec488f4f",
-    "9e2577d23d5bf97632071be126194a83c497dec5cf601673284c5076f4d5689e",
-    "c22a5f593314bf1cbaf746d89d1b7ad5d49da3ac44b88c9ec96a601e644a4b54",
-    "8cb888f6cc7c2861f1d781c3dd46a771cbce69923a9f36b64524b896b8c6df6c",
-    "e0656c047c291effdb21e203c87faafb0ed719a947a900378030fc85426ada8c",
-    "0b3df80626346d613c034cbc7d19b5a4d81cc89c62b3e456699de051b9e0ae67",
-    "482c796ae6aaeccad504eea494e619b5af9754e550a8faa101a067ca081c38e4",
-    "c8d5d7628a8a0a389523bd601565dfca05c11f5de5d1978043199eeed9c16b3f",
-    "4c55f95aba25490cba547e5fd4dd30544db55e2f745221f952e445a3819a822f",
     "abe45bbd8228bb0837a16c1d6ea04cdd54fd776e810f7cda0e10c074a171038e",
     "154fe31f75745fc7257c3d82700de20b2c45e61b3d589492e4a51cf8a69e82aa",
     "b2ee4412452012435b1f622ba69217e85bf9aff64dbc0c1f9953c7ada0d462bc",
@@ -499,10 +482,26 @@
     "83b31a6f64e7bbc818e8f8e7bba909ac24e4a692f8fff470d2e44e90fc7c1f7f",
     "a559d17efb46d701ecbbaa3a6781f7ab26312738febcd29e76e58718e1082bb9",
     "529c82410f88de29a54c14159e46f77c517256d9b96755ad63a3ade738b44d4c",
-    "2760bf6708777bc0b668898538dd2b55c1d46f3b1a1517462658ef5805aea9a6"
+    "2760bf6708777bc0b668898538dd2b55c1d46f3b1a1517462658ef5805aea9a6",
+    "a90a90c6a8a26ecb727816b6c19484e5514b6895b893d2d398e9a73b5057cd0f",
+    "a793b51c29d8531f21d79568fce6f5f2a4bf2ffac1204a510a938c086d81f0a7",
+    "38827be5894f3efe744f55dbfab4de1290bfb22ade3cf62e5b07152cd2289f49",
+    "124d7800eb8f7ed96a38c1e7d35f17f140244d130474dd65e5ea60de0fbdd4c0",
+    "21c2882781fecfc463ecc8fe7684ce576b12bf0d853007b571139992db90c62f",
+    "9602e03de13f27c9f9156f8d919ffd3105fc2d591d3cf0f342c72dc0e375fbae",
+    "001e4031ee655360a08a3fd8253de94465733baa92af92a3cf68d3c897b2ed6c",
+    "c35e4a27267485ac8103df0d3b8c232865e838c3cf980e69903547b7f8eb44f4",
+    "6ade4be8b87ff80e68d6eb00c477ea512fbdd8c2138a42b45ca2315a7a5c346c",
+    "65c0eac36f91d05e86db4ce63960e31a59d3ab62d8616ddb4e8acac0337e6919",
+    "05daaef6961f3d541eeb7367585c65f4f940e12f9a1d8bfb15e8a7f3c4c9e5e9",
+    "46516ba254f4b21ebcf64326265fde6b2428126da120a6e09d845d73e53e0773",
+    "51cb6791716f52d063b703f0addba49c53ea55f3d120f788a8abde4147a51482",
+    "87b028dad58e6a52a889eb7965be491b92f296f175ba9fc7a88b5c97ecbd5609",
+    "a9dc5272b02580c9538663889ebacec82ad0213894ada2b1a4ce993e5aac963e",
+    "1c7c3e1b4426a0f1b2bc0624d76eecfa12601fa921f545fe2f1d37f549a7f2e5",
+    "1cdad789b811df501dad30189f8345ecaa054fad9620743e45651daa8e0b3bf2"
   ],
   "seen_summaries": [
-    "14 ago 2026: Tráfico de petroleros en Ormuz cae a mínimo histórico de 5 cruces diarios, confirmando persistencia del bloqueo iraní y presión alcista sobre precios.",
     "14 ago 2026: Petroleros en Ormuz y Bab el-Mandeb extienden 'modo oscuro' a más de una semana; Vance prioriza gasolina barata pero no ofrece medida concreta; riesgo de oferta sigue alto y refuerza presión alcista.",
     "14 ago 2026: Hutíes atacan refinería de Aramco en Jazan (daño menor en tanque) y Hegseth dice que bloqueo en Ormuz será indefinido; nuevos ataques a infraestructura petrolera y postura de EE.UU. refuerzan riesgo de oferta.",
     "14 ago 2026: Refinerías asiáticas (al menos 4) compran crudo de EE.UU. como alternativa al crudo de Oriente Medio bloqueado en Ormuz, confirmando disrupción de oferta y presión alcista en precios.",
@@ -701,7 +700,8 @@
     "21 sep 2026: La ley de sanciones Lindsey Graham se detalla contra India, principal comprador de crudo ruso, con aranceles de hasta 100% a compradores; el mecanismo concreto refuerza el riesgo de retirada de barriles rusos del mercado y la presión alcista sobre el Brent.",
     "22 sep 2026: Bessent confirma en CNBC el cierre de todas las aerolíneas iraníes desde el miércoles, materializando la amenaza de sanciones financieras del 21-sep y reforzando presión alcista sobre el crudo.",
     "22 sep 2026: EE.UU. e Irán sostienen reunión directa de 3 horas en la UNGA calificada como 'muy buena' por Trump, primer contacto diplomático concreto que introduce presión bajista sobre el crudo y revierte el tono alcista previo.",
-    "23 sep 2026: EE.UU. e Irán celebran reunión mediada en UNGA sobre fin de guerra y apertura de Ormuz; Teherán condiciona a levantar bloqueo naval y descongelar activos; crudo cae por esperanza diplomática, presión bajista."
+    "23 sep 2026: EE.UU. e Irán celebran reunión mediada en UNGA sobre fin de guerra y apertura de Ormuz; Teherán condiciona a levantar bloqueo naval y descongelar activos; crudo cae por esperanza diplomática, presión bajista.",
+    "23 sep 2026: Brent perfora $100 a $98.30 y WTI cae bajo $90 ($89.49), sexta jornada bajista consecutiva (mayor racha desde ago-2025), por esperanza de acuerdo EE.UU.-Irán pese a tráfico en Ormuz aún 80% bajo promedio; Irán condiciona reapertura del estrecho."
   ],
   "last_direction": "baja"
 }
