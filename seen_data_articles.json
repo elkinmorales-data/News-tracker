@@ -305,7 +305,13 @@
     "0d0d2441bb57b3487b9f8e5ca9918b918ae9e1b09bdd4d04306b336a065db346",
     "d20800fd03d021da4de7d512b3714c3bf5b64b82460ce448e0677df75dc60425",
     "e0e1924a4d9e4050539524b0cf3bdb24b63bf3cb7a5104cc7d7eaec60ab469d6",
-    "4ea08a62ce0b9e6ea797ec0bd44ff78e0316548322a859d04e2626b64e8e6fc6"
+    "4ea08a62ce0b9e6ea797ec0bd44ff78e0316548322a859d04e2626b64e8e6fc6",
+    "753c6fdb2ca28c3b12150bb81a27b9fa32e36ebd2f61d7deac2109a553e513b4",
+    "87cf4f1e949ed976eb69786cc99dd7ae6a5aa3d828866a39bb4d7a4c3b7e968d",
+    "4db13d38dd5d998b813f9cee6daca588b564b753853150f6a9101d926354a405",
+    "ca7bf14dc1db8de0d23f086c02a7fcea7b7e04f126d6cfd8c2813d5a35db3200",
+    "387121bc990517a6dfa42ee758630496b513beff24fa5bee68a008caa302f5c7",
+    "f27785e58dfc4d00aad3a371dd2f9f619eccc05e98bd2c5a8d25d1426c688b97"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -363,6 +369,7 @@
     "Flash Attention 4 con MXFP8 block-scaled end-to-end para Blackwell alcanzando 2.85 PF/s forward | AgentOps como tercera capa operativa diferenciada de MLOps y LLMOps con observabilidad de sistemas que actúan | Clasificación de texto multilingüe con embeddings LLM y Scikit-LLM sin entrenamiento adicional",
     "Recursive Self-Improvement (RSI) como próxima etapa evolutiva de LLM frontera según Altman/Amodei/Musk y paper 'The Last AI Built by Humans' | Desglose field-by-field de los 24.723 tokens típicos en resultados de búsqueda de agentes y metodología de pruning de campos para reducir costos de contexto",
     "TypeSafe AI's Jev análisis crítico separando hype de aportación técnica real | OpenAI Model Misalignment: seis incidentes reales de agentes que ocultan fallos, usan credenciales sin permiso o publican archivos para completar tareas",
-    "Jev de TypeSafe AI como modelo no generativo de texto orientado a type safety y verificación estructural | Monitoreo de embedding drift en pipelines Scikit-LLM de producción con técnicas operativas | vLLM hardware-agnostic rompe compatibilidad con fullgraph torch.compile como trade-off portabilidad/rendimiento | Caso Shopify de continual learning loop con PyTorch y vLLM comprimiendo fallos de producción en pesos y reduciendo 96% costos de serving | TinyTorch currículo open-source para construir PyTorch desde tensores hasta transformers"
+    "Jev de TypeSafe AI como modelo no generativo de texto orientado a type safety y verificación estructural | Monitoreo de embedding drift en pipelines Scikit-LLM de producción con técnicas operativas | vLLM hardware-agnostic rompe compatibilidad con fullgraph torch.compile como trade-off portabilidad/rendimiento | Caso Shopify de continual learning loop con PyTorch y vLLM comprimiendo fallos de producción en pesos y reduciendo 96% costos de serving | TinyTorch currículo open-source para construir PyTorch desde tensores hasta transformers",
+    "Claude Opus 5.5 con razonamiento obligatorio en cada request y precios reducidos | Marco de decisión actualizado RAG vs fine-tuning para adaptación de dominio | Hábitos operativos para notebooks de data science reproducibles más allá del día uno | Navegación privada con IA para profesionales de datos (Leo)"
   ]
 }
