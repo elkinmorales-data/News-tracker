@@ -1,14 +1,5 @@
 {
   "seen_hashes": [
-    "270b80f6a34d5c27357f32a55e26fe9f25e263317046441e14c40c57c9a4f9fe",
-    "eaaf99fd661776f41ece5cded573cb4c4061e044763cfad1019a437f81661786",
-    "8345da81a98863762dfba87e5104651b5f87b6061a3ee0fb764b466f8fc309c2",
-    "5aeadab84699020083295e0946dc4501e4169c5b3fb677738d43e36db1543e3b",
-    "ea483dd7a0eb5aa78b6d427226111380af96190a7c0aac2f08588fa5a92418f6",
-    "edd7a4171ba4b8977f8c3716faaad597186f2f963334d6dfc948f963d43679cd",
-    "53ecc0c763bbdf2d031e8fb2c41357d1be0d6861b5f8a15737f6f754d568fe50",
-    "9a34253c8b4220117fb266531cb5f5101f964f6f85a8ff43a6cd3a605719e4be",
-    "3c4cb7a361c1026e46532e26ed98a8a39ccc92d36ea1a1cb36acbbbee5072caa",
     "2f68af7604f330ded4eff99c10603f2c2fefa7846c60fed091604507a6f92c22",
     "8ccb22c17b8fca918f5ef3567bbc9ab6552a0d21b048912001ed5ca865290f36",
     "aa6979c4c99abd0495ce8c036d985afe734fc8f982198126c79942b33263a272",
@@ -499,10 +490,18 @@
     "2ee37fc3bd1401d1d45b7ded42092dc5168f0f004dbec6b188708be6f3c83a56",
     "71c5b9af8beb40003c808c2d18414e47e8b44051c5642cb65993a45c046498ac",
     "7dcf136c7d6ad891aa9d2172ac0f4875d0311fa6d04e7626f584f985681726f4",
-    "ce53856889741db53d04ec595956feb791afcc4f28617912953ab5428adf8fc0"
+    "ce53856889741db53d04ec595956feb791afcc4f28617912953ab5428adf8fc0",
+    "071328a5f2d72b1e33fc4e5a2a8d287c9bbecfc775cc8e96ebc95bed878fa8fd",
+    "f43b465614976739d69436ba89f8595d38db85ff270d5d67dfe7e546fa335f3c",
+    "6baac4d51e1c75c8e23ed6284ad193c6d5e62fb444b3dff4276dcc010f7f3c88",
+    "395f6c1f610329d880724377e0815840e645245ec531254f420d1fd821105433",
+    "39072e6b0f2f755f92d2dddfd7fdec1038b01ae0b14dbe1a34b4da318c3b77cd",
+    "bcd0c887a5374cff8a2c4d620f7c8ced36bb7ef07aeeab6e0d9419e484181466",
+    "bbcc0440ee658cc7ec368cd4f3dac84a0a1757cf2c39271fa57eb7391905a89c",
+    "cbdf87a2a797d9b3830d0ac4f6c341ae3eb7635a7fd1dd4740aa9bc9cb2b9268",
+    "35081b1b49a5a29f25ae5b2a0baae0e371b20869192c50079023775f28a33b81"
   ],
   "seen_summaries": [
-    "14 ago 2026: Refinerías asiáticas (al menos 4) compran crudo de EE.UU. como alternativa al crudo de Oriente Medio bloqueado en Ormuz, confirmando disrupción de oferta y presión alcista en precios.",
     "14 ago 2026: Ataques iraníes en Ormuz y estancamiento de negociaciones empujan al Brent hacia $100 (ganancia semanal del 5%), pese a aumento de 17M bpd de inventarios en EE.UU. Confirma riesgo de oferta y presión alcista.",
     "14 ago 2026: Trump anuncia que declarará el Estrecho de Ormuz 'territorio' de EE.UU., elevando riesgo de escalada militar y presión alcista sobre precios del petróleo.",
     "14 ago 2026: Ataque hutí en Al-Makha mata a cuatro, aumentando hostilidades en Yemen y elevando riesgo de suministro en Bab el-Mandeb.",
@@ -701,7 +700,8 @@
     "23 sep 2026: EE.UU. e Irán celebran reunión mediada en UNGA sobre fin de guerra y apertura de Ormuz; Teherán condiciona a levantar bloqueo naval y descongelar activos; crudo cae por esperanza diplomática, presión bajista.",
     "23 sep 2026: Brent perfora $100 a $98.30 y WTI cae bajo $90 ($89.49), sexta jornada bajista consecutiva (mayor racha desde ago-2025), por esperanza de acuerdo EE.UU.-Irán pese a tráfico en Ormuz aún 80% bajo promedio; Irán condiciona reapertura del estrecho.",
     "23 sep 2026: Iran amenaza a paises que apliquen las sanciones aereas de EE.UU. con interrumpir sus aeropuertos, escalada tras el cierre del espacio aereo a sus aerolineas; presion alcista sobre el crudo.",
-    "24 sep 2026: Reporte de Kepler indica que Asia importará el mayor volumen de crudo desde el inicio de la guerra EE.UU.-Irán; Brent sobre $102 y WTI cerca de $91, presión bajista por recuperación de flujos."
+    "24 sep 2026: Reporte de Kepler indica que Asia importará el mayor volumen de crudo desde el inicio de la guerra EE.UU.-Irán; Brent sobre $102 y WTI cerca de $91, presión bajista por recuperación de flujos.",
+    "24 sep 2026: Rusia inicia exportaciones comerciales de crudo desde Vostok Oil en el Artico (~150.000 bpd), nueva oferta global con presion bajista sobre el crudo."
   ],
   "last_direction": "baja"
 }
