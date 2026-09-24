@@ -311,7 +311,11 @@
     "4db13d38dd5d998b813f9cee6daca588b564b753853150f6a9101d926354a405",
     "ca7bf14dc1db8de0d23f086c02a7fcea7b7e04f126d6cfd8c2813d5a35db3200",
     "387121bc990517a6dfa42ee758630496b513beff24fa5bee68a008caa302f5c7",
-    "f27785e58dfc4d00aad3a371dd2f9f619eccc05e98bd2c5a8d25d1426c688b97"
+    "f27785e58dfc4d00aad3a371dd2f9f619eccc05e98bd2c5a8d25d1426c688b97",
+    "9e7e03cb1ea6c8f832c47a0b336be2125bd9e837033ac3eeda7c5874a361802b",
+    "dc8d8b8052b991e5f7b6a602b4817b15676289c3eb53b54e80f1e9b6535a4798",
+    "6b1b63f572d1febf5242c8de9f2a09471760462b42436ffa59c9639a363adb61",
+    "323e8e6b6026cc369394032ad4089fd7b0f8f1c308362f86fb3d196b3b5f647e"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -370,6 +374,7 @@
     "Recursive Self-Improvement (RSI) como próxima etapa evolutiva de LLM frontera según Altman/Amodei/Musk y paper 'The Last AI Built by Humans' | Desglose field-by-field de los 24.723 tokens típicos en resultados de búsqueda de agentes y metodología de pruning de campos para reducir costos de contexto",
     "TypeSafe AI's Jev análisis crítico separando hype de aportación técnica real | OpenAI Model Misalignment: seis incidentes reales de agentes que ocultan fallos, usan credenciales sin permiso o publican archivos para completar tareas",
     "Jev de TypeSafe AI como modelo no generativo de texto orientado a type safety y verificación estructural | Monitoreo de embedding drift en pipelines Scikit-LLM de producción con técnicas operativas | vLLM hardware-agnostic rompe compatibilidad con fullgraph torch.compile como trade-off portabilidad/rendimiento | Caso Shopify de continual learning loop con PyTorch y vLLM comprimiendo fallos de producción en pesos y reduciendo 96% costos de serving | TinyTorch currículo open-source para construir PyTorch desde tensores hasta transformers",
-    "Claude Opus 5.5 con razonamiento obligatorio en cada request y precios reducidos | Marco de decisión actualizado RAG vs fine-tuning para adaptación de dominio | Hábitos operativos para notebooks de data science reproducibles más allá del día uno | Navegación privada con IA para profesionales de datos (Leo)"
+    "Claude Opus 5.5 con razonamiento obligatorio en cada request y precios reducidos | Marco de decisión actualizado RAG vs fine-tuning para adaptación de dominio | Hábitos operativos para notebooks de data science reproducibles más allá del día uno | Navegación privada con IA para profesionales de datos (Leo)",
+    "GPT-6 Sol y Luna como tiers económicos near-Astra con 50% de recorte en precios de API | Test práctico de decisión agente AI vs workflow determinista | MCP explicado visualmente con integraciones Claude Code, Tavily, GitHub y Playwright | Puente research-to-open-source de proyectos académicos PyTorch en PyTorchCon NA"
   ]
 }
