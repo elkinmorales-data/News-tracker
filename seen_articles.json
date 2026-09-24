@@ -1,14 +1,5 @@
 {
   "seen_hashes": [
-    "2f68af7604f330ded4eff99c10603f2c2fefa7846c60fed091604507a6f92c22",
-    "8ccb22c17b8fca918f5ef3567bbc9ab6552a0d21b048912001ed5ca865290f36",
-    "aa6979c4c99abd0495ce8c036d985afe734fc8f982198126c79942b33263a272",
-    "691af35bd19e9d49384b5007387eee5c02cd4ba1e56e34e8b19d919a27c34e1c",
-    "f9d59d78b0121d95172652d2921c0466f7ab6b7a2407eb8f57f25d735a702283",
-    "ac7ffa36fb32097b10b622c96cecb3a9cc4b8bbd8805c06d35bfc337450d07ec",
-    "6e1d893c6ce238b5f86e481531544e00fd4eb7ac27c3c6c522e1e5bbe72578a4",
-    "ad97f926938ba8df171a7bccb40204130d8d5970be679905c5f74d9e38f6a822",
-    "db39b72e36e3d1ff7626161f0e5ce021e774a8f7cb7e0f1519f5bdcc8ba978fe",
     "226126b88aa03d8f747d65a989612ecca94510f467d9df20e402894b85c770d0",
     "ad4c1025d68ad353045ddbe6646c1d62530bb3bc7bab3f53fdba09eb266a61a8",
     "7960f992240614d22d62b64b73216f8ba25d6411ad56bb6c2f27fc8c7097e747",
@@ -499,10 +490,18 @@
     "bcd0c887a5374cff8a2c4d620f7c8ced36bb7ef07aeeab6e0d9419e484181466",
     "bbcc0440ee658cc7ec368cd4f3dac84a0a1757cf2c39271fa57eb7391905a89c",
     "cbdf87a2a797d9b3830d0ac4f6c341ae3eb7635a7fd1dd4740aa9bc9cb2b9268",
-    "35081b1b49a5a29f25ae5b2a0baae0e371b20869192c50079023775f28a33b81"
+    "35081b1b49a5a29f25ae5b2a0baae0e371b20869192c50079023775f28a33b81",
+    "351f731c91675ce626f1639059ae6f07efe58b30939fc42230504ad748834a42",
+    "e3e2533b150a2b97cfddfd967cf4c9ee7d402f4d3470e575a71fa0ea99ea18b6",
+    "30ba867fff03babd50694f86225bbb2352714e4e54459efec2d4309a87f1c993",
+    "e6bbce1905082e025d4b29893d75bfd29e26e4091010ccf6a5026612c9d73a9b",
+    "94b56862a8a55608d1eb3020377e1e4510c3c524bcb4ed557b61d78df10025cb",
+    "3cf4c03ae0baa93f8bc4dc9e783c8cc33e5c1c6b2e4b1eb9c384edf00af06dfc",
+    "f8a3ec8a94d4c1758230942dae16ac05a368be72b22291395ea72227d0d147bd",
+    "39f4d304d0502e9654ec08b30c169c8dca21d924f4ed259652eaa045b555bceb",
+    "f3fd4bfd7bcc3e114fe49aff75827bc4c5a52cb40908194029862a0bb015ec3e"
   ],
   "seen_summaries": [
-    "14 ago 2026: Ataques iraníes en Ormuz y estancamiento de negociaciones empujan al Brent hacia $100 (ganancia semanal del 5%), pese a aumento de 17M bpd de inventarios en EE.UU. Confirma riesgo de oferta y presión alcista.",
     "14 ago 2026: Trump anuncia que declarará el Estrecho de Ormuz 'territorio' de EE.UU., elevando riesgo de escalada militar y presión alcista sobre precios del petróleo.",
     "14 ago 2026: Ataque hutí en Al-Makha mata a cuatro, aumentando hostilidades en Yemen y elevando riesgo de suministro en Bab el-Mandeb.",
     "15 ago 2026: Piratería somalí resurge con secuestro de 3 petroleros (MT Honour 25, MT Eureka, MT Asana) en Golfo de Adén y Puntland (abr-jul 2026), aprovechando el bloqueo de Ormuz y desvío de buques por África; eleva riesgo de suministro y presión alcista.",
@@ -701,7 +700,8 @@
     "23 sep 2026: Brent perfora $100 a $98.30 y WTI cae bajo $90 ($89.49), sexta jornada bajista consecutiva (mayor racha desde ago-2025), por esperanza de acuerdo EE.UU.-Irán pese a tráfico en Ormuz aún 80% bajo promedio; Irán condiciona reapertura del estrecho.",
     "23 sep 2026: Iran amenaza a paises que apliquen las sanciones aereas de EE.UU. con interrumpir sus aeropuertos, escalada tras el cierre del espacio aereo a sus aerolineas; presion alcista sobre el crudo.",
     "24 sep 2026: Reporte de Kepler indica que Asia importará el mayor volumen de crudo desde el inicio de la guerra EE.UU.-Irán; Brent sobre $102 y WTI cerca de $91, presión bajista por recuperación de flujos.",
-    "24 sep 2026: Rusia inicia exportaciones comerciales de crudo desde Vostok Oil en el Artico (~150.000 bpd), nueva oferta global con presion bajista sobre el crudo."
+    "24 sep 2026: Rusia inicia exportaciones comerciales de crudo desde Vostok Oil en el Artico (~150.000 bpd), nueva oferta global con presion bajista sobre el crudo.",
+    "24 sep 2026: Senado de EE.UU. rechaza por estrecho margen resolución para terminar la guerra con Irán, consolidando continuidad del conflicto y presión alcista sobre el crudo."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
