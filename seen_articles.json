@@ -1,15 +1,5 @@
 {
   "seen_hashes": [
-    "226126b88aa03d8f747d65a989612ecca94510f467d9df20e402894b85c770d0",
-    "ad4c1025d68ad353045ddbe6646c1d62530bb3bc7bab3f53fdba09eb266a61a8",
-    "7960f992240614d22d62b64b73216f8ba25d6411ad56bb6c2f27fc8c7097e747",
-    "3f571c4c8e0edff508c967d14f69c4cf654ec1c749e64cf1f50f41b67e64a5e3",
-    "d3d81272095743c7afe804df920e699d6fd558a84bd1696a205e97251cd77dd7",
-    "67327dd9cd8d652f2c34f9f0d9ab02f9f3a4f94f7370e3b1c83c9856c0f556c1",
-    "247d41b5ddc302e61355ab930eabcfe796f3a18c54d171fbba533653365bb884",
-    "d559f9bb2acec6c5e61ee99c291240ded201df1c2b0bb72cc7d2de40e0f37156",
-    "fee0332927fc415dee10e6bbb3f460debe00aa3f49576939e7112f8a8fa0647d",
-    "74ba33d13a860ef7551edafec1b3b5580bc5baca3dde0ffa206b3292476a85f5",
     "3fe98a19166d4ebeba9ee4e6d6e686a99b4f57728e78e9549a4e7278225120fb",
     "47777437fe1b50971ac329265f7fab182f88f6e3278b731a6397c38a0a3bbb8e",
     "86bc58e6514b17afac0a5ea49190b9ba8d75df524c43ecfd1f524ff9910459f9",
@@ -499,10 +489,19 @@
     "3cf4c03ae0baa93f8bc4dc9e783c8cc33e5c1c6b2e4b1eb9c384edf00af06dfc",
     "f8a3ec8a94d4c1758230942dae16ac05a368be72b22291395ea72227d0d147bd",
     "39f4d304d0502e9654ec08b30c169c8dca21d924f4ed259652eaa045b555bceb",
-    "f3fd4bfd7bcc3e114fe49aff75827bc4c5a52cb40908194029862a0bb015ec3e"
+    "f3fd4bfd7bcc3e114fe49aff75827bc4c5a52cb40908194029862a0bb015ec3e",
+    "3f61b7e22d377849d0cb5ee3f4a91a21403a6be41ad17b3f7ab161d34dcbc4bc",
+    "86faa7396ef829efa83691e4241bf94da8adc475b36c01d20cb5ea4d689aed88",
+    "6779cb07f182f675afd7366e9deb4de55710672c2d6f9552a48a64f02ad113a7",
+    "3bd68872c3c3abbb7d7d83d8b25604e594ef0a5f1074891998ca9caf915e3f8b",
+    "9b6244fb053fde4a568757d3693c9f78d2d5f8f46e3e7275d9f55e3dcb777038",
+    "d5fc375c5e0d4d51394183e04c4588a55567aa4d3c8862082bde0a59d6a86642",
+    "afa4bee139c91cfdf785049d7a7247a81c11052e6c73072b7ac85d54f4d13b9e",
+    "ae1fc9455a7b7cdf5772ee12191dd2e5996165d7a48313d6a7bd65c803fb0bc9",
+    "89282fd9dfba1d99d508b7ef608d915287e8b1b5b411c2f69abe13a1ff5e7fd8",
+    "aa6979c4c99abd0495ce8c036d985afe734fc8f982198126c79942b33263a272"
   ],
   "seen_summaries": [
-    "14 ago 2026: Trump anuncia que declarará el Estrecho de Ormuz 'territorio' de EE.UU., elevando riesgo de escalada militar y presión alcista sobre precios del petróleo.",
     "14 ago 2026: Ataque hutí en Al-Makha mata a cuatro, aumentando hostilidades en Yemen y elevando riesgo de suministro en Bab el-Mandeb.",
     "15 ago 2026: Piratería somalí resurge con secuestro de 3 petroleros (MT Honour 25, MT Eureka, MT Asana) en Golfo de Adén y Puntland (abr-jul 2026), aprovechando el bloqueo de Ormuz y desvío de buques por África; eleva riesgo de suministro y presión alcista.",
     "15 ago 2026: Dos petroleros atacados en Ormuz y ataque israelí en Líbano (7 muertos) intensifican riesgo regional y presionan precios al alza.",
@@ -701,7 +700,8 @@
     "23 sep 2026: Iran amenaza a paises que apliquen las sanciones aereas de EE.UU. con interrumpir sus aeropuertos, escalada tras el cierre del espacio aereo a sus aerolineas; presion alcista sobre el crudo.",
     "24 sep 2026: Reporte de Kepler indica que Asia importará el mayor volumen de crudo desde el inicio de la guerra EE.UU.-Irán; Brent sobre $102 y WTI cerca de $91, presión bajista por recuperación de flujos.",
     "24 sep 2026: Rusia inicia exportaciones comerciales de crudo desde Vostok Oil en el Artico (~150.000 bpd), nueva oferta global con presion bajista sobre el crudo.",
-    "24 sep 2026: Senado de EE.UU. rechaza por estrecho margen resolución para terminar la guerra con Irán, consolidando continuidad del conflicto y presión alcista sobre el crudo."
+    "24 sep 2026: Senado de EE.UU. rechaza por estrecho margen resolución para terminar la guerra con Irán, consolidando continuidad del conflicto y presión alcista sobre el crudo.",
+    "25 sep 2026: Hutíes atacan con misiles y drones instalaciones Aramco en Arabia Saudita; Brent supera $106 y cierra semana al alza, agravando riesgo de oferta pese a señales diplomáticas EE.UU.-Irán."
   ],
   "last_direction": "alza"
 }
