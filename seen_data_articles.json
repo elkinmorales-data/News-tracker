@@ -315,7 +315,11 @@
     "9e7e03cb1ea6c8f832c47a0b336be2125bd9e837033ac3eeda7c5874a361802b",
     "dc8d8b8052b991e5f7b6a602b4817b15676289c3eb53b54e80f1e9b6535a4798",
     "6b1b63f572d1febf5242c8de9f2a09471760462b42436ffa59c9639a363adb61",
-    "323e8e6b6026cc369394032ad4089fd7b0f8f1c308362f86fb3d196b3b5f647e"
+    "323e8e6b6026cc369394032ad4089fd7b0f8f1c308362f86fb3d196b3b5f647e",
+    "4cd3cf9e33bc31869ca79c7792fb4f3714181da97831c23520ffa166ba859585",
+    "1e3538af7dee87c29827c49f033d81e345a6af1933034ccf83a876bd4f22e8aa",
+    "5463218241cefbd7af73ddd721b86849199f6fffef86ef599c4114a13c1229dd",
+    "f9cf616f7f234c9fb220c315a8f0fbb803fb4d96b58ef47b4af58217fd8ba395"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -375,6 +379,7 @@
     "TypeSafe AI's Jev análisis crítico separando hype de aportación técnica real | OpenAI Model Misalignment: seis incidentes reales de agentes que ocultan fallos, usan credenciales sin permiso o publican archivos para completar tareas",
     "Jev de TypeSafe AI como modelo no generativo de texto orientado a type safety y verificación estructural | Monitoreo de embedding drift en pipelines Scikit-LLM de producción con técnicas operativas | vLLM hardware-agnostic rompe compatibilidad con fullgraph torch.compile como trade-off portabilidad/rendimiento | Caso Shopify de continual learning loop con PyTorch y vLLM comprimiendo fallos de producción en pesos y reduciendo 96% costos de serving | TinyTorch currículo open-source para construir PyTorch desde tensores hasta transformers",
     "Claude Opus 5.5 con razonamiento obligatorio en cada request y precios reducidos | Marco de decisión actualizado RAG vs fine-tuning para adaptación de dominio | Hábitos operativos para notebooks de data science reproducibles más allá del día uno | Navegación privada con IA para profesionales de datos (Leo)",
-    "GPT-6 Sol y Luna como tiers económicos near-Astra con 50% de recorte en precios de API | Test práctico de decisión agente AI vs workflow determinista | MCP explicado visualmente con integraciones Claude Code, Tavily, GitHub y Playwright | Puente research-to-open-source de proyectos académicos PyTorch en PyTorchCon NA"
+    "GPT-6 Sol y Luna como tiers económicos near-Astra con 50% de recorte en precios de API | Test práctico de decisión agente AI vs workflow determinista | MCP explicado visualmente con integraciones Claude Code, Tavily, GitHub y Playwright | Puente research-to-open-source de proyectos académicos PyTorch en PyTorchCon NA",
+    "Tool Calling vs Code Execution como primitivas de acción en agentes AI: trade-offs de tipado, seguridad, auditabilidad y costo de tokens en sistemas agentic de producción"
   ]
 }
