@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "cf16d4a022d85f95bfe17c52f49859d4aac98102389e20ff7ab320afa4695c73",
-    "aded0424b0f9b54b4905339da2d6069e3aaf7eb4ffe4d81efba8f810ff356636",
-    "efd2f07519ea39a4c02e33e42a7b5c3c22dba0aa203c6e86fc4b94bc9a451b04",
-    "1f515f6863a88d3fd1a4fe8c8bbcb2d113fed4f76e39f45c8f45f73f035d0b1d",
-    "2826a636a901b417c3b3c7d7695dc92a1519daa95a6e6f1f47760ba4a60d13ac",
-    "d60d9d74f86caa4e75c9191a132b79d9b503329ab6af767ef3a7db86b281fab1",
-    "d447d4be9c01095a298efaeaba6efd98542d432c83dd1eaf7aa5ee970f36ba80",
     "ea4d07a47d839898c2bfdaf3e386444435e029aa1c3b70eed695909b30e8ab51",
     "93abc300132de039e7330358596b7cb6e2b9fb48668a237e12c0ced299b01fd4",
     "ed6ae9fb62e40c36d0b366fb87cacba608661d13a106416068c8de0d89b7955e",
@@ -499,10 +492,16 @@
     "5dbad5e343d57ec82c04d55405c7d38a5ed9f458d94a81cdba800a7cb0aac7d0",
     "98f18e02aafd2b2f8ef802c1b317aeca5697297f65867cae6471e710a37199af",
     "fb8bea1c4ed98dae8ddde2041ede5031affe9904e7cf3a3d417c4350636aad77",
-    "7ac1b89e1492a44568edc29fa7dddc3efcb837ec34c8416267c2c247eb7d937e"
+    "7ac1b89e1492a44568edc29fa7dddc3efcb837ec34c8416267c2c247eb7d937e",
+    "fa650e26379cd887fdf737b0cb9b7c259faaf332c24c37d59fdfe77d5977bb01",
+    "b2f3b877b2c1ace10b3964b77d8b96fb5d75040217eb632db36a4bc1d57e6bf2",
+    "181fc5257f6df8c933fa630840229ffe6f30f2f66bb8202e6336c2ed4490e32a",
+    "18c793e461d4206448431e8dd9529a0340a724554c62387104c3cd635aa30111",
+    "cca6a6f6ad9583be1f930ec25cb48eab34dcce5a84a56fc1826b9e64096a5961",
+    "44098f49917f39f1544298849cb682ce073e1ace7964a9b64cbed188a26f9a8f",
+    "ef7c226080d20b5530e5172b5975f225780808278cc8a3eaaec2502f5c07c184"
   ],
   "seen_summaries": [
-    "15 ago 2026: Piratería somalí resurge con secuestro de 3 petroleros (MT Honour 25, MT Eureka, MT Asana) en Golfo de Adén y Puntland (abr-jul 2026), aprovechando el bloqueo de Ormuz y desvío de buques por África; eleva riesgo de suministro y presión alcista.",
     "15 ago 2026: Dos petroleros atacados en Ormuz y ataque israelí en Líbano (7 muertos) intensifican riesgo regional y presionan precios al alza.",
     "15 ago 2026: Irán rechaza declaración de Trump sobre Ormuz ('seguirá siendo iraní') y se reporta nuevo ataque a buque en la zona, elevando riesgo de escalada y presión alcista.",
     "15 ago 2026: EE.UU. retira el USS Gerald R. Ford de Asia, su último portaaviones en la región, para concentrar fuerzas en Irán y el hemisferio occidental, elevando riesgo de escalada en el Golfo Pérsico.",
@@ -701,7 +700,8 @@
     "24 sep 2026: Rusia inicia exportaciones comerciales de crudo desde Vostok Oil en el Artico (~150.000 bpd), nueva oferta global con presion bajista sobre el crudo.",
     "24 sep 2026: Senado de EE.UU. rechaza por estrecho margen resolución para terminar la guerra con Irán, consolidando continuidad del conflicto y presión alcista sobre el crudo.",
     "25 sep 2026: Hutíes atacan con misiles y drones instalaciones Aramco en Arabia Saudita; Brent supera $106 y cierra semana al alza, agravando riesgo de oferta pese a señales diplomáticas EE.UU.-Irán.",
-    "25 sep 2026: Aramco reinicia el oleoducto Este-Oeste (Petroline) a ~4 mbd y reanuda cargas parciales en Yanbu, primer alivio concreto de oferta saudí con presión bajista sobre el crudo."
+    "25 sep 2026: Aramco reinicia el oleoducto Este-Oeste (Petroline) a ~4 mbd y reanuda cargas parciales en Yanbu, primer alivio concreto de oferta saudí con presión bajista sobre el crudo.",
+    "25 sep 2026: Irán entrega a EE.UU. plan de 7 días para reabrir el Estrecho de Ormuz, primera propuesta concreta con cronograma para destrabar el estrecho; presión bajista sobre el crudo."
   ],
   "last_direction": "baja"
 }
