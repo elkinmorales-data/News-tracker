@@ -1,16 +1,5 @@
 {
   "seen_hashes": [
-    "3fe98a19166d4ebeba9ee4e6d6e686a99b4f57728e78e9549a4e7278225120fb",
-    "47777437fe1b50971ac329265f7fab182f88f6e3278b731a6397c38a0a3bbb8e",
-    "86bc58e6514b17afac0a5ea49190b9ba8d75df524c43ecfd1f524ff9910459f9",
-    "780f50f772b85d00aa58cf084d3b0c00b0eaadd4ec5d04e9cf32aa2dcc33ff2f",
-    "fc83ddae3bf404580e470422f0ffa6e8a63efca236f7bf91d0cc836a1025098a",
-    "8101da91933d6f12889c51b0de3b61575045c2e5f67d799cf6e0103b8cd17d08",
-    "10e754d5270775669f386a0778b668abd0e09c7109424887a9679a6ab9ee1632",
-    "0b64039ecc2ac68aab13e734dc8d14f685100741e23fdbcbf10aad7daf989dff",
-    "9ce4b53ac43932c0bada1763808069753edb34e4c7fb9d9be95a528961119bed",
-    "53d55e8323365098894443c8f299deff41dfc7db8f91191ab5ada07c68f3af70",
-    "a34ceb882d14da419743e5ea72e6cab13d9a7fa267c49ac16e07c7913ab7ac6b",
     "cf16d4a022d85f95bfe17c52f49859d4aac98102389e20ff7ab320afa4695c73",
     "aded0424b0f9b54b4905339da2d6069e3aaf7eb4ffe4d81efba8f810ff356636",
     "efd2f07519ea39a4c02e33e42a7b5c3c22dba0aa203c6e86fc4b94bc9a451b04",
@@ -499,10 +488,20 @@
     "afa4bee139c91cfdf785049d7a7247a81c11052e6c73072b7ac85d54f4d13b9e",
     "ae1fc9455a7b7cdf5772ee12191dd2e5996165d7a48313d6a7bd65c803fb0bc9",
     "89282fd9dfba1d99d508b7ef608d915287e8b1b5b411c2f69abe13a1ff5e7fd8",
-    "aa6979c4c99abd0495ce8c036d985afe734fc8f982198126c79942b33263a272"
+    "aa6979c4c99abd0495ce8c036d985afe734fc8f982198126c79942b33263a272",
+    "40596f6d4ad26d04296ab42078633e2f83e1c1149361f52c073632f3c62c61e3",
+    "f6b55cbd1fc9f5752c313a9b8df1602ab063bcb5705aaff091813ae8eb4209d7",
+    "3f1f9255e74ca45addd6015fab0821738acf967164a7b4a349c339b73ba20af5",
+    "9b7dbca7c9bd6423ce820fca533ed55d4218d8de6a5afa3d7e3303dcd6cb55ed",
+    "82a83542f06153a9cc7ab245abf7203e97ae65368ab0248b3037ebff76819c89",
+    "41731005c693f4c58a8056e4e6651900c136e3c2150a20a5b32efd5eeec34860",
+    "7aaed45852172f5bd2a6370990af1f37d1293a0489363306645bb3b7638ceea0",
+    "5dbad5e343d57ec82c04d55405c7d38a5ed9f458d94a81cdba800a7cb0aac7d0",
+    "98f18e02aafd2b2f8ef802c1b317aeca5697297f65867cae6471e710a37199af",
+    "fb8bea1c4ed98dae8ddde2041ede5031affe9904e7cf3a3d417c4350636aad77",
+    "7ac1b89e1492a44568edc29fa7dddc3efcb837ec34c8416267c2c247eb7d937e"
   ],
   "seen_summaries": [
-    "14 ago 2026: Ataque hutí en Al-Makha mata a cuatro, aumentando hostilidades en Yemen y elevando riesgo de suministro en Bab el-Mandeb.",
     "15 ago 2026: Piratería somalí resurge con secuestro de 3 petroleros (MT Honour 25, MT Eureka, MT Asana) en Golfo de Adén y Puntland (abr-jul 2026), aprovechando el bloqueo de Ormuz y desvío de buques por África; eleva riesgo de suministro y presión alcista.",
     "15 ago 2026: Dos petroleros atacados en Ormuz y ataque israelí en Líbano (7 muertos) intensifican riesgo regional y presionan precios al alza.",
     "15 ago 2026: Irán rechaza declaración de Trump sobre Ormuz ('seguirá siendo iraní') y se reporta nuevo ataque a buque en la zona, elevando riesgo de escalada y presión alcista.",
@@ -701,7 +700,8 @@
     "24 sep 2026: Reporte de Kepler indica que Asia importará el mayor volumen de crudo desde el inicio de la guerra EE.UU.-Irán; Brent sobre $102 y WTI cerca de $91, presión bajista por recuperación de flujos.",
     "24 sep 2026: Rusia inicia exportaciones comerciales de crudo desde Vostok Oil en el Artico (~150.000 bpd), nueva oferta global con presion bajista sobre el crudo.",
     "24 sep 2026: Senado de EE.UU. rechaza por estrecho margen resolución para terminar la guerra con Irán, consolidando continuidad del conflicto y presión alcista sobre el crudo.",
-    "25 sep 2026: Hutíes atacan con misiles y drones instalaciones Aramco en Arabia Saudita; Brent supera $106 y cierra semana al alza, agravando riesgo de oferta pese a señales diplomáticas EE.UU.-Irán."
+    "25 sep 2026: Hutíes atacan con misiles y drones instalaciones Aramco en Arabia Saudita; Brent supera $106 y cierra semana al alza, agravando riesgo de oferta pese a señales diplomáticas EE.UU.-Irán.",
+    "25 sep 2026: Aramco reinicia el oleoducto Este-Oeste (Petroline) a ~4 mbd y reanuda cargas parciales en Yanbu, primer alivio concreto de oferta saudí con presión bajista sobre el crudo."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
