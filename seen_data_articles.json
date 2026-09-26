@@ -319,7 +319,8 @@
     "4cd3cf9e33bc31869ca79c7792fb4f3714181da97831c23520ffa166ba859585",
     "1e3538af7dee87c29827c49f033d81e345a6af1933034ccf83a876bd4f22e8aa",
     "5463218241cefbd7af73ddd721b86849199f6fffef86ef599c4114a13c1229dd",
-    "f9cf616f7f234c9fb220c315a8f0fbb803fb4d96b58ef47b4af58217fd8ba395"
+    "f9cf616f7f234c9fb220c315a8f0fbb803fb4d96b58ef47b4af58217fd8ba395",
+    "82193af20125ff6aa9664d2e7caf61eed8e3d27005603f25e41c7b8e3d6bf075"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -380,6 +381,7 @@
     "Jev de TypeSafe AI como modelo no generativo de texto orientado a type safety y verificación estructural | Monitoreo de embedding drift en pipelines Scikit-LLM de producción con técnicas operativas | vLLM hardware-agnostic rompe compatibilidad con fullgraph torch.compile como trade-off portabilidad/rendimiento | Caso Shopify de continual learning loop con PyTorch y vLLM comprimiendo fallos de producción en pesos y reduciendo 96% costos de serving | TinyTorch currículo open-source para construir PyTorch desde tensores hasta transformers",
     "Claude Opus 5.5 con razonamiento obligatorio en cada request y precios reducidos | Marco de decisión actualizado RAG vs fine-tuning para adaptación de dominio | Hábitos operativos para notebooks de data science reproducibles más allá del día uno | Navegación privada con IA para profesionales de datos (Leo)",
     "GPT-6 Sol y Luna como tiers económicos near-Astra con 50% de recorte en precios de API | Test práctico de decisión agente AI vs workflow determinista | MCP explicado visualmente con integraciones Claude Code, Tavily, GitHub y Playwright | Puente research-to-open-source de proyectos académicos PyTorch en PyTorchCon NA",
-    "Tool Calling vs Code Execution como primitivas de acción en agentes AI: trade-offs de tipado, seguridad, auditabilidad y costo de tokens en sistemas agentic de producción"
+    "Tool Calling vs Code Execution como primitivas de acción en agentes AI: trade-offs de tipado, seguridad, auditabilidad y costo de tokens en sistemas agentic de producción",
+    "Agentic Context Engineering (ACE) como paradigma de auto-mejora de agentes editando el contexto/playbook incrementalmente sin actualizar pesos, con análisis de fallos de reescritura completa y ganancias medidas"
   ]
 }
