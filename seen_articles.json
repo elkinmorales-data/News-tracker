@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "6d9ff77690a614abcde670ddd5f501f956a1f959f4ef5d20b6305b0599a84150",
-    "ba92221a8006a0527d7dfcc35afcd22fea4bde593db9692cebc5b023e7d39d50",
-    "2763cb0d6ad84d9f8981ba482ca7bbcfdf6ccfae091828ba0b64427a44174995",
-    "1baa8f48c6c8c147b5668e6f4b2c8dc4554409007aa50ee274c84497bdae3be6",
-    "08764e6b228352bac177bfb5efb861c16582fe978a08990533f3bf0814970ecb",
-    "8730e4f247a24ad822a49addf1c641d00a8159372dba6999d41ede72f510f2b4",
-    "c40c4b7fa162b371254cf7656a375fd690fb5ae4d0c16df44422e7700a5915bd",
     "1a00c8d573c9db1961263b35536351ce0a6090dd6135abf779388590ff03e289",
     "9291424e5071b14da054ae6cddf852af0f7778f58578ecad7acd8958679d3f61",
     "0b1bfdfb8d996b3a7d96db6a6a2886db9250fcbe5c0d7c41f0abaff2876751fe",
@@ -499,10 +492,16 @@
     "b17e1bba8cd2eb9674a534fbaff731d14f43af2be7516581bdf9776aac691b5e",
     "78ff2015c66251512409fbf5aaabfc784ae6015d109de0fd9ab3e0a42d27c6ba",
     "79052dc59ae2cc922a4983949dcc55b45665d1c976f462bf0ffd4a21f053c199",
-    "72ac54025054a0244ac687c6433dcf7e6cb2ac69216bb80e00803ab3ed1f43aa"
+    "72ac54025054a0244ac687c6433dcf7e6cb2ac69216bb80e00803ab3ed1f43aa",
+    "573ca175e293e91267b49b2fd113bd480d34fe744f2d89f98f315756861419a9",
+    "a01c32229bac798a413f943dbf8ade28d9f4d68b506ef51ecc05ebbcd6453ea9",
+    "f8c7959f8e3484b22e1f30e76cb98045f452c306e4001267bee742797f4258bf",
+    "95775da41c9a5045c657854a06f0d827528aab88af1d6b9ce8ecff2c30778fbf",
+    "e4e61887c52a8da4ea02e33a5094f1b0af6c15215fa4b9df00928213cdd7ee44",
+    "13625434ffaf8c3162c71e05c554be2f24747a3cf37b467f2d7d665507cfea44",
+    "7b0bdb2c2d4b8b947f96b0fcba3254fc16910e20ccf73a957fdbd98c022f6c2a"
   ],
   "seen_summaries": [
-    "15 ago 2026: Dos petroleros atacados en Ormuz y ataque israelí en Líbano (7 muertos) intensifican riesgo regional y presionan precios al alza.",
     "15 ago 2026: Irán rechaza declaración de Trump sobre Ormuz ('seguirá siendo iraní') y se reporta nuevo ataque a buque en la zona, elevando riesgo de escalada y presión alcista.",
     "15 ago 2026: EE.UU. retira el USS Gerald R. Ford de Asia, su último portaaviones en la región, para concentrar fuerzas en Irán y el hemisferio occidental, elevando riesgo de escalada en el Golfo Pérsico.",
     "15 ago 2026: Rystad recorta pronóstico de producción rusa a 8.95M bpd en 2026 y 8.6M bpd en 2027 (-90k bpd vs previo) por sanciones y ataques ucranianos a refinerías/puertos, añadiendo presión alcista.",
@@ -701,7 +700,8 @@
     "24 sep 2026: Senado de EE.UU. rechaza por estrecho margen resolución para terminar la guerra con Irán, consolidando continuidad del conflicto y presión alcista sobre el crudo.",
     "25 sep 2026: Hutíes atacan con misiles y drones instalaciones Aramco en Arabia Saudita; Brent supera $106 y cierra semana al alza, agravando riesgo de oferta pese a señales diplomáticas EE.UU.-Irán.",
     "25 sep 2026: Aramco reinicia el oleoducto Este-Oeste (Petroline) a ~4 mbd y reanuda cargas parciales en Yanbu, primer alivio concreto de oferta saudí con presión bajista sobre el crudo.",
-    "25 sep 2026: Irán entrega a EE.UU. plan de 7 días para reabrir el Estrecho de Ormuz, primera propuesta concreta con cronograma para destrabar el estrecho; presión bajista sobre el crudo."
+    "25 sep 2026: Irán entrega a EE.UU. plan de 7 días para reabrir el Estrecho de Ormuz, primera propuesta concreta con cronograma para destrabar el estrecho; presión bajista sobre el crudo.",
+    "26 sep 2026: Trump rechaza el plan irani de 7 dias para reabrir Ormuz y WSJ reporta que espera reanudar bombardeos a Iran tras las midterms; la via diplomatica se rompe y vuelve presion alcista sobre el crudo."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
