@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "01780bee4cadee36bf7c61370a731e9ac9177936c8149f67d704efc7597b4e5d",
-    "7733431a20e8c3a16cbe9db3ddc53452a73fba42ab108ebaa0fac733eba70664",
-    "17ac646c6a961258ab21e82aa377d2f9aab04af756079bdb01e5cb24f52c9a9d",
-    "87e1d3f1d6bc8ff37d5915ff0fd754876e8d0052de5bbfd593cfb118b13f5b7a",
-    "305aba3e4e3882f2bf2d581f66ab4f5685edaf2b8a2fec476386783d515f459d",
-    "62dc393011e611678f5bfd8ac56e1e76a3e6ee066e6c478771784ed4dded99b7",
-    "556bad73d50f960abb1e0df4b59cf7f08d76873a5e6147cdd0fa09278d648f57",
     "9dd6e75bbac133af6131c7a38f3022dd97beaa0ecb3baf4bcaf868bab102641d",
     "b3d88d81a88ae5644f66af8998f8657c508c47b11ce8ec15f893d1220c780e11",
     "bf3f3234e39d0460ac5e289f0d3fc48d49553976044c39b69a0d5d51fd23ce1a",
@@ -499,10 +492,16 @@
     "b1f49f9f0b11c35c97dd92d2d83560247c53fa60d3f19d688b1e56320df6158b",
     "1f8add597f75d751457136f8698022e164d870271a553bc71bf85495c08f50d1",
     "928a03b92685c53eb14860436562d86651632a38318a5a8f916d5d388dbf69f5",
-    "57664d209b515d74a486c23f9379ac7e143e4b39d07bdaf459ac07df22673fc5"
+    "57664d209b515d74a486c23f9379ac7e143e4b39d07bdaf459ac07df22673fc5",
+    "c158745476dc7dfde5a68470524fa0280c35be99b6c3ac5d8951fb4d1bf8e664",
+    "8161830af07719cc595f5c20d52618494c522e880927a6e3e36005a76c1f5178",
+    "6a88af94edb351b0524a90aa1130be3824bdffc1ab448c28e67c755fbc98da7e",
+    "86108accf7590e59cdfba5e0c27b853d7ca1be861f1082da186fdb0ac838aa5e",
+    "431076ce185fe65682890aa4beefdf0c1eaa17b286b2ce331481e4003ee4c1e9",
+    "c3ea0062ed734f3a36c4e28b1af0b1658ecfe32061aea34ba2b66279d0713f61",
+    "c74d3662ca608000d8ba60abd2943aeec1c8230196466b9a425d4f9e99d1ea60"
   ],
   "seen_summaries": [
-    "15 ago 2026: Rystad recorta pronóstico de producción rusa a 8.95M bpd en 2026 y 8.6M bpd en 2027 (-90k bpd vs previo) por sanciones y ataques ucranianos a refinerías/puertos, añadiendo presión alcista.",
     "16 ago 2026: Israel mata a 11 en Líbano, ataques más mortíferos desde tregua de junio, mientras continúan negociaciones Omán-Irán sobre Ormuz; escalada regional eleva riesgo de suministro.",
     "16 ago 2026: Alto comandante de EE.UU. en Medio Oriente (Alm. Brad Cooper) visita portaaviones en la región, confirmando despliegue militar activo y elevando riesgo de escalada con Irán; presión alcista en petróleo.",
     "17 ago 2026: AP publica análisis gráfico confirmando que el ataque de EE.UU./Israel a Irán (28 feb) cerró efectivamente Ormuz, elevando precios del petróleo; reafirma riesgo de oferta y presión alcista estructural.",
@@ -701,7 +700,8 @@
     "25 sep 2026: Irán entrega a EE.UU. plan de 7 días para reabrir el Estrecho de Ormuz, primera propuesta concreta con cronograma para destrabar el estrecho; presión bajista sobre el crudo.",
     "26 sep 2026: Trump rechaza el plan irani de 7 dias para reabrir Ormuz y WSJ reporta que espera reanudar bombardeos a Iran tras las midterms; la via diplomatica se rompe y vuelve presion alcista sobre el crudo.",
     "27 sep 2026: Irán declara que ya no confía en diálogo con EE.UU. y Trump rechaza plan de Ormuz; la vía diplomática se congela y vuelve presión alcista sobre el crudo.",
-    "27 sep 2026: Canciller iraní dice que Teherán está listo para guerra 'del fin del mundo' con EE.UU. si falla la diplomacia y su Armada analiza dron submarino estadounidense capturado, agravando tensión naval tras ruptura con Trump y reforzando presión alcista sobre el crudo."
+    "27 sep 2026: Canciller iraní dice que Teherán está listo para guerra 'del fin del mundo' con EE.UU. si falla la diplomacia y su Armada analiza dron submarino estadounidense capturado, agravando tensión naval tras ruptura con Trump y reforzando presión alcista sobre el crudo.",
+    "27 sep 2026: EE.UU. ofreció vender uranio a Irán para programa civil y Teherán rechazó el arreglo, revelación concreta que introduce un canal diplomático inédito y dirección incierta sobre el crudo."
   ],
-  "last_direction": "alza"
+  "last_direction": "incierto"
 }
