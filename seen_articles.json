@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "033a8d954c64d876feaea3c1e648ea41c0be3e95a5b07eb7f280c333e65aba10",
-    "c4c464f4d54f5923b5c4506391a749c28ff24445139435eec757632fe1a4bcce",
-    "aa3eecb4e3f8be933edb5fec3d7aa3fa53e3ffd8846aa10974f262f01d1c519a",
-    "b6b05afc77c8044d98035440cafc108c619ae778e2fab688460fc6ba3e4c219f",
     "01780bee4cadee36bf7c61370a731e9ac9177936c8149f67d704efc7597b4e5d",
     "7733431a20e8c3a16cbe9db3ddc53452a73fba42ab108ebaa0fac733eba70664",
     "17ac646c6a961258ab21e82aa377d2f9aab04af756079bdb01e5cb24f52c9a9d",
@@ -499,10 +495,13 @@
     "f64639fb25bdf004f8bc67c4482f29aefb169b62c1b163f126f53bbba74ea21d",
     "21e996c7a7812f4227d9b4321d9a8c4f2169aaf54a0e1cda9b0a6b8f20314bce",
     "ca1221426321a1a5951947c9721b7b5bd242dab2fa2927414d90d89b116c7f6d",
-    "eb2638dbc5081fcbdd31149a9301c3a5500fe4ecb27009a6b68bf604174ab2b3"
+    "eb2638dbc5081fcbdd31149a9301c3a5500fe4ecb27009a6b68bf604174ab2b3",
+    "b1f49f9f0b11c35c97dd92d2d83560247c53fa60d3f19d688b1e56320df6158b",
+    "1f8add597f75d751457136f8698022e164d870271a553bc71bf85495c08f50d1",
+    "928a03b92685c53eb14860436562d86651632a38318a5a8f916d5d388dbf69f5",
+    "57664d209b515d74a486c23f9379ac7e143e4b39d07bdaf459ac07df22673fc5"
   ],
   "seen_summaries": [
-    "15 ago 2026: EE.UU. retira el USS Gerald R. Ford de Asia, su último portaaviones en la región, para concentrar fuerzas en Irán y el hemisferio occidental, elevando riesgo de escalada en el Golfo Pérsico.",
     "15 ago 2026: Rystad recorta pronóstico de producción rusa a 8.95M bpd en 2026 y 8.6M bpd en 2027 (-90k bpd vs previo) por sanciones y ataques ucranianos a refinerías/puertos, añadiendo presión alcista.",
     "16 ago 2026: Israel mata a 11 en Líbano, ataques más mortíferos desde tregua de junio, mientras continúan negociaciones Omán-Irán sobre Ormuz; escalada regional eleva riesgo de suministro.",
     "16 ago 2026: Alto comandante de EE.UU. en Medio Oriente (Alm. Brad Cooper) visita portaaviones en la región, confirmando despliegue militar activo y elevando riesgo de escalada con Irán; presión alcista en petróleo.",
@@ -701,7 +700,8 @@
     "25 sep 2026: Aramco reinicia el oleoducto Este-Oeste (Petroline) a ~4 mbd y reanuda cargas parciales en Yanbu, primer alivio concreto de oferta saudí con presión bajista sobre el crudo.",
     "25 sep 2026: Irán entrega a EE.UU. plan de 7 días para reabrir el Estrecho de Ormuz, primera propuesta concreta con cronograma para destrabar el estrecho; presión bajista sobre el crudo.",
     "26 sep 2026: Trump rechaza el plan irani de 7 dias para reabrir Ormuz y WSJ reporta que espera reanudar bombardeos a Iran tras las midterms; la via diplomatica se rompe y vuelve presion alcista sobre el crudo.",
-    "27 sep 2026: Irán declara que ya no confía en diálogo con EE.UU. y Trump rechaza plan de Ormuz; la vía diplomática se congela y vuelve presión alcista sobre el crudo."
+    "27 sep 2026: Irán declara que ya no confía en diálogo con EE.UU. y Trump rechaza plan de Ormuz; la vía diplomática se congela y vuelve presión alcista sobre el crudo.",
+    "27 sep 2026: Canciller iraní dice que Teherán está listo para guerra 'del fin del mundo' con EE.UU. si falla la diplomacia y su Armada analiza dron submarino estadounidense capturado, agravando tensión naval tras ruptura con Trump y reforzando presión alcista sobre el crudo."
   ],
   "last_direction": "alza"
 }
