@@ -320,7 +320,12 @@
     "1e3538af7dee87c29827c49f033d81e345a6af1933034ccf83a876bd4f22e8aa",
     "5463218241cefbd7af73ddd721b86849199f6fffef86ef599c4114a13c1229dd",
     "f9cf616f7f234c9fb220c315a8f0fbb803fb4d96b58ef47b4af58217fd8ba395",
-    "82193af20125ff6aa9664d2e7caf61eed8e3d27005603f25e41c7b8e3d6bf075"
+    "82193af20125ff6aa9664d2e7caf61eed8e3d27005603f25e41c7b8e3d6bf075",
+    "9dc84754ae1d5c8a4a3909066ba5e333cfa7cf67a05b276b0ca5e83c7a408631",
+    "1ff58ea95a542f0a1f254ff3d28d65e0c681b108451d3de0f522898a57739d0a",
+    "47308d0142a369dffe34794092e9b0ed22dda0841a87561e17964d3b5554e158",
+    "c28aa5b5993c0c708a3aec3cababe17f1de2a15d72d0960fca72763d87e32552",
+    "c9cc08fdc98d6e12a978700eb4fb5af007a771e91392c4ae8e6c447ea3da57b1"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -382,6 +387,7 @@
     "Claude Opus 5.5 con razonamiento obligatorio en cada request y precios reducidos | Marco de decisión actualizado RAG vs fine-tuning para adaptación de dominio | Hábitos operativos para notebooks de data science reproducibles más allá del día uno | Navegación privada con IA para profesionales de datos (Leo)",
     "GPT-6 Sol y Luna como tiers económicos near-Astra con 50% de recorte en precios de API | Test práctico de decisión agente AI vs workflow determinista | MCP explicado visualmente con integraciones Claude Code, Tavily, GitHub y Playwright | Puente research-to-open-source de proyectos académicos PyTorch en PyTorchCon NA",
     "Tool Calling vs Code Execution como primitivas de acción en agentes AI: trade-offs de tipado, seguridad, auditabilidad y costo de tokens en sistemas agentic de producción",
-    "Agentic Context Engineering (ACE) como paradigma de auto-mejora de agentes editando el contexto/playbook incrementalmente sin actualizar pesos, con análisis de fallos de reescritura completa y ganancias medidas"
+    "Agentic Context Engineering (ACE) como paradigma de auto-mejora de agentes editando el contexto/playbook incrementalmente sin actualizar pesos, con análisis de fallos de reescritura completa y ganancias medidas",
+    "Sarvam Vision 2.1 OCR que rompe trade-off parsing estructural vs scripts indios para automatización documental en mercados no-angloparlantes | Comparativa Gemini 3.5 Transcribe vs GPT-Transcribe para pipelines de transcripción en producción | 3 trucos Numba centrados en el boundary del código compilado como causa raíz de bajo rendimiento | Workflow agentic local Hermes + Ollama como stack zero-cost para privacidad"
   ]
 }
