@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "9dd6e75bbac133af6131c7a38f3022dd97beaa0ecb3baf4bcaf868bab102641d",
-    "b3d88d81a88ae5644f66af8998f8657c508c47b11ce8ec15f893d1220c780e11",
     "bf3f3234e39d0460ac5e289f0d3fc48d49553976044c39b69a0d5d51fd23ce1a",
     "64fe0ede03a1a9121678f82c0012fef52e773571abfa7a107c764f557c4937cd",
     "b80a505ba04fe5121ce4e61b7ef4ee40c94d7c0c7ea0d301b089867ec8fa0fba",
@@ -499,10 +497,11 @@
     "86108accf7590e59cdfba5e0c27b853d7ca1be861f1082da186fdb0ac838aa5e",
     "431076ce185fe65682890aa4beefdf0c1eaa17b286b2ce331481e4003ee4c1e9",
     "c3ea0062ed734f3a36c4e28b1af0b1658ecfe32061aea34ba2b66279d0713f61",
-    "c74d3662ca608000d8ba60abd2943aeec1c8230196466b9a425d4f9e99d1ea60"
+    "c74d3662ca608000d8ba60abd2943aeec1c8230196466b9a425d4f9e99d1ea60",
+    "4f92e36c7245c4e5a7d04972a9efc21f03d8d10689322c864ccc69789c9f3582",
+    "271463e1db795e2e7ae02aa69dec6660bd19fa21e2f70a127b60aa866f210944"
   ],
   "seen_summaries": [
-    "16 ago 2026: Israel mata a 11 en Líbano, ataques más mortíferos desde tregua de junio, mientras continúan negociaciones Omán-Irán sobre Ormuz; escalada regional eleva riesgo de suministro.",
     "16 ago 2026: Alto comandante de EE.UU. en Medio Oriente (Alm. Brad Cooper) visita portaaviones en la región, confirmando despliegue militar activo y elevando riesgo de escalada con Irán; presión alcista en petróleo.",
     "17 ago 2026: AP publica análisis gráfico confirmando que el ataque de EE.UU./Israel a Irán (28 feb) cerró efectivamente Ormuz, elevando precios del petróleo; reafirma riesgo de oferta y presión alcista estructural.",
     "17 ago 2026: Japón crece 1.1% anual en Q2 2026 pese a importaciones de petróleo caras por cierre de Ormuz; consumo privado plano, impacto incierto en precios de crudo.",
@@ -701,7 +700,8 @@
     "26 sep 2026: Trump rechaza el plan irani de 7 dias para reabrir Ormuz y WSJ reporta que espera reanudar bombardeos a Iran tras las midterms; la via diplomatica se rompe y vuelve presion alcista sobre el crudo.",
     "27 sep 2026: Irán declara que ya no confía en diálogo con EE.UU. y Trump rechaza plan de Ormuz; la vía diplomática se congela y vuelve presión alcista sobre el crudo.",
     "27 sep 2026: Canciller iraní dice que Teherán está listo para guerra 'del fin del mundo' con EE.UU. si falla la diplomacia y su Armada analiza dron submarino estadounidense capturado, agravando tensión naval tras ruptura con Trump y reforzando presión alcista sobre el crudo.",
-    "27 sep 2026: EE.UU. ofreció vender uranio a Irán para programa civil y Teherán rechazó el arreglo, revelación concreta que introduce un canal diplomático inédito y dirección incierta sobre el crudo."
+    "27 sep 2026: EE.UU. ofreció vender uranio a Irán para programa civil y Teherán rechazó el arreglo, revelación concreta que introduce un canal diplomático inédito y dirección incierta sobre el crudo.",
+    "28 sep 2026: Brent salta a $107,24 y WTI a $94,10 al reincorporar prima de guerra tras rechazo de Trump al plan irani de Ormuz; posible veto temporal de EE.UU. a exportaciones de diesel presiona WTI a la baja parcialmente."
   ],
-  "last_direction": "incierto"
+  "last_direction": "alza"
 }
