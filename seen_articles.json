@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "e5755c85f2c50effa3e6ef27b68fd61f61645d9716dbd7fe9538e7c1b2784dbb",
-    "39b210de4ff662cdb9ccddd344bac4fc2eeb41b697aa267223372ea5f8a4fd70",
-    "5888c5b2c8bfdaea0391fa4dc9aa81766bcaadd36bdfa8708b2f1ad272b68175",
-    "8073ca6ee95a683fa4d1f496fde812463b6ea4f52c25392cd075dafed48c882a",
-    "773811b00ed4f5986cae325e8f58bb7ace0c101f2e389286f03a8b155300b52c",
     "78ef9facfcd11fcccfdb9aef5b0279095c6b3c13ed309a172ac08cdb1a877556",
     "89d3c1c376e5ca81c2d3bbd0131ef3ee8c5129d86053a8c4ac11e5ad844843e2",
     "4de39d88dc34907ea8a72c87226ec69e574b9e1878a17d9f37335aa41f09e5a3",
@@ -499,10 +494,14 @@
     "97a31fb5c963a3c9bb5e992096f1f6c791d3cf63c53e5eed67163a5518cd36eb",
     "39230a31311ec4fcd38f61c251a76d9bb316260f97b181281a7f89e0060f5903",
     "33f6fcd27e569a3e96d2f62854f543587c2ed97aa49771c23ed11390e01758a9",
-    "1a0e4e82ece4b1d7231960ab46462f0cd8ef57e5a9ef58e26438ee9653404ac1"
+    "1a0e4e82ece4b1d7231960ab46462f0cd8ef57e5a9ef58e26438ee9653404ac1",
+    "7b7429032be7c6fcf1a606e9238952e6c61295b53326eb15da66f30fb906a797",
+    "b26efb86bee0a749f90b49395184aadcde6cade2e3de5cc29a871f9f497b9070",
+    "baee399f7f0c92773bbda35cfd1a7db0717e796bbbbf6e0689a0c5e406645824",
+    "3765fab35f823de13eaf9cc2373f829b0a6d4d367cee113c3a0e00ff66bf073b",
+    "25c2f83c4cc82a2a83b6f731272df84f8f774742e2ba0c8e4a3f39b835f62fd8"
   ],
   "seen_summaries": [
-    "17 ago 2026: Japón crece 1.1% anual en Q2 2026 pese a importaciones de petróleo caras por cierre de Ormuz; consumo privado plano, impacto incierto en precios de crudo.",
     "17 ago 2026: Tráfico en Ormuz cae a nuevo mínimo histórico y alto el fuego EE.UU.-Irán expira sin acuerdo, elevando riesgo de reanudación de ataques y presión alcista.",
     "17 ago 2026: Irán dice estar trabajando para finalizar acuerdo con Omán sobre Ormuz, sin detalles; avance diplomático potencial pero incierto, manteniendo riesgo de oferta.",
     "17 ago 2026: Irán descarta extender acuerdo interino con EE.UU. y amenaza con escalar conflicto, eliminando avance diplomático para reabrir Ormuz y elevando riesgo de oferta.",
@@ -701,7 +700,8 @@
     "27 sep 2026: EE.UU. ofreció vender uranio a Irán para programa civil y Teherán rechazó el arreglo, revelación concreta que introduce un canal diplomático inédito y dirección incierta sobre el crudo.",
     "28 sep 2026: Brent salta a $107,24 y WTI a $94,10 al reincorporar prima de guerra tras rechazo de Trump al plan irani de Ormuz; posible veto temporal de EE.UU. a exportaciones de diesel presiona WTI a la baja parcialmente.",
     "28 sep 2026: SPR de EE.UU. cae a 283.8 millones de barriles, mínimo desde octubre de 1982, agotando la principal herramienta de liberación de oferta y reforzando presión alcista sobre el crudo.",
-    "29 sep 2026: Trump desmiente públicamente oferta de alivio de sanciones y fondos congelados a Irán, cerrando la vía diplomática y reforzando presión alcista sobre el crudo."
+    "29 sep 2026: Trump desmiente públicamente oferta de alivio de sanciones y fondos congelados a Irán, cerrando la vía diplomática y reforzando presión alcista sobre el crudo.",
+    "29 sep 2026: Kpler reporta flujos por Ormuz en máximo de guerra de 12.8 mbpd, presión bajista sobre el crudo pese al repunte de precios del mismo día."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
