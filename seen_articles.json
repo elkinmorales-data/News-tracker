@@ -1,15 +1,5 @@
 {
   "seen_hashes": [
-    "78ef9facfcd11fcccfdb9aef5b0279095c6b3c13ed309a172ac08cdb1a877556",
-    "89d3c1c376e5ca81c2d3bbd0131ef3ee8c5129d86053a8c4ac11e5ad844843e2",
-    "4de39d88dc34907ea8a72c87226ec69e574b9e1878a17d9f37335aa41f09e5a3",
-    "8519be7e40ffdd4c7ba2d2a066cd87c0ddc8fd66eac3f4f104a054d9869702d1",
-    "bbd06c7a5e9337b664e72e98be21599064a8da151e7d4508215053d1a8a2661e",
-    "ec3a7ee1d1ae3e32863f6d7777576a33f2544585a462ed1aa2f7d8759ceb373d",
-    "b9064a0b061fe679cc677bfe9fd401210b34c3c95579af5ef6c031c008781fc0",
-    "b19b697a134bdaebfe43296c030a345f91cf6f2d410f85ee3a2afa6b3c6d12f1",
-    "1334289d48169bf0eec1931994f9eb763c994848e3416c2b641e92bd929c5202",
-    "5876942c5523608cf7c356acbc6336b80e271afd93e7635bd9b7184cf81f82eb",
     "75484a4d663931d0e3eb16cd56259053f81d8ed06e3227de336ba68d01672ea6",
     "d85523c5563e930e96ba3731898661f56e4420390ff60321145995248dc6bce0",
     "7c95bd79df78dc0056c3b61e7788f60f8467e3eb2eb5e13e4b3e13ff67d5e02f",
@@ -499,10 +489,19 @@
     "b26efb86bee0a749f90b49395184aadcde6cade2e3de5cc29a871f9f497b9070",
     "baee399f7f0c92773bbda35cfd1a7db0717e796bbbbf6e0689a0c5e406645824",
     "3765fab35f823de13eaf9cc2373f829b0a6d4d367cee113c3a0e00ff66bf073b",
-    "25c2f83c4cc82a2a83b6f731272df84f8f774742e2ba0c8e4a3f39b835f62fd8"
+    "25c2f83c4cc82a2a83b6f731272df84f8f774742e2ba0c8e4a3f39b835f62fd8",
+    "f37b22f054950af15e92c38ae47ba04bccdb0e8728fde7c907e457c6a4b15f13",
+    "d8faa369f5495d051887f0822586dbca0b5853ecf374c782a8b5697b47d2f3aa",
+    "63a6cdaf9d637fe0ce6d579df9689b983899ec4471378f1ee2e297759bb03d09",
+    "8b8bcd1c9ef57fbcec2310363f1d91924d5094884656fd552fa08250199f037a",
+    "186abaa582cba2d789741241add3a34f3b78332e6112f493a95994874d69f44a",
+    "e1362901e5462914710f2639d7694a2afa84e4edf0329d59da205fd2e492e9fc",
+    "ad0a0f57d0766b31240476eab8e31292dca1f6ecda68ce82d17f645e779a4ed7",
+    "a736f2a273014ee0acdab5a67bed57f4e676e95fa98352d7d6b58ef004893c88",
+    "623367aef8086d20103726b0a079296c8fbac8b70c65d6d1f6aa2d4dc2c36d90",
+    "08623c4a479987bb04ba10ea21f8d03b7316f8ff8fce231ed7d6b8da5431d8c0"
   ],
   "seen_summaries": [
-    "17 ago 2026: Tráfico en Ormuz cae a nuevo mínimo histórico y alto el fuego EE.UU.-Irán expira sin acuerdo, elevando riesgo de reanudación de ataques y presión alcista.",
     "17 ago 2026: Irán dice estar trabajando para finalizar acuerdo con Omán sobre Ormuz, sin detalles; avance diplomático potencial pero incierto, manteniendo riesgo de oferta.",
     "17 ago 2026: Irán descarta extender acuerdo interino con EE.UU. y amenaza con escalar conflicto, eliminando avance diplomático para reabrir Ormuz y elevando riesgo de oferta.",
     "17 ago 2026: Irán anuncia preparación para 'operaciones terrestres de EE.UU.' tras expirar el MoU, aumentando riesgo de escalada militar directa en la región de Ormuz.",
@@ -701,7 +700,8 @@
     "28 sep 2026: Brent salta a $107,24 y WTI a $94,10 al reincorporar prima de guerra tras rechazo de Trump al plan irani de Ormuz; posible veto temporal de EE.UU. a exportaciones de diesel presiona WTI a la baja parcialmente.",
     "28 sep 2026: SPR de EE.UU. cae a 283.8 millones de barriles, mínimo desde octubre de 1982, agotando la principal herramienta de liberación de oferta y reforzando presión alcista sobre el crudo.",
     "29 sep 2026: Trump desmiente públicamente oferta de alivio de sanciones y fondos congelados a Irán, cerrando la vía diplomática y reforzando presión alcista sobre el crudo.",
-    "29 sep 2026: Kpler reporta flujos por Ormuz en máximo de guerra de 12.8 mbpd, presión bajista sobre el crudo pese al repunte de precios del mismo día."
+    "29 sep 2026: Kpler reporta flujos por Ormuz en máximo de guerra de 12.8 mbpd, presión bajista sobre el crudo pese al repunte de precios del mismo día.",
+    "29 sep 2026: EE.UU. libera 40 MMB adicionales del SPR (tramo final de 172 MMB IEA) con diésel sobre $6, presión bajista sobre el crudo."
   ],
   "last_direction": "baja"
 }
