@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "5e034d21aa8ae319422a13c21e8c08b6a95066481e419a06d51f8e0b21e2fe29",
-    "bedbd1673aaa092c27bedbdec0b5d3cf1b672f3819c682a81c0899789b816fa4",
-    "dcbb211040cd755db097662ea9ffc9967ae94e9578bf3fbcd5e882b6cc27efd3",
-    "a893acd56ed1ab7508b328f7a6c258ba447a32580f7a2c95698b040e59bb5923",
-    "044493eb3ddca50ab85691b5810b78626370de434118f621f1b6aae0831f4c1e",
-    "450d51f8923137b216a11269f717ee463443bf2f198e6b1f9a8eba3f264fd83a",
-    "3ef5d566f96e0ace287d47c5b778cf23efbf15de0a1791e524c0b33919b7a88a",
     "e5755c85f2c50effa3e6ef27b68fd61f61645d9716dbd7fe9538e7c1b2784dbb",
     "39b210de4ff662cdb9ccddd344bac4fc2eeb41b697aa267223372ea5f8a4fd70",
     "5888c5b2c8bfdaea0391fa4dc9aa81766bcaadd36bdfa8708b2f1ad272b68175",
@@ -499,10 +492,16 @@
     "61d4e0c4ad42c45a43d7de46d6354154bcaf9d092266b37bae032dd6e0d435e5",
     "7d12019e2c936c43b5c786930c297dd8bea417f893d555d96224a6b36ef2bdaf",
     "2d393ec2ee5cc37bd7f100895073167cae1412727a35725647c0bcea08303212",
-    "21f814d2810e6afb500dc509cb00fdffd9c12a803623851b87fd83845cfab93f"
+    "21f814d2810e6afb500dc509cb00fdffd9c12a803623851b87fd83845cfab93f",
+    "fa83fdd85d41852a674157014e5ff7ea1c996a3eb398f722be2b8954294eafd6",
+    "e02d666057d5d581f1ea311bc2951fe2f6919cf1a5eb151e7be28cb87e7d492c",
+    "cc70960776ce63e4f59d550fc902be361c2dd65c7d0461baeadd2c471ef286ec",
+    "97a31fb5c963a3c9bb5e992096f1f6c791d3cf63c53e5eed67163a5518cd36eb",
+    "39230a31311ec4fcd38f61c251a76d9bb316260f97b181281a7f89e0060f5903",
+    "33f6fcd27e569a3e96d2f62854f543587c2ed97aa49771c23ed11390e01758a9",
+    "1a0e4e82ece4b1d7231960ab46462f0cd8ef57e5a9ef58e26438ee9653404ac1"
   ],
   "seen_summaries": [
-    "17 ago 2026: AP publica análisis gráfico confirmando que el ataque de EE.UU./Israel a Irán (28 feb) cerró efectivamente Ormuz, elevando precios del petróleo; reafirma riesgo de oferta y presión alcista estructural.",
     "17 ago 2026: Japón crece 1.1% anual en Q2 2026 pese a importaciones de petróleo caras por cierre de Ormuz; consumo privado plano, impacto incierto en precios de crudo.",
     "17 ago 2026: Tráfico en Ormuz cae a nuevo mínimo histórico y alto el fuego EE.UU.-Irán expira sin acuerdo, elevando riesgo de reanudación de ataques y presión alcista.",
     "17 ago 2026: Irán dice estar trabajando para finalizar acuerdo con Omán sobre Ormuz, sin detalles; avance diplomático potencial pero incierto, manteniendo riesgo de oferta.",
@@ -701,7 +700,8 @@
     "27 sep 2026: Canciller iraní dice que Teherán está listo para guerra 'del fin del mundo' con EE.UU. si falla la diplomacia y su Armada analiza dron submarino estadounidense capturado, agravando tensión naval tras ruptura con Trump y reforzando presión alcista sobre el crudo.",
     "27 sep 2026: EE.UU. ofreció vender uranio a Irán para programa civil y Teherán rechazó el arreglo, revelación concreta que introduce un canal diplomático inédito y dirección incierta sobre el crudo.",
     "28 sep 2026: Brent salta a $107,24 y WTI a $94,10 al reincorporar prima de guerra tras rechazo de Trump al plan irani de Ormuz; posible veto temporal de EE.UU. a exportaciones de diesel presiona WTI a la baja parcialmente.",
-    "28 sep 2026: SPR de EE.UU. cae a 283.8 millones de barriles, mínimo desde octubre de 1982, agotando la principal herramienta de liberación de oferta y reforzando presión alcista sobre el crudo."
+    "28 sep 2026: SPR de EE.UU. cae a 283.8 millones de barriles, mínimo desde octubre de 1982, agotando la principal herramienta de liberación de oferta y reforzando presión alcista sobre el crudo.",
+    "29 sep 2026: Trump desmiente públicamente oferta de alivio de sanciones y fondos congelados a Irán, cerrando la vía diplomática y reforzando presión alcista sobre el crudo."
   ],
   "last_direction": "alza"
 }
