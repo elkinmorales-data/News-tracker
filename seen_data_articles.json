@@ -325,7 +325,12 @@
     "1ff58ea95a542f0a1f254ff3d28d65e0c681b108451d3de0f522898a57739d0a",
     "47308d0142a369dffe34794092e9b0ed22dda0841a87561e17964d3b5554e158",
     "c28aa5b5993c0c708a3aec3cababe17f1de2a15d72d0960fca72763d87e32552",
-    "c9cc08fdc98d6e12a978700eb4fb5af007a771e91392c4ae8e6c447ea3da57b1"
+    "c9cc08fdc98d6e12a978700eb4fb5af007a771e91392c4ae8e6c447ea3da57b1",
+    "dca5f398a303b43996cdb9e5c292654f94b9f22c86e16cf23897c3532003a8bd",
+    "359b519635dbfe4564b18755d7415f045320a01335fe17e9611819b14a760b43",
+    "db3e8dda9217de65c57eb9f600be1efba96a19a1da96cea90f9b82edc5de589e",
+    "87ae5e65ea1355dc01a2d4487c334c921d25929c2e2dd037ae5458345fabad12",
+    "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -388,6 +393,7 @@
     "GPT-6 Sol y Luna como tiers económicos near-Astra con 50% de recorte en precios de API | Test práctico de decisión agente AI vs workflow determinista | MCP explicado visualmente con integraciones Claude Code, Tavily, GitHub y Playwright | Puente research-to-open-source de proyectos académicos PyTorch en PyTorchCon NA",
     "Tool Calling vs Code Execution como primitivas de acción en agentes AI: trade-offs de tipado, seguridad, auditabilidad y costo de tokens en sistemas agentic de producción",
     "Agentic Context Engineering (ACE) como paradigma de auto-mejora de agentes editando el contexto/playbook incrementalmente sin actualizar pesos, con análisis de fallos de reescritura completa y ganancias medidas",
-    "Sarvam Vision 2.1 OCR que rompe trade-off parsing estructural vs scripts indios para automatización documental en mercados no-angloparlantes | Comparativa Gemini 3.5 Transcribe vs GPT-Transcribe para pipelines de transcripción en producción | 3 trucos Numba centrados en el boundary del código compilado como causa raíz de bajo rendimiento | Workflow agentic local Hermes + Ollama como stack zero-cost para privacidad"
+    "Sarvam Vision 2.1 OCR que rompe trade-off parsing estructural vs scripts indios para automatización documental en mercados no-angloparlantes | Comparativa Gemini 3.5 Transcribe vs GPT-Transcribe para pipelines de transcripción en producción | 3 trucos Numba centrados en el boundary del código compilado como causa raíz de bajo rendimiento | Workflow agentic local Hermes + Ollama como stack zero-cost para privacidad",
+    "Claude Sonnet 5.5 como modelo mid-tier especializado en agentic coding y QA visual con controles de costos | Ecosistema open-source de memoria persistente para agentes con APIs, grafos de conocimiento y estado portable | Población automatizada de knowledge graphs con LLMs usando quads SPOC (Subject-Predicate-Object-Context) en lugar de triples RDF"
   ]
 }
