@@ -330,7 +330,10 @@
     "359b519635dbfe4564b18755d7415f045320a01335fe17e9611819b14a760b43",
     "db3e8dda9217de65c57eb9f600be1efba96a19a1da96cea90f9b82edc5de589e",
     "87ae5e65ea1355dc01a2d4487c334c921d25929c2e2dd037ae5458345fabad12",
-    "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183"
+    "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183",
+    "9d152cb15d880ff27a160461ab048d390ae16042e75a60c24573d078c2297998",
+    "a7a7eb7ce0571e623a5148d6f6c112a724ce24fb5f9cd84b52fed509535427d2",
+    "855f5ee592204ed753e8c5c565070b523717ace4415c4e370526c2b6a85168d3"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -394,6 +397,7 @@
     "Tool Calling vs Code Execution como primitivas de acción en agentes AI: trade-offs de tipado, seguridad, auditabilidad y costo de tokens en sistemas agentic de producción",
     "Agentic Context Engineering (ACE) como paradigma de auto-mejora de agentes editando el contexto/playbook incrementalmente sin actualizar pesos, con análisis de fallos de reescritura completa y ganancias medidas",
     "Sarvam Vision 2.1 OCR que rompe trade-off parsing estructural vs scripts indios para automatización documental en mercados no-angloparlantes | Comparativa Gemini 3.5 Transcribe vs GPT-Transcribe para pipelines de transcripción en producción | 3 trucos Numba centrados en el boundary del código compilado como causa raíz de bajo rendimiento | Workflow agentic local Hermes + Ollama como stack zero-cost para privacidad",
-    "Claude Sonnet 5.5 como modelo mid-tier especializado en agentic coding y QA visual con controles de costos | Ecosistema open-source de memoria persistente para agentes con APIs, grafos de conocimiento y estado portable | Población automatizada de knowledge graphs con LLMs usando quads SPOC (Subject-Predicate-Object-Context) en lugar de triples RDF"
+    "Claude Sonnet 5.5 como modelo mid-tier especializado en agentic coding y QA visual con controles de costos | Ecosistema open-source de memoria persistente para agentes con APIs, grafos de conocimiento y estado portable | Población automatizada de knowledge graphs con LLMs usando quads SPOC (Subject-Predicate-Object-Context) en lugar de triples RDF",
+    "Cross-Repository CI Relay (CRCR) de PyTorch para integración escalable de aceleradores out-of-tree (caso Torch Spyre) en CI upstream | OpenAI Dot como agente autónomo 24/7 con consumo cero de uso y automatización analítica continua"
   ]
 }
