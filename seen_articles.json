@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "75484a4d663931d0e3eb16cd56259053f81d8ed06e3227de336ba68d01672ea6",
-    "d85523c5563e930e96ba3731898661f56e4420390ff60321145995248dc6bce0",
-    "7c95bd79df78dc0056c3b61e7788f60f8467e3eb2eb5e13e4b3e13ff67d5e02f",
-    "26193448eae6b9efaf8767a312b3bff2c0c5ced13b4026787c0b02f5f278d541",
-    "8919d200a58e47ccefbb1a837d9c7e3f9ad98aaa8c1e50f6432670355abda772",
-    "8df1d6ff5435700421eac86d71e8aec43c5ec84ea3328f253304914da479f2e8",
-    "1204441dfc3673cae2031eafb1d0decbc44e2f440cb5bfb825eea536274a90fd",
     "e417e6de295bcde34bf8b5851865d0daf71891aca7c6196bd89860a4f9731e7c",
     "83cc652034dbb441dfc628f79136a84e19d7cd232fac3d2fdaf42409e8c4d0b6",
     "49ad7df4d0e5f92633b684600297a82b1e9c59a4679d6b540465db0f32c71aa2",
@@ -499,10 +492,16 @@
     "ad0a0f57d0766b31240476eab8e31292dca1f6ecda68ce82d17f645e779a4ed7",
     "a736f2a273014ee0acdab5a67bed57f4e676e95fa98352d7d6b58ef004893c88",
     "623367aef8086d20103726b0a079296c8fbac8b70c65d6d1f6aa2d4dc2c36d90",
-    "08623c4a479987bb04ba10ea21f8d03b7316f8ff8fce231ed7d6b8da5431d8c0"
+    "08623c4a479987bb04ba10ea21f8d03b7316f8ff8fce231ed7d6b8da5431d8c0",
+    "2155cdbb272a53193ebc5d1221397e997c869ff466d73e2176ede1a27f7d05fa",
+    "c4a36666b5b0760daca8142423dacd858fdda226a3465da1134ea1aa9d22f1d1",
+    "d4ff2d929990014bb0f0645c7ebfba3d4335bb3eefd47ec378e0680978b486de",
+    "54c45c75c718a6507ff750c5dc265b33e1b92e454bea97808a73c451bf0a82c6",
+    "6193bd68a14799ef320938b60843f9af35e67194f535ec67605b68fa8cd820c5",
+    "01d703f36b069f6ef8f5d80d1d3ae7e90d926d549807c2e329986db89e62b612",
+    "99e1f535175836d6ab55f640faa0b23fe1c1fadc976a684207b1752a7b2feafd"
   ],
   "seen_summaries": [
-    "17 ago 2026: Irán dice estar trabajando para finalizar acuerdo con Omán sobre Ormuz, sin detalles; avance diplomático potencial pero incierto, manteniendo riesgo de oferta.",
     "17 ago 2026: Irán descarta extender acuerdo interino con EE.UU. y amenaza con escalar conflicto, eliminando avance diplomático para reabrir Ormuz y elevando riesgo de oferta.",
     "17 ago 2026: Irán anuncia preparación para 'operaciones terrestres de EE.UU.' tras expirar el MoU, aumentando riesgo de escalada militar directa en la región de Ormuz.",
     "17 ago 2026: Trump exige rendición total de Irán y afirma contacto directo con IRGC tras expirar MoU, intensificando retórica y riesgo de escalada militar.",
@@ -701,7 +700,8 @@
     "28 sep 2026: SPR de EE.UU. cae a 283.8 millones de barriles, mínimo desde octubre de 1982, agotando la principal herramienta de liberación de oferta y reforzando presión alcista sobre el crudo.",
     "29 sep 2026: Trump desmiente públicamente oferta de alivio de sanciones y fondos congelados a Irán, cerrando la vía diplomática y reforzando presión alcista sobre el crudo.",
     "29 sep 2026: Kpler reporta flujos por Ormuz en máximo de guerra de 12.8 mbpd, presión bajista sobre el crudo pese al repunte de precios del mismo día.",
-    "29 sep 2026: EE.UU. libera 40 MMB adicionales del SPR (tramo final de 172 MMB IEA) con diésel sobre $6, presión bajista sobre el crudo."
+    "29 sep 2026: EE.UU. libera 40 MMB adicionales del SPR (tramo final de 172 MMB IEA) con diésel sobre $6, presión bajista sobre el crudo.",
+    "29 sep 2026: Iran amenaza con atacar infraestructura energetica de todo Medio Oriente si no se garantiza su seguridad y EE.UU. sanciona 10 entidades por apoyar al ejercito irani, escalada retorica con presion alcista sobre el crudo."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
