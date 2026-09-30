@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "e417e6de295bcde34bf8b5851865d0daf71891aca7c6196bd89860a4f9731e7c",
-    "83cc652034dbb441dfc628f79136a84e19d7cd232fac3d2fdaf42409e8c4d0b6",
-    "49ad7df4d0e5f92633b684600297a82b1e9c59a4679d6b540465db0f32c71aa2",
-    "dd1952d60341affd214f7b281b9faba07a80775b41915cf7e498b116090069fd",
-    "21f2f0c6b063ab43ec20f7b6230d6729110c49eafc6f9fc47fc5320ef919998a",
-    "38f4d4a73b2de9d0b2b5149df064dd79456c5f225282d7d222cc77826ee156a1",
     "44519ae885c6ec88cbb17e38cf73b03865afa408bc89d12c420b3630cb802106",
     "90e298da63205902bea50507f79be3da6d280b6ccef7523b79de4432992c699f",
     "0ca04d60bebf349fb99dca89dc57a6f129d8f4f2a5a2b7628b5e13247f5180fa",
@@ -499,10 +493,15 @@
     "54c45c75c718a6507ff750c5dc265b33e1b92e454bea97808a73c451bf0a82c6",
     "6193bd68a14799ef320938b60843f9af35e67194f535ec67605b68fa8cd820c5",
     "01d703f36b069f6ef8f5d80d1d3ae7e90d926d549807c2e329986db89e62b612",
-    "99e1f535175836d6ab55f640faa0b23fe1c1fadc976a684207b1752a7b2feafd"
+    "99e1f535175836d6ab55f640faa0b23fe1c1fadc976a684207b1752a7b2feafd",
+    "ba7fc099759e927f64345cbee6f6ac0d5110399e7cfa0f0ad9f7eb083f69b514",
+    "95f6fd9941526c47973692efd5c73bdde284ed46919ae3245d1129396b9c1859",
+    "d08408ad35a4bd147b7d60c06dd7fa25e4dd103b53c11e052b2d0a6289ac281c",
+    "c1e6ebef302231f784bd530a5dbdfb97ce5e917703d3d93d6a493ba97ba9b3b6",
+    "371dda199451cea1c8ef2e6ff776ac2d23c9296dea9395a1ebe03b9503b8c6ff",
+    "d3ddb88e5c7130d8ced8c2b54e7d0738d4ffe05f3c59d49b41d7661596c746c6"
   ],
   "seen_summaries": [
-    "17 ago 2026: Irán descarta extender acuerdo interino con EE.UU. y amenaza con escalar conflicto, eliminando avance diplomático para reabrir Ormuz y elevando riesgo de oferta.",
     "17 ago 2026: Irán anuncia preparación para 'operaciones terrestres de EE.UU.' tras expirar el MoU, aumentando riesgo de escalada militar directa en la región de Ormuz.",
     "17 ago 2026: Trump exige rendición total de Irán y afirma contacto directo con IRGC tras expirar MoU, intensificando retórica y riesgo de escalada militar.",
     "18 ago 2026: Irán ofrece recompensa por soldados de EE.UU. y Trump reduce ejercicios con Corea del Sur, intensificando escalada militar y riesgo de oferta en Ormuz.",
@@ -701,7 +700,8 @@
     "29 sep 2026: Trump desmiente públicamente oferta de alivio de sanciones y fondos congelados a Irán, cerrando la vía diplomática y reforzando presión alcista sobre el crudo.",
     "29 sep 2026: Kpler reporta flujos por Ormuz en máximo de guerra de 12.8 mbpd, presión bajista sobre el crudo pese al repunte de precios del mismo día.",
     "29 sep 2026: EE.UU. libera 40 MMB adicionales del SPR (tramo final de 172 MMB IEA) con diésel sobre $6, presión bajista sobre el crudo.",
-    "29 sep 2026: Iran amenaza con atacar infraestructura energetica de todo Medio Oriente si no se garantiza su seguridad y EE.UU. sanciona 10 entidades por apoyar al ejercito irani, escalada retorica con presion alcista sobre el crudo."
+    "29 sep 2026: Iran amenaza con atacar infraestructura energetica de todo Medio Oriente si no se garantiza su seguridad y EE.UU. sanciona 10 entidades por apoyar al ejercito irani, escalada retorica con presion alcista sobre el crudo.",
+    "30 sep 2026: Trump descarta explícitamente aliviar sanciones a Irán y Brent sube a $103.13, WTI a $89.53, reforzando presión alcista sobre el crudo."
   ],
   "last_direction": "alza"
 }
