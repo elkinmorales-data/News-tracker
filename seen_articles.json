@@ -1,18 +1,5 @@
 {
   "seen_hashes": [
-    "44519ae885c6ec88cbb17e38cf73b03865afa408bc89d12c420b3630cb802106",
-    "90e298da63205902bea50507f79be3da6d280b6ccef7523b79de4432992c699f",
-    "0ca04d60bebf349fb99dca89dc57a6f129d8f4f2a5a2b7628b5e13247f5180fa",
-    "170232d3e477e4003bc0194f43022ee1cfa9e54e1703ddf084fbf9b62cc6b4f1",
-    "db152e3d5edd56206094f71fb16f2089665baeb6fee623210b60eeb9dd62046a",
-    "9d4a63ebefb826ec83cbef580ca535ff90af5e39bc8a44daadc5d2df9ebde107",
-    "617630b741be988d669cea6781c8b9d364635271f9df63e4cdcefcfbd195a088",
-    "1a5144734eb71ab77632c4a771807e0746f639cd0c9a4e0fb8a96b45ae36d83c",
-    "ec4963b226ca27f2fba5ee7601e275dab4f9cc614db5727f58cc2410478e1dd4",
-    "8e14a9d69f689aeeb7020ef7ede30d392ff9bd401f3eb6a8c079811477e8a667",
-    "b8d5116b252eb9546652f2de9ab030daf477fc9215625d4d6ccef5765ed93cbf",
-    "30bbc36ea1d673c9c014c2effa695b3423794e396896a3865bdd2321cb43816b",
-    "06ef017742ccbbbcc3f4af681419219f1ae4df14ea2460014fe4ff45c5a97c7e",
     "979df42849a4374fd0b938a4c00e5e1dfd9f32eb2be121e40243d7b503000d8a",
     "bd73ea313fb6d1038a201bb29ee8e4f50b38bb3c6b11d625b65fdac875a033d7",
     "74e945da30b8c046418046f7682aefa81929058ac3ead93bb0d5bf0cb09b1e7c",
@@ -499,10 +486,22 @@
     "d08408ad35a4bd147b7d60c06dd7fa25e4dd103b53c11e052b2d0a6289ac281c",
     "c1e6ebef302231f784bd530a5dbdfb97ce5e917703d3d93d6a493ba97ba9b3b6",
     "371dda199451cea1c8ef2e6ff776ac2d23c9296dea9395a1ebe03b9503b8c6ff",
-    "d3ddb88e5c7130d8ced8c2b54e7d0738d4ffe05f3c59d49b41d7661596c746c6"
+    "d3ddb88e5c7130d8ced8c2b54e7d0738d4ffe05f3c59d49b41d7661596c746c6",
+    "7ad38d10c956fb658e7f6a0646dc03baea4408d47741db27cc5a951b3bf82bb9",
+    "13ceac1f410894b1d60ca5f7e59c08ee32a9074952c27a30c06395cd249ce8de",
+    "3738619bdb14dbc393df9738071b5280c47d60cda349ae09e56ab734662e9b94",
+    "3ae9156e6036231b4292f7818258b9532adc4fb6340ee8fe6bf74c0f9be33e66",
+    "7a00220007aa51b95732d8b8652b61326a6f61e10007f640ed00848cf32f65ba",
+    "0abc47c439d2789c57a258174eb38419647c83db9d787d92ef6a4421e7074cad",
+    "b12323df4c78a788225e77a7c6d5239d0f1f8abd5a4410ddb99b8028c1a9d49a",
+    "189a3fc9a21faceb035469ef52350045406a01034daa1de119610ad3ce30568b",
+    "ba21278e3674f532d7654c1a7f01364a71ec50d95ed36c31f09d66cdb93ab6fd",
+    "89751b7af1856fb30efba47d888979da6daf263d4b197baa1289d8520d86c65b",
+    "6a13316afb2f7768f3f2945c71346a67783d4c5f0595a5623ac316b3074122de",
+    "6d6c4a58d1e9fe30d534435db716c7ab3808d93b36075cc71db94652cb96f2e1",
+    "ae408c83ac501ca36b10307dfc895c8c0cfc9a7f2498cc358b80d5880eae0396"
   ],
   "seen_summaries": [
-    "17 ago 2026: Irán anuncia preparación para 'operaciones terrestres de EE.UU.' tras expirar el MoU, aumentando riesgo de escalada militar directa en la región de Ormuz.",
     "17 ago 2026: Trump exige rendición total de Irán y afirma contacto directo con IRGC tras expirar MoU, intensificando retórica y riesgo de escalada militar.",
     "18 ago 2026: Irán ofrece recompensa por soldados de EE.UU. y Trump reduce ejercicios con Corea del Sur, intensificando escalada militar y riesgo de oferta en Ormuz.",
     "18 ago 2026: Incendio en depósito de combustible en Sulaimaniyah (Irak) con 20 heridos y decenas de camiones destruidos, añade riesgo de oferta y presión alcista en petróleo.",
@@ -701,7 +700,8 @@
     "29 sep 2026: Kpler reporta flujos por Ormuz en máximo de guerra de 12.8 mbpd, presión bajista sobre el crudo pese al repunte de precios del mismo día.",
     "29 sep 2026: EE.UU. libera 40 MMB adicionales del SPR (tramo final de 172 MMB IEA) con diésel sobre $6, presión bajista sobre el crudo.",
     "29 sep 2026: Iran amenaza con atacar infraestructura energetica de todo Medio Oriente si no se garantiza su seguridad y EE.UU. sanciona 10 entidades por apoyar al ejercito irani, escalada retorica con presion alcista sobre el crudo.",
-    "30 sep 2026: Trump descarta explícitamente aliviar sanciones a Irán y Brent sube a $103.13, WTI a $89.53, reforzando presión alcista sobre el crudo."
+    "30 sep 2026: Trump descarta explícitamente aliviar sanciones a Irán y Brent sube a $103.13, WTI a $89.53, reforzando presión alcista sobre el crudo.",
+    "1 oct 2026: Trump dice que EE.UU. podría atacar Irán o cerrar un acuerdo, standoff terminará 'muy pronto', dirección incierta sobre el crudo."
   ],
-  "last_direction": "alza"
+  "last_direction": "incierto"
 }
