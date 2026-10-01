@@ -333,7 +333,16 @@
     "377516e46845ee0dbd36f3c274cd29ba78b5d7907ff912821120d7e423baa183",
     "9d152cb15d880ff27a160461ab048d390ae16042e75a60c24573d078c2297998",
     "a7a7eb7ce0571e623a5148d6f6c112a724ce24fb5f9cd84b52fed509535427d2",
-    "855f5ee592204ed753e8c5c565070b523717ace4415c4e370526c2b6a85168d3"
+    "855f5ee592204ed753e8c5c565070b523717ace4415c4e370526c2b6a85168d3",
+    "b82e22aea90b4634a3b0fef99d2e5f9852630d487e29355080a1547f4b16267e",
+    "afde9e093ef50c7df71f498a7da63bcb4f290d3dec4cf75876b6b654304b42a2",
+    "48a95f4fffe4389d11a6dc635b6c02609f11d32da01e2bd3c12de952fad7d583",
+    "e2d40c89388314223ca8bfe9c16ddaea2e4eb3d526c9f898c68995da36582e15",
+    "c12c09bcdb9103380f351de9f11498e19eaf20bcd98e16e55da2e1c46ead4a3d",
+    "d0422bc581b417fb8d4e9f3451d5ae73fec5a553e02c9786eace464081fa8ad6",
+    "22564f4336218de9b7f5540195ea2191a4f0ab05fdfc9245ecbb2c640ce63d6b",
+    "9a81ba38870ecbf5dd5955a136a24374a01dc3b774ed17c2e62ab7d8d8cd2262",
+    "a8fdad88b973d4c5aee81feddd9cccd3ee5c4d1e2889ab20c159e3d6af2ec0f1"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -398,6 +407,7 @@
     "Agentic Context Engineering (ACE) como paradigma de auto-mejora de agentes editando el contexto/playbook incrementalmente sin actualizar pesos, con análisis de fallos de reescritura completa y ganancias medidas",
     "Sarvam Vision 2.1 OCR que rompe trade-off parsing estructural vs scripts indios para automatización documental en mercados no-angloparlantes | Comparativa Gemini 3.5 Transcribe vs GPT-Transcribe para pipelines de transcripción en producción | 3 trucos Numba centrados en el boundary del código compilado como causa raíz de bajo rendimiento | Workflow agentic local Hermes + Ollama como stack zero-cost para privacidad",
     "Claude Sonnet 5.5 como modelo mid-tier especializado en agentic coding y QA visual con controles de costos | Ecosistema open-source de memoria persistente para agentes con APIs, grafos de conocimiento y estado portable | Población automatizada de knowledge graphs con LLMs usando quads SPOC (Subject-Predicate-Object-Context) en lugar de triples RDF",
-    "Cross-Repository CI Relay (CRCR) de PyTorch para integración escalable de aceleradores out-of-tree (caso Torch Spyre) en CI upstream | OpenAI Dot como agente autónomo 24/7 con consumo cero de uso y automatización analítica continua"
+    "Cross-Repository CI Relay (CRCR) de PyTorch para integración escalable de aceleradores out-of-tree (caso Torch Spyre) en CI upstream | OpenAI Dot como agente autónomo 24/7 con consumo cero de uso y automatización analítica continua",
+    "Razonamiento temporal en Graph-RAG para freshness/staleness de hechos | Docling como parser unificado de documentos heterogéneos a datos estructurados | Marimo como notebook reactivo convertible en dashboard reproducible | Web scraping agéntico persistente con lenguaje natural (BrowserAct)"
   ]
 }
