@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "979df42849a4374fd0b938a4c00e5e1dfd9f32eb2be121e40243d7b503000d8a",
-    "bd73ea313fb6d1038a201bb29ee8e4f50b38bb3c6b11d625b65fdac875a033d7",
-    "74e945da30b8c046418046f7682aefa81929058ac3ead93bb0d5bf0cb09b1e7c",
-    "d7eb1695a8672bf0828f26d4d66d41008bbf08f76cde03f97b2e9ac21b31905c",
-    "a1bca4d086b92da26fb760fac7cf9b0c922c0985e7155ad3094a6298506f371d",
-    "f39cd18c79e3f8ebe5e8beacfe8bf720f69105fd23a796ae9eee52e33d0b4d33",
     "7c1b4cdd096a65a91f590ec89c57faad64f795b8bff32ec1d4af114b390ff2b8",
     "c3e768c3c4c0c1727774a79eb6b5151d16c527ff7f26a51a06cb431a67d9e197",
     "111c9154dfd50192df4fba3986b090fef045950141ce0acdac6587915d0e1e64",
@@ -499,10 +493,15 @@
     "89751b7af1856fb30efba47d888979da6daf263d4b197baa1289d8520d86c65b",
     "6a13316afb2f7768f3f2945c71346a67783d4c5f0595a5623ac316b3074122de",
     "6d6c4a58d1e9fe30d534435db716c7ab3808d93b36075cc71db94652cb96f2e1",
-    "ae408c83ac501ca36b10307dfc895c8c0cfc9a7f2498cc358b80d5880eae0396"
+    "ae408c83ac501ca36b10307dfc895c8c0cfc9a7f2498cc358b80d5880eae0396",
+    "660cb593462d60f7f9d598672fe92732198ba36ce3cd94e732c412a4bc512897",
+    "4133422bf8d12b2cbf2797b934697e059b66c032055bc55a1c3f4e09ef7877b6",
+    "84f6bc617e989bc4b4035d02e9bf9adb6c23d7fb53723649d72bc4b01acb10a5",
+    "3a2651285ffb4a4b45b04e368704f8fb42701ef079da018818b927980c527ba7",
+    "4d2f0bcaedc1ba1777508763fac4306216789a56bbdd5f571a139fa15fa43373",
+    "4447a9bc1aa32704653e1af88963a5be8cdb86cf742e653ae6ed2a9c19254051"
   ],
   "seen_summaries": [
-    "17 ago 2026: Trump exige rendición total de Irán y afirma contacto directo con IRGC tras expirar MoU, intensificando retórica y riesgo de escalada militar.",
     "18 ago 2026: Irán ofrece recompensa por soldados de EE.UU. y Trump reduce ejercicios con Corea del Sur, intensificando escalada militar y riesgo de oferta en Ormuz.",
     "18 ago 2026: Incendio en depósito de combustible en Sulaimaniyah (Irak) con 20 heridos y decenas de camiones destruidos, añade riesgo de oferta y presión alcista en petróleo.",
     "17 ago 2026: Irán anuncia estrategia 'totalmente ofensiva' contra EE.UU., elevando Brent a $91.33 y WTI a $85.08; margen de diésel en EE.UU. supera $100/barril por primera vez, confirmando escalada y presión alcista extrema en destilados.",
@@ -701,7 +700,8 @@
     "29 sep 2026: EE.UU. libera 40 MMB adicionales del SPR (tramo final de 172 MMB IEA) con diésel sobre $6, presión bajista sobre el crudo.",
     "29 sep 2026: Iran amenaza con atacar infraestructura energetica de todo Medio Oriente si no se garantiza su seguridad y EE.UU. sanciona 10 entidades por apoyar al ejercito irani, escalada retorica con presion alcista sobre el crudo.",
     "30 sep 2026: Trump descarta explícitamente aliviar sanciones a Irán y Brent sube a $103.13, WTI a $89.53, reforzando presión alcista sobre el crudo.",
-    "1 oct 2026: Trump dice que EE.UU. podría atacar Irán o cerrar un acuerdo, standoff terminará 'muy pronto', dirección incierta sobre el crudo."
+    "1 oct 2026: Trump dice que EE.UU. podría atacar Irán o cerrar un acuerdo, standoff terminará 'muy pronto', dirección incierta sobre el crudo.",
+    "1 oct 2026: Brent cae a ~$96-97 y WTI a ~$89.5 tras reportes de JP Morgan, Goldman y Kpler de que los flujos de crudo del Golfo Persico se normalizaron casi a niveles pre-guerra, revirtiendo la prima de riesgo y cambiando la direccion a BAJA."
   ],
-  "last_direction": "incierto"
+  "last_direction": "baja"
 }
