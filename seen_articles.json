@@ -1,20 +1,5 @@
 {
   "seen_hashes": [
-    "707423af86647e220b39290fb4ad81cb7e8cf2833c4b5e8fac75259b8f35cc26",
-    "cba47655e5869ccbd837ba9bd78810a4f9b503ecb4d8cb0c7c628b3c8242acf0",
-    "c56221d4083d5f6b74166bb94599717e905067bc7be073d485dc4d64715c5b1d",
-    "39320de297cb47a222bbdfb22d55feee3e92741f7ff41fe27c46a3327c968572",
-    "d7b04d630260716bc17531508165b0e4511d5e4dec60702999d0a113a2529eef",
-    "e33261ff10314acfb078b267bf9ef8a4c2c62844434f46ea5eaba1f5a23550c6",
-    "7e196de30180c350ad33f60d1430dfff5f30f875e3121d5e1a7d07ad04df0f12",
-    "a420788f02186a6f908d56eb76ec4f48ab8e768c34716d20528e59ddb19d25a9",
-    "c25cef1e90d645415b8384b30392c6c4268fe63b7be3f7604ceb61a9e398bb2d",
-    "73b197cb9fbf4ac7825981db0c45fedefacc100e0f7215d6a214c2cf99cccd89",
-    "23c82341eb079ead7503266ffebe8bc67794e434ca902b40eaa4088366841dd8",
-    "6e17bbbddd03bc6ca0fa458cef08da4c6c7feb231a1b5f543b8da59081a5282d",
-    "6c8be8cf784a87175b466fc5ed76ae161ad73ff9c48e8c3ba1224fabcb8011ba",
-    "a6048dc2f69b789331b64c5da0d543ea3d9ab2e6ed96171f31e2b11c2d322523",
-    "d2633d9a86ec356db5f5beb79ded98cbf936f12a019f41a570b256ce2cf80b9a",
     "f7f0234d95b84735844003ffdacb94902fa44c3595625fd923071c7eadea2074",
     "a85ff7ad8e446dd301778f52b4d62f39e76fcde2a716af93455aaa2ae04fa957",
     "91e8ce4c1cfc6b761cc542de2e17a8ed4e1ba95a9b76a1d07d70f5de3ba0ea4e",
@@ -499,10 +484,24 @@
     "5a51c0dc5c146a5d3555ee0f1f36b38418afffc69e66309d2e29ffc403989dd4",
     "6140760d398c45498534d873ae6fae1b4eb013f97168e5545a622534843440cb",
     "8f90deae46c7f28d5b948509d3a08b61d91cf10f4f25b0c52fae3604d3e33d3d",
-    "e1ff4d22e5e8f7a6d779e7a587bf8ec4fe9ecb890009ddf81c0ebf7fd29d534a"
+    "e1ff4d22e5e8f7a6d779e7a587bf8ec4fe9ecb890009ddf81c0ebf7fd29d534a",
+    "0fa702a854d9a62d32232a7d358a6fa83810ec562483781565679cef40d3d65e",
+    "161839b196fa95aeface49c0c284203b9cf25541cfe515bf741458c77dd34566",
+    "3cf37f38d04abeca5fcf84d6f17faebda788010e3e7fe80e06c57605f8bdc1c4",
+    "6be6e658d0becf1443ce45c16c08aab550e95827cad10da212b5cd26ebd7afde",
+    "a18843fc63da827db6e50620384e1c5ed9d45614d2541f3eefc61ba27065b8e3",
+    "cc2a5c8582f27cf9d669ff83a2d31d35a9067af2fed4b10a10bf6e12109e280d",
+    "f790036386d6eb7d18bfa80767c97690f7466e4f3fa0f4c7e254cebe0eabbbf2",
+    "d154a4a60d5ac0c20b8daabaf03171e6355734ab73a09a2e8f3dfd6141280cf8",
+    "a0876b0436998e902f68f3df3a0dffb107b62606f9dbc0d142fc6fc5ce4cc094",
+    "e2e6b95049637d9ad460549f64bc85056ca258d7ba93cf9c873c179b27924aaf",
+    "5c3b6a23d7bf6c41c0518cfbba3e2634743cb760d2d641b157e4e6b8f29cd86e",
+    "9808c1f1567d2631a9181a9825050bc8a27c4fed6961b631a77964c43c6e8cc6",
+    "60ee3c98c3bec41908580313243d5d46218694246f262dc7312ac1ec6c2229e1",
+    "0789fc502bb9cfcc16483741687ed781b4bc75b6e8e08d7bb1f84f3f5932adf0",
+    "312ecd6a696d2a87caef2cc8584cf44b3c3c2d8e28cba46999d64ca4418c0e8f"
   ],
   "seen_summaries": [
-    "17 ago 2026: Irán anuncia estrategia 'totalmente ofensiva' contra EE.UU., elevando Brent a $91.33 y WTI a $85.08; margen de diésel en EE.UU. supera $100/barril por primera vez, confirmando escalada y presión alcista extrema en destilados.",
     "18 ago 2026: UKMTO reporta ataque con proyectil desconocido a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista.",
     "18 ago 2026: UKMTO reporta ataque con proyectil a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista.",
     "18 ago 2026: Nuevo ataque con proyectil a buque en Ormuz reportado por UKMTO eleva Brent sobre $91, confirmando persistencia de ataques y riesgo de oferta.",
@@ -701,7 +700,8 @@
     "1 oct 2026: Trump dice que EE.UU. podría atacar Irán o cerrar un acuerdo, standoff terminará 'muy pronto', dirección incierta sobre el crudo.",
     "1 oct 2026: Brent cae a ~$96-97 y WTI a ~$89.5 tras reportes de JP Morgan, Goldman y Kpler de que los flujos de crudo del Golfo Persico se normalizaron casi a niveles pre-guerra, revirtiendo la prima de riesgo y cambiando la direccion a BAJA.",
     "2 oct 2026: EE.UU. despliega 2.000 marines y grupo Roosevelt a Oriente Medio mientras un petrolero es atacado en Ormuz, revirtiendo la dirección bajista y reinstalando prima de riesgo alcista sobre el crudo.",
-    "2 oct 2026: EE.UU. despliega un tercer portaaviones y 50.000 tropas hacia Irán, escalada militar directa con presión alcista sobre el crudo pese a rebote de exportaciones del Golfo."
+    "2 oct 2026: EE.UU. despliega un tercer portaaviones y 50.000 tropas hacia Irán, escalada militar directa con presión alcista sobre el crudo pese a rebote de exportaciones del Golfo.",
+    "2 oct 2026: G7 y AIE acuerdan liberar 100 millones de barriles de reservas de emergencia (50 MMB diesel europeo + 50 MMB crudo IEA) en 4 meses, con énfasis en diesel frontloaded, presión bajista sobre el crudo y WTI cayendo casi 4% a $89.36, Brent bajo $100."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
