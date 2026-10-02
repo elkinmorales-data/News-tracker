@@ -1,9 +1,5 @@
 {
   "seen_hashes": [
-    "8a1ba3310545427bcdced5021e0526b0fea6c5c936dc579b33fd6c46d9ef5c4d",
-    "89ec3c37ccb245ccc6ae824b9e15d3aa6d5b1511ffd8651e54905fc5a6972aa5",
-    "b0a072b7fcb687a933e5977270fa6138fa5fd47e08ab3d9769430de773e72ee9",
-    "fef4d8cb994f6bf2caf36e30f09be4f94e7f0dd629a2687b69128f6a55d90fb7",
     "707423af86647e220b39290fb4ad81cb7e8cf2833c4b5e8fac75259b8f35cc26",
     "cba47655e5869ccbd837ba9bd78810a4f9b503ecb4d8cb0c7c628b3c8242acf0",
     "c56221d4083d5f6b74166bb94599717e905067bc7be073d485dc4d64715c5b1d",
@@ -499,10 +495,13 @@
     "3bc3ae5126f1ff9f7ee73c8bcf03e27c7c87c88dcf7d030b29353150f6958cd1",
     "d0342847944fab658f4fc4aa2f9f26772b3a46c5f1093b9acf8e8ada1ae7803b",
     "c26789c8550b9ed93ae6682474ae5dea7ca94f83dd4b0e15bda39a8a5e521b55",
-    "639849990c1e01dd47360465e59c2a721fe0a5f7d0f61eb1848b6d72fe24c7d0"
+    "639849990c1e01dd47360465e59c2a721fe0a5f7d0f61eb1848b6d72fe24c7d0",
+    "5a51c0dc5c146a5d3555ee0f1f36b38418afffc69e66309d2e29ffc403989dd4",
+    "6140760d398c45498534d873ae6fae1b4eb013f97168e5545a622534843440cb",
+    "8f90deae46c7f28d5b948509d3a08b61d91cf10f4f25b0c52fae3604d3e33d3d",
+    "e1ff4d22e5e8f7a6d779e7a587bf8ec4fe9ecb890009ddf81c0ebf7fd29d534a"
   ],
   "seen_summaries": [
-    "18 ago 2026: Incendio en depósito de combustible en Sulaimaniyah (Irak) con 20 heridos y decenas de camiones destruidos, añade riesgo de oferta y presión alcista en petróleo.",
     "17 ago 2026: Irán anuncia estrategia 'totalmente ofensiva' contra EE.UU., elevando Brent a $91.33 y WTI a $85.08; margen de diésel en EE.UU. supera $100/barril por primera vez, confirmando escalada y presión alcista extrema en destilados.",
     "18 ago 2026: UKMTO reporta ataque con proyectil desconocido a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista.",
     "18 ago 2026: UKMTO reporta ataque con proyectil a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista.",
@@ -701,7 +700,8 @@
     "30 sep 2026: Trump descarta explícitamente aliviar sanciones a Irán y Brent sube a $103.13, WTI a $89.53, reforzando presión alcista sobre el crudo.",
     "1 oct 2026: Trump dice que EE.UU. podría atacar Irán o cerrar un acuerdo, standoff terminará 'muy pronto', dirección incierta sobre el crudo.",
     "1 oct 2026: Brent cae a ~$96-97 y WTI a ~$89.5 tras reportes de JP Morgan, Goldman y Kpler de que los flujos de crudo del Golfo Persico se normalizaron casi a niveles pre-guerra, revirtiendo la prima de riesgo y cambiando la direccion a BAJA.",
-    "2 oct 2026: EE.UU. despliega 2.000 marines y grupo Roosevelt a Oriente Medio mientras un petrolero es atacado en Ormuz, revirtiendo la dirección bajista y reinstalando prima de riesgo alcista sobre el crudo."
+    "2 oct 2026: EE.UU. despliega 2.000 marines y grupo Roosevelt a Oriente Medio mientras un petrolero es atacado en Ormuz, revirtiendo la dirección bajista y reinstalando prima de riesgo alcista sobre el crudo.",
+    "2 oct 2026: EE.UU. despliega un tercer portaaviones y 50.000 tropas hacia Irán, escalada militar directa con presión alcista sobre el crudo pese a rebote de exportaciones del Golfo."
   ],
   "last_direction": "alza"
 }
