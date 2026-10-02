@@ -1,15 +1,5 @@
 {
   "seen_hashes": [
-    "7c1b4cdd096a65a91f590ec89c57faad64f795b8bff32ec1d4af114b390ff2b8",
-    "c3e768c3c4c0c1727774a79eb6b5151d16c527ff7f26a51a06cb431a67d9e197",
-    "111c9154dfd50192df4fba3986b090fef045950141ce0acdac6587915d0e1e64",
-    "b58c03099a037c49cf836ce86317c6c16efe8ec885f38a35c46a432798323ba8",
-    "2dfe006646ad673e9854c32fc71cc7a5fb1991996aa870f58e09ecdad73bdfbe",
-    "43eb5922dbc2f612955c6dd055cdf98a9008b3bcd61f36607cc3c537898d9098",
-    "124ae3c99096f226ad5994a910dc289c50061aebd9d52d8be336c35ead9bf583",
-    "e95edbd6e4289dcaae62baab42414272f6d3237d476ed2d96fcd32669449ceec",
-    "f684c372c8411403a4ea97b22066b9b66b2f2c0c4d5532039806cc50d50469fb",
-    "25744b0810ef5af1f097b2eab4c4e0d165bcc41b0d6e4e08e4009f48380bba82",
     "8a1ba3310545427bcdced5021e0526b0fea6c5c936dc579b33fd6c46d9ef5c4d",
     "89ec3c37ccb245ccc6ae824b9e15d3aa6d5b1511ffd8651e54905fc5a6972aa5",
     "b0a072b7fcb687a933e5977270fa6138fa5fd47e08ab3d9769430de773e72ee9",
@@ -499,10 +489,19 @@
     "84f6bc617e989bc4b4035d02e9bf9adb6c23d7fb53723649d72bc4b01acb10a5",
     "3a2651285ffb4a4b45b04e368704f8fb42701ef079da018818b927980c527ba7",
     "4d2f0bcaedc1ba1777508763fac4306216789a56bbdd5f571a139fa15fa43373",
-    "4447a9bc1aa32704653e1af88963a5be8cdb86cf742e653ae6ed2a9c19254051"
+    "4447a9bc1aa32704653e1af88963a5be8cdb86cf742e653ae6ed2a9c19254051",
+    "d3d0e356cb6314a6ccbb6cf83b04c74dd718ceb92b730fca5e4145b868cd47eb",
+    "37a87f23de79b21b0b6d9aed3ce2a1bc7c9f5ca8736a8485b52e97aca8befd73",
+    "cd999dd5b7a8b7a5f8fe5a5df8677ea2f8217ad6ac510129a76ccb32b756abd3",
+    "1868f36bdbec89237ea24921eed43a74814126db186806bb4f5ca2320edf1ecf",
+    "b4c61fb0a726ce4e87bb5d62fd674f82b1cfd78b74028242a30196150b6e14da",
+    "4a739b42e966916e58568047fa80853dac93c076ff9ae97acae016d2234dc2d6",
+    "3bc3ae5126f1ff9f7ee73c8bcf03e27c7c87c88dcf7d030b29353150f6958cd1",
+    "d0342847944fab658f4fc4aa2f9f26772b3a46c5f1093b9acf8e8ada1ae7803b",
+    "c26789c8550b9ed93ae6682474ae5dea7ca94f83dd4b0e15bda39a8a5e521b55",
+    "639849990c1e01dd47360465e59c2a721fe0a5f7d0f61eb1848b6d72fe24c7d0"
   ],
   "seen_summaries": [
-    "18 ago 2026: Irán ofrece recompensa por soldados de EE.UU. y Trump reduce ejercicios con Corea del Sur, intensificando escalada militar y riesgo de oferta en Ormuz.",
     "18 ago 2026: Incendio en depósito de combustible en Sulaimaniyah (Irak) con 20 heridos y decenas de camiones destruidos, añade riesgo de oferta y presión alcista en petróleo.",
     "17 ago 2026: Irán anuncia estrategia 'totalmente ofensiva' contra EE.UU., elevando Brent a $91.33 y WTI a $85.08; margen de diésel en EE.UU. supera $100/barril por primera vez, confirmando escalada y presión alcista extrema en destilados.",
     "18 ago 2026: UKMTO reporta ataque con proyectil desconocido a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista.",
@@ -701,7 +700,8 @@
     "29 sep 2026: Iran amenaza con atacar infraestructura energetica de todo Medio Oriente si no se garantiza su seguridad y EE.UU. sanciona 10 entidades por apoyar al ejercito irani, escalada retorica con presion alcista sobre el crudo.",
     "30 sep 2026: Trump descarta explícitamente aliviar sanciones a Irán y Brent sube a $103.13, WTI a $89.53, reforzando presión alcista sobre el crudo.",
     "1 oct 2026: Trump dice que EE.UU. podría atacar Irán o cerrar un acuerdo, standoff terminará 'muy pronto', dirección incierta sobre el crudo.",
-    "1 oct 2026: Brent cae a ~$96-97 y WTI a ~$89.5 tras reportes de JP Morgan, Goldman y Kpler de que los flujos de crudo del Golfo Persico se normalizaron casi a niveles pre-guerra, revirtiendo la prima de riesgo y cambiando la direccion a BAJA."
+    "1 oct 2026: Brent cae a ~$96-97 y WTI a ~$89.5 tras reportes de JP Morgan, Goldman y Kpler de que los flujos de crudo del Golfo Persico se normalizaron casi a niveles pre-guerra, revirtiendo la prima de riesgo y cambiando la direccion a BAJA.",
+    "2 oct 2026: EE.UU. despliega 2.000 marines y grupo Roosevelt a Oriente Medio mientras un petrolero es atacado en Ormuz, revirtiendo la dirección bajista y reinstalando prima de riesgo alcista sobre el crudo."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
