@@ -1,7 +1,5 @@
 {
   "seen_hashes": [
-    "fce173eb5c088b594769689db1868af7924a4615b7e6bd29c83e9a47e34981c1",
-    "a629d9258a43d13e3c0de0c7a646bcec47a53034ea8d0df836fa266e6c2a1c9c",
     "f7b0c82ddd612bbc7fdb505c56bd124e07c0c6b78fe38bb01d47f36e83da1fbb",
     "e2c1b19a104e338cfee4d500bd1d12b1e0ff903cd80a7d882cdfef2a64dafc06",
     "e11f8cf71e4feea6185ff6be4313f827bf5a8a0606796748cf96da9a9b9646d5",
@@ -499,10 +497,11 @@
     "312ecd6a696d2a87caef2cc8584cf44b3c3c2d8e28cba46999d64ca4418c0e8f",
     "d57fd543d44971418d46065818a56dc62dd09632566b8ff512c820d88c6a804a",
     "7d0f0e31fc2a04781a4f0ad0b943b94ac66fb4920cc22895f808f5746d6b6928",
-    "ac68e771cc440586599c3d18f895f3b373db3933dc065fc3bdfac17e4fc087d7"
+    "ac68e771cc440586599c3d18f895f3b373db3933dc065fc3bdfac17e4fc087d7",
+    "f3238424ec83ae8d331baeb7e61bdb603a7d6e108db20ccc2d35bcd06503c9be",
+    "070e82aaeae0245ec704e9d62d76d84b043b0dbf8541d796558516839fc3a691"
   ],
   "seen_summaries": [
-    "18 ago 2026: UKMTO reporta ataque con proyectil a buque en Ormuz con daños en sala de máquinas y una víctima, confirmando persistencia de ataques y presión alcista.",
     "18 ago 2026: Nuevo ataque con proyectil a buque en Ormuz reportado por UKMTO eleva Brent sobre $91, confirmando persistencia de ataques y riesgo de oferta.",
     "18 ago 2026: Hutíes reivindican tercer ataque con drones contra refinería de Aramco en Jazan en dos semanas, aumentando riesgo de oferta y presión alcista en petróleo.",
     "18 ago 2026: Trump amenaza con bombardear Omán por segunda vez por el tema de Ormuz, con negociaciones EE.UU.-Irán estancadas; eleva riesgo de escalada y presión alcista en petróleo.",
@@ -701,7 +700,8 @@
     "2 oct 2026: EE.UU. despliega 2.000 marines y grupo Roosevelt a Oriente Medio mientras un petrolero es atacado en Ormuz, revirtiendo la dirección bajista y reinstalando prima de riesgo alcista sobre el crudo.",
     "2 oct 2026: EE.UU. despliega un tercer portaaviones y 50.000 tropas hacia Irán, escalada militar directa con presión alcista sobre el crudo pese a rebote de exportaciones del Golfo.",
     "2 oct 2026: G7 y AIE acuerdan liberar 100 millones de barriles de reservas de emergencia (50 MMB diesel europeo + 50 MMB crudo IEA) en 4 meses, con énfasis en diesel frontloaded, presión bajista sobre el crudo y WTI cayendo casi 4% a $89.36, Brent bajo $100.",
-    "2 oct 2026: Irak concede 40 vuelos diarios de aerolineas iranies a Najaf tras exencion de EE.UU. y el crudo irani fluye a Tayikistia desde agosto, suavizando el cerco aereo y financiero a Iran y presionando el crudo a la baja."
+    "2 oct 2026: Irak concede 40 vuelos diarios de aerolineas iranies a Najaf tras exencion de EE.UU. y el crudo irani fluye a Tayikistia desde agosto, suavizando el cerco aereo y financiero a Iran y presionando el crudo a la baja.",
+    "3 oct 2026: Dos iranies imputados en Reino Unido por plan terrorista en Manchester contra la comunidad judia, escalada de tension con Iran que refuerza presion alcista sobre el crudo."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
