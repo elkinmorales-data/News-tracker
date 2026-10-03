@@ -345,7 +345,9 @@
     "a8fdad88b973d4c5aee81feddd9cccd3ee5c4d1e2889ab20c159e3d6af2ec0f1",
     "cc6a30df1cbf5dabd8e6cbe6d3c84dfb45b9786e51d78dab3dff12faff07835f",
     "7be7fbcd55762ff0645e771b168c174ddeaf9bad160e23eaf87333c32b627bf4",
-    "588d37f95ff0112cae752683d54ca4821690a6d42dd6a3423254334f9fa1d2a4"
+    "588d37f95ff0112cae752683d54ca4821690a6d42dd6a3423254334f9fa1d2a4",
+    "bd5a46541bfea3f292aafd81e25e61122bc47815a70116c98321288215b261ae",
+    "f2a3e66f4f2cf7b41c2de3c56955879576ba041e827dbd56d8fe3d5c8ae72109"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -411,6 +413,7 @@
     "Sarvam Vision 2.1 OCR que rompe trade-off parsing estructural vs scripts indios para automatización documental en mercados no-angloparlantes | Comparativa Gemini 3.5 Transcribe vs GPT-Transcribe para pipelines de transcripción en producción | 3 trucos Numba centrados en el boundary del código compilado como causa raíz de bajo rendimiento | Workflow agentic local Hermes + Ollama como stack zero-cost para privacidad",
     "Claude Sonnet 5.5 como modelo mid-tier especializado en agentic coding y QA visual con controles de costos | Ecosistema open-source de memoria persistente para agentes con APIs, grafos de conocimiento y estado portable | Población automatizada de knowledge graphs con LLMs usando quads SPOC (Subject-Predicate-Object-Context) en lugar de triples RDF",
     "Cross-Repository CI Relay (CRCR) de PyTorch para integración escalable de aceleradores out-of-tree (caso Torch Spyre) en CI upstream | OpenAI Dot como agente autónomo 24/7 con consumo cero de uso y automatización analítica continua",
-    "Razonamiento temporal en Graph-RAG para freshness/staleness de hechos | Docling como parser unificado de documentos heterogéneos a datos estructurados | Marimo como notebook reactivo convertible en dashboard reproducible | Web scraping agéntico persistente con lenguaje natural (BrowserAct)"
+    "Razonamiento temporal en Graph-RAG para freshness/staleness de hechos | Docling como parser unificado de documentos heterogéneos a datos estructurados | Marimo como notebook reactivo convertible en dashboard reproducible | Web scraping agéntico persistente con lenguaje natural (BrowserAct)",
+    "Helion DSL autotuneado integrado en el backend linear de vLLM para kernels portables de inferencia LLM | Ruta de certificación PyTorch Certified Associate (PTCA) como credencial estructurada de aprendizaje"
   ]
 }
