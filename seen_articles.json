@@ -1,6 +1,5 @@
 {
   "seen_hashes": [
-    "e11f8cf71e4feea6185ff6be4313f827bf5a8a0606796748cf96da9a9b9646d5",
     "3ca1bd1030e8a3faacc183ddd7c0f3ef4af0e03dc50ce74cb63accf7a9ea1160",
     "123dc85387e52f3d03121b86976dde069c3c35f1de0d8e2422e305e1585b5458",
     "57b4241b9e83985be11b979852d94f08973b49f87e5bcaa5ef2bbdb9b6637c26",
@@ -499,10 +498,10 @@
     "f3238424ec83ae8d331baeb7e61bdb603a7d6e108db20ccc2d35bcd06503c9be",
     "070e82aaeae0245ec704e9d62d76d84b043b0dbf8541d796558516839fc3a691",
     "333117802d2fac475f1f42ce9d5310c81859141b3395b63c074fa42961fb2183",
-    "614ec278520f4e7c92768fe158713baf12a3987631bc4864e3abab222d9538be"
+    "614ec278520f4e7c92768fe158713baf12a3987631bc4864e3abab222d9538be",
+    "c1c59a258790b5d9ca780965a8cd1c78b894f0910d8f92d5f689fdbcf4322d81"
   ],
   "seen_summaries": [
-    "18 ago 2026: Nuevo ataque con proyectil a buque en Ormuz reportado por UKMTO eleva Brent sobre $91, confirmando persistencia de ataques y riesgo de oferta.",
     "18 ago 2026: Hutíes reivindican tercer ataque con drones contra refinería de Aramco en Jazan en dos semanas, aumentando riesgo de oferta y presión alcista en petróleo.",
     "18 ago 2026: Trump amenaza con bombardear Omán por segunda vez por el tema de Ormuz, con negociaciones EE.UU.-Irán estancadas; eleva riesgo de escalada y presión alcista en petróleo.",
     "18 ago 2026: Qatar rechaza reclamos de Irán sobre pilotos desaparecidos; petroleros dan vueltas en Ormuz, confirmando bloqueo y disrupción de oferta.",
@@ -701,7 +700,8 @@
     "2 oct 2026: EE.UU. despliega un tercer portaaviones y 50.000 tropas hacia Irán, escalada militar directa con presión alcista sobre el crudo pese a rebote de exportaciones del Golfo.",
     "2 oct 2026: G7 y AIE acuerdan liberar 100 millones de barriles de reservas de emergencia (50 MMB diesel europeo + 50 MMB crudo IEA) en 4 meses, con énfasis en diesel frontloaded, presión bajista sobre el crudo y WTI cayendo casi 4% a $89.36, Brent bajo $100.",
     "2 oct 2026: Irak concede 40 vuelos diarios de aerolineas iranies a Najaf tras exencion de EE.UU. y el crudo irani fluye a Tayikistia desde agosto, suavizando el cerco aereo y financiero a Iran y presionando el crudo a la baja.",
-    "3 oct 2026: Dos iranies imputados en Reino Unido por plan terrorista en Manchester contra la comunidad judia, escalada de tension con Iran que refuerza presion alcista sobre el crudo."
+    "3 oct 2026: Dos iranies imputados en Reino Unido por plan terrorista en Manchester contra la comunidad judia, escalada de tension con Iran que refuerza presion alcista sobre el crudo.",
+    "4 oct 2026: Trump advierte a Iran con 'el camino duro' y mantiene decision inminente sobre Iran; fuerzas yemenies atacan Sanaa ampliando el frente, reforzando presion alcista sobre el crudo."
   ],
   "last_direction": "alza"
 }
