@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "5e45fb58a731fe5d3a354ce319cea9f8eb4788c00624ed2ea23091c6d88b0482",
-    "d8a64d8c1e60bc8e22119c7df3b00177dc305ef5cf674c41e08803e767cebd6b",
-    "3cda75aae4460c13bbafdfa85800f775d48405f231ec5f891db0493d67d97b73",
     "7248583629b7f6bb3fbacc2f7137e60d276145b0021ee764ae1dac52f3b75133",
     "b14ffe2dba792ea8a46d78249f70a6abd1ea8660489e50e1d987b1dd27a1d7f3",
     "c5b108b5c9238d4f3f88f621cdad4e91e49d5fda6240a5327405bbc44db2347b",
@@ -499,10 +496,12 @@
     "e5de1749278418ff82d956150e5c56b929c716c39d2e73d27975f0ec903adb0b",
     "0fd3f3efeb3ce05bebc883c328a826e0f2337b31d3da7f2cce3632d24b564cb1",
     "c23f0f83fddbe058089ce97fec50a76216c63e273e1c8ba44d3a35dccbd7598b",
-    "3ca1bd1030e8a3faacc183ddd7c0f3ef4af0e03dc50ce74cb63accf7a9ea1160"
+    "3ca1bd1030e8a3faacc183ddd7c0f3ef4af0e03dc50ce74cb63accf7a9ea1160",
+    "beda29121c512ea5f7ddf5a86c6e26126af1bbfa6918112effd522dadac3337e",
+    "cc72d0b636657e98dd7442fc17bba48a14ac3e3e720ec6ba300d8d61c4cc4316",
+    "ac491c1717d431138a7a166abd906aaddcc24649c7bbc682d07dc1459f6ebe61"
   ],
   "seen_summaries": [
-    "18 ago 2026: Qatar rechaza reclamos de Irán sobre pilotos desaparecidos; petroleros dan vueltas en Ormuz, confirmando bloqueo y disrupción de oferta.",
     "18 ago 2026: Tarifas de flete VLCC Golfo-China suben a $510,000/día, máximo en 2 meses, por inseguridad en Ormuz, confirmando disrupción logística y presión alcista en precios.",
     "18 ago 2026: Aramco reanuda carga en Ras Tanura, pero tráfico en Ormuz sigue mínimo y tarifas VLCC Golfo-China superan $500,000/día; rutas alternativas confirman disrupción persistente y presión alcista en fletes.",
     "18 ago 2026: Ataque a buque en Ormuz deja un muerto; Trump dice que el estrecho está 'abierto y operativo', contradiciendo bloqueo real y ataques continuos, elevando riesgo de oferta y presión alcista.",
@@ -701,7 +700,8 @@
     "3 oct 2026: Dos iranies imputados en Reino Unido por plan terrorista en Manchester contra la comunidad judia, escalada de tension con Iran que refuerza presion alcista sobre el crudo.",
     "4 oct 2026: Trump advierte a Iran con 'el camino duro' y mantiene decision inminente sobre Iran; fuerzas yemenies atacan Sanaa ampliando el frente, reforzando presion alcista sobre el crudo.",
     "4 oct 2026: nuevos ataques a petroleros en Ormuz y condiciones maximalistas de Irán (fin de bloqueo naval, activos, cese de agresiones) mantienen prima de riesgo alcista sobre el crudo.",
-    "4 oct 2026: China suspende exportaciones de combustible este mes y Trump exige a Alemania y Francia liberar 120 MMB de diésel bajo amenaza de veto a exportaciones de diésel estadounidense, agravando crisis de diésel en Europa y reforzando presión alcista sobre el crudo."
+    "4 oct 2026: China suspende exportaciones de combustible este mes y Trump exige a Alemania y Francia liberar 120 MMB de diésel bajo amenaza de veto a exportaciones de diésel estadounidense, agravando crisis de diésel en Europa y reforzando presión alcista sobre el crudo.",
+    "5 oct 2026: Kpler reporta flujos por Ormuz por encima de niveles pre-guerra y exportaciones de Medio Oriente superan registros previos al conflicto; Brent cae aunque se mantiene sobre $100 y WTI cerca de $89.7, presion bajista que revierte la prima de riesgo."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
