@@ -347,7 +347,18 @@
     "7be7fbcd55762ff0645e771b168c174ddeaf9bad160e23eaf87333c32b627bf4",
     "588d37f95ff0112cae752683d54ca4821690a6d42dd6a3423254334f9fa1d2a4",
     "bd5a46541bfea3f292aafd81e25e61122bc47815a70116c98321288215b261ae",
-    "f2a3e66f4f2cf7b41c2de3c56955879576ba041e827dbd56d8fe3d5c8ae72109"
+    "f2a3e66f4f2cf7b41c2de3c56955879576ba041e827dbd56d8fe3d5c8ae72109",
+    "b915427ce4184eece4a69fb1a1a1eab044ea14743ac4464cbe3231bc603f433b",
+    "4f47742964acec59cceff15d900107585a66dc290b60ea7446d753de8338fbad",
+    "3a6d0d4932377a1c30f9436ea314bc2f683d0b996347ceae5fbbab31a800395c",
+    "5a468ea69e1505bc8e439e3df7e22be98271f76d311daac888744ed17aecfc66",
+    "660a70c9670a9baf8337826d74326eb2194adf7c9aeb84a0b80718a7d79fb37a",
+    "66cbbd3745a51477cbfd0f02780c46299c1b1b2ee6454804585efeaf072adb1f",
+    "3d60e5ebaa9a3355d74d45d2fd0bd2562244c447a059ce0f08478cd14baf34dd",
+    "a8a7e52e1a1e41dd2bb0cb176b386f9d93eddb8b74d5d902050e224f689f68a2",
+    "3d29ce39b59b1423b920a75c17e977763db020ec2c71d53817ce24d843984f96",
+    "7c477c1278221668b434507c6598aa1d013d09e800c4a471efb483fb67dba710",
+    "537645ae693322a4a4310b703acece6df4f9c7ad625dee0864d5f2c1ae0b929b"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -414,6 +425,7 @@
     "Claude Sonnet 5.5 como modelo mid-tier especializado en agentic coding y QA visual con controles de costos | Ecosistema open-source de memoria persistente para agentes con APIs, grafos de conocimiento y estado portable | Población automatizada de knowledge graphs con LLMs usando quads SPOC (Subject-Predicate-Object-Context) en lugar de triples RDF",
     "Cross-Repository CI Relay (CRCR) de PyTorch para integración escalable de aceleradores out-of-tree (caso Torch Spyre) en CI upstream | OpenAI Dot como agente autónomo 24/7 con consumo cero de uso y automatización analítica continua",
     "Razonamiento temporal en Graph-RAG para freshness/staleness de hechos | Docling como parser unificado de documentos heterogéneos a datos estructurados | Marimo como notebook reactivo convertible en dashboard reproducible | Web scraping agéntico persistente con lenguaje natural (BrowserAct)",
-    "Helion DSL autotuneado integrado en el backend linear de vLLM para kernels portables de inferencia LLM | Ruta de certificación PyTorch Certified Associate (PTCA) como credencial estructurada de aprendizaje"
+    "Helion DSL autotuneado integrado en el backend linear de vLLM para kernels portables de inferencia LLM | Ruta de certificación PyTorch Certified Associate (PTCA) como credencial estructurada de aprendizaje",
+    "JEV vs LLM-as-a-Judge como evaluación ligera de respuestas AI con modelo no generativo de decisión | Patrones arquitectónicos sync vs async en ejecución de agentes en producción | Mejores prácticas para librerías Python AI production-ready (API design, errores, observabilidad, testing) | Evolución del stack media processing en PyTorch con TorchCodec central para image/video/audio | Accelerator Integration Working Group de PyTorch y estandarización de hardware enablement multiacelerador"
   ]
 }
