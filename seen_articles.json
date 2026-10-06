@@ -1,18 +1,5 @@
 {
   "seen_hashes": [
-    "593ad33f2b4b69842866b03c890cc91fdd03efd690f1736e9a83996881dc0301",
-    "85fa441a3db05203e066557c9132d7bc82693901e712e6837a9c3ec664d1e863",
-    "b05cad36c67298ff6614d101acd93c66f36a83295dc9849419002de9d0a3956e",
-    "80599e5deac1751ead13e65f2b5e64de1edcc1e74fa05f52a72fa042cb72ef00",
-    "fca0e0918b819636ba3e9490bf03bf7e37cd2401466c6824cdbf83b24a49e85a",
-    "fea2014f274b0f506e4c4f512ae81e92b104d1e4d9be2f9df154bd0c9a4399e8",
-    "0db32250397d7d6fc370d9ed9cc92e0c29128fd01f14c3348b87e172e3b2b545",
-    "20360f99fe1338131525215ce534f3ddc73671007caa1850fb514948d2c10645",
-    "dda5d9a05e35dc4435583471a039c423e2a3562a501471e539c335f55a22c224",
-    "c97454fff788495881f964fccfe63b242de7b26748119e91d0ff4bbf827d67db",
-    "7b828412f3bee8e91f171789d67d59b2f7b4b0e51f4e41cbbf5ca1cba3a80816",
-    "6e958e449f06f0e7cd25a1c470acf8daeeae68f51446ac882e54560d053503d8",
-    "da90744835d737e166f24b07e72df332ab42bcb012d90d2e04764d413dedbc2f",
     "ffe60cbfa229874d8feaa55cbf980008dbf10560851c2d24a617ef3d63272341",
     "b3bf9aca2045aab8fa1edf197ab46ddcbddb681c1255bf29c684c4989d7d6f7b",
     "b695e0205de27307874bf1431426f05197d1a26fbb33426922a7f7c2efd5c03a",
@@ -499,10 +486,22 @@
     "e9830ba80cb9862ff703a3670ebcacf649f1317d451bb3507288b4ec10060eb5",
     "c046c66e4ff064d724e123dbf220faff71fd552da8f310a6ebf8991b1c85dad4",
     "ff4c465866896457bd5f0253744d426beecce6e5b785b0a5437bc6aa6f2c034d",
-    "73998ce676150f5cf0a3c1ae8c88c083e3bf3f95fdc9535c2bf5c53864fc08e9"
+    "73998ce676150f5cf0a3c1ae8c88c083e3bf3f95fdc9535c2bf5c53864fc08e9",
+    "33df3ecbb2c91a9595c8521d6bf4d0abce5757c0970998643ef5db1f2d55bf4f",
+    "be7dbab0c45e34f7529f70852cf5e091ffe30f677d469d63d5a0f4dd77d76183",
+    "a238c778b2f54e6a30627f203280b5882d10eef83fc87e417f46114846e03b33",
+    "6acdd16d1a97fd0ea2819e44ac8270e67dfd22914fa3e8e33dc55148c9b3fbdb",
+    "9e90336be42b92a22e69c40814be63588522c188254e5379aea37d0b1719470a",
+    "7fd3cc7e411ff0be43a1bbeeb053ffd6a5a11bd2246cddc46e355b3ea8de0fe8",
+    "868f966ecf7ac18addf00fcfc958b5d8f56205ef0c8afb9f052fd5bef3b7fd95",
+    "518b9a82404dd81ea3ffb6f74a234013f54db31352c4ad922706a13378872a71",
+    "2889d93cf476dd7d215d672f3aa7fcc01e97fb24f6bfc4ff179649de2eecb63f",
+    "111d22f9d492374267a45ffa0636691b6cc77bba13d3d3dffade4268e6551639",
+    "7963c6d00eb93310acd3dbee34285c4e2b2c6adf0946aa85ec46b22262d24eca",
+    "f951cb765468035672a274aa6b9c39f51bc66a1148d50a176b029a3b85e48720",
+    "e68546fd23045e70d78911ef132aebb8156eff349b3e9607f82b6c124cabc7b7"
   ],
   "seen_summaries": [
-    "18 ago 2026: Aramco reanuda carga en Ras Tanura, pero tráfico en Ormuz sigue mínimo y tarifas VLCC Golfo-China superan $500,000/día; rutas alternativas confirman disrupción persistente y presión alcista en fletes.",
     "18 ago 2026: Ataque a buque en Ormuz deja un muerto; Trump dice que el estrecho está 'abierto y operativo', contradiciendo bloqueo real y ataques continuos, elevando riesgo de oferta y presión alcista.",
     "18 ago 2026: Aramco reanuda carga de VLCC en Ras Tanura y Juaymah tras pausa de tres semanas, enviando tres buques con ~2M barriles cada uno, indicio de que Ormuz vuelve a estar parcialmente operativo y reduciendo algo el riesgo de oferta.",
     "18 ago 2026: Análisis de OilPrice revela red paralela de 4M bpd (UAE, Irak, Kuwait, Qatar) con buques AIS-dark y STS fuera del Golfo para eludir bloqueo de Ormuz; Bessent predice estrecho 'irrelevante' en 2 años; mitigación parcial de riesgo de oferta, impacto incierto en precios.",
@@ -701,7 +700,8 @@
     "4 oct 2026: nuevos ataques a petroleros en Ormuz y condiciones maximalistas de Irán (fin de bloqueo naval, activos, cese de agresiones) mantienen prima de riesgo alcista sobre el crudo.",
     "4 oct 2026: China suspende exportaciones de combustible este mes y Trump exige a Alemania y Francia liberar 120 MMB de diésel bajo amenaza de veto a exportaciones de diésel estadounidense, agravando crisis de diésel en Europa y reforzando presión alcista sobre el crudo.",
     "5 oct 2026: Kpler reporta flujos por Ormuz por encima de niveles pre-guerra y exportaciones de Medio Oriente superan registros previos al conflicto; Brent cae aunque se mantiene sobre $100 y WTI cerca de $89.7, presion bajista que revierte la prima de riesgo.",
-    "6 oct 2026: dimite el ministro de Petroleo de Iran (Paknejad) por el bloqueo de EE.UU. que lleva sus exportaciones de crudo a casi cero; lo reemplaza el jefe de NIOC Bovard, presion alcista sobre el crudo."
+    "6 oct 2026: dimite el ministro de Petroleo de Iran (Paknejad) por el bloqueo de EE.UU. que lleva sus exportaciones de crudo a casi cero; lo reemplaza el jefe de NIOC Bovard, presion alcista sobre el crudo.",
+    "6 oct 2026: fuerzas yemenies recuperan Mokha de los hutis y Aramco reporta oleoducto Este-Oeste moviendo 5.8 mb con exportaciones del Golfo al 81% de niveles pre-guerra, senales concretas de normalizacion de flujos con presion bajista sobre el crudo."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
