@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "40a6ee84bcde539ed04464180aa113cba25edf9eeb05897648537bcc1a07702f",
-    "4578648677aceb3958bc048582c60633c787d0ee089781dfb64cb84158e5865c",
-    "7e98ba0d5c9222f6bfc814530b8c7ef9ec6a7e68b58c4df9523cb35de2df85d7",
-    "ed46b41627a76a10e95016fe124d1c7096d6d6d027246430b830f04832ff6926",
-    "31e30c35effe73b5b2f6f1f60b577448947505e26cdd23dfdf623d56871eff42",
-    "a4794ab1a4337c166d48624d02eaa8bb4ad1bbc21b9d9459e7b4cdde9c090323",
-    "aaa01db52c25cf8e65cefc707acc7d6954980baa6c8d5e1b65ce87133df24fa7",
     "0e11d3a05327d506dfa9f41015e50f36443715b75d2abb97af8ef869974b1f30",
     "d2eb72ebf1920736b43d44a0fe1b73b3f4c250360261900c2b29df24e47f53ba",
     "b359e3c19b2150080d787362b507fb91990fa1521a1843efab3c7c608c383767",
@@ -499,10 +492,16 @@
     "88feca90a0198311e37e815d60cb20c3751ab3020e41e7a53c3426a669393977",
     "a26893798338e1902ea29507e97967442274f4eae169ca3e5174410889ca23b3",
     "a57af2654cfd0ce8ec3fc1413c127c7890702f50e0e8bb196b9d697aecee810d",
-    "3b539d5f9aeebba0d3ccca7663f9663c8c2f2539f9d4ae1d66f5bf51b482b870"
+    "3b539d5f9aeebba0d3ccca7663f9663c8c2f2539f9d4ae1d66f5bf51b482b870",
+    "79f31eb8eaea8cc4d1434460428cb3d4e4e337262fa409643542677e5f527273",
+    "76811d132dd69df2b3d73dffa5717f8eb73baba8421dd23fb89f43469bb681fe",
+    "0150299df316d71e8960b01b9410899631913ff54c1739e93fea63393a409365",
+    "e05c61eaac307f1985385b79595faccdd5093ca37a30a2f2abe6dd903e377018",
+    "7871d9d2fe6208c52ba340ca5a39a2f435806770ff1dfdcaba5d965066742ea5",
+    "bc64107670a738625ca425c4d9cff349d4daee9ccc75df043cbb7ce1f0b302f3",
+    "1a1a9615557078e944eec9569d262fd7640b0e11df015f4bf1643f71153b680a"
   ],
   "seen_summaries": [
-    "18 ago 2026: Aramco reanuda carga de VLCC en Ras Tanura y Juaymah tras pausa de tres semanas, enviando tres buques con ~2M barriles cada uno, indicio de que Ormuz vuelve a estar parcialmente operativo y reduciendo algo el riesgo de oferta.",
     "18 ago 2026: Análisis de OilPrice revela red paralela de 4M bpd (UAE, Irak, Kuwait, Qatar) con buques AIS-dark y STS fuera del Golfo para eludir bloqueo de Ormuz; Bessent predice estrecho 'irrelevante' en 2 años; mitigación parcial de riesgo de oferta, impacto incierto en precios.",
     "18 ago 2026: Trump descarta negociaciones con Irán y critica acuerdo Irán-Omán sobre Ormuz, eliminando avance diplomático y elevando riesgo de escalada y presión alcista.",
     "18 ago 2026: EE.UU. aumenta producción de misiles Tomahawk mediante contratos de defensa, señal de preparación militar activa en medio de escalada con Irán y riesgo de conflicto, elevando presión alcista en petróleo.",
@@ -701,7 +700,8 @@
     "5 oct 2026: Kpler reporta flujos por Ormuz por encima de niveles pre-guerra y exportaciones de Medio Oriente superan registros previos al conflicto; Brent cae aunque se mantiene sobre $100 y WTI cerca de $89.7, presion bajista que revierte la prima de riesgo.",
     "6 oct 2026: dimite el ministro de Petroleo de Iran (Paknejad) por el bloqueo de EE.UU. que lleva sus exportaciones de crudo a casi cero; lo reemplaza el jefe de NIOC Bovard, presion alcista sobre el crudo.",
     "6 oct 2026: fuerzas yemenies recuperan Mokha de los hutis y Aramco reporta oleoducto Este-Oeste moviendo 5.8 mb con exportaciones del Golfo al 81% de niveles pre-guerra, senales concretas de normalizacion de flujos con presion bajista sobre el crudo.",
-    "7 oct 2026: Nuevos ataques hutíes a infraestructura saudí e intensificación de ataques iraníes a petroleros en Ormuz (evacuación del On Peace) revierten la dirección bajista y devuelven Brent sobre $100 y WTI cerca de $90, reinstalando prima de riesgo alcista."
+    "7 oct 2026: Nuevos ataques hutíes a infraestructura saudí e intensificación de ataques iraníes a petroleros en Ormuz (evacuación del On Peace) revierten la dirección bajista y devuelven Brent sobre $100 y WTI cerca de $90, reinstalando prima de riesgo alcista.",
+    "8 oct 2026: Irak devalúa el dinar 14,5% (1.520/dólar) por colapso de ingresos petroleros ante disrupción de exportaciones vía Ormuz, confirmando que el bloqueo sigue dañando economías del Golfo y reforzando presión alcista sobre el crudo."
   ],
   "last_direction": "alza"
 }
