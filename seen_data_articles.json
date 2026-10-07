@@ -358,7 +358,13 @@
     "a8a7e52e1a1e41dd2bb0cb176b386f9d93eddb8b74d5d902050e224f689f68a2",
     "3d29ce39b59b1423b920a75c17e977763db020ec2c71d53817ce24d843984f96",
     "7c477c1278221668b434507c6598aa1d013d09e800c4a471efb483fb67dba710",
-    "537645ae693322a4a4310b703acece6df4f9c7ad625dee0864d5f2c1ae0b929b"
+    "537645ae693322a4a4310b703acece6df4f9c7ad625dee0864d5f2c1ae0b929b",
+    "f9f0a4872d8e4e51b1fc125c0fd8fd826b5301dfa8c0ee7adf14c1e438494b94",
+    "4580176e7cbdb5ccc2f884b091a36eda10d0c017730dd75eafec68186786b9a1",
+    "1a4f498b40063f5b3a331c5fa35c691c5780b8a50b1403164282a487977c63fa",
+    "e6ab038b3c278fe536bd105dc60aa70a01f7966c6a03db566d9e75b767f1b070",
+    "76da0f213ab5a2b0c5d363145bc57e508a338de28c69eeaee832dd9cecbbef5e",
+    "20a052b4dc40d9691eaf77e78ceea292d650d0184ab5ddb776928686d4e37981"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -426,6 +432,7 @@
     "Cross-Repository CI Relay (CRCR) de PyTorch para integración escalable de aceleradores out-of-tree (caso Torch Spyre) en CI upstream | OpenAI Dot como agente autónomo 24/7 con consumo cero de uso y automatización analítica continua",
     "Razonamiento temporal en Graph-RAG para freshness/staleness de hechos | Docling como parser unificado de documentos heterogéneos a datos estructurados | Marimo como notebook reactivo convertible en dashboard reproducible | Web scraping agéntico persistente con lenguaje natural (BrowserAct)",
     "Helion DSL autotuneado integrado en el backend linear de vLLM para kernels portables de inferencia LLM | Ruta de certificación PyTorch Certified Associate (PTCA) como credencial estructurada de aprendizaje",
-    "JEV vs LLM-as-a-Judge como evaluación ligera de respuestas AI con modelo no generativo de decisión | Patrones arquitectónicos sync vs async en ejecución de agentes en producción | Mejores prácticas para librerías Python AI production-ready (API design, errores, observabilidad, testing) | Evolución del stack media processing en PyTorch con TorchCodec central para image/video/audio | Accelerator Integration Working Group de PyTorch y estandarización de hardware enablement multiacelerador"
+    "JEV vs LLM-as-a-Judge como evaluación ligera de respuestas AI con modelo no generativo de decisión | Patrones arquitectónicos sync vs async en ejecución de agentes en producción | Mejores prácticas para librerías Python AI production-ready (API design, errores, observabilidad, testing) | Evolución del stack media processing en PyTorch con TorchCodec central para image/video/audio | Accelerator Integration Working Group de PyTorch y estandarización de hardware enablement multiacelerador",
+    "Kernels FBTriton para Table Batched Embeddings (TBE) forward/backward en sistemas de recomendación sobre miles de GPUs shardeadas | Ecosistema de proyectos GitHub basados en Jev con decisiones tipadas y probabilísticas como alternativa a texto libre en agentes | Árbol de decisión estructurado para elegir framework de agentic AI en producción 2026 | Reality check práctico de OpenAI Dots para data scientists antes de integrarlo al workflow"
   ]
 }
