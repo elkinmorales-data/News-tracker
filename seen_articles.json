@@ -1,12 +1,5 @@
 {
   "seen_hashes": [
-    "d6945e8b961b7b0a62ec61ff79b2e23180df8eb44e418303a5ce17f88cf045d0",
-    "62eaa2f4a3f47ceb416bf1a0875b84ae2eb1ec026b355c6ccebb746d0b65d38e",
-    "7356c53541f6aaf8ce1ad4f4596c716c0e4c6279fd30d838e37963d286662020",
-    "f2d493a1a08e3b6b6dfda17629c6f53944a18aa695e959e06140f56c6e1e3a64",
-    "16805e5beb06101e1c72a49cc34c072ba59a6b79a60564457aaf8affe69c63c8",
-    "b5ba9d41c96cefd55a0d60fb5049d93673b6b1aa69bd9dadf7568a7853aa3487",
-    "d2178051a65139e6e493efcebd4637d5d4da3a62aa7e887bba5c0790c864df22",
     "40a6ee84bcde539ed04464180aa113cba25edf9eeb05897648537bcc1a07702f",
     "4578648677aceb3958bc048582c60633c787d0ee089781dfb64cb84158e5865c",
     "7e98ba0d5c9222f6bfc814530b8c7ef9ec6a7e68b58c4df9523cb35de2df85d7",
@@ -499,10 +492,16 @@
     "4a7bb805220673d76c45f91d90464514371789dc464475890ac2978994bb59ca",
     "2b029bb43ee46e3fd4acd6f279acff523fa6fa02ec3aa329306156e669173213",
     "def9ba4ae8f02c1c681e9a341842330cce6da78197973aa98665753c03141616",
-    "896468f0997ce7a909e7bbee388bc88bf0998f88b86b7afd96233485df183cde"
+    "896468f0997ce7a909e7bbee388bc88bf0998f88b86b7afd96233485df183cde",
+    "9eee0e8bd226db97a13b267aebc369ed3aa28ec05757049aaeaa51498ea14c34",
+    "d29a3eb1b75ab97b73356198d1b50ee32d13ca9092f8107e9d46bc589901c69c",
+    "7b29eb9f07f01330ad2e24d0fcbbf033cf2e20a921e547ad09a9c17770f2e53a",
+    "88feca90a0198311e37e815d60cb20c3751ab3020e41e7a53c3426a669393977",
+    "a26893798338e1902ea29507e97967442274f4eae169ca3e5174410889ca23b3",
+    "a57af2654cfd0ce8ec3fc1413c127c7890702f50e0e8bb196b9d697aecee810d",
+    "3b539d5f9aeebba0d3ccca7663f9663c8c2f2539f9d4ae1d66f5bf51b482b870"
   ],
   "seen_summaries": [
-    "18 ago 2026: Ataque a buque en Ormuz deja un muerto; Trump dice que el estrecho está 'abierto y operativo', contradiciendo bloqueo real y ataques continuos, elevando riesgo de oferta y presión alcista.",
     "18 ago 2026: Aramco reanuda carga de VLCC en Ras Tanura y Juaymah tras pausa de tres semanas, enviando tres buques con ~2M barriles cada uno, indicio de que Ormuz vuelve a estar parcialmente operativo y reduciendo algo el riesgo de oferta.",
     "18 ago 2026: Análisis de OilPrice revela red paralela de 4M bpd (UAE, Irak, Kuwait, Qatar) con buques AIS-dark y STS fuera del Golfo para eludir bloqueo de Ormuz; Bessent predice estrecho 'irrelevante' en 2 años; mitigación parcial de riesgo de oferta, impacto incierto en precios.",
     "18 ago 2026: Trump descarta negociaciones con Irán y critica acuerdo Irán-Omán sobre Ormuz, eliminando avance diplomático y elevando riesgo de escalada y presión alcista.",
@@ -701,7 +700,8 @@
     "4 oct 2026: China suspende exportaciones de combustible este mes y Trump exige a Alemania y Francia liberar 120 MMB de diésel bajo amenaza de veto a exportaciones de diésel estadounidense, agravando crisis de diésel en Europa y reforzando presión alcista sobre el crudo.",
     "5 oct 2026: Kpler reporta flujos por Ormuz por encima de niveles pre-guerra y exportaciones de Medio Oriente superan registros previos al conflicto; Brent cae aunque se mantiene sobre $100 y WTI cerca de $89.7, presion bajista que revierte la prima de riesgo.",
     "6 oct 2026: dimite el ministro de Petroleo de Iran (Paknejad) por el bloqueo de EE.UU. que lleva sus exportaciones de crudo a casi cero; lo reemplaza el jefe de NIOC Bovard, presion alcista sobre el crudo.",
-    "6 oct 2026: fuerzas yemenies recuperan Mokha de los hutis y Aramco reporta oleoducto Este-Oeste moviendo 5.8 mb con exportaciones del Golfo al 81% de niveles pre-guerra, senales concretas de normalizacion de flujos con presion bajista sobre el crudo."
+    "6 oct 2026: fuerzas yemenies recuperan Mokha de los hutis y Aramco reporta oleoducto Este-Oeste moviendo 5.8 mb con exportaciones del Golfo al 81% de niveles pre-guerra, senales concretas de normalizacion de flujos con presion bajista sobre el crudo.",
+    "7 oct 2026: Nuevos ataques hutíes a infraestructura saudí e intensificación de ataques iraníes a petroleros en Ormuz (evacuación del On Peace) revierten la dirección bajista y devuelven Brent sobre $100 y WTI cerca de $90, reinstalando prima de riesgo alcista."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
