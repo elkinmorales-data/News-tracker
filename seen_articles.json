@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "02b9d71fbbeb36852fb011e50ee67651a3e9f5d6520dddbc4224c61c33057cdf",
-    "03b444c85f494ffb71373ed65aaf2bc4a177738463eced3c4f9a6b2bd0f4334c",
-    "c98f9f4853ad8347f03e566767e515e2229b5ef131ab3cd01eccbc6b215e09c1",
-    "0f7ddf4fbb89c032dac79838033c189982efedc53e44d52c5b30065618874944",
-    "3160594906cbc1e0bf4ef8afa29c8fb6769e7fff53df135bf9522e33d92dd560",
-    "be013919d3de04ab6a18d70a3769a606c8a530a25893afd8103a62fee859fa58",
     "045d083b14b259b77c6141ba31c79befd3c7d42d75d190b51efc77b1a9b6bc2f",
     "fc0300f031b9857df8c941fa5dbe1ba1cde2ce6e3ebf04d49a96c0c1f3ad8fdf",
     "72adce655567de4dae6d54cd86d2437933c4c4ea035f502d44442e3a110d8f5e",
@@ -499,10 +493,15 @@
     "2aeeaf4b4bbe82488e9096e7979a6ae52a53fb92d1412abf74c8f98f0e9bd291",
     "e6af3b9391ea39b00757753799044399488e739cd8dabed6eb6bf47da7acbd60",
     "e5c77c8c540f50e8ab56732205d2d060b5b2a8729ed34779db584d6bb7c47d58",
-    "8a9f089ecdbce606c16404ab15c7c4cfd2b4d8579fc70945978f443f81d892bb"
+    "8a9f089ecdbce606c16404ab15c7c4cfd2b4d8579fc70945978f443f81d892bb",
+    "febd3a8b50092f1728a00ad310e86e03fe384fb43893973ee32bfb072d40185e",
+    "aa8531cec904bd1682186dbe63d56b7f6ade50bef4f09ab5573c0d9e0399b04c",
+    "4380f138ea90862178888ee2a4cd6f4094b42e518be99e7c571f730c0d35c430",
+    "2a294d06750f6165eea8642be3c71e4a12a1d5002425d8582c6d53ee3d37272e",
+    "5fbad9e598faad73372de541cb45655634b9926479c9dd06b6a8702496b64172",
+    "8f52570f38cbd4c2b68505fbcdc3165dc7afe3a41a3ec23e2fd6babe1833244a"
   ],
   "seen_summaries": [
-    "18 ago 2026: Trump descarta negociaciones con Irán y critica acuerdo Irán-Omán sobre Ormuz, eliminando avance diplomático y elevando riesgo de escalada y presión alcista.",
     "18 ago 2026: EE.UU. aumenta producción de misiles Tomahawk mediante contratos de defensa, señal de preparación militar activa en medio de escalada con Irán y riesgo de conflicto, elevando presión alcista en petróleo.",
     "19 ago 2026: Funcionario de EE.UU. dice que refinerías del Golfo reciben el 50% del crudo venezolano (500k bpd), indicando alivio de sanciones o acuerdos implícitos; oferta adicional modera riesgo de suministro y presiona precios a la baja.",
     "19 ago 2026: EAU impone embargo comercial indefinido a Irán por presuntos ataques con misiles, elevando tensiones en el Golfo y presión alcista en petróleo.",
@@ -701,7 +700,8 @@
     "6 oct 2026: fuerzas yemenies recuperan Mokha de los hutis y Aramco reporta oleoducto Este-Oeste moviendo 5.8 mb con exportaciones del Golfo al 81% de niveles pre-guerra, senales concretas de normalizacion de flujos con presion bajista sobre el crudo.",
     "7 oct 2026: Nuevos ataques hutíes a infraestructura saudí e intensificación de ataques iraníes a petroleros en Ormuz (evacuación del On Peace) revierten la dirección bajista y devuelven Brent sobre $100 y WTI cerca de $90, reinstalando prima de riesgo alcista.",
     "8 oct 2026: Irak devalúa el dinar 14,5% (1.520/dólar) por colapso de ingresos petroleros ante disrupción de exportaciones vía Ormuz, confirmando que el bloqueo sigue dañando economías del Golfo y reforzando presión alcista sobre el crudo.",
-    "8 oct 2026: Kpler estima que productores del Golfo pagan a Irán por paso seguro en Ormuz mientras inventarios globales agotados elevan el piso del crudo, presión alcista estructural pese a flujos normalizados."
+    "8 oct 2026: Kpler estima que productores del Golfo pagan a Irán por paso seguro en Ormuz mientras inventarios globales agotados elevan el piso del crudo, presión alcista estructural pese a flujos normalizados.",
+    "8 oct 2026: Petrolero impactado por proyectiles frente a Qatar (UKMTO) y ataques iranies elevan el riesgo en Ormuz; Kpler reporta caida del 27% en transito de crudo a 10,1 mbd, minimo de dos meses, con Brent sobre $100 (+2%), reinstalando prima alcista."
   ],
   "last_direction": "alza"
 }
