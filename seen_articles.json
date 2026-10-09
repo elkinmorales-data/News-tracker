@@ -1,23 +1,5 @@
 {
   "seen_hashes": [
-    "045d083b14b259b77c6141ba31c79befd3c7d42d75d190b51efc77b1a9b6bc2f",
-    "fc0300f031b9857df8c941fa5dbe1ba1cde2ce6e3ebf04d49a96c0c1f3ad8fdf",
-    "72adce655567de4dae6d54cd86d2437933c4c4ea035f502d44442e3a110d8f5e",
-    "7102468b5763591f34c5af23c44d4fbd0a93da15bfae07dbb44649b810ef9e41",
-    "3f17e3a04ba0cfb944bfca0346087521c7971a6a4e828db1d954c736e50a6001",
-    "6fe2ef048a6e740e44f2b164501a9b164d892dba289bebe478b4ccb704327b1d",
-    "7aca4fc228a49bb42e5543d9acec0a60f661e1dadac1dc326b18bf3fcf0a2054",
-    "a375e2292c8fdd50c2d00b65704acec0bab428b97ee9a47c79d2989e4f120697",
-    "63de17e2779313579798ac484efe4bc14c09d6ec342900bf3722d1beb926d3a5",
-    "a9240740477c843741e28be59c7cd8f55b0cf64ed2e670909b0a4ba1e04ea7a1",
-    "aad4e0c1da1f09722a3665d210db26f79d7a776809423f6b7aebbc3541e09d90",
-    "1c1c54674cd6b328b469604aa8523d2c2e8a6f54a215fc93c5e73283be1b787c",
-    "3a14a91a66b79a93e8cbe8bf76c0c9d43a6183ef5ff216b2623c9aa83211cfa4",
-    "ae64d67896d8b541b23669a072c8d430345055f06e673f19692a1000fd9ed129",
-    "411223dbfb1f0324c9200cce74a9cd48828b403d5dc4db87aba51c3cccc6dc96",
-    "dc84a2f0f18efa000d21ed5a8a8962b216a18a71c64a29ab0ea22f33489641a8",
-    "8ac04fab598050b2f4b464da33414cfddcff8b7cfa9549092100c5c5d9fd03ae",
-    "c0285c5a10df62ff37955469319e88fad4b1e47f12ce9dc4aa6329c96afc17d1",
     "ab2f26d6e6a3526d658fe54a53a7ae2c254c8760b9632ca148514c87805212a1",
     "8db55d644aea4228e85342b5d7f7c2a613f0bf3dc18dad4f2ff744cb13828a56",
     "091787bb9090be953a1506883ddded605018a97282c3cbcfde06dba03e353805",
@@ -499,10 +481,27 @@
     "4380f138ea90862178888ee2a4cd6f4094b42e518be99e7c571f730c0d35c430",
     "2a294d06750f6165eea8642be3c71e4a12a1d5002425d8582c6d53ee3d37272e",
     "5fbad9e598faad73372de541cb45655634b9926479c9dd06b6a8702496b64172",
-    "8f52570f38cbd4c2b68505fbcdc3165dc7afe3a41a3ec23e2fd6babe1833244a"
+    "8f52570f38cbd4c2b68505fbcdc3165dc7afe3a41a3ec23e2fd6babe1833244a",
+    "5fa9baa1a2f64545621f48bf2b4ca12b2bece703dfed7363c12a2050579c5a00",
+    "dea6bdce475c5a03c0d964b9846b960f3ca18bddf884bdf24f2ef555efffff82",
+    "fbc5301120965977eec1484425469da9bf706e4c070d784f8b9b2fe2537ec48b",
+    "61a85ee55ded28e070fe3f9b203fbb1e79bfb91417201eede58bfd1ed17d0f5b",
+    "c5d8b667560141aad205571782772aa881e95bddcd88602c1986943c89fec941",
+    "bb29292a03305016ff4d428a4f7c1888e52810001a1205b20dd76c64d7aaa656",
+    "f32e14634bd11df4d7fcb30ea688f93b5cc81a0438f2c249a75a08c6d7051ae3",
+    "3c857743072a667ecbbfb4df4ce375b07bc75be61442cc9dab871b484f1be843",
+    "32170711b656e4a123c051772d84c2148768f71461c0bcd7f56b7b98fe129a4e",
+    "b3712cba19a9b91418b10b3d053c55a436c8be49ff10c7ab45492fc5b8e477f8",
+    "addeeb1e42530982835dd36ba8686eaa88a4770bdb3225114c74ededf8dab1ff",
+    "7d8f3dd6d88597f07bfb4100ff7238238f563b38148adbdc97911f18794fd8e3",
+    "9155dbabf355670017ce515b8a4903f41613fbe8226cc2dd9054f2fc43690beb",
+    "f86042726f87f46c78a0b52b162a1b25243ce5a8ff2b034d572ba3a2eb40f0a3",
+    "1109c04409ea830d8663eb540c54a9aff7880fee5195650ff4a3487ac3292361",
+    "0b7411b8e58ec2c2e47026c61aef813190104ef5533285e4e29a6c69d3d422db",
+    "1a0cff3c84e1b33ba82205aa3375cdb6d3e0dbb86847bbf6c895b76e6e5fba6f",
+    "af33856fc23cb8c22a588ddc8b8d43f1b325994f5dbed9ab831c931bd7a28b22"
   ],
   "seen_summaries": [
-    "18 ago 2026: EE.UU. aumenta producción de misiles Tomahawk mediante contratos de defensa, señal de preparación militar activa en medio de escalada con Irán y riesgo de conflicto, elevando presión alcista en petróleo.",
     "19 ago 2026: Funcionario de EE.UU. dice que refinerías del Golfo reciben el 50% del crudo venezolano (500k bpd), indicando alivio de sanciones o acuerdos implícitos; oferta adicional modera riesgo de suministro y presiona precios a la baja.",
     "19 ago 2026: EAU impone embargo comercial indefinido a Irán por presuntos ataques con misiles, elevando tensiones en el Golfo y presión alcista en petróleo.",
     "19 ago 2026: Tráfico en Ormuz se ralentiza aún más (datos de seguimiento de buques) y retórica EE.UU.-Irán se endurece sin negociación; Brent $91.53, WTI $85.47, confirma bloqueo persistente y presión alcista.",
@@ -701,7 +700,8 @@
     "7 oct 2026: Nuevos ataques hutíes a infraestructura saudí e intensificación de ataques iraníes a petroleros en Ormuz (evacuación del On Peace) revierten la dirección bajista y devuelven Brent sobre $100 y WTI cerca de $90, reinstalando prima de riesgo alcista.",
     "8 oct 2026: Irak devalúa el dinar 14,5% (1.520/dólar) por colapso de ingresos petroleros ante disrupción de exportaciones vía Ormuz, confirmando que el bloqueo sigue dañando economías del Golfo y reforzando presión alcista sobre el crudo.",
     "8 oct 2026: Kpler estima que productores del Golfo pagan a Irán por paso seguro en Ormuz mientras inventarios globales agotados elevan el piso del crudo, presión alcista estructural pese a flujos normalizados.",
-    "8 oct 2026: Petrolero impactado por proyectiles frente a Qatar (UKMTO) y ataques iranies elevan el riesgo en Ormuz; Kpler reporta caida del 27% en transito de crudo a 10,1 mbd, minimo de dos meses, con Brent sobre $100 (+2%), reinstalando prima alcista."
+    "8 oct 2026: Petrolero impactado por proyectiles frente a Qatar (UKMTO) y ataques iranies elevan el riesgo en Ormuz; Kpler reporta caida del 27% en transito de crudo a 10,1 mbd, minimo de dos meses, con Brent sobre $100 (+2%), reinstalando prima alcista.",
+    "9 oct 2026: Trump descarta públicamente atacar Irán antes de las midterms y afirma que hay conversaciones activas, hunde el crudo y revierte la prima de guerra hacia dirección bajista."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
