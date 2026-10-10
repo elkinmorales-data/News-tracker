@@ -103,7 +103,7 @@ DEEPSEEK_MODEL = "deepseek-chat"
 
 GMAIL_USER = os.environ.get("GMAIL_USER")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD")
-TO_EMAIL = os.environ.get("TO_EMAIL", "elkinstewarmanagement@gmail.com")
+TO_EMAIL = os.environ.get("TO_EMAIL", "")
 TO_EMAILS = [e.strip() for e in TO_EMAIL.split(",") if e.strip()]
 
 
@@ -322,7 +322,7 @@ def main():
     decision = ask_deepseek_for_trends(candidates, state)
 
     if decision.get("relevant"):
-        if GMAIL_USER and GMAIL_APP_PASSWORD:
+        if GMAIL_USER and GMAIL_APP_PASSWORD and TO_EMAILS:
             send_email(decision)
         else:
             print("[WARN] Tendencias detectadas pero faltan credenciales de email.")

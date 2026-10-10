@@ -104,7 +104,7 @@ DEEPSEEK_MODEL = "deepseek-chat"
 
 GMAIL_USER = os.environ.get("GMAIL_USER")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD")
-TO_EMAIL = os.environ.get("TO_EMAIL", "elkinstewarmanagement@gmail.com")
+TO_EMAIL = os.environ.get("TO_EMAIL", "")
 TO_EMAILS = [e.strip() for e in TO_EMAIL.split(",") if e.strip()]
 
 
@@ -330,7 +330,7 @@ def main():
     should_send = is_deterministic or is_unexpected or direction_changed
 
     if should_send:
-        if GMAIL_USER and GMAIL_APP_PASSWORD:
+        if GMAIL_USER and GMAIL_APP_PASSWORD and TO_EMAILS:
             try:
                 send_email(decision)
                 state["last_direction"] = direction
