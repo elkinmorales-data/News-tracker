@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "2d60e635426dce873784863970e5cee9a1c530215766655b37a496e0cff322d7",
-    "abd0f17d09c60a41da39f3f23a4a462ac9ef439c3dcbed29d65f66a2fef88d2e",
-    "bb03e35a63b33d86a1d06da3d07aee8a8c8de96f1f9d63a573f38fd9d6903761",
     "e71eefdc53589433b0ad8bd78ce8fd204fe5790618ecd4ec6708d598ff9b544c",
     "d58bdf511189d2dc8e2716192a072610b6f7725a9c5ee6b28fb1780d0a74e24f",
     "35ab3c23035d59c5da7e5d1a7783a64ebb3ddda92333c64914b29f3e7a490788",
@@ -499,10 +496,12 @@
     "4efd4ef523fbeaeb50563df75e2a0812333994f3d850f2bbbeabd81e0aa37e48",
     "fbeebb36f8ee4b5480d58a29c55d89ad5a9ffb80081a58f2c073b39b51ccfcbe",
     "3b2ec452a114a4030b0edf6ec6f70e65fda09ac38a9277213dcbe22edad2d580",
-    "c65128f7f7431f679bb1225855e5dadf3f727460801bd4b511288864b1cb7dab"
+    "c65128f7f7431f679bb1225855e5dadf3f727460801bd4b511288864b1cb7dab",
+    "4171248871fbd4a79aecedc75b3da2c10ffa5da98947fa20a8bc65a5933fcefb",
+    "342f2fd10a707ad98e318d111b6b461ca2de671bcff072363fe89c85de56343d",
+    "bd78bbbab642dc7c7ce233540a05e36c0693ab24b5216d309abf90c9f6509460"
   ],
   "seen_summaries": [
-    "19 ago 2026: Irán evalúa ataques a objetivos militares europeos y EAU suspende comercio con Teherán, escalando conflicto y elevando riesgo de oferta.",
     "19 ago 2026: Tráfico de buques en Ormuz cae a 6 cruces el martes (vs 9 el lunes y promedio de 10 días de 11), confirmando ralentización persistente y riesgo de oferta.",
     "India lanza incentivos para gas por ducto doméstico ante altos costos de importación de GLP por la guerra con Irán, reflejando impacto en demanda de combustibles y disrupción de oferta en Medio Oriente.",
     "19 ago 2026: ADNOC recorta 5% oferta de crudo Murban a Asia en licitaciones spot por mantenimiento, elevando precios del crudo en medio de disrupción en Ormuz.",
@@ -701,7 +700,8 @@
     "9 oct 2026: Trump descarta públicamente atacar Irán antes de las midterms y afirma que hay conversaciones activas, hunde el crudo y revierte la prima de guerra hacia dirección bajista.",
     "10 oct 2026: Trump anuncia acuerdo con Putin para suministro urgente de diésel ruso (300,000 t inmediatas + 1.5M t adicionales) y Alemania añade oferta, aliviando crisis de diésel y presionando el crudo a la baja.",
     "10 oct 2026: Kremlin confirma que Putin traslado a Trump una propuesta rusa para terminar la guerra con Iran, abriendo canal diplomatico via Moscu tras el acuerdo de diesel, presion bajista sobre el crudo.",
-    "10 oct 2026: fuerzas prosaudies en Yemen avanzan contra hutis y reportan 1.150 muertos en 24h, escalada del frente yemeni que refuerza presion alcista sobre el crudo."
+    "10 oct 2026: fuerzas prosaudies en Yemen avanzan contra hutis y reportan 1.150 muertos en 24h, escalada del frente yemeni que refuerza presion alcista sobre el crudo.",
+    "11 oct 2026: EE.UU. ataca con un caza la popa de un buque de carga que intentaba burlar el bloqueo a Irán en el Golfo de Omán, primera acción militar directa contra violaciones del cerco, presión alcista sobre el crudo."
   ],
   "last_direction": "alza"
 }
