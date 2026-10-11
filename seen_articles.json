@@ -1,13 +1,5 @@
 {
   "seen_hashes": [
-    "eccbb305e13d2a7220762bb44e5441e35390de4b2ebe32c7fa05d35ddaad6295",
-    "ad7eb115046a85fd5c519927fe45ede1845754167a903264b8347146f3aaf50f",
-    "87bd1dce9da0c2a86178e4172156a7da3cb67e82aa0d648e7847a59caa21d860",
-    "0cc3a3616582d7b15167a560862dc496535e222c988e3f16a6daae8b802715be",
-    "ab44a80119711388cea047b303e154a7c100a8a32b22e5d939a1e7ff135461c9",
-    "6b052d22e77bb33fb7d446ba27984d3e26357279ed49807d012004a66d07395e",
-    "6f8f81388659f8c4a2fefb0d1131328149e6308be539678e43d88f99c6354856",
-    "a54bdd4a458330376d07f16060fa4a80952cffda26250f1bbf3081592017e8fc",
     "2d60e635426dce873784863970e5cee9a1c530215766655b37a496e0cff322d7",
     "abd0f17d09c60a41da39f3f23a4a462ac9ef439c3dcbed29d65f66a2fef88d2e",
     "bb03e35a63b33d86a1d06da3d07aee8a8c8de96f1f9d63a573f38fd9d6903761",
@@ -499,10 +491,17 @@
     "0335042d860a9bfec7bd0c17f5678b0b83731f65e585dae01c8bb387f58eb01b",
     "2a185cbdd43326c03d98820824f36acd4eb498bdaeb7004d3e48bc21226846a4",
     "faec10668e18331edd9020901ed2ffe97604d0df8284969d2c4de89fcd0f680a",
-    "9cc26155da6937cd3e8264fff90b565cad64b0d3a56dbcf0d1f8791ec452a700"
+    "9cc26155da6937cd3e8264fff90b565cad64b0d3a56dbcf0d1f8791ec452a700",
+    "84db7b91b593070ce403384112f9c9554bdc6000b2b828597ac9ee86cb1eb097",
+    "2204dd32a34aa9450f5859d45534c417751f34ab888d71f11024e0d316061e34",
+    "9cfd13881f5ffa9e5ddc83e517c83c1018dd8424166d241d5473e698bb52fb30",
+    "38e822b989ea5ce7b89ddc28cbbd23545f28255270b50668d0a8661936fcc2ff",
+    "4efd4ef523fbeaeb50563df75e2a0812333994f3d850f2bbbeabd81e0aa37e48",
+    "fbeebb36f8ee4b5480d58a29c55d89ad5a9ffb80081a58f2c073b39b51ccfcbe",
+    "3b2ec452a114a4030b0edf6ec6f70e65fda09ac38a9277213dcbe22edad2d580",
+    "c65128f7f7431f679bb1225855e5dadf3f727460801bd4b511288864b1cb7dab"
   ],
   "seen_summaries": [
-    "19 ago 2026: Tráfico en Ormuz se ralentiza aún más (datos de seguimiento de buques) y retórica EE.UU.-Irán se endurece sin negociación; Brent $91.53, WTI $85.47, confirma bloqueo persistente y presión alcista.",
     "19 ago 2026: Irán evalúa ataques a objetivos militares europeos y EAU suspende comercio con Teherán, escalando conflicto y elevando riesgo de oferta.",
     "19 ago 2026: Tráfico de buques en Ormuz cae a 6 cruces el martes (vs 9 el lunes y promedio de 10 días de 11), confirmando ralentización persistente y riesgo de oferta.",
     "India lanza incentivos para gas por ducto doméstico ante altos costos de importación de GLP por la guerra con Irán, reflejando impacto en demanda de combustibles y disrupción de oferta en Medio Oriente.",
@@ -701,7 +700,8 @@
     "8 oct 2026: Petrolero impactado por proyectiles frente a Qatar (UKMTO) y ataques iranies elevan el riesgo en Ormuz; Kpler reporta caida del 27% en transito de crudo a 10,1 mbd, minimo de dos meses, con Brent sobre $100 (+2%), reinstalando prima alcista.",
     "9 oct 2026: Trump descarta públicamente atacar Irán antes de las midterms y afirma que hay conversaciones activas, hunde el crudo y revierte la prima de guerra hacia dirección bajista.",
     "10 oct 2026: Trump anuncia acuerdo con Putin para suministro urgente de diésel ruso (300,000 t inmediatas + 1.5M t adicionales) y Alemania añade oferta, aliviando crisis de diésel y presionando el crudo a la baja.",
-    "10 oct 2026: Kremlin confirma que Putin traslado a Trump una propuesta rusa para terminar la guerra con Iran, abriendo canal diplomatico via Moscu tras el acuerdo de diesel, presion bajista sobre el crudo."
+    "10 oct 2026: Kremlin confirma que Putin traslado a Trump una propuesta rusa para terminar la guerra con Iran, abriendo canal diplomatico via Moscu tras el acuerdo de diesel, presion bajista sobre el crudo.",
+    "10 oct 2026: fuerzas prosaudies en Yemen avanzan contra hutis y reportan 1.150 muertos en 24h, escalada del frente yemeni que refuerza presion alcista sobre el crudo."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
