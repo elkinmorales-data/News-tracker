@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "38bf2e1f76996e82a8ecbe4a7ebfc8d38ef65ea83bdf054e6a2d35b582817441",
-    "7e8d17f910229fc2363b8ab81c44f19b588c2dbeeab99b8e16d3b99b518f6016",
-    "80ab4c2d0149d3beec692f41ce8ba75865b11852d0db7c603b8dc836f8885a4d",
-    "5f32bd2c18c19f94fa3c71e0cb66027f613f5506dbe2cac30a52f6b2238c1e58",
-    "44fb7283c138dbef1ee81403f58284e02173f0de3a1d22346a37a56a6ad8ffde",
     "983d3aa87f243f2a6cff7c0ed19d93de246f4abf6f68d5d99e5dcceb4353386e",
     "114a9d18fa69f7bde5f3aa9016572eb821a0cece1b0797c9ad40c8075466428b",
     "7d63cb4df7140d1c558eef46de11445996092062d8a7fa199ac5580f4892e9b8",
@@ -499,10 +494,14 @@
     "2f022ea15f1969bfb06835af0ec8db75cbb2638a83cf6973585f1d570c91f4ae",
     "b72cc797c7f03398834a30b80afef51c7ac580e9bf4998b2a17fbfa1f2889f7b",
     "40a81b133cf6dd5f3d5e0b5ee8d164f24b76b3a86f66c49d30564ec6d26f359e",
-    "42a380e3934e07c49ec28c9ed55996936c0ed8242cabf1aa2ca3ff56b88282f0"
+    "42a380e3934e07c49ec28c9ed55996936c0ed8242cabf1aa2ca3ff56b88282f0",
+    "64d2108089c81892242be98559a8057a17feeacb3c2028eec3e50e79d84bc2c5",
+    "2340b2f6e871cf1997212dfb0dc8e392c00f64516c7b31673ca96584bb18aedf",
+    "c0860aa6e578ab27f83553eade9e1b57d9c43fb481c1eb1b9289aae2f10e0581",
+    "868208e25b5eb8d32cfd60986273f8214733e9130d1793c7132b7b6c6052f55d",
+    "19426a70465dae045cdd5e03e8ee8f681c87bec383c8a1dd644338f4a08196ca"
   ],
   "seen_summaries": [
-    "India lanza incentivos para gas por ducto doméstico ante altos costos de importación de GLP por la guerra con Irán, reflejando impacto en demanda de combustibles y disrupción de oferta en Medio Oriente.",
     "19 ago 2026: ADNOC recorta 5% oferta de crudo Murban a Asia en licitaciones spot por mantenimiento, elevando precios del crudo en medio de disrupción en Ormuz.",
     "19 ago 2026: Irán ataca con misiles a EAU; EAU responde con embargo comercial indefinido, escalando conflicto y elevando riesgo de oferta en el Golfo.",
     "19 ago 2026: EAU congela todo comercio con Irán tras ataque con misiles balísticos iraníes cerca de sus costas, escalando tensión en el Golfo y aumentando riesgo de oferta.",
@@ -701,7 +700,8 @@
     "10 oct 2026: Kremlin confirma que Putin traslado a Trump una propuesta rusa para terminar la guerra con Iran, abriendo canal diplomatico via Moscu tras el acuerdo de diesel, presion bajista sobre el crudo.",
     "10 oct 2026: fuerzas prosaudies en Yemen avanzan contra hutis y reportan 1.150 muertos en 24h, escalada del frente yemeni que refuerza presion alcista sobre el crudo.",
     "11 oct 2026: EE.UU. ataca con un caza la popa de un buque de carga que intentaba burlar el bloqueo a Irán en el Golfo de Omán, primera acción militar directa contra violaciones del cerco, presión alcista sobre el crudo.",
-    "12 oct 2026: Trump abre la puerta a que EE.UU. se una a Arabia Saudí contra los hutíes tras nuevo ataque al aeropuerto de Riad e Irán califica de 'inadecuada' la réplica de Washington, escalada que refuerza la prima de riesgo alcista sobre el crudo."
+    "12 oct 2026: Trump abre la puerta a que EE.UU. se una a Arabia Saudí contra los hutíes tras nuevo ataque al aeropuerto de Riad e Irán califica de 'inadecuada' la réplica de Washington, escalada que refuerza la prima de riesgo alcista sobre el crudo.",
+    "12 oct 2026: Trump anuncia alto el fuego energético Rusia-Ucrania (limitado a refinerías) y el crudo cae, revirtiendo la prima alcista hacia dirección BAJA."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
