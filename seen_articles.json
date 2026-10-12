@@ -1,13 +1,5 @@
 {
   "seen_hashes": [
-    "e71eefdc53589433b0ad8bd78ce8fd204fe5790618ecd4ec6708d598ff9b544c",
-    "d58bdf511189d2dc8e2716192a072610b6f7725a9c5ee6b28fb1780d0a74e24f",
-    "35ab3c23035d59c5da7e5d1a7783a64ebb3ddda92333c64914b29f3e7a490788",
-    "e35c5b73b02b7d93b1f00f51f266ca01c827a99a771f9acd44e99c1a36521b2f",
-    "9978a27bf192d906259ba5e509a589b41e48ad8a7fb67ea69d7d1d2a5c675c0d",
-    "1334aa2d688a3c29139263ec45930b0c78e6e5fe5a7e0a6449258ddfbecfe5bb",
-    "d9c29aa6df631d7c19e42cd24da6be347d799ada8483686bc1854dd9efcd0cae",
-    "9d730b0c5b93ef91bc49c8389302268fdcd4134d1c4017cf44fb99857c6b000d",
     "38bf2e1f76996e82a8ecbe4a7ebfc8d38ef65ea83bdf054e6a2d35b582817441",
     "7e8d17f910229fc2363b8ab81c44f19b588c2dbeeab99b8e16d3b99b518f6016",
     "80ab4c2d0149d3beec692f41ce8ba75865b11852d0db7c603b8dc836f8885a4d",
@@ -499,10 +491,17 @@
     "c65128f7f7431f679bb1225855e5dadf3f727460801bd4b511288864b1cb7dab",
     "4171248871fbd4a79aecedc75b3da2c10ffa5da98947fa20a8bc65a5933fcefb",
     "342f2fd10a707ad98e318d111b6b461ca2de671bcff072363fe89c85de56343d",
-    "bd78bbbab642dc7c7ce233540a05e36c0693ab24b5216d309abf90c9f6509460"
+    "bd78bbbab642dc7c7ce233540a05e36c0693ab24b5216d309abf90c9f6509460",
+    "84ca2293c5e3de7b4a730c67945e0ac99ee1ee6c5cccc43d97c2b7f8382cf061",
+    "cebac0f442218416c7efef0296d296f103bf3dac5a2315cfd0aaa87d47ad1a51",
+    "3840838c9f12d39220dd0bf450871a8b56e21e7fb2a7ea0b40191e54b667bef4",
+    "ab5db4424246a9d5d21fc80690ec14badf30c91589045ffb6d97abcd848a5084",
+    "2f022ea15f1969bfb06835af0ec8db75cbb2638a83cf6973585f1d570c91f4ae",
+    "b72cc797c7f03398834a30b80afef51c7ac580e9bf4998b2a17fbfa1f2889f7b",
+    "40a81b133cf6dd5f3d5e0b5ee8d164f24b76b3a86f66c49d30564ec6d26f359e",
+    "42a380e3934e07c49ec28c9ed55996936c0ed8242cabf1aa2ca3ff56b88282f0"
   ],
   "seen_summaries": [
-    "19 ago 2026: Tráfico de buques en Ormuz cae a 6 cruces el martes (vs 9 el lunes y promedio de 10 días de 11), confirmando ralentización persistente y riesgo de oferta.",
     "India lanza incentivos para gas por ducto doméstico ante altos costos de importación de GLP por la guerra con Irán, reflejando impacto en demanda de combustibles y disrupción de oferta en Medio Oriente.",
     "19 ago 2026: ADNOC recorta 5% oferta de crudo Murban a Asia en licitaciones spot por mantenimiento, elevando precios del crudo en medio de disrupción en Ormuz.",
     "19 ago 2026: Irán ataca con misiles a EAU; EAU responde con embargo comercial indefinido, escalando conflicto y elevando riesgo de oferta en el Golfo.",
@@ -701,7 +700,8 @@
     "10 oct 2026: Trump anuncia acuerdo con Putin para suministro urgente de diésel ruso (300,000 t inmediatas + 1.5M t adicionales) y Alemania añade oferta, aliviando crisis de diésel y presionando el crudo a la baja.",
     "10 oct 2026: Kremlin confirma que Putin traslado a Trump una propuesta rusa para terminar la guerra con Iran, abriendo canal diplomatico via Moscu tras el acuerdo de diesel, presion bajista sobre el crudo.",
     "10 oct 2026: fuerzas prosaudies en Yemen avanzan contra hutis y reportan 1.150 muertos en 24h, escalada del frente yemeni que refuerza presion alcista sobre el crudo.",
-    "11 oct 2026: EE.UU. ataca con un caza la popa de un buque de carga que intentaba burlar el bloqueo a Irán en el Golfo de Omán, primera acción militar directa contra violaciones del cerco, presión alcista sobre el crudo."
+    "11 oct 2026: EE.UU. ataca con un caza la popa de un buque de carga que intentaba burlar el bloqueo a Irán en el Golfo de Omán, primera acción militar directa contra violaciones del cerco, presión alcista sobre el crudo.",
+    "12 oct 2026: Trump abre la puerta a que EE.UU. se una a Arabia Saudí contra los hutíes tras nuevo ataque al aeropuerto de Riad e Irán califica de 'inadecuada' la réplica de Washington, escalada que refuerza la prima de riesgo alcista sobre el crudo."
   ],
   "last_direction": "alza"
 }
