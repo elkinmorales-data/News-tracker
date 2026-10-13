@@ -382,7 +382,10 @@
     "2b444ed54eebe281de351d777de6c22302f4939845f64f201b7ca26396e00115",
     "9edd70e50915d2a713afc53d22c6ebee4b30bd14d3729a74241664f6c484be8c",
     "cc2bdde101b87124c9ade090d7da13c81c7d5dd732cbfc5d3400ff60cd174fc4",
-    "fd80d36b8f5de0cb8063fd8bfac98d36b5e515632db63361ed08840b471c7a31"
+    "fd80d36b8f5de0cb8063fd8bfac98d36b5e515632db63361ed08840b471c7a31",
+    "d13d6dbf37fb13776ae4c24d055856c0e5e98058d94c1d4f325b76a8575f584b",
+    "bd4a5e4e7da0443170a3320a1baade6a9c7f01fd2c1668ede7e36b2c07e72aa4",
+    "7f13355308fbe95bb3292f8b55d11c4c26c1442a6f09c28dfd251ce40a7170ff"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -455,6 +458,7 @@
     "Inferencia agéntica session-aware con NVIDIA Dynamo (prefill masivo por sesión, subagentes paralelos, KV cache por sesión) | Spyre como device nativo de PyTorch vía PrivateUse1 con allocator/stream/compiler integrados | Jagged Flash Attention (JFA) con TLX para GEM de Meta en Blackwell B200 rumbo a SOTA FA4 | Benchmark de hallucination Graph-RAG 3 niveles vs RAG vectorial estándar en queries fact-dense | Docker Agent como plugin CLI open source para ejecutar agentes AI como contenedores",
     "EmbeddingGemma 2 embeddings multimodales unificados text/code/image/video/audio en 768 dimensiones bajo Apache 2.0 | MCP stateless spec con servidores sin sesión sobre HTTP para despliegue serverless de agentes | Fine-tuning de tool calling JSON estructurado con Unsloth sobre Llama 3 para APIs específicas en hardware modesto",
     "Checkpoints human-in-the-loop en agentes autónomos con LangGraph: interrupción y aprobación humana antes de acciones con efectos reales sobre dinero, datos de clientes o sistemas externos",
-    "Clones de software comercial generados por IA (REA, ArtCraft) mediante reverse-engineering sin código fuente | Comparativa práctica ChatGPT vs Claude vs Gemini en tareas específicas de data science/estadística | Batching estático vs dinámico vs continuo en serving de LLM y su impacto en throughput/latencia/costo"
+    "Clones de software comercial generados por IA (REA, ArtCraft) mediante reverse-engineering sin código fuente | Comparativa práctica ChatGPT vs Claude vs Gemini en tareas específicas de data science/estadística | Batching estático vs dinámico vs continuo en serving de LLM y su impacto en throughput/latencia/costo",
+    "OpenAI Decisions API como capa dedicada a agentes de decisión binaria/categórica separada de generación de texto | Migración de IBM Spyre de compilador propio sendnn a backend=inductor de PyTorch como patrón de integración out-of-tree para aceleradores no-NVIDIA"
   ]
 }
