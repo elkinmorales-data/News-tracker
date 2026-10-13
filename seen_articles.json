@@ -1,20 +1,5 @@
 {
   "seen_hashes": [
-    "27d5a52ff61340c8554789ae9cfb049cf7ec235eab32a0f4b1be9ee939dada0c",
-    "a061330277def75cfa7daf9c35858c7a0a41f091b5753b72516ef5e2876b9612",
-    "74fd361303652e2dd59ed58a704faad796de1880b5a57df34684014912117434",
-    "5c8c46513a4b290a483e0c31b651f4b19681726316ed57ec553f6132671acb04",
-    "4e3b6c568c55f3b92445c3c91ff10ce4832c079b853d3626990492f716cbd498",
-    "cee53dd89b369be30376e01b5703611b33ca0a156ec37d03c6dd342e89e79a8c",
-    "66759125fe3562efd93669778aacfcf69c621cf601d97b09dd8a3d6830ff7af7",
-    "8dfb18ed1f703da618b3b4c3d55baa1e32c1478df4a5757ea7dcf85c551b6941",
-    "6ea217c93b42ed4f34ce41b259f8b56fbbcfb4dcf37f2192443a04a55a1ced25",
-    "407f46e46e11eb7844dde0fc72c8070a794e30a184c8207022f6099d7065fce5",
-    "18f445bfeeb4ff98dba9bf709625f02cb5048ef8946baef00144f9c198b06b1e",
-    "12cb06ecf47353b53d5f1aa21e72a1a7590fa1fb4e52b08c3bffc50d57be9fcd",
-    "4adecc20f088b21ff67ce74699952aae6e4f2122453048c121b79d1b6b94bf56",
-    "82414aac5f66a89446bb16d5fe7bf5d4ea609fbb499c8052e1310b34303fb484",
-    "120e87136275ca1b5839f0d7e83ef53106895969f006d6f47de3732c32b2ec01",
     "6a57be020cf0d69a1c222ae3e5396dbcc1022c23bf5634cc88e923ac4a8d61e2",
     "81fdd9d2f318251272c3ea4bdc9da5a0fc425ee16f2cdab3fe8d05ea3254f44d",
     "f92c66b5ce490a76ed0d56248a62f7d5e84bab9e389b05143b4c17ce79c87ca4",
@@ -499,10 +484,24 @@
     "69949191b14bc670d30dee5084283c33826f6207ea41c490177f1e9b440469f5",
     "a5f1cb7e7d152acd74fbe503e56852a660e5e23aa0cb4819d672f20936d3f525",
     "16c7b674b500c55e6970bcb61775d4fdc43361866ece590cf0b53f710c6e5dfb",
-    "bd1da0baccb657ae1bb8d9f100232e8616dc16e158d161c291f7c0120dcf3209"
+    "bd1da0baccb657ae1bb8d9f100232e8616dc16e158d161c291f7c0120dcf3209",
+    "4b9929348b0ebdaedda4af0dc658ad8e47bda02f7b263c4612de7bef59da0981",
+    "b67ff9e0da17bd142cfa41b8a59e04e0ff77bd428b179ca4000c4121facf283f",
+    "c9077ad99404a0ad4bdddbe6b1e7f2e2b466f81304488f612a32aac854adc7cc",
+    "c668e2e7038f8f7925a561c81074fad055fb7c3fa8d93f9e94f689ac2c6be2c6",
+    "5c592a8934a473e70604ef80f8f48ad2f3de93863b7388c84d008a6633e9e69f",
+    "20203da50a6b34ce048d28882bbd7da9cd36284087c940f246ff7639fec8eee3",
+    "57b330c6f83b811c1abdc9c05c3f3b65a75e40afe42dabed240ac487515372fa",
+    "806782b1dbafff8ecc34b65a0c9922e49a661bf024bc1a469867785f9110c44c",
+    "f06ad0de342941f1ee919db745a3b9c04e4da0cd5a2f8bf07549cfe1930e166f",
+    "2ab5ad650f7e25812d0e8bfd4f602138e2322b3632fd01e1a441e03dda0cae4a",
+    "6e85eac146b721a08a062bc04ab7ae21d10a0823b118c109fb588cb0dd85c767",
+    "11596d3217818f1120abcf85dddaa4fe1ce0a13ca67809c0572dd323170345b4",
+    "8950fe1ab1eb9da797a42d4b78ece1c03fbd7203b6f59c489f0737a068ea47dc",
+    "23925b454d1596b2da3417b3b25fd57a33f1b907573fe6fd65811e29023cf269",
+    "ce75ebc8f62e4ff8a29f33801a9e5a15f30660940219d5b67cf8a0b431e978a1"
   ],
   "seen_summaries": [
-    "19 ago 2026: EAU congela todo comercio con Irán tras ataque con misiles balísticos iraníes cerca de sus costas, escalando tensión en el Golfo y aumentando riesgo de oferta.",
     "19 ago 2026: OTAN dice estar 'preparada' para defender aliados ante informe de posibles ataques iraníes contra objetivos de EE.UU. en Europa, ampliando riesgo de escalada y presión alcista en petróleo.",
     "19 ago 2026: Análisis de OilPrice destaca que cracks de diésel superan $100/barril, confirmando tensión extrema en productos refinados por disrupción de Ormuz.",
     "19 ago 2026: SLB prepara reinicio de 15 taladros en Venezuela, lo que podría aumentar producción y moderar precios del petróleo en medio de tensión en Ormuz.",
@@ -701,7 +700,8 @@
     "12 oct 2026: Trump abre la puerta a que EE.UU. se una a Arabia Saudí contra los hutíes tras nuevo ataque al aeropuerto de Riad e Irán califica de 'inadecuada' la réplica de Washington, escalada que refuerza la prima de riesgo alcista sobre el crudo.",
     "12 oct 2026: Trump anuncia alto el fuego energético Rusia-Ucrania (limitado a refinerías) y el crudo cae, revirtiendo la prima alcista hacia dirección BAJA.",
     "12 oct 2026: Nuevos ataques a infraestructura saudí y petroleros en Ormuz revierten la dirección bajista, con WTI a $93.78 (+2%) y Brent a $106.80 (+2%), reinstalando prima de riesgo alcista sobre el crudo.",
-    "13 oct 2026: Arabia Saudita promete mantener exportaciones pese a ataques huties y Brent/WTI retroceden, revirtiendo la direccion alcista hacia BAJA."
+    "13 oct 2026: Arabia Saudita promete mantener exportaciones pese a ataques huties y Brent/WTI retroceden, revirtiendo la direccion alcista hacia BAJA.",
+    "13 oct 2026: Arabia Saudita anuncia expansion del oleoducto Este-Oeste (Petroline) de 5,8 a 10 mbpd en 2-3 anos para evadir Ormuz, presion bajista estructural sobre el crudo."
   ],
   "last_direction": "baja"
 }
