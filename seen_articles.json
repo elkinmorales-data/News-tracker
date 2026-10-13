@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "32648293f5f5ad4cecb99a46b9372ad09854dd7a72b8b9db3d9197247e70cc0f",
-    "82b7b5c425ce8568b2ea63fc47cf55b63e4b7a9cd206ea11e0b51dc6b9dc656a",
-    "ad938f9c6cc1627d4aad52ea908aae531ee3afdabbb702db078632839abfcb31",
-    "2549e3f36148f010627a212d6e473ff35a7046481c318a6557b1662fc66ea7ef",
-    "009b3922af68ebd2636573e6092366eb98dfda19335ea65fff1b8c7a43d3169c",
-    "5f7a6bb1c4d6c185c80ca6eeb818cbb2cbf8cc322e2bcecf796776e7fe82b4e6",
     "27d5a52ff61340c8554789ae9cfb049cf7ec235eab32a0f4b1be9ee939dada0c",
     "a061330277def75cfa7daf9c35858c7a0a41f091b5753b72516ef5e2876b9612",
     "74fd361303652e2dd59ed58a704faad796de1880b5a57df34684014912117434",
@@ -499,10 +493,15 @@
     "efb1dedf5d9da484532f99395bf9284752e4c2c514f5aab5a8d6285445548497",
     "bd0ae67bd62995eb11b68c48526ec55ebb526d1b3714c6bd644584b1746f2656",
     "7f4dc2aa3a92e0562c18a267e6c6f3153004b00477ef419f2ae34fcf27d85bef",
-    "36cf1877fe0724e641c8748c04bbde3a08a97c72a80e3ed5df1c3eff0cddd00a"
+    "36cf1877fe0724e641c8748c04bbde3a08a97c72a80e3ed5df1c3eff0cddd00a",
+    "2cfe89cecea09c0499ffa816488befc13360649ab39b8ade77fa0034fa86be84",
+    "51ba6c23cf2766ca73e74a1ca10ed9573154074b7cb5ff78619d2440b2ff550f",
+    "69949191b14bc670d30dee5084283c33826f6207ea41c490177f1e9b440469f5",
+    "a5f1cb7e7d152acd74fbe503e56852a660e5e23aa0cb4819d672f20936d3f525",
+    "16c7b674b500c55e6970bcb61775d4fdc43361866ece590cf0b53f710c6e5dfb",
+    "bd1da0baccb657ae1bb8d9f100232e8616dc16e158d161c291f7c0120dcf3209"
   ],
   "seen_summaries": [
-    "19 ago 2026: Irán ataca con misiles a EAU; EAU responde con embargo comercial indefinido, escalando conflicto y elevando riesgo de oferta en el Golfo.",
     "19 ago 2026: EAU congela todo comercio con Irán tras ataque con misiles balísticos iraníes cerca de sus costas, escalando tensión en el Golfo y aumentando riesgo de oferta.",
     "19 ago 2026: OTAN dice estar 'preparada' para defender aliados ante informe de posibles ataques iraníes contra objetivos de EE.UU. en Europa, ampliando riesgo de escalada y presión alcista en petróleo.",
     "19 ago 2026: Análisis de OilPrice destaca que cracks de diésel superan $100/barril, confirmando tensión extrema en productos refinados por disrupción de Ormuz.",
@@ -701,7 +700,8 @@
     "11 oct 2026: EE.UU. ataca con un caza la popa de un buque de carga que intentaba burlar el bloqueo a Irán en el Golfo de Omán, primera acción militar directa contra violaciones del cerco, presión alcista sobre el crudo.",
     "12 oct 2026: Trump abre la puerta a que EE.UU. se una a Arabia Saudí contra los hutíes tras nuevo ataque al aeropuerto de Riad e Irán califica de 'inadecuada' la réplica de Washington, escalada que refuerza la prima de riesgo alcista sobre el crudo.",
     "12 oct 2026: Trump anuncia alto el fuego energético Rusia-Ucrania (limitado a refinerías) y el crudo cae, revirtiendo la prima alcista hacia dirección BAJA.",
-    "12 oct 2026: Nuevos ataques a infraestructura saudí y petroleros en Ormuz revierten la dirección bajista, con WTI a $93.78 (+2%) y Brent a $106.80 (+2%), reinstalando prima de riesgo alcista sobre el crudo."
+    "12 oct 2026: Nuevos ataques a infraestructura saudí y petroleros en Ormuz revierten la dirección bajista, con WTI a $93.78 (+2%) y Brent a $106.80 (+2%), reinstalando prima de riesgo alcista sobre el crudo.",
+    "13 oct 2026: Arabia Saudita promete mantener exportaciones pese a ataques huties y Brent/WTI retroceden, revirtiendo la direccion alcista hacia BAJA."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
