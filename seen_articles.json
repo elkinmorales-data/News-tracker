@@ -1,15 +1,5 @@
 {
   "seen_hashes": [
-    "6d2ba44bb4415a5d73ed2a0ae761dac6e4d52bdd479637c864415afed79130c5",
-    "9c4c52581fcc05408d3bf1b36b9eaf1df4cf6e83aac17b62e22262a7e14e6223",
-    "1f957ff31919b86fc2ed5100a5e5dc3a130dcb8530d7fdd8f7ce65c3cb893c8a",
-    "ebd0d9b9da465acd8fb2c6b53966c57ac8f36c97d19b1b440d93d34999003dbe",
-    "13c0aa7a3626b358d8ddd1469b74e8984d9dd22b303eb1a555a7c30b0af723b1",
-    "a566595523e304807733d898c1916ddb45af2772cd9852cee948be0c98cbabdb",
-    "c2a165ba422ad4c2cc2aac8b8cfeee13f4ed92da633c5c7ccbc02826c3ccf958",
-    "78b2ca2d380df7e653b01b096c3024fc421ac7f5c3bb405624cf1515a926d1f5",
-    "150a233ab327820fc40685125e1b86a792a655c12bda6286122eabe002181761",
-    "544ffe745ceab964a460aa56e44c4d54784587404306f4489103b434f9d0fdef",
     "ae1794b71a85ec89b769284f20780fe88eb6464aeb9c35762a2bf411aeaee2d0",
     "e0e70cabf6c7a7a03e02d9a50ecd5d514db3cc8bcd6b2042450f1d69b91c6409",
     "064f0744d960476db61cbf60a148c58d7ddf459f3f20eda4e7484bd34760670f",
@@ -499,10 +489,19 @@
     "2f3938563ea2aae174b586da3b72d4b47190c24788b9af4d0ad5fa7f68375cb4",
     "09a2d2eb7bddf0f4327a57d7943bef1e27720aaa6c1a8bdd07ae31d6e4d23c09",
     "191e486406f48924b680f5f0e567b7b503a8cd83c4b71db90a89c357bc2e7bce",
-    "2d1c4506ea7e859cebb390a3ee9f3eae50a73db110d8e8ac5549726feecaa6f0"
+    "2d1c4506ea7e859cebb390a3ee9f3eae50a73db110d8e8ac5549726feecaa6f0",
+    "dcddea94f6954a192b66c72b253e4870be386eba94ace67c33e5e863ff5b5ef7",
+    "8c39b5ff849bfb13f29f21435ce703768d2965793bbe9b2cd15c108067d92c79",
+    "372c289487f425f06a7987790d2906a6ebd68844ba6a25a917dcea8c560e1a37",
+    "853ac80089b219338aa2b8ad38d04ac7a0a97c46d3c69e6d320c81e92e2dac4c",
+    "1d94b13d43071b44ced4594ea45570c6691777f64007aeaed169607806e87515",
+    "c47ba3216af16169c0652dd8c6b8302471f6db8ceb08424bcc5ddd262f97d4aa",
+    "3c3e92cd6139b74c4dd8c6731c075af2669ca5d303972dc72c27171d8e6337bc",
+    "2ab085e761edd213f21e7327eebc9cf7c959d0f82450237b3eb4398c9e6fce50",
+    "d08a8c40461972052053280d7e7e225bf5d991d5c60f92b5b869eaf81310603e",
+    "d7209342eebbc3749b6f796ae53032891c96493032026ccd92893286c549a2be"
   ],
   "seen_summaries": [
-    "19 ago 2026: Análisis de OilPrice destaca que cracks de diésel superan $100/barril, confirmando tensión extrema en productos refinados por disrupción de Ormuz.",
     "19 ago 2026: SLB prepara reinicio de 15 taladros en Venezuela, lo que podría aumentar producción y moderar precios del petróleo en medio de tensión en Ormuz.",
     "19 ago 2026: OilPrice reporta que traders abandonan esperanza de fin rápido de la guerra Irán-EE.UU. y se preparan para una crisis extendida de petróleo y GNL; escasez de diésel severa empeorando, presión alcista en precios.",
     "19 ago 2026: Trump anuncia 'operación económica más devastadora contra Irán' y amenaza con consecuencias a quien comercie con Irán, endureciendo sanciones y elevando riesgo de oferta.",
@@ -701,7 +700,8 @@
     "12 oct 2026: Nuevos ataques a infraestructura saudí y petroleros en Ormuz revierten la dirección bajista, con WTI a $93.78 (+2%) y Brent a $106.80 (+2%), reinstalando prima de riesgo alcista sobre el crudo.",
     "13 oct 2026: Arabia Saudita promete mantener exportaciones pese a ataques huties y Brent/WTI retroceden, revirtiendo la direccion alcista hacia BAJA.",
     "13 oct 2026: Arabia Saudita anuncia expansion del oleoducto Este-Oeste (Petroline) de 5,8 a 10 mbpd en 2-3 anos para evadir Ormuz, presion bajista estructural sobre el crudo.",
-    "14 oct 2026: ataque a oficina de Saudi Aramco en Dhahran y amenaza iraní de intensificar ataques a petroleros en Ormuz elevan Brent sobre $106 y WTI sobre $94.7, reinstalando prima de riesgo alcista."
+    "14 oct 2026: ataque a oficina de Saudi Aramco en Dhahran y amenaza iraní de intensificar ataques a petroleros en Ormuz elevan Brent sobre $106 y WTI sobre $94.7, reinstalando prima de riesgo alcista.",
+    "14 oct 2026: portacontenedores se hunde en Ormuz, 12 buques atacados entre 5-11 oct (6 el domingo), Irán amenaza con golpear buques de guerra de EE.UU. y Aramco vuelve a ser atacada, reforzando prima alcista con Brent sobre $106."
   ],
   "last_direction": "alza"
 }
