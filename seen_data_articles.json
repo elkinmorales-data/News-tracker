@@ -385,7 +385,10 @@
     "fd80d36b8f5de0cb8063fd8bfac98d36b5e515632db63361ed08840b471c7a31",
     "d13d6dbf37fb13776ae4c24d055856c0e5e98058d94c1d4f325b76a8575f584b",
     "bd4a5e4e7da0443170a3320a1baade6a9c7f01fd2c1668ede7e36b2c07e72aa4",
-    "7f13355308fbe95bb3292f8b55d11c4c26c1442a6f09c28dfd251ce40a7170ff"
+    "7f13355308fbe95bb3292f8b55d11c4c26c1442a6f09c28dfd251ce40a7170ff",
+    "1161273950c9493dddc012ae4769ed9a707add945d2e71ad6c2e0f07b260aed4",
+    "b6b88cc00b7311e79f89f272d053a3ec0906a807f1ea782c5e81f302d5a6a557",
+    "f6237055f49dea78a8c56a7199aef067133ccd76dd0a459a918d9bc85e1f5502"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -459,6 +462,7 @@
     "EmbeddingGemma 2 embeddings multimodales unificados text/code/image/video/audio en 768 dimensiones bajo Apache 2.0 | MCP stateless spec con servidores sin sesión sobre HTTP para despliegue serverless de agentes | Fine-tuning de tool calling JSON estructurado con Unsloth sobre Llama 3 para APIs específicas en hardware modesto",
     "Checkpoints human-in-the-loop en agentes autónomos con LangGraph: interrupción y aprobación humana antes de acciones con efectos reales sobre dinero, datos de clientes o sistemas externos",
     "Clones de software comercial generados por IA (REA, ArtCraft) mediante reverse-engineering sin código fuente | Comparativa práctica ChatGPT vs Claude vs Gemini en tareas específicas de data science/estadística | Batching estático vs dinámico vs continuo en serving de LLM y su impacto en throughput/latencia/costo",
-    "OpenAI Decisions API como capa dedicada a agentes de decisión binaria/categórica separada de generación de texto | Migración de IBM Spyre de compilador propio sendnn a backend=inductor de PyTorch como patrón de integración out-of-tree para aceleradores no-NVIDIA"
+    "OpenAI Decisions API como capa dedicada a agentes de decisión binaria/categórica separada de generación de texto | Migración de IBM Spyre de compilador propio sendnn a backend=inductor de PyTorch como patrón de integración out-of-tree para aceleradores no-NVIDIA",
+    "Data stack auto-organizado por agentes que mantienen el modelo de datos con nuevas demandas al motor de orquestación | Gemini 4 Argon review hands-on con hallazgo de afirmaciones no soportadas en reconciliación documental multi-fuente | Harness de evaluación LLM custom en Python con cuatro componentes modulares self-hosted como alternativa a frameworks monolíticos"
   ]
 }
