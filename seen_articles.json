@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "687e491bdd172ddf2d78aafd0e55908f9f1ac18af940cd0f40bb144ed2ff7e32",
-    "3ffde772a67b331531f09b8e807fea10c7cd1c08360fbbb678ff68ba4c4ae9cb",
-    "fbaa6472304ff447adf1c1562b98b9e13b898f0637f9a0aae659776a0720d003",
-    "183d2075794b3f20e7cc16d7eaaa0319893e0237706e3ba49dc83e7e78543059",
-    "f116cce99dc10b99d0c5ca43ad41505a790a71b00b24e06e6c37d256cb02bb22",
     "6d2ba44bb4415a5d73ed2a0ae761dac6e4d52bdd479637c864415afed79130c5",
     "9c4c52581fcc05408d3bf1b36b9eaf1df4cf6e83aac17b62e22262a7e14e6223",
     "1f957ff31919b86fc2ed5100a5e5dc3a130dcb8530d7fdd8f7ce65c3cb893c8a",
@@ -499,10 +494,14 @@
     "14130eb0952b3d2a5c703cd9b3f0761b3476cda253591085d1808da2a34783f8",
     "b06a6d8fc78eede3400a65c5b3742e7dae6f75071d57bc2534b17a3af6e02aa3",
     "d367ecbbd463788a9ddf11ee77baeaa98d06fb96ef615ddb254204b61c752a88",
-    "8eecf817a79c429264307a3f610b6811595dc30d91407d0407e1d7ec11c0f277"
+    "8eecf817a79c429264307a3f610b6811595dc30d91407d0407e1d7ec11c0f277",
+    "dde29f09b7185f2912ce6c649b100bcb2983dca9a92a25954c5a83e5b35c9d15",
+    "2f3938563ea2aae174b586da3b72d4b47190c24788b9af4d0ad5fa7f68375cb4",
+    "09a2d2eb7bddf0f4327a57d7943bef1e27720aaa6c1a8bdd07ae31d6e4d23c09",
+    "191e486406f48924b680f5f0e567b7b503a8cd83c4b71db90a89c357bc2e7bce",
+    "2d1c4506ea7e859cebb390a3ee9f3eae50a73db110d8e8ac5549726feecaa6f0"
   ],
   "seen_summaries": [
-    "19 ago 2026: OTAN dice estar 'preparada' para defender aliados ante informe de posibles ataques iraníes contra objetivos de EE.UU. en Europa, ampliando riesgo de escalada y presión alcista en petróleo.",
     "19 ago 2026: Análisis de OilPrice destaca que cracks de diésel superan $100/barril, confirmando tensión extrema en productos refinados por disrupción de Ormuz.",
     "19 ago 2026: SLB prepara reinicio de 15 taladros en Venezuela, lo que podría aumentar producción y moderar precios del petróleo en medio de tensión en Ormuz.",
     "19 ago 2026: OilPrice reporta que traders abandonan esperanza de fin rápido de la guerra Irán-EE.UU. y se preparan para una crisis extendida de petróleo y GNL; escasez de diésel severa empeorando, presión alcista en precios.",
@@ -701,7 +700,8 @@
     "12 oct 2026: Trump anuncia alto el fuego energético Rusia-Ucrania (limitado a refinerías) y el crudo cae, revirtiendo la prima alcista hacia dirección BAJA.",
     "12 oct 2026: Nuevos ataques a infraestructura saudí y petroleros en Ormuz revierten la dirección bajista, con WTI a $93.78 (+2%) y Brent a $106.80 (+2%), reinstalando prima de riesgo alcista sobre el crudo.",
     "13 oct 2026: Arabia Saudita promete mantener exportaciones pese a ataques huties y Brent/WTI retroceden, revirtiendo la direccion alcista hacia BAJA.",
-    "13 oct 2026: Arabia Saudita anuncia expansion del oleoducto Este-Oeste (Petroline) de 5,8 a 10 mbpd en 2-3 anos para evadir Ormuz, presion bajista estructural sobre el crudo."
+    "13 oct 2026: Arabia Saudita anuncia expansion del oleoducto Este-Oeste (Petroline) de 5,8 a 10 mbpd en 2-3 anos para evadir Ormuz, presion bajista estructural sobre el crudo.",
+    "14 oct 2026: ataque a oficina de Saudi Aramco en Dhahran y amenaza iraní de intensificar ataques a petroleros en Ormuz elevan Brent sobre $106 y WTI sobre $94.7, reinstalando prima de riesgo alcista."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
