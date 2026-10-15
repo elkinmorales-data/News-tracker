@@ -1,10 +1,5 @@
 {
   "seen_hashes": [
-    "ae1794b71a85ec89b769284f20780fe88eb6464aeb9c35762a2bf411aeaee2d0",
-    "e0e70cabf6c7a7a03e02d9a50ecd5d514db3cc8bcd6b2042450f1d69b91c6409",
-    "064f0744d960476db61cbf60a148c58d7ddf459f3f20eda4e7484bd34760670f",
-    "9f29adc29618e833e90e348b9ebb30d01785d5a94efc6910de994548458b1b9d",
-    "d948e86cf2497a4729ab5a4675ac9fcb0621c540f9c5532648c72d4094a9b8a9",
     "95b0ed1aa21f919bb9d9ef69e7039c56be78cb1a1271be33d295f9c99376a870",
     "5b99871b593d8733b0e831223e93c4f8723daaa34d0655cc4dc2c52d6c861a08",
     "f4f0293df3950573555f10d34513891df11f5d02401380465bcb01138834c953",
@@ -499,10 +494,14 @@
     "3c3e92cd6139b74c4dd8c6731c075af2669ca5d303972dc72c27171d8e6337bc",
     "2ab085e761edd213f21e7327eebc9cf7c959d0f82450237b3eb4398c9e6fce50",
     "d08a8c40461972052053280d7e7e225bf5d991d5c60f92b5b869eaf81310603e",
-    "d7209342eebbc3749b6f796ae53032891c96493032026ccd92893286c549a2be"
+    "d7209342eebbc3749b6f796ae53032891c96493032026ccd92893286c549a2be",
+    "f59a2132b53eca04f93789596fb03acd8e2694dd7c6ec9231b0485eda05aec00",
+    "cb3ee08c9640d4aeee73fa623448c226e9c4e0bd2e244e884dff3613c5d7c5ab",
+    "9a8a8b61300db62700126f038bb199f702d5caa44359be1d857a6c62eff857eb",
+    "f9cf42d116c9fbb0f1c102297824e1ce46b8d3f2a050ae84f9976177b3d240b7",
+    "b93810a51212f183c21215d50c2ea82bdb5c0d60265a3db0f8921ece04bed3d9"
   ],
   "seen_summaries": [
-    "19 ago 2026: SLB prepara reinicio de 15 taladros en Venezuela, lo que podría aumentar producción y moderar precios del petróleo en medio de tensión en Ormuz.",
     "19 ago 2026: OilPrice reporta que traders abandonan esperanza de fin rápido de la guerra Irán-EE.UU. y se preparan para una crisis extendida de petróleo y GNL; escasez de diésel severa empeorando, presión alcista en precios.",
     "19 ago 2026: Trump anuncia 'operación económica más devastadora contra Irán' y amenaza con consecuencias a quien comercie con Irán, endureciendo sanciones y elevando riesgo de oferta.",
     "Trump anuncia sanciones 'más devastadoras' contra Irán (20 ago 2026), pero menciona posibilidad de retomar negociaciones, generando incertidumbre en el mercado.",
@@ -701,7 +700,8 @@
     "13 oct 2026: Arabia Saudita promete mantener exportaciones pese a ataques huties y Brent/WTI retroceden, revirtiendo la direccion alcista hacia BAJA.",
     "13 oct 2026: Arabia Saudita anuncia expansion del oleoducto Este-Oeste (Petroline) de 5,8 a 10 mbpd en 2-3 anos para evadir Ormuz, presion bajista estructural sobre el crudo.",
     "14 oct 2026: ataque a oficina de Saudi Aramco en Dhahran y amenaza iraní de intensificar ataques a petroleros en Ormuz elevan Brent sobre $106 y WTI sobre $94.7, reinstalando prima de riesgo alcista.",
-    "14 oct 2026: portacontenedores se hunde en Ormuz, 12 buques atacados entre 5-11 oct (6 el domingo), Irán amenaza con golpear buques de guerra de EE.UU. y Aramco vuelve a ser atacada, reforzando prima alcista con Brent sobre $106."
+    "14 oct 2026: portacontenedores se hunde en Ormuz, 12 buques atacados entre 5-11 oct (6 el domingo), Irán amenaza con golpear buques de guerra de EE.UU. y Aramco vuelve a ser atacada, reforzando prima alcista con Brent sobre $106.",
+    "15 oct 2026: Trump considera aliviar sanciones a la flota fantasma (Venezuela, Rusia, Irán) para descomprimir la escasez de petroleros; Brent cae a ~$104.39 y WTI a ~$94.02, revirtiendo la prima alcista hacia dirección BAJA."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
