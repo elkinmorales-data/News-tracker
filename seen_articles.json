@@ -1,16 +1,5 @@
 {
   "seen_hashes": [
-    "95b0ed1aa21f919bb9d9ef69e7039c56be78cb1a1271be33d295f9c99376a870",
-    "5b99871b593d8733b0e831223e93c4f8723daaa34d0655cc4dc2c52d6c861a08",
-    "f4f0293df3950573555f10d34513891df11f5d02401380465bcb01138834c953",
-    "896efe35d36d13deced5b3fdad5ab9c4300693338b5e7f5d8a2c2cfca04b064c",
-    "cf268352700b604fa4c887e06bc6f35b06e8a37064f72f2423e3c0ef67fed141",
-    "66acff471dd69255a810ef3d572a9f7ad80f1b4e7635cdba348c2d2fda389b21",
-    "7bdab27e3c228b5342f65983d0548a2318b4aabdcdeb151200c7b6968710c9d4",
-    "a6dd388b735ca3c0fd8007014e9523902f3d4e522f36c3977860c7ec8a9be81b",
-    "9041d88a86a289de2fdc69e6e38cdf5f96c773492e05c6faeebf21f8c7270820",
-    "f8cf65176d9b7dae33bafb8f2ffc29484faa0307a7ca73093dad054f5da56f80",
-    "c9e496746bf082564e937a7f3236028d8ce7953a7e07e9ca9403b03f1c57aedd",
     "e3bd1f6e94577c6830f64482dc3d9781096ccf7a247e528cebffa21830aecd47",
     "28bf589d0d438524507e4c3c7c8f31f175f82425efec8854bff6b82f2083c41e",
     "8c9ad3a9c1cc71269f87dec890adea6d2746551ed876728d133d065c775e584b",
@@ -499,10 +488,20 @@
     "cb3ee08c9640d4aeee73fa623448c226e9c4e0bd2e244e884dff3613c5d7c5ab",
     "9a8a8b61300db62700126f038bb199f702d5caa44359be1d857a6c62eff857eb",
     "f9cf42d116c9fbb0f1c102297824e1ce46b8d3f2a050ae84f9976177b3d240b7",
-    "b93810a51212f183c21215d50c2ea82bdb5c0d60265a3db0f8921ece04bed3d9"
+    "b93810a51212f183c21215d50c2ea82bdb5c0d60265a3db0f8921ece04bed3d9",
+    "01143fb6141832068d3d285f4c959bf1e654b1db9362556033c5a76895ee8970",
+    "0debf87207f126fccf4e021e9a283c37d2cfba6d7454a15e43bbc38a5a0c30ae",
+    "6cb910289c541198b88d30d52854c5cb6f94ab1a3a79d5431d1b060b94534308",
+    "ce9e9d58984110263cad71527300a43a2dac468783becb675c09c637fa7ff7a8",
+    "0cb2d44607a34f7cd300af24291d53e5e73fb0677043783950e9047f54c26dcc",
+    "2efef39fd7d957499eb70e06ba7f934b561baf8da5318f3980684d275701a44e",
+    "abd85d7378435bb03cffbe234c6cd61fc6316fefd1027ae7c7b70c255f80c5bd",
+    "f38a09d0a4a06f8fa149921afba2a92652fca476299b178addd8a53c19d28506",
+    "e7dcbe575f5bd7c48b89c5d0f765391d0d8e50d9899d9c5d7eed932d3cb83c01",
+    "17fd3dd7fa007f2f36d432d1ea91948816c4a3e52dcb531054c7631e69cc9024",
+    "e0e70cabf6c7a7a03e02d9a50ecd5d514db3cc8bcd6b2042450f1d69b91c6409"
   ],
   "seen_summaries": [
-    "19 ago 2026: OilPrice reporta que traders abandonan esperanza de fin rápido de la guerra Irán-EE.UU. y se preparan para una crisis extendida de petróleo y GNL; escasez de diésel severa empeorando, presión alcista en precios.",
     "19 ago 2026: Trump anuncia 'operación económica más devastadora contra Irán' y amenaza con consecuencias a quien comercie con Irán, endureciendo sanciones y elevando riesgo de oferta.",
     "Trump anuncia sanciones 'más devastadoras' contra Irán (20 ago 2026), pero menciona posibilidad de retomar negociaciones, generando incertidumbre en el mercado.",
     "20 ago 2026: Trump amenaza con 'guerra económica' (Día D económico) contra países que ayuden o comercien con Irán, endureciendo la presión sin nueva oferta diplomática inmediata.",
@@ -701,7 +700,8 @@
     "13 oct 2026: Arabia Saudita anuncia expansion del oleoducto Este-Oeste (Petroline) de 5,8 a 10 mbpd en 2-3 anos para evadir Ormuz, presion bajista estructural sobre el crudo.",
     "14 oct 2026: ataque a oficina de Saudi Aramco en Dhahran y amenaza iraní de intensificar ataques a petroleros en Ormuz elevan Brent sobre $106 y WTI sobre $94.7, reinstalando prima de riesgo alcista.",
     "14 oct 2026: portacontenedores se hunde en Ormuz, 12 buques atacados entre 5-11 oct (6 el domingo), Irán amenaza con golpear buques de guerra de EE.UU. y Aramco vuelve a ser atacada, reforzando prima alcista con Brent sobre $106.",
-    "15 oct 2026: Trump considera aliviar sanciones a la flota fantasma (Venezuela, Rusia, Irán) para descomprimir la escasez de petroleros; Brent cae a ~$104.39 y WTI a ~$94.02, revirtiendo la prima alcista hacia dirección BAJA."
+    "15 oct 2026: Trump considera aliviar sanciones a la flota fantasma (Venezuela, Rusia, Irán) para descomprimir la escasez de petroleros; Brent cae a ~$104.39 y WTI a ~$94.02, revirtiendo la prima alcista hacia dirección BAJA.",
+    "15 oct 2026: AIE confirma liberacion urgente de +20 millones de barriles de diesel de emergencia ante precios record en EE.UU., presion bajista sobre crudo y destilados."
   ],
   "last_direction": "baja"
 }
