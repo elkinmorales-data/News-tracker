@@ -388,7 +388,17 @@
     "7f13355308fbe95bb3292f8b55d11c4c26c1442a6f09c28dfd251ce40a7170ff",
     "1161273950c9493dddc012ae4769ed9a707add945d2e71ad6c2e0f07b260aed4",
     "b6b88cc00b7311e79f89f272d053a3ec0906a807f1ea782c5e81f302d5a6a557",
-    "f6237055f49dea78a8c56a7199aef067133ccd76dd0a459a918d9bc85e1f5502"
+    "f6237055f49dea78a8c56a7199aef067133ccd76dd0a459a918d9bc85e1f5502",
+    "30d08613feabf370782e56e44d18bea1926fdb79f1595cea021a372f4872adb8",
+    "558eb083ac4dcc4fa29a4d509c4e2385e94d62089047825ddc2d2ac1bea26bd5",
+    "dfe7827b6291f72342a9440977abde631251d9e01c2ef33311237ddc87ea9000",
+    "d5caebaccdac207aaed9edf82c8fdfcec85b616ebc0b48383895ea6120e60aac",
+    "37d9a6e3c48ba5e489843149e2fd428267bc2bc3412a9832d41262da3f9f8e0e",
+    "ce4b7633565401aebf65d4d4aa8947c95b863586cf535d9303b716e601255f25",
+    "82d070c07fa2f7fa4693dd27138a556bcde54190646b5c4d453a91647efe0fd7",
+    "41a3aba871f4b25721f1789eddff5577241c0011c76229afd13ec7b1a5b72650",
+    "cea9926522a1484b01495adba6002f464b49b49b7cb9dbed5c2d24ea82a25a84",
+    "ca958c8cd004e7ceb911d5cc3940c87213bb30b69023c9e0a179eec2d3bae461"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -463,6 +473,7 @@
     "Checkpoints human-in-the-loop en agentes autónomos con LangGraph: interrupción y aprobación humana antes de acciones con efectos reales sobre dinero, datos de clientes o sistemas externos",
     "Clones de software comercial generados por IA (REA, ArtCraft) mediante reverse-engineering sin código fuente | Comparativa práctica ChatGPT vs Claude vs Gemini en tareas específicas de data science/estadística | Batching estático vs dinámico vs continuo en serving de LLM y su impacto en throughput/latencia/costo",
     "OpenAI Decisions API como capa dedicada a agentes de decisión binaria/categórica separada de generación de texto | Migración de IBM Spyre de compilador propio sendnn a backend=inductor de PyTorch como patrón de integración out-of-tree para aceleradores no-NVIDIA",
-    "Data stack auto-organizado por agentes que mantienen el modelo de datos con nuevas demandas al motor de orquestación | Gemini 4 Argon review hands-on con hallazgo de afirmaciones no soportadas en reconciliación documental multi-fuente | Harness de evaluación LLM custom en Python con cuatro componentes modulares self-hosted como alternativa a frameworks monolíticos"
+    "Data stack auto-organizado por agentes que mantienen el modelo de datos con nuevas demandas al motor de orquestación | Gemini 4 Argon review hands-on con hallazgo de afirmaciones no soportadas en reconciliación documental multi-fuente | Harness de evaluación LLM custom en Python con cuatro componentes modulares self-hosted como alternativa a frameworks monolíticos",
+    "ExecuTorch en microcontroladores Arm Cortex-M para TinyML nativo de PyTorch | OGX como servidor de API agéntico open-source compatible con OpenAI y multi-modelo | Árbol de decisión estructurado para seleccionar estrategia de chunking en pipelines RAG"
   ]
 }
