@@ -1,11 +1,5 @@
 {
   "seen_hashes": [
-    "e3bd1f6e94577c6830f64482dc3d9781096ccf7a247e528cebffa21830aecd47",
-    "28bf589d0d438524507e4c3c7c8f31f175f82425efec8854bff6b82f2083c41e",
-    "8c9ad3a9c1cc71269f87dec890adea6d2746551ed876728d133d065c775e584b",
-    "1c57bd248ceb48e036099c80ab79bc080cabebce22cc8757b838bff950c13f3e",
-    "ea8cc30cb2394ed2ba6f22315fd3397fb21417f715fb75292cf17ae4028a4df4",
-    "186a30a3df8b26ffe8df95bfd1cf09e22ccbe2db91c8ea6a66b1d508a234dcd9",
     "226410ee3497921d187263bf31c1fc86c08b8444300a1db2daca9b6120ee271d",
     "bf3dba119fb0c971123b366f24b2fdfbc41a2fae6c148f120fc5f57ec6c2b477",
     "0d74fff93ba8312ba735c797b835acb2eb2075dcb68d2ea82ba481e55496d4ab",
@@ -499,10 +493,15 @@
     "f38a09d0a4a06f8fa149921afba2a92652fca476299b178addd8a53c19d28506",
     "e7dcbe575f5bd7c48b89c5d0f765391d0d8e50d9899d9c5d7eed932d3cb83c01",
     "17fd3dd7fa007f2f36d432d1ea91948816c4a3e52dcb531054c7631e69cc9024",
-    "e0e70cabf6c7a7a03e02d9a50ecd5d514db3cc8bcd6b2042450f1d69b91c6409"
+    "e0e70cabf6c7a7a03e02d9a50ecd5d514db3cc8bcd6b2042450f1d69b91c6409",
+    "90353b103f63114dcfc1cafd72fbeb2cf9e8d086f4f69c515c8821879cd77eae",
+    "e5fa6dcec7e595570b3cc663e403fa42332ece60cac9bc789719204db5c423ff",
+    "9a8ed1d9c3d5c1e03c822f2b29fb6db1bf18e01fd18112eba1c57c48ddc7affc",
+    "0df4d5ffc8c728dc16c0611a3fcdcef7e8e54f0bfb3aae8ad603c6dab1d119b2",
+    "3dfe3229eee36bd560c4a4fd76ab58deff98282d5ca0af8ce3b6f2e018a4964b",
+    "c2a298d24ad92a63d4ffd1470bb3cebbee235aec98d03cbfaeea4c6413f4906f"
   ],
   "seen_summaries": [
-    "19 ago 2026: Trump anuncia 'operación económica más devastadora contra Irán' y amenaza con consecuencias a quien comercie con Irán, endureciendo sanciones y elevando riesgo de oferta.",
     "Trump anuncia sanciones 'más devastadoras' contra Irán (20 ago 2026), pero menciona posibilidad de retomar negociaciones, generando incertidumbre en el mercado.",
     "20 ago 2026: Trump amenaza con 'guerra económica' (Día D económico) contra países que ayuden o comercien con Irán, endureciendo la presión sin nueva oferta diplomática inmediata.",
     "20 ago 2026: Refinerías chinas compran crudo iraquí (8M barriles) mientras cruces en Ormuz caen a 95/semana (vs 118), confirmando disrupción persistente pero con adaptación parcial del mercado.",
@@ -701,7 +700,8 @@
     "14 oct 2026: ataque a oficina de Saudi Aramco en Dhahran y amenaza iraní de intensificar ataques a petroleros en Ormuz elevan Brent sobre $106 y WTI sobre $94.7, reinstalando prima de riesgo alcista.",
     "14 oct 2026: portacontenedores se hunde en Ormuz, 12 buques atacados entre 5-11 oct (6 el domingo), Irán amenaza con golpear buques de guerra de EE.UU. y Aramco vuelve a ser atacada, reforzando prima alcista con Brent sobre $106.",
     "15 oct 2026: Trump considera aliviar sanciones a la flota fantasma (Venezuela, Rusia, Irán) para descomprimir la escasez de petroleros; Brent cae a ~$104.39 y WTI a ~$94.02, revirtiendo la prima alcista hacia dirección BAJA.",
-    "15 oct 2026: AIE confirma liberacion urgente de +20 millones de barriles de diesel de emergencia ante precios record en EE.UU., presion bajista sobre crudo y destilados."
+    "15 oct 2026: AIE confirma liberacion urgente de +20 millones de barriles de diesel de emergencia ante precios record en EE.UU., presion bajista sobre crudo y destilados.",
+    "15 oct 2026: Ucrania ataca con drones la refinería Ryazan (5% refinación rusa, Rosneft) rompiendo pausa del alto el fuego energético y agravando crisis de diésel, presión alcista sobre crudo y destilados."
   ],
-  "last_direction": "baja"
+  "last_direction": "alza"
 }
