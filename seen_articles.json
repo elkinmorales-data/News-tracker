@@ -1,8 +1,5 @@
 {
   "seen_hashes": [
-    "226410ee3497921d187263bf31c1fc86c08b8444300a1db2daca9b6120ee271d",
-    "bf3dba119fb0c971123b366f24b2fdfbc41a2fae6c148f120fc5f57ec6c2b477",
-    "0d74fff93ba8312ba735c797b835acb2eb2075dcb68d2ea82ba481e55496d4ab",
     "d2b858c7bde6ac6f5d0c8ccb45c7524c19dbb3873b55c02205a7959d53629369",
     "6c03f478b848b286aa42be0976408e7875727aad659b24b9f1af2638e3f7fe0e",
     "027ccce3e85e6725e9c056d5ac37a72b4ac1dea8f816c2d497217e184e67b50c",
@@ -499,10 +496,12 @@
     "9a8ed1d9c3d5c1e03c822f2b29fb6db1bf18e01fd18112eba1c57c48ddc7affc",
     "0df4d5ffc8c728dc16c0611a3fcdcef7e8e54f0bfb3aae8ad603c6dab1d119b2",
     "3dfe3229eee36bd560c4a4fd76ab58deff98282d5ca0af8ce3b6f2e018a4964b",
-    "c2a298d24ad92a63d4ffd1470bb3cebbee235aec98d03cbfaeea4c6413f4906f"
+    "c2a298d24ad92a63d4ffd1470bb3cebbee235aec98d03cbfaeea4c6413f4906f",
+    "b41ac311d5f247ec0b8b31a4d356b59b788f8582acb0bff8ed75105130c3ea82",
+    "dc1a739c1fadb40d2c110424872b539ef4c64d412ed758b26f507ee407a8024f",
+    "3853271477f3d94d5071921a9d5971b2edf415efa7ed2dec076400c70dba0931"
   ],
   "seen_summaries": [
-    "Trump anuncia sanciones 'más devastadoras' contra Irán (20 ago 2026), pero menciona posibilidad de retomar negociaciones, generando incertidumbre en el mercado.",
     "20 ago 2026: Trump amenaza con 'guerra económica' (Día D económico) contra países que ayuden o comercien con Irán, endureciendo la presión sin nueva oferta diplomática inmediata.",
     "20 ago 2026: Refinerías chinas compran crudo iraquí (8M barriles) mientras cruces en Ormuz caen a 95/semana (vs 118), confirmando disrupción persistente pero con adaptación parcial del mercado.",
     "20 ago 2026: Irán desestima amenazas económicas de EE.UU., sin avance diplomático, manteniendo presión alcista en petróleo por riesgo de oferta.",
@@ -701,7 +700,8 @@
     "14 oct 2026: portacontenedores se hunde en Ormuz, 12 buques atacados entre 5-11 oct (6 el domingo), Irán amenaza con golpear buques de guerra de EE.UU. y Aramco vuelve a ser atacada, reforzando prima alcista con Brent sobre $106.",
     "15 oct 2026: Trump considera aliviar sanciones a la flota fantasma (Venezuela, Rusia, Irán) para descomprimir la escasez de petroleros; Brent cae a ~$104.39 y WTI a ~$94.02, revirtiendo la prima alcista hacia dirección BAJA.",
     "15 oct 2026: AIE confirma liberacion urgente de +20 millones de barriles de diesel de emergencia ante precios record en EE.UU., presion bajista sobre crudo y destilados.",
-    "15 oct 2026: Ucrania ataca con drones la refinería Ryazan (5% refinación rusa, Rosneft) rompiendo pausa del alto el fuego energético y agravando crisis de diésel, presión alcista sobre crudo y destilados."
+    "15 oct 2026: Ucrania ataca con drones la refinería Ryazan (5% refinación rusa, Rosneft) rompiendo pausa del alto el fuego energético y agravando crisis de diésel, presión alcista sobre crudo y destilados.",
+    "16 oct 2026: Trump descarta tropas terrestres en Irán y Arabia Saudí derriba dron hutí en Provincia Oriental, revirtiendo la prima alcista hacia dirección BAJA."
   ],
-  "last_direction": "alza"
+  "last_direction": "baja"
 }
