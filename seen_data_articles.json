@@ -398,7 +398,12 @@
     "82d070c07fa2f7fa4693dd27138a556bcde54190646b5c4d453a91647efe0fd7",
     "41a3aba871f4b25721f1789eddff5577241c0011c76229afd13ec7b1a5b72650",
     "cea9926522a1484b01495adba6002f464b49b49b7cb9dbed5c2d24ea82a25a84",
-    "ca958c8cd004e7ceb911d5cc3940c87213bb30b69023c9e0a179eec2d3bae461"
+    "ca958c8cd004e7ceb911d5cc3940c87213bb30b69023c9e0a179eec2d3bae461",
+    "2466e3b9770a45d1847c19b854a6997083b1a6d2bcaaddeaa12888b03151cc58",
+    "88446a20cf5def487ad2563f4319302f3db76446b646c297c21224ca51fca978",
+    "8a3ee68e93fa063fe406c7b161a88f27837748c6b105438dbe8e75b258e2fc7d",
+    "bfae999207a6bb19c9569a3f523d701fe4ea5d6d217ebf0d40d814cc78b9f23d",
+    "71debadc09deb421fd5e5a46a249ab7cfcfb055e0de8cc30a3c55bbac6e696e8"
   ],
   "seen_summaries": [
     "Fusión de normalización en kernels GEMM y atención | Open Knowledge Format (OKF) para bases de conocimiento de agentes sin vectores | Decodificación especulativa DeepSeek DSpark para 400% más velocidad | GPT-5.6 Sol, Terra, Luna modelos públicos sin suscripción | Comparativa RAGAS vs TruLens vs DeepEval para evaluación RAG",
@@ -474,6 +479,7 @@
     "Clones de software comercial generados por IA (REA, ArtCraft) mediante reverse-engineering sin código fuente | Comparativa práctica ChatGPT vs Claude vs Gemini en tareas específicas de data science/estadística | Batching estático vs dinámico vs continuo en serving de LLM y su impacto en throughput/latencia/costo",
     "OpenAI Decisions API como capa dedicada a agentes de decisión binaria/categórica separada de generación de texto | Migración de IBM Spyre de compilador propio sendnn a backend=inductor de PyTorch como patrón de integración out-of-tree para aceleradores no-NVIDIA",
     "Data stack auto-organizado por agentes que mantienen el modelo de datos con nuevas demandas al motor de orquestación | Gemini 4 Argon review hands-on con hallazgo de afirmaciones no soportadas en reconciliación documental multi-fuente | Harness de evaluación LLM custom en Python con cuatro componentes modulares self-hosted como alternativa a frameworks monolíticos",
-    "ExecuTorch en microcontroladores Arm Cortex-M para TinyML nativo de PyTorch | OGX como servidor de API agéntico open-source compatible con OpenAI y multi-modelo | Árbol de decisión estructurado para seleccionar estrategia de chunking en pipelines RAG"
+    "ExecuTorch en microcontroladores Arm Cortex-M para TinyML nativo de PyTorch | OGX como servidor de API agéntico open-source compatible con OpenAI y multi-modelo | Árbol de decisión estructurado para seleccionar estrategia de chunking en pipelines RAG",
+    "Zephon carga de datos elásticamente determinista en TorchTitan para entrenamiento distribuido reproducible bajo escalado/fallos | Muse Spark Open de Meta como modelo open-weights frontera bajo Muse Model License en Hugging Face | JEV como filtro tipado post-generación de alucinaciones RAG generando múltiples candidatos y validando con evaluador no generativo | Marco de decisión Agentic RAG vs Naive RAG con criterios de punto de inflexión arquitectónico | World Models como próxima frontera de IA más allá de LLM con recursos formativos 2026"
   ]
 }
